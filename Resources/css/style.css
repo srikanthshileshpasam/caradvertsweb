@@ -1,11 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;}
+
 body {
   padding: 0;
   box-sizing: border-box;
   font-family: 'Raleway', 'Arial', sans-serif;
+  text-rendering: optimizeLegibility;
   font-weight: 400;
   font-size: 18px;
   line-height: 1.5;
-  color: #777;}
+  overflow-x: hidden;}
 
 @keyframes moveinleft {
   0% {
@@ -29,23 +35,29 @@ body {
     transform: translate(0px);}
   }
 
-.head {
-  color: black;
-  height: 90vh;
-  background-image:linear-gradient(to left top,rgba(255, 255, 0, 0.50), rgba(255, 100, 50, 0.80));
+.logo {
+  height: 100px;
+  width: auto;
+  float: left;
+  margin-top: 20px;}
+
+.hero {
+  color: white;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url(img/background.jpg);
   background-size: cover;
-  background-position: top;
-  clip-path: polygon(0 0,100% 0,100% 35vh,0 100%);
+  background-position: center;
+  height: 100vh;
+  background-attachment: fixed;
   position: relative;}
 
-.head h1 {
+.hero h1 {
   text-align: left;
   font-size: 50px;
   font-weight: 200;
   display: block;
   letter-spacing: 5px;}
 
-.head h2 {
+.hero h2 {
   font-size: 30px;
   font-weight: 200;
   animation: moveinright;
@@ -54,8 +66,8 @@ body {
   margin-bottom: 10px;}
 
 .cars-inventory {
-  background-color: #f7f7f7;
-  padding: 15rem 0 5rem 0;}
+  background-color: #a8a8a8;
+  padding-top: 45px;}
 
 .cars-inventory h2 {
   margin-top: -5rem;
@@ -132,7 +144,8 @@ body {
   box-shadow: 0 2rem 4rem rgba(0, 0, 0, 0.5);}
 
 .display-back {
-  background-image: linear-gradient(to right bottom, rgba(255, 255, 0, 0.50), rgba(255, 100, 50, 0.80));
+  background-image: url(img/icon.png);
+  background-color: #fff;
   transform: rotatey(180deg);}
 
 .car-picture {
@@ -224,10 +237,9 @@ body {
   top: 0;
   left: 0;
   background-color: rgba(0, 0, 0, 0.8);
-  z-index: 2500;
   opacity: 0;
   visibility: hidden;
-  transition: all .3s;}
+  transition: all .5s;}
 
 .pop-info:target {
   opacity: 1;
@@ -254,58 +266,36 @@ body {
   height: 40rem;
   background-color: rgba(255, 255, 255, 0.9);
   box-shadow: 0 2rem 4rem rgba(0, 0, 0, 0.2);
-  border-radius: 3px;
+  border-radius: 5px;
   display: table;
   transform: translate(-50%, -50%) scale(0.5);
-  transition: all .4s .2s;}
+  transition: all .5s .5s;}
 
-.pop-info-content-h2 {
-  margin-left: 22rem;
+.pop-info h2 {
+  margin-left: 40%;
   font-size: 1.5rem;}
-
-.pop-info-content-h5 {
-  margin-left: 26rem;
-  margin-top: -1rem;
-  font-size: 1rem;}
 
 .pop-info:target .pop-info-content {
   opacity: 1;
   transform: translate(-50%, -50%) scale(1);}
 
-.pop-info_img_1 {
-  border-radius: 2rem;
-  margin-left: 3rem;
-  transition: all .3s}
+.pop-info-img {
+  margin: 0 5%;
+  transition: all .5s}
 
-.pop-info_img_1:hover {
-  transform: scale(1.3);}
+.pop-info-img:hover {
+  transform: scale(2.5);}
 
-.pop-info_company {
-  text-align: center;
-  color: black;}
-
-.pop-info_model {
-  text-align: center;
-  color: black;
-  font-size: 1rem;}
-
-.pop-info_year {
-  text-align: center;
-  color: black;
-  font-size: 1rem;}
-
-.pop-info_distributer {
-  text-align: center;
-  color: black;
+.pop-info-details {
+  padding-left: 5%;
   font-size: 1rem;}
 
 .pop-info_btn {
   margin-left: 1rem;
   color: green;}
 
-.btn-go-back-info {
-  margin-left: 25rem;
-  color: red;}
+.btn-back {
+  margin-left: 40%;}
 
 .pop-info_email {
   text-align: center;}
@@ -344,7 +334,7 @@ body {
 
 .search {
   position: absolute;
-  margin: -2rem 10rem;}
+  margin-left: 15%;}
 
 .search-feild {
   width: 50rem;

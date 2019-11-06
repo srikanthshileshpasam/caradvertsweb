@@ -15,11 +15,14 @@
 <body>
 
 
-	<header class="head">
+	<header class="hero">
+		<nav>
+			<img src="Resources/css/img/logo.png" alt="Car Adverts logo" class="logo">
 	     <div>
 	     	  <h1>CAR ADVERTS</h1>
-	     	<h2>Community Car Resale Service</h2>
+	     		<h2>Community Car Resale Service</h2>
 	     </div>
+		</nav>
 	</header>
 
 
@@ -34,7 +37,9 @@
 			 	<button type='submit' class="btn">Search</button>
 			</form>
 		</div>
+	</section>
 
+	<section class="cars-inventory">
 		<div class="car" id='car-1'>
 			<div class="display display-front">
 				<div class="car-picture car-picture-1"></div>
@@ -258,24 +263,23 @@
 
 	<div class="pop-info" id="pop-info">
 		<div class="pop-info-content">
-			<h2 class="heading-inventory pop-info-content-h2">START BOOKING NOW</h2>
-			<h5 class="heading-tertiary pop-info-content-h5">CAR INFORMATION</h5>
-			<img height="200" width="250" class="pop-info_img_1" id='car_3'/>
-			<img height="200" width="250" class="pop-info_img_1" id='car_2'/>
-			<img height="200" width="250" class="pop-info_img_1" id='car_1'/>
-			<h1 class="pop-info_company" id='car_company'>Manufacturer</h1>
-			<h1 class="pop-info_model" id="car_model">Model</h1>
-			<h1 class="pop-info_year" id="car_year">Year</h1>
-			<h1 class="pop-info_distributer" id="car_suplier">Distributor</h1>
-			<h1 class="pop-info_year" id="car_price">Price</h1>
-			<a href="#cars-inventory" class="btn btn-on btn-go-back-info">Return</a>
-			<a href="#pop-info_form" class="btn btn-on pop-info_btn" id="feature-btn-guid">BOOK NOW</a>
+			<h2>Vehicle Details</h2>
+			<img height="200" width="250" class="pop-info-img" id='car_3'/>
+			<img height="200" width="250" class="pop-info-img" id='car_2'/>
+			<img height="200" width="250" class="pop-info-img" id='car_1'/>
+			<h1 class="pop-info-details" id='car_company'>Manufacturer</h1>
+			<h1 class="pop-info-details" id="car_model">Model</h1>
+			<h1 class="pop-info-details" id="car_year">Year</h1>
+			<h1 class="pop-info-details" id="car_suplier">Distributor</h1>
+			<h1 class="pop-info-details" id="car_price">Price</h1>
+			<a href="#cars-inventory" class="btn btn-on btn-back">Return</a>
+			<a href="#pop-info_form" class="btn btn-on pop-info_btn" id="feature-btn-guid">Book Now</a>
 		</div>
 	</div>
 
 	<div class="pop-info" id="pop-info_form">
 		<div class="pop-info-content">
-			<h2 class="heading-inventory pop-info-content-h2">START BOOKING NOW</h2>
+			<h2>Contact Us Form</h2>
 			<h1 class="pop-info_email">Enter your email</h1>
 			<input type="text" name="" value="" placeholder="Your email" class="pop-info_input_email" id="email">
 			<h1 class="pop-info_message">Enter your message here</h1>
