@@ -21,128 +21,84 @@
 	</header>
 
 
-
-
 	<section class="section-tours" id="booking">
 
-	<div class="u-center-text center " >
+		<div class="u-center-text center " >
 			<h2 class="heading-secondary u-margin-bottom-big" id="section-tours">AVAILABLE CARS</h2>
-			</div>
-			<div class="search">
-         <form id='search_form'>
+		</div>
+
+		<div class="search">
+      <form id='search_form'>
 			  <input type="text" placeholder="Enter menufacture year"  class="search_feild" id='search_input' pattern="[2][0][0-9]{1}[0-9]{1}"/>
-			 <button type='submit'  class="btn btn-green search_bn"  >Search</button>
-</form>
+			 	<button type='submit'  class="btn btn-green search_bn">Search</button>
+			</form>
+		</div>
+
+		<div class="card card-1" id='card-1'>
+			<div class=" card-side card-side-front">
+				<div class="card-picture card-picture-1"> &nbsp;</div>
+					<h4 class="card-heading"><span class="card-heading-span card-heading-span-1">CAROLLA</span></h4>
+						<div class="card-details">
+							<ul>
+								<li id='gli_model'>Model: GLI</li>
+								<li id='gli_year'>Year: 2019</li>
+								<li id='gli_suplier'>Suplier: s.v cars</li>
+								<li id='gli_price'>Price: 12000$</li>
+							</ul>
+						</div>
+				</div>
+
+				<div class=" card-side card-side-back card-side-back-1">
+					<div class="card-cta">
+						<a href="#popup" class="btn btn-white" id="feature-btn-guid" onclick='set_car_info_on_popup("gli")'>Learn more</a>
+					</div>
+				</div>
+		</div>
+
+
+		<div class="card card-1" id='card-2'>
+			<div class=" card-side card-side-front">
+				<div class="card-picture card-picture-2">&nbsp;</div>
+					<h4 class="card-heading"><span class="card-heading-span card-heading-span-1">HONDA</span></h4>
+						<div class="card-details">
+							<ul>
+								<li id='civic_model'>Model: CIVIC</li>
+								<li id='civic_year'>Year: 2019</li>
+								<li id='civic_suplier'>Suplier:ALEX cars</li>
+								<li id='civic_price'>Price: 16000$</li>
+							</ul>
+						</div>
+					</div>
+
+					<div class=" card-side card-side-back card-side-back-1">
+						<div class="card-cta">
+							<a href="#popup" class="btn btn-white"   id="feature-btn-guid" onclick='set_car_info_on_popup("civic")'>Learn More</a>
+						</div>
+					</div>
+		</div>
+
+
+
+		<div class="card card-1" id='card-3'>
+			<div class=" card-side card-side-front">
+				<div class="card-picture card-picture-3">&nbsp;</div>
+				<h4 class="card-heading"><span class="card-heading-span card-heading-span-1">HONDA</span></h4>
+				<div class="card-details">
+					<ul>
+						<li id='city_model'>Model:CITY</li>
+						<li id='city_year'>Year: 2019</li>
+						<li id='city_suplier'>Suplier:super cars</li>
+						<li id='city_price'>Price: 9000$</li>
+					</ul>
+				</div>
 			</div>
-
-				<div class="card card-1" id='card-1'>
-					<div class=" card-side card-side-front">
-
-	<div class="card-picture card-picture-1"> &nbsp;     </div>
-	<h4 class="card-heading">
-	<span class="card-heading-span card-heading-span-1">CAROLLA</span>    </h4>
-	<div class="card-details">
-
-	<ul>
-		<LI id='gli_model'>Model: GLI</LI>
-		<LI id='gli_year'>Year: 2019</LI>
-		<LI id='gli_suplier'>Suplier: s.v cars</LI>
-		<LI id='gli_price'>Price: 12000$</LI>
-
-
-	</ul>
-
-
-		</div>
-
-
-
-					</div>
-
-					<div class=" card-side card-side-back card-side-back-1">
-						<div class="card-cta">
-
-
-					<a href="#popup" class="btn btn-white"   id="feature-btn-guid" onclick='set_car_info_on_popup("gli")'>Learn more</a>
-					</div>
-					</div>
-
+			
+			<div class=" card-side card-side-back card-side-back-1">
+				<div class="card-cta">
+					<a href="#popup" class="btn btn-white"id="feature-btn-guid" onclick='set_car_info_on_popup("city")'>Learn more</a>
 				</div>
-
-
-<!--second add-->
-
-
-				<div class="card card-1" id='card-2'>
-					<div class=" card-side card-side-front">
-
-	<div class="card-picture card-picture-2"> &nbsp;     </div>
-	<h4 class="card-heading">
-	<span class="card-heading-span card-heading-span-1">HONDA</span>    </h4>
-	<div class="card-details">
-
-	<ul>
-		<LI id='civic_model'>Model: CIVIC</LI>
-		<LI id='civic_year'>Year: 2019</LI>
-		<LI id='civic_suplier'>Suplier:ALEX cars</LI>
-		<LI id='civic_price'>Price: 16000$</LI>
-
-
-	</ul>
-
-
+			</div>
 		</div>
-
-
-
-					</div>
-
-					<div class=" card-side card-side-back card-side-back-1">
-						<div class="card-cta">
-
-
-					<a href="#popup" class="btn btn-white"   id="feature-btn-guid" onclick='set_car_info_on_popup("civic")'>Learn More</a>
-					</div>
-					</div>
-
-				</div>
-
-
-
-<!--second add-->
-				<div class="card card-1" id='card-3'>
-					<div class=" card-side card-side-front">
-
-	<div class="card-picture card-picture-3"> &nbsp;     </div>
-	<h4 class="card-heading">
-	<span class="card-heading-span card-heading-span-1">HONDA</span>    </h4>
-	<div class="card-details">
-
-	<ul>
-		<LI id='city_model'>Model:CITY</LI>
-		<LI id='city_year'>Year: 2019</LI>
-		<LI id='city_suplier'>Suplier:super cars</LI>
-		<LI id='city_price'>Price: 9000$</LI>
-
-
-	</ul>
-
-
-		</div>
-
-
-
-					</div>
-
-					<div class=" card-side card-side-back card-side-back-1">
-						<div class="card-cta">
-
-
-					<a href="#popup" class="btn btn-white"   id="feature-btn-guid" onclick='set_car_info_on_popup("city")'>Learn more</a>
-					</div>
-					</div>
-
-				</div>
 
 
 
