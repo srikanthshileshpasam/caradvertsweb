@@ -285,7 +285,7 @@ else if (year==2012) {
 return false;
 }
 else{
-  alert(`We are soory we could not have any  car available that menufactured in ${year} try again with different year`);
+  alert(`Sorry! No cars available that are manufactured in ${year}. Please search for a different year.`);
 return false;
 }
 
