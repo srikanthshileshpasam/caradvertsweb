@@ -97,7 +97,7 @@ body {
   top: 0;
   left: 0;
   z-index: -1;
-  transition: all .4s;}
+  transition: all .5s;}
 
 .btn:hover::after, .btn:link:hover::after, .btn:visited:hover::after {
   transform: scale(1.5);
@@ -135,9 +135,6 @@ body {
   overflow: hidden;
   box-shadow: 0 2rem 4rem rgba(0, 0, 0, 0.5);}
 
-.card-side-front {
-  background-color: #fff;}
-
 .card-side-back {
   transform: rotatey(180deg);}
 
@@ -146,19 +143,14 @@ body {
   height: 10rem;
   background-blend-mode: screen;}
 
-.card-heading {
-  font-size: 1rem;
-  font-weight: 200;
-  color: white;
+.card h4 {
+  color: rgb(0, 0, 0, 0.5);
+  font-size: 1.5rem;
+  font-weight: 800;
   position: absolute;
   top: 5rem;
   right: 2rem;
-  text-align: right;
   width: 75%;}
-
-.card-heading-span {
-  padding: 1rem 1rem;
-    -webkit-box-decoration-break: clone;}
 
 .card-details ul {
   list-style: none;
@@ -192,57 +184,44 @@ body {
   font-size: 2rem;
   font-weight: 200;}
 
-.card:hover .card-side-front {
+.card:hover .card-side-front{
   transform: rotatey(-180deg);}
 
-.card:hover .card-side-back {
-  transform: rotatey(0deg);}
-
-.card-heading-span-1 {
-  background-image: linear-gradient(to right bottom, rgba(255, 255, 0, 0.50), rgba(255, 100, 50, 0.80));}
+  .card:hover .card-side-back {
+    transform: rotatey(0deg);}
 
 .card-side-back-1{
   background-image: linear-gradient(to right bottom, rgba(255, 255, 0, 0.50), rgba(255, 100, 50, 0.80));}
 
 .card-picture-1 {
-  background-image: linear-gradient(to right bottom, pink,black), url('img/cars/gli/gli_1.jpg');
-    -webkit-clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);}
+  background-image: linear-gradient(to right bottom, pink,black), url('img/cars/gli/gli_1.jpg');}
 
 .card-picture-2 {
-  background-image: linear-gradient(to right bottom, blue, #ed6738), url('img/cars/civic/civic_1.jpg');
-    -webkit-clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);}
+  background-image: linear-gradient(to right bottom, blue, #ed6738), url('img/cars/civic/civic_1.jpg');}
 
 .card-picture-3 {
-  background-image: linear-gradient(to right bottom, pink, #ed6738), url('img/cars/city/city_1.jpg');
-    -webkit-clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);}
+  background-image: linear-gradient(to right bottom, pink, #ed6738), url('img/cars/city/city_1.jpg');}
 
 .card-picture-4 {
-  background-image: linear-gradient(to right bottom, black, #ff6738), url('img/cars/grandy/grandy_1.jpg');
-    -webkit-clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);}
+  background-image: linear-gradient(to right bottom, black, #ff6738), url('img/cars/grandy/grandy_1.jpg');}
 
 .card-picture-5 {
-  background-image: linear-gradient(to right bottom, green, #ed6738), url('img/cars/bmw/x7_1.jpg');
-    -webkit-clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);}
+  background-image: linear-gradient(to right bottom, green, #ed6738), url('img/cars/bmw/x7_1.jpg');}
 
 .card-picture-6 {
-  background-image: linear-gradient(to right bottom, black, #ed6738), url('img/cars/accord/accord_1.jpg');
-    -webkit-clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);}
+  background-image: linear-gradient(to right bottom, black, #ed6738), url('img/cars/accord/accord_1.jpg');}
 
 .card-picture-7 {
-  background-image: linear-gradient(to right bottom, green, black), url('img/cars/fortuner/fortuner_1.jpg');
-    -webkit-clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);}
+  background-image: linear-gradient(to right bottom, green, black), url('img/cars/fortuner/fortuner_1.jpg');}
 
 .card-picture-8 {
-  background-image: linear-gradient(to right bottom, #ffe900,black), url('img/cars/civic2015/civic_2015_1.jpg');
-    -webkit-clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);}
+  background-image: linear-gradient(to right bottom, #ffe900,black), url('img/cars/civic2015/civic_2015_1.jpg');}
 
 .card-picture-9 {
-  background-image: linear-gradient(to right bottom, #ffe900,blue), url('img/cars/suzuki/ciaz_1.jpg');
-    -webkit-clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);}
+  background-image: linear-gradient(to right bottom, #ffe900,blue), url('img/cars/suzuki/ciaz_1.jpg');}
 
 .card-picture-10 {
-  background-image: linear-gradient(to right bottom, #ffe900,blue), url('img/cars/xli/xli_1.jpg');
-    -webkit-clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);}
+  background-image: linear-gradient(to right bottom, #ffe900,blue), url('img/cars/xli/xli_1.jpg');}
 
 .popup {
   height: 100%;
@@ -373,12 +352,12 @@ body {
   position: absolute;
   margin: -2rem 10rem;}
 
-.search_feild {
-  width: 60rem;
+.search-feild {
+  width: 50rem;
   padding: 1rem 0;
   border: 1px solid #A9A9A9	;}
 
-.search_feild::placeholder {
+.search-feild::placeholder {
   font-size: .8rem;
   color: rgba(0,0,0,0.4);}
 

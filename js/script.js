@@ -216,7 +216,7 @@ function clear_form(){
 
 search_form.onsubmit=function search_car(){
 
-  var year=document.getElementById('search_input').value;
+  var year=document.getElementById('search-input').value;
 
   document.getElementById('card-1').classList.add("mystyle");
 if(year=='2019'){
