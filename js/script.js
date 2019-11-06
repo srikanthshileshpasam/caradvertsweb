@@ -11,7 +11,7 @@ var year_2017=['grandy'];
 var year_2012=['accord'];
 var search_form=document.getElementById('search_form');
 
-function set_car_info_on_popup(car){
+function set_car_info_on_pop_info(car){
   if(car=='gli'){
     car_model=document.getElementById('gli_model').innerHTML;
     car_year=document.getElementById('gli_year').innerHTML;
@@ -192,11 +192,11 @@ function message(){
   var email= document.getElementById('email').value;
   console.log(email);
   if(email==""){
-    document.getElementById('contact-btn').setAttribute("href", "#popup_form");
+    document.getElementById('contact-btn').setAttribute("href", "#pop-info_form");
       alert(`please input the email and then type message `);
   }
   else {
-    document.getElementById('contact-btn').setAttribute("href", "#popup");
+    document.getElementById('contact-btn').setAttribute("href", "#pop-info");
       alert(`THANK YOU ! ${email} for contacting us we will get you back soon `);
       document.getElementById('email').value="";
       document.getElementById('message').value="";

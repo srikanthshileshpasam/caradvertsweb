@@ -103,18 +103,14 @@ body {
   transform: scale(1.5);
   opacity: 0;}
 
-.btn-white {
+.btn-on {
   background-color: #fff;
   color: #777;}
 
-.btn-white::after {
+.btn-on::after {
   background-color: white;}
 
-.btn-green {
-  background-color: rgba(255, 255, 0, 0.8);
-  color: white;}
-
-.card {
+.car {
   display: inline-block;
   perspective: 150rem;
   position: relative;
@@ -123,7 +119,7 @@ body {
   width:25%;
   margin-top: 2rem;}
 
-.card-side {
+.display {
   height: 20rem;
   transition: all 1s ease;
   position: absolute;
@@ -135,15 +131,16 @@ body {
   overflow: hidden;
   box-shadow: 0 2rem 4rem rgba(0, 0, 0, 0.5);}
 
-.card-side-back {
+.display-back {
+  background-image: linear-gradient(to right bottom, rgba(255, 255, 0, 0.50), rgba(255, 100, 50, 0.80));
   transform: rotatey(180deg);}
 
-.card-picture {
+.car-picture {
   background-size: cover;
   height: 10rem;
   background-blend-mode: screen;}
 
-.card h4 {
+.car h4 {
   color: rgb(0, 0, 0, 0.5);
   font-size: 1.5rem;
   font-weight: 800;
@@ -152,78 +149,75 @@ body {
   right: 2rem;
   width: 75%;}
 
-.card-details ul {
+.car-details ul {
   list-style: none;
   width: 80%;
   margin: 0 auto;}
 
-.card-details ul li {
+.car-details ul li {
   text-align: left;
   font-size: 1rem;
   padding: .5rem;}
 
-.card-details ul li:not(:last-child) {
+.car-details ul li:not(:last-child) {
   border-bottom: 1px solid rgba(0, 0, 0, 0.4);}
 
-.card-cta {
+.car-info {
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, 50%);}
 
-.card-price-box {
+.car-price-box {
   text-align: center;
   margin-bottom: -10rem;
   color: white;}
 
-.card-price-only {
+.car-price-only {
   font-size: 1.5rem;
   text-transform: uppercase;}
 
-.card-price-values {
+.car-price-values {
   font-size: 2rem;
   font-weight: 200;}
 
-.card:hover .card-side-front{
+.car:hover .display-front{
   transform: rotatey(-180deg);}
 
-  .card:hover .card-side-back {
+  .car:hover .display-back {
     transform: rotatey(0deg);}
 
-.card-side-back-1{
-  background-image: linear-gradient(to right bottom, rgba(255, 255, 0, 0.50), rgba(255, 100, 50, 0.80));}
-
-.card-picture-1 {
+.car-picture-1 {
   background-image: linear-gradient(to right bottom, pink,black), url('img/cars/gli/gli_1.jpg');}
 
-.card-picture-2 {
+.car-picture-2 {
   background-image: linear-gradient(to right bottom, blue, #ed6738), url('img/cars/civic/civic_1.jpg');}
 
-.card-picture-3 {
+.car-picture-3 {
   background-image: linear-gradient(to right bottom, pink, #ed6738), url('img/cars/city/city_1.jpg');}
 
-.card-picture-4 {
+.car-picture-4 {
   background-image: linear-gradient(to right bottom, black, #ff6738), url('img/cars/grandy/grandy_1.jpg');}
 
-.card-picture-5 {
+.car-picture-5 {
   background-image: linear-gradient(to right bottom, green, #ed6738), url('img/cars/bmw/x7_1.jpg');}
 
-.card-picture-6 {
+.car-picture-6 {
   background-image: linear-gradient(to right bottom, black, #ed6738), url('img/cars/accord/accord_1.jpg');}
 
-.card-picture-7 {
+.car-picture-7 {
   background-image: linear-gradient(to right bottom, green, black), url('img/cars/fortuner/fortuner_1.jpg');}
 
-.card-picture-8 {
+.car-picture-8 {
   background-image: linear-gradient(to right bottom, #ffe900,black), url('img/cars/civic2015/civic_2015_1.jpg');}
 
-.card-picture-9 {
+.car-picture-9 {
   background-image: linear-gradient(to right bottom, #ffe900,blue), url('img/cars/suzuki/ciaz_1.jpg');}
 
-.card-picture-10 {
+.car-picture-10 {
   background-image: linear-gradient(to right bottom, #ffe900,blue), url('img/cars/xli/xli_1.jpg');}
 
-.popup {
+.pop-info {
   height: 100%;
   width: 100%;
   position: fixed;
@@ -235,11 +229,11 @@ body {
   visibility: hidden;
   transition: all .3s;}
 
-.popup:target {
+.pop-info:target {
   opacity: 1;
   visibility: visible;}
 
-.popup-close:link, .popup-close:visited {
+.pop-info-close:link, .pop-info-close:visited {
   color: #777;
   position: absolute;
   top: .02rem;
@@ -248,10 +242,10 @@ body {
   text-decoration: none;
   display: inline-block;}
 
-.popup-close:hover {
+.pop-info-close:hover {
   color: rgba(126, 213, 111, 0.8);}
 
-.popup-content {
+.pop-info-content {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -265,47 +259,47 @@ body {
   transform: translate(-50%, -50%) scale(0.5);
   transition: all .4s .2s;}
 
-.popup-content-h2 {
+.pop-info-content-h2 {
   margin-left: 22rem;
   font-size: 1.5rem;}
 
-.popup-content-h5 {
+.pop-info-content-h5 {
   margin-left: 26rem;
   margin-top: -1rem;
   font-size: 1rem;}
 
-.popup:target .popup-content {
+.pop-info:target .pop-info-content {
   opacity: 1;
   transform: translate(-50%, -50%) scale(1);}
 
-.popup_img_1 {
+.pop-info_img_1 {
   border-radius: 2rem;
   margin-left: 3rem;
   transition: all .3s}
 
-.popup_img_1:hover {
+.pop-info_img_1:hover {
   transform: scale(1.3);}
 
-.popup_company {
+.pop-info_company {
   text-align: center;
   color: black;}
 
-.popup_model {
+.pop-info_model {
   text-align: center;
   color: black;
   font-size: 1rem;}
 
-.popup_year {
+.pop-info_year {
   text-align: center;
   color: black;
   font-size: 1rem;}
 
-.popup_distributer {
+.pop-info_distributer {
   text-align: center;
   color: black;
   font-size: 1rem;}
 
-.popup_btn {
+.pop-info_btn {
   margin-left: 1rem;
   color: green;}
 
@@ -313,10 +307,10 @@ body {
   margin-left: 25rem;
   color: red;}
 
-.popup_email {
+.pop-info_email {
   text-align: center;}
 
-.popup_input_email {
+.pop-info_input_email {
   align-items:center;
   margin-left:21.3rem;
   padding-right: 10rem;
@@ -324,13 +318,13 @@ body {
   padding-bottom: .8rem;
   border: none;}
 
-.popup_input_email:focus {
+.pop-info_input_email:focus {
   border-bottom: 4px solid(0,0,0,.9);}
 
-.popup_message {
+.pop-info_message {
   text-align: center;}
 
-.popup_input_message {
+.pop-info_input_message {
   align-items: center;
   margin-left: 21.3rem;
   padding-right: 10rem;
@@ -340,7 +334,7 @@ body {
   margin-bottom: 1rem;
   display: block;}
 
-.popup_conatct_btn {
+.pop-info_conatct_btn {
   margin-left: 1rem;
     color: green;}
 
