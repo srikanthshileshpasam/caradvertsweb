@@ -1,0 +1,137 @@
+
+@media (max-width: 62em) {
+  body {
+    padding: 0;}
+
+  .head {
+    height: 50vh;
+    clip-path: polygon(0 0,100% 0,100% 99vh,0 100%);}
+
+  .main-heading-main {
+    font-size: 5rem;
+    margin-top: -15rem;}
+
+  .main-heading-tag{
+    font-size: 3rem;
+    display:none;
+    visibility: hidden;
+    opacity: 0;}
+
+  .head-text-box{
+    top: 50%;}
+
+  .btn, .btn:link, .btn:visited{
+    padding: 35px;
+    font-size: 1.5rem;}
+
+  .card{
+    height: 30rem;
+    width: 80%;}
+
+  .card-side {
+    height: 30rem;}
+
+  .card-picture {
+    height: 9rem;
+    background-size:contain;}
+
+  .card-heading {
+    font-size: 2.5rem;
+    margin-top: -1rem;}
+
+  .card-details ul li {
+    font-size: 2rem;
+    margin-top: 1rem;}
+
+  .card-details ul li:not(:last-child) {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.4);}
+
+  .card-price-box {
+    margin-bottom: -17rem;}
+
+  .card-price-only {
+    font-size: 2.5rem;}
+
+  .popup {
+    overflow: scroll;}
+
+  .popup-close:link, .popup-close:visited {
+    font-size: 3.5rem;}
+
+  .popup-content {
+    width: 90%;
+    height:10rem;}
+
+  .popup-content-h2 {
+    margin-left: 16rem;
+    font-size: 2rem;
+    margin-top: 1rem;}
+
+  .popup-content-h5 {
+    margin-left: 20rem;
+    font-size: 2rem;}
+
+  .popup_img_1 {
+    height: 10rem;
+    width: 15rem;}
+
+  .popup_company {
+    font-size: 3rem;}
+
+  .popup_img_1:hover {
+    transform: scale(1.6);}
+
+  .popup_model {
+    font-size: 2rem;}
+
+  .popup_year {
+    font-size: 2rem;}
+
+  .popup_distributer {
+    font-size: 2rem;}
+
+  .popup_btn{
+    margin-left: 1rem;}
+
+  .btn-go-back-info {
+    margin-left: 15.5rem;}
+
+  .popup_email {
+    font-size: 3rem;}
+
+  .popup_input_email {
+    margin-left: 6rem;
+    padding-right: 18rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    font-size: 2rem;}
+
+  .popup_message {
+    font-size: 2rem;}
+
+  .popup_input_message {
+    margin-left: 6rem;
+    padding-right: 18rem;
+    padding-top: 2rem;
+    padding-bottom: 20rem;
+    font-size: 2rem;}
+
+  .btn-go-back-form {
+    margin-left: 15rem;}
+
+  .search {
+    margin-top: -25rem;
+    margin-left: 10.5rem;}
+
+  .search_feild {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    font-size: 2.5rem;}
+
+  .search_feild::placeholder {
+    font-size: 2rem;}
+
+  .search_bn {
+    font-size: 2rem;}
+
+}
