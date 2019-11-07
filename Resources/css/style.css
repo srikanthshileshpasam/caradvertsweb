@@ -154,11 +154,13 @@ body {
   background-blend-mode: screen;}
 
 .car h4 {
-  color: rgb(0, 0, 0, 0.5);
+  background-color: rgba(255,165,0, 0.5);
+  color: white;
+  text-align: center;
   font-size: 1.5rem;
   font-weight: 800;
   position: absolute;
-  top: 5rem;
+  top: 7.8rem;
   right: 2rem;
   width: 75%;}
 
@@ -201,34 +203,34 @@ body {
     transform: rotatey(0deg);}
 
 .car-picture-1 {
-  background-image: linear-gradient(to right bottom, pink,black), url('img/cars/gli/gli_1.jpg');}
+  background-image: url('img/cars/gli/gli_1.jpg');}
 
 .car-picture-2 {
-  background-image: linear-gradient(to right bottom, blue, #ed6738), url('img/cars/civic/civic_1.jpg');}
+  background-image: url('img/cars/civic/civic_1.jpg');}
 
 .car-picture-3 {
-  background-image: linear-gradient(to right bottom, pink, #ed6738), url('img/cars/city/city_1.jpg');}
+  background-image: url('img/cars/city/city_1.jpg');}
 
 .car-picture-4 {
-  background-image: linear-gradient(to right bottom, black, #ff6738), url('img/cars/grandy/grandy_1.jpg');}
+  background-image: url('img/cars/grandy/grandy_1.jpg');}
 
 .car-picture-5 {
-  background-image: linear-gradient(to right bottom, green, #ed6738), url('img/cars/bmw/x7_1.jpg');}
+  background-image: url('img/cars/bmw/x7_1.jpg');}
 
 .car-picture-6 {
-  background-image: linear-gradient(to right bottom, black, #ed6738), url('img/cars/accord/accord_1.jpg');}
+  background-image: url('img/cars/accord/accord_1.jpg');}
 
 .car-picture-7 {
-  background-image: linear-gradient(to right bottom, green, black), url('img/cars/fortuner/fortuner_1.jpg');}
+  background-image: url('img/cars/fortuner/fortuner_1.jpg');}
 
 .car-picture-8 {
-  background-image: linear-gradient(to right bottom, #ffe900,black), url('img/cars/civic2015/civic_2015_1.jpg');}
+  background-image: url('img/cars/civic2015/civic_2015_1.jpg');}
 
 .car-picture-9 {
-  background-image: linear-gradient(to right bottom, #ffe900,blue), url('img/cars/suzuki/ciaz_1.jpg');}
+  background-image: url('img/cars/suzuki/ciaz_1.jpg');}
 
 .car-picture-10 {
-  background-image: linear-gradient(to right bottom, #ffe900,blue), url('img/cars/xli/xli_1.jpg');}
+  background-image: url('img/cars/xli/xli_1.jpg');}
 
 .pop-info {
   height: 100%;
@@ -339,11 +341,19 @@ body {
 .search-feild {
   width: 50rem;
   padding: 1rem 0;
-  border: 1px solid #A9A9A9	;}
+  border: 1px solid #A9A9A9;}
 
 .search-feild::placeholder {
   font-size: .8rem;
   color: rgba(0,0,0,0.4);}
+
+footer {
+  background-color: #333;
+  padding: 50px;
+  text-align: center;
+  font-weight: 200;
+  color: white;
+  font-size: 1.2rem;}
 
 .overall_display {
   opacity: 0;
