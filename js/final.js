@@ -58,10 +58,25 @@ var car10_year = '2019';
 var car10_dist = 'Trans Auto';
 var car10_price = '4500';
 
-var url_string = "file:///Users/srikanthshileshpasam/Documents/GitHub/caradvertsweb.github.io/info.html?car=";
-var url = new URL(url_string);
-var car = url.searchParams.get("car");
-console.log(car);
+// var url_string = "file:///Users/srikanthshileshpasam/Documents/GitHub/caradvertsweb.github.io/info.html?car";
+// var url = new URL(url_string);
+// var car = url.searchParams.get("car");
+// console.log(car);
+
+
+  // initialize an empty object
+  let car = '';
+  // get URL query string
+  let params = window.location.search;
+  // remove the '?' character
+  params = params.substr(1);
+  let queryParamArray = params.split('&amp;');
+  // iterate over parameter array
+  queryParamArray.forEach(function(queryParam) {
+    // split the query parameter over '='
+    let item = queryParam.split("=");
+    car = decodeURIComponent(item[1]);
+  });
 
 
 function set_car_info_on_pop_info(car){
