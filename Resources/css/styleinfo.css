@@ -223,3 +223,8 @@ nav h1 {
       .nav-options li a:hover, .nav-options li a:active {
         border-bottom: 2px solid #e67e22;
         }
+
+  .info {
+    background-color: grey;
+    padding-left: 25px;
+  }
