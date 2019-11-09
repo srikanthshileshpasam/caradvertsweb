@@ -73,9 +73,11 @@ var car10_price = '4500';
     car = decodeURIComponent(item[1]);
   });
 
+  // body.addEventListener("load", set_car_info_on_pop_info());
 
-function set_car_info_on_pop_info(car){
-  if (car=='gli'){
+
+function set_car_info_on_pop_info(){
+  if (car=="gli"){
     document.getElementById('car_company').innerHTML=car1_company;
     document.getElementById('car_model').innerHTML=car1_name;
     document.getElementById('car_year').innerHTML=car1_year;
