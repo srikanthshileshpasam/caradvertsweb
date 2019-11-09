@@ -11,6 +11,11 @@ var year_2017=['grandy'];
 var year_2012=['accord'];
 var search_form=document.getElementById('search_form');
 
+var url_string = "file:///Users/srikanthshileshpasam/Documents/GitHub/caradvertsweb.github.io/info.html?car=xli";
+var url = new URL(url_string);
+var car = url.searchParams.get("car");
+console.log(car);
+
 function set_car_info_on_pop_info(car){
   if(car=='gli'){
     car_model=document.getElementById('gli_model').innerHTML;
@@ -29,7 +34,7 @@ function set_car_info_on_pop_info(car){
 
   }
 
-  else if (car=="civic") {
+  else if (car=='civic') {
     car_model=document.getElementById('civic_model').innerHTML;
     car_year=document.getElementById('civic_year').innerHTML;
     car_suplier=document.getElementById('civic_suplier').innerHTML;
