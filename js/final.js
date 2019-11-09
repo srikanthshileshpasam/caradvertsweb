@@ -59,7 +59,7 @@ var car10_dist = 'Trans Auto';
 var car10_price = '4500';
 
 function set_car_info_on_pop_info(car){
-  if(car=='gli'){
+  if (car=='gli'){
     document.getElementById('car_company').innerHTML=car1_company;
     document.getElementById('car_model').innerHTML=car1_name;
     document.getElementById('car_year').innerHTML=car1_year;
@@ -69,7 +69,7 @@ function set_car_info_on_pop_info(car){
     document.getElementById('car_2').src="Resources/img/cars/gli/gli_2.jpg";
     document.getElementById('car_1').src="Resources/img/cars/gli/gli_1.jpg";
   }
-  else if (car=="civic"){
+  else if (car=='civic'){
     document.getElementById('car_company').innerHTML=car2_company;
     document.getElementById('car_model').innerHTML=car2_name;
     document.getElementById('car_year').innerHTML=car2_year;
@@ -162,3 +162,4 @@ function set_car_info_on_pop_info(car){
   else {
     alert("Car information unavailable!");
   }
+}
