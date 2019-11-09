@@ -58,11 +58,6 @@ var car10_year = '2019';
 var car10_dist = 'Trans Auto';
 var car10_price = '4500';
 
-// var url_string = "file:///Users/srikanthshileshpasam/Documents/GitHub/caradvertsweb.github.io/info.html?car";
-// var url = new URL(url_string);
-// var car = url.searchParams.get("car");
-// console.log(car);
-
 
   // initialize an empty object
   let car = '';
