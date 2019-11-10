@@ -9,6 +9,17 @@ var car8 = ['Honda', 'Civic', '2015', 'Trans Auto', '8000']
 var car9 = ['Suzuki', 'Ciaz', '2018', 'Alex Cars', '6000']
 var car10 = ['Toyota', 'XLI', '2019', 'Trans Auto', '4500']
 
+var all_cars = [['Toyota', 'GLI', '2019', 'Easy Cars', '4000'],
+                ['Honda', 'Civic', '2019', 'Alex Cars', '6000'],
+                ['Honda', 'City', '2019', 'Trans Auto', '5000'],
+                ['Toyota', 'Grandy', '2017', 'Trans Auto', '9500'],
+                ['BMW', 'X7', '2019', 'Alex Cars', '4000'],
+                ['Honda', 'Accord', '2012', 'Alex Cars', '7000'],
+                ['Toyota', 'Fortuner', '2018', 'Alex Cars', '4000'],
+                ['Honda', 'Civic', '2015', 'Trans Auto', '8000'],
+                ['Suzuki', 'Ciaz', '2018', 'Alex Cars', '6000'],
+                ['Toyota', 'XLI', '2019', 'Trans Auto', '4500']]
+
 // initialize an empty object
 let car = '';
 // get URL query string
@@ -23,6 +34,7 @@ queryParamArray.forEach(function(queryParam) {
   car = decodeURIComponent(item[1]);
 });
 
+
 function cars_display(){
   document.getElementById('car-pic-1').src="Resources/img/cars/gli/gli_1.jpg";
   document.getElementById('car-pic-2').src="Resources/img/cars/civic/civic_1.jpg";
@@ -34,6 +46,139 @@ function cars_display(){
   document.getElementById('car-pic-8').src="Resources/img/cars/civic2015/civic_2015_1.jpg";
   document.getElementById('car-pic-9').src="Resources/img/cars/suzuki/ciaz_1.jpg";
   document.getElementById('car-pic-10').src="Resources/img/cars/xli/xli_1.jpg";
+}
+
+let i=0;
+while(i<=9){
+    let j=1;
+    while(j<=4){
+      document.getElementById("car1_model").innerHTML=all_cars[i][j];
+      j++;
+      document.getElementById('car1_year').innerHTML=all_cars[i][j];
+      j++;
+      document.getElementById('car1_distributor').innerHTML=all_cars[i][j];
+      j++;
+      document.getElementById('car1_price').innerHTML=all_cars[i][j];
+      j++;
+     }
+     i++;
+
+      j=1;
+     while(j<=4){
+       document.getElementById("car2_model").innerHTML=all_cars[i][j];
+       j++;
+       document.getElementById('car2_year').innerHTML=all_cars[i][j];
+       j++;
+       document.getElementById('car2_distributor').innerHTML=all_cars[i][j];
+       j++;
+       document.getElementById('car2_price').innerHTML=all_cars[i][j];
+       j++;
+      }
+      i++;
+
+      j=1;
+     while(j<=4){
+       document.getElementById("car3_model").innerHTML=all_cars[i][j];
+       j++;
+       document.getElementById('car3_year').innerHTML=all_cars[i][j];
+       j++;
+       document.getElementById('car3_distributor').innerHTML=all_cars[i][j];
+       j++;
+       document.getElementById('car3_price').innerHTML=all_cars[i][j];
+       j++;
+      }
+      i++;
+
+      j=1;
+     while(j<=4){
+       document.getElementById("car4_model").innerHTML=all_cars[i][j];
+       j++;
+       document.getElementById('car4_year').innerHTML=all_cars[i][j];
+       j++;
+       document.getElementById('car4_distributor').innerHTML=all_cars[i][j];
+       j++;
+       document.getElementById('car4_price').innerHTML=all_cars[i][j];
+       j++;
+      }
+      i++;
+
+      j=1;
+     while(j<=4){
+       document.getElementById("car5_model").innerHTML=all_cars[i][j];
+       j++;
+       document.getElementById('car5_year').innerHTML=all_cars[i][j];
+       j++;
+       document.getElementById('car5_distributor').innerHTML=all_cars[i][j];
+       j++;
+       document.getElementById('car5_price').innerHTML=all_cars[i][j];
+       j++;
+      }
+      i++;
+
+      j=1;
+     while(j<=4){
+       document.getElementById("car6_model").innerHTML=all_cars[i][j];
+       j++;
+       document.getElementById('car6_year').innerHTML=all_cars[i][j];
+       j++;
+       document.getElementById('car6_distributor').innerHTML=all_cars[i][j];
+       j++;
+       document.getElementById('car6_price').innerHTML=all_cars[i][j];
+       j++;
+      }
+      i++;
+
+      j=1;
+     while(j<=4){
+       document.getElementById("car7_model").innerHTML=all_cars[i][j];
+       j++;
+       document.getElementById('car7_year').innerHTML=all_cars[i][j];
+       j++;
+       document.getElementById('car7_distributor').innerHTML=all_cars[i][j];
+       j++;
+       document.getElementById('car7_price').innerHTML=all_cars[i][j];
+       j++;
+      }
+      i++;
+
+      j=1;
+     while(j<=4){
+       document.getElementById("car8_model").innerHTML=all_cars[i][j];
+       j++;
+       document.getElementById('car8_year').innerHTML=all_cars[i][j];
+       j++;
+       document.getElementById('car8_distributor').innerHTML=all_cars[i][j];
+       j++;
+       document.getElementById('car8_price').innerHTML=all_cars[i][j];
+       j++;
+      }
+      i++;
+
+      j=1;
+     while(j<=4){
+       document.getElementById("car9_model").innerHTML=all_cars[i][j];
+       j++;
+       document.getElementById('car9_year').innerHTML=all_cars[i][j];
+       j++;
+       document.getElementById('car9_distributor').innerHTML=all_cars[i][j];
+       j++;
+       document.getElementById('car9_price').innerHTML=all_cars[i][j];
+       j++;
+      }
+      i++;
+
+      j=1;
+     while(j<=4){
+       document.getElementById("car10_model").innerHTML=all_cars[i][j];
+       j++;
+       document.getElementById('car10_year').innerHTML=all_cars[i][j];
+       j++;
+       document.getElementById('car10_distributor').innerHTML=all_cars[i][j];
+       j++;
+       document.getElementById('car10_price').innerHTML=all_cars[i][j];
+       j++;
+      }
+      i++;
 }
 
 
