@@ -29,6 +29,7 @@ body {
 }
 
 .big {
+  padding-top: 8%;
 text-align: center;
 padding-bottom: 25px;
 }
@@ -191,7 +192,12 @@ img.hover-shadow {
   background-color: grey;
 }
 nav {
-  margin-bottom: 100px;
+  position: fixed;
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+  z-index: 9999;
+
 }
 
 
@@ -224,13 +230,14 @@ nav h1 {
         border-bottom: 2px solid #e67e22;
         }
 
+
   .info {
     background-color: grey;
     padding-left: 25px;
   }
 
 
-  .pop-info {
+  .pop-up {
     height: 100%;
     width: 100%;
     position: fixed;
@@ -241,11 +248,11 @@ nav h1 {
     visibility: hidden;
     transition: all .5s;}
 
-  .pop-info:target {
+  .pop-up:target {
     opacity: 1;
     visibility: visible;}
 
-  .pop-info-close:link, .pop-info-close:visited {
+  .pop-up-close:link, .pop-up-close:visited {
     color: #777;
     position: absolute;
     top: .02rem;
@@ -254,10 +261,10 @@ nav h1 {
     text-decoration: none;
     display: inline-block;}
 
-  .pop-info-close:hover {
+  .pop-up-close:hover {
     color: rgba(126, 213, 111, 0.8);}
 
-  .pop-info-content {
+  .pop-up-content {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -271,33 +278,19 @@ nav h1 {
     transform: translate(-50%, -50%) scale(0.5);
     transition: all .5s .5s;}
 
-  .pop-info h2 {
-    margin-left: 40%;
-    font-size: 1.5rem;}
+  .pop-up h2 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 100;}
 
-  .pop-info:target .pop-info-content {
+  .pop-up:target .pop-up-content {
     opacity: 1;
     transform: translate(-50%, -50%) scale(1);}
 
-  .pop-info-img {
-    margin: 0 5%;
-    transition: all .5s}
-
-  .pop-info-img:hover {
-    transform: scale(2.5);}
-
-  .pop-info-details {
-    padding-left: 5%;
-    font-size: 1rem;}
-
-  .pop-info_btn {
-    margin-left: 1rem;
-    color: green;}
-
-  .pop-info_email {
+  .pop-up_email {
     text-align: center;}
 
-  .pop-info_input_email {
+  .pop-up_input_email {
     align-items:center;
     margin-left:21.3rem;
     padding-right: 10rem;
@@ -305,13 +298,13 @@ nav h1 {
     padding-bottom: .8rem;
     border: none;}
 
-  .pop-info_input_email:focus {
+  .pop-up_input_email:focus {
     border-bottom: 4px solid(0,0,0,.9);}
 
-  .pop-info_message {
+  .pop-up_message {
     text-align: center;}
 
-  .pop-info_input_message {
+  .pop-up_input_message {
     align-items: center;
     margin-left: 21.3rem;
     padding-right: 10rem;
@@ -320,10 +313,6 @@ nav h1 {
     border: none;
     margin-bottom: 1rem;
     display: block;}
-
-  .pop-info_conatct_btn {
-    margin-left: 1rem;
-      color: green;}
 
 
     .btn, .btn:link, .btn:visited {
