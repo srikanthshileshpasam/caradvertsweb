@@ -73,8 +73,6 @@ var car10_price = '4500';
     car = decodeURIComponent(item[1]);
   });
 
-  // body.addEventListener("load", set_car_info_on_pop_info());
-
 
 function set_car_info_on_pop_info(){
   if (car=="gli"){
@@ -97,7 +95,7 @@ function set_car_info_on_pop_info(){
     document.getElementById('car_2').src="Resources/img/cars/civic/civic_2.jpg";
     document.getElementById('car_1').src="Resources/img/cars/civic/civic_1.jpg";
   }
-  else if(car=='city'){
+  else if (car=='city'){
     document.getElementById('car_company').innerHTML=car3_company;
     document.getElementById('car_model').innerHTML=car3_name;
     document.getElementById('car_year').innerHTML=car3_year;
@@ -177,7 +175,7 @@ function set_car_info_on_pop_info(){
     document.getElementById('car_2').src="Resources/img/cars/xli/xli_2.jpg";
     document.getElementById('car_1').src="Resources/img/cars/xli/xli_1.jpg";
   }
-  else {
-    alert("Car information unavailable!");
-  }
+   else {
+     alert("Car information unavailable!");
+   }
 }
