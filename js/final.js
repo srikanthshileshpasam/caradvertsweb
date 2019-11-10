@@ -81,9 +81,12 @@ function set_car_info_on_pop_info(){
     document.getElementById('car_year').innerHTML=car1_year;
     document.getElementById('car_suplier').innerHTML=car1_dist;
     document.getElementById('car_price').innerHTML=car1_price;
-    document.getElementById('car_3').src="Resources/img/cars/gli/gli_3.jpg";
-    document.getElementById('car_2').src="Resources/img/cars/gli/gli_2.jpg";
     document.getElementById('car_1').src="Resources/img/cars/gli/gli_1.jpg";
+    document.getElementById('car_2').src="Resources/img/cars/gli/gli_2.jpg";
+    document.getElementById('car_3').src="Resources/img/cars/gli/gli_3.jpg";
+    document.getElementById('car_4').src="Resources/img/cars/gli/gli_4.jpg";
+    document.getElementById('car_5').src="Resources/img/cars/gli/gli_5.png";
+    document.getElementById('car_6').src="Resources/img/cars/gli/gli_6.jpg";
   }
   else if (car=='civic'){
     document.getElementById('car_company').innerHTML=car2_company;
@@ -91,9 +94,9 @@ function set_car_info_on_pop_info(){
     document.getElementById('car_year').innerHTML=car2_year;
     document.getElementById('car_suplier').innerHTML=car2_dist;
     document.getElementById('car_price').innerHTML=car2_price;
-    document.getElementById('car_3').src="Resources/img/cars/civic/civic_3.jpeg";
-    document.getElementById('car_2').src="Resources/img/cars/civic/civic_2.jpg";
-    document.getElementById('car_1').src="Resources/img/cars/civic/civic_1.jpg";
+    document.getElementsById('car_3').src="Resources/img/cars/civic/civic_3.jpeg";
+    document.getElementsById('car_2').src="Resources/img/cars/civic/civic_2.jpg";
+    document.getElementsById('car_1').src="Resources/img/cars/civic/civic_1.jpg";
   }
   else if (car=='city'){
     document.getElementById('car_company').innerHTML=car3_company;

@@ -25,10 +25,18 @@
 		 <img src="Resources/css/img/logo.png" alt="Car Adverts logo" class="logo">
 	</div>
 </nav>
-		<div class="hero-text">
-			 <h1>CAR ADVERTS</h1>
-			 <h2>Community Car Resale Service</h2>
-		</div>
+<!-- The video -->
+<video autoplay muted loop id="myVideo">
+<source src="Resources/css/videos/background.mp4" type="video/mp4">
+</video>
+
+<!-- Optional: some overlay text to describe the video -->
+<div class="content">
+<h1>CAR ADVERTS</h1>
+<p>The journey starts here...</p>
+<!-- Use a button to pause/play the video with JavaScript -->
+<button id="myBtn" onclick="myFunction()">Pause</button>
+</div>
 	</header>
 
 
@@ -43,9 +51,9 @@
 			 	<button type='submit' class="btn">Search</button>
 			</form>
 		</div>
-	</section>
+</section>
 
-	<section class="cars-inventory">
+<section>
 		<div class="car" id='car-1'>
 			<div class="display display-front">
 				<div class="car-picture car-picture-1"></div>
@@ -266,22 +274,6 @@
 		</div>
 	</section>
 
-
-	<!-- <div class="pop-info" id="pop-info">
-		<div class="pop-info-content">
-			<h2>Vehicle Details</h2>
-			<img height="200" width="250" class="pop-info-img" id='car_3'/>
-			<img height="200" width="250" class="pop-info-img" id='car_2'/>
-			<img height="200" width="250" class="pop-info-img" id='car_1'/>
-			<h1 class="pop-info-details" id='car_company'>Manufacturer</h1>
-			<h1 class="pop-info-details" id="car_model">Model</h1>
-			<h1 class="pop-info-details" id="car_year">Year</h1>
-			<h1 class="pop-info-details" id="car_suplier">Distributor</h1>
-			<h1 class="pop-info-details" id="car_price">Price</h1>
-			<a href="#cars-inventory" class="btn btn-on btn-back">Return</a>
-			<a href="#pop-info_form" class="btn btn-on pop-info_btn" id="feature-btn-guid">Book Now</a>
-		</div>
-	</div> -->
 
 	<div class="pop-info" id="pop-info_form">
 		<div class="pop-info-content">
