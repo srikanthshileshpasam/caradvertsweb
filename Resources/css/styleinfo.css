@@ -237,67 +237,6 @@ nav h1 {
   }
 
 
-  .pop-up {
-    z-index: 9999;
-    height: 100%;
-    width: 100%;
-    position: fixed;
-    top: 0;
-    left: 0;
-    background: rgba(0, 0, 0, 0.8);
-    opacity: 0;
-    visibility: hidden;
-    transition: all .5s;}
-
-   .pop-up:target {
-    opacity: 1;
-    visibility: visible;}
-
-    .pop-up:target .pop-up-content {
-      opacity: 1;
-      transform: translate(-50%, -50%) scale(1);}
-
-
-  .pop-up-content {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    width: 100vh;
-    height: 100vh;
-    background-color: rgba(255, 255, 255, 0.8);
-    border-radius: 5px;
-    display: table;
-    transform: translate(-50%, -50%) scale(0.5);
-    transition: all .5s .5s;}
-
-  .pop-up h2 {
-    text-align: center;
-    font-size: 50px;
-    font-weight: 100;
-    border-bottom: 2px solid #e67e22;}
-
-  .pop-up-text h3 {
-    text-align: left;
-    margin-left: 5%;
-    font-size: 20px;
-    font-weight: 400;
-    display: inline-block;}
-
-  .pop-up-name, .pop-up-email, .pop-up-message{
-    margin-left: 10%;
-    margin-bottom: 1%;
-    border: none;
-    border-radius: 5px;
-    width: 50%;
-    height: 5vh;
-  }
-
-  .pop-up-message{
-    margin-left: 9%;
-    padding-bottom: 15%;
-  }
-
-
     .btn, .btn:link, .btn:visited {
       margin-left: 27%;
       margin-bottom: 2%;
