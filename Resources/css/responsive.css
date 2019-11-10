@@ -1,6 +1,76 @@
-@media only screen and (max-width: 1150px) {
+@media only screen and (max-width: 1540px) {
+
+  .nav-options{
+    padding-right: 10%;
+  }
   .inventory-heading {
-    
+    margin-top: 5%;
+  }
+
+  .cars-list{
+    padding-top: 15%;
+  }
+}
+
+@media only screen and (max-width: 1410px) {
+  #myVideo {
+
+  min-width: 80%;
+  min-height: 80%;
+}
+  .logo{
+    height: 60px;
+  }
+  .search-feild{
+    width:25rem;
+    margin-left: 5rem;
+  }
+  .inventory-heading {
+    padding-top: 10%;
+  }
+
+  .cars-list{
+    padding-top: 25%;
+  }
+
+  @media only screen and (max-width: 1250px) {
+    .inventory-heading {
+      padding-top: 10%;
+    }
+    .cars-inventory h2 {
+      font-size: 400%;
+      padding-top: 15%;
+    }
+    .cars-list{
+      padding-top: 35%;
+    }
+
+}
+
+@media only screen and (max-width: 1100px) {
+  .inventory-heading {
+    margin-top: 10%;
+  }
+  .cars-inventory h2 {
+    font-size: 300%;
+    margin-top: 35%;
+  }
+  .cars-list{
+    padding-top: 45%;
+  }
+
+}
+
+@media only screen and (max-width: 920px) {
+  .inventory-heading {
+    margin-top: 10%;
+  }
+  .cars-inventory h2 {
+    font-size: 300%;
+    margin-top: 35%;
+  }
+  .cars-list{
+    padding-top: 45%;
   }
 
 }
