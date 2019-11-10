@@ -9,6 +9,19 @@ var car8 = ['Honda', 'Civic', '2015', 'Trans Auto', '8000']
 var car9 = ['Suzuki', 'Ciaz', '2018', 'Alex Cars', '6000']
 var car10 = ['Toyota', 'XLI', '2019', 'Trans Auto', '4500']
 
+// initialize an empty object
+let car = '';
+// get URL query string
+let params = window.location.search;
+// remove the '?' character
+params = params.substr(1);
+let queryParamArray = params.split('&amp;');
+// iterate over parameter array
+queryParamArray.forEach(function(queryParam) {
+  // split the query parameter over '='
+  let item = queryParam.split("=");
+  car = decodeURIComponent(item[1]);
+});
 
 function cars_display(){
   document.getElementById('car-pic-1').src="Resources/img/cars/gli/gli_1.jpg";
