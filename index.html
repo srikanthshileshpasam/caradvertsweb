@@ -11,11 +11,11 @@
 <link rel="stylesheet" type="text/css" href="Resources/css/responsive.css">
 </head>
 
-<body>
+<body onload="cars_display()">
 
 
 	<header>
-		<nav>
+		<nav id="nav-bar">
 		<div class="hero">
 			<ul class="nav-options anim">
 			 <li><a href="#">Sign Up / Sign In</a></li>
@@ -51,7 +51,7 @@
 
 		<div class="car" id='car-1'>
 			<div class="display display-front">
-				<div class="car-picture car-picture-1"></div>
+				<img  id="car-pic-1" class="car-picture"/>
 					<h4>Toyota</h4>
 						<div class="car-details">
 							<ul>
@@ -73,7 +73,7 @@
 
 		<div class="car" id='car-2'>
 			<div class="display display-front">
-				<div class="car-picture car-picture-2"></div>
+				<img  id="car-pic-2" class="car-picture"/>
 					<h4>Honda</h4>
 						<div class="car-details">
 							<ul>
@@ -95,7 +95,7 @@
 
 		<div class="car" id='car-3'>
 			<div class="display display-front">
-				<div class="car-picture car-picture-3"></div>
+				<img  id="car-pic-3" class="car-picture"/>
 				<h4>Honda</h4>
 				<div class="car-details">
 					<ul>
@@ -117,7 +117,7 @@
 
 		<div class="car" id='car-4'>
 			<div class="display display-front">
-				<div class="car-picture car-picture-4"></div>
+				<img  id="car-pic-4" class="car-picture"/>
 					<h4>Toyota</h4>
 						<div class="car-details">
 							<ul>
@@ -139,7 +139,7 @@
 
 		<div class="car" id='car-5'>
 			<div class="display display-front">
-				<div class="car-picture car-picture-5"></div>
+				<img  id="car-pic-5" class="car-picture"/>
 					<h4>BMW</h4>
 						<div class="car-details">
 							<ul>
@@ -161,7 +161,7 @@
 
 		<div class="car" id='car-6'>
 			<div class="display display-front">
-				<div class="car-picture car-picture-6"></div>
+				<img  id="car-pic-6" class="car-picture"/>
 					<h4>Honda</h4>
 						<div class="car-details">
 							<ul>
@@ -183,7 +183,7 @@
 
 		<div class="car" id='car-7'>
 			<div class="display display-front">
-				<div class="car-picture car-picture-7"></div>
+				<img  id="car-pic-7" class="car-picture"/>
 					<h4>Toyota</h4>
 						<div class="car-details">
 							<ul>
@@ -205,7 +205,7 @@
 
 		<div class="car" id='car-8'>
 			<div class="display display-front">
-				<div class="car-picture car-picture-8"></div>
+				<img  id="car-pic-8" class="car-picture"/>
 					<h4>Honda</h4>
 						<div class="car-details">
 							<ul>
@@ -227,7 +227,7 @@
 
 		<div class="car"id='car-9'>
 			<div class="display display-front">
-				<div class="car-picture car-picture-9"></div>
+				<img  id="car-pic-9" class="car-picture"/>
 					<h4>Suzuki</h4>
 						<div class="car-details">
 							<ul>
@@ -249,7 +249,7 @@
 
 		<div class="car" id='car-10'>
 			<div class="display display-front">
-				<div class="car-picture car-picture-10"></div>
+				<img  id="car-pic-10" class="car-picture"/>
 					<h4>Toyota</h4>
 						<div class="car-details">
 							<ul>
@@ -278,6 +278,7 @@
     </div>
   </footer>
 
+	<script type="text/javascript" src="Resources/js/animations.js"></script>
 	<script type="text/javascript" src="Resources/js/car_data.js"></script>
 	<script type="text/javascript" src="Resources/js/search.js"></script>
 

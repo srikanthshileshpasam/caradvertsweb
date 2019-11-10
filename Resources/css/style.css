@@ -192,8 +192,8 @@ nav {
   transform: rotatey(180deg);}
 
 .car-picture {
-  background-size: cover;
-  height: 10rem;
+  width: 100%;
+  height: 50%;
   background-blend-mode: screen;}
 
 .car h4 {
@@ -244,36 +244,6 @@ nav {
 
   .car:hover .display-back {
     transform: rotatey(0deg);}
-
-.car-picture-1 {
-  background-image: url('img/cars/gli/gli_1.jpg');}
-
-.car-picture-2 {
-  background-image: url('img/cars/civic/civic_1.jpg');}
-
-.car-picture-3 {
-  background-image: url('img/cars/city/city_1.jpg');}
-
-.car-picture-4 {
-  background-image: url('img/cars/grandy/grandy_1.jpg');}
-
-.car-picture-5 {
-  background-image: url('img/cars/bmw/x7_1.jpg');}
-
-.car-picture-6 {
-  background-image: url('img/cars/accord/accord_1.jpg');}
-
-.car-picture-7 {
-  background-image: url('img/cars/fortuner/fortuner_1.jpg');}
-
-.car-picture-8 {
-  background-image: url('img/cars/civic2015/civic_2015_1.jpg');}
-
-.car-picture-9 {
-  background-image: url('img/cars/suzuki/ciaz_1.jpg');}
-
-.car-picture-10 {
-  background-image: url('img/cars/xli/xli_1.jpg');}
 
 
 .search {
