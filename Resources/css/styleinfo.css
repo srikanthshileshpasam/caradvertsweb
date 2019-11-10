@@ -262,7 +262,7 @@ nav h1 {
     position: absolute;
     top: 50%;
     left: 50%;
-    width: 75%;
+    width: 50%;
     background-color: rgba(255, 255, 255, 0.8);
     border-radius: 5px;
     display: table;
@@ -272,7 +272,8 @@ nav h1 {
   .pop-up h2 {
     text-align: center;
     font-size: 50px;
-    font-weight: 100;}
+    font-weight: 100;
+    border-bottom: 2px solid #e67e22;}
 
   .pop-up-text h3 {
     text-align: left;
@@ -281,10 +282,11 @@ nav h1 {
     font-weight: 400;
     display: inline-block;}
 
-  .pop-up-email, .pop-up-message{
+  .pop-up-name, .pop-up-email, .pop-up-message{
     margin-left: 10%;
+    margin-bottom: 1%;
     padding: 1% 0;
-    padding-right: 15%;
+    padding-right: 25%;
     border: none;
     border-radius: 5px;
   }
@@ -293,31 +295,6 @@ nav h1 {
     margin-left: 9%;
     padding-bottom: 15%;
   }
-
-
-  /* .pop-up_input_email {
-    float:left;
-    display: inline-block;
-    text-align: center;
-    margin-left: 10px;
-    margin-right: 20%;
-    padding-top: 1%;
-    padding-bottom: 1%;
-    padding-right: 15%;
-    padding-left: 1%;
-    border: none;
-    border-radius: 5px;} */
-
-  /* .pop-up_input_message {
-    float:left;
-    display: inline-block;
-    margin-left: 10px;
-    padding-right: 15%;
-    padding-top: 1%;
-    padding-bottom: 20%;
-    border: none;
-    margin-bottom: 1rem;
-    display: inline-block;} */
 
 
     .btn, .btn:link, .btn:visited {
