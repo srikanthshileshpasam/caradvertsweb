@@ -4,9 +4,6 @@
     padding-right: 10%;
   }
 
-  .cars-list{
-    padding-top: 15%;
-  }
 }
 
 @media only screen and (max-width: 1410px) {
@@ -19,9 +16,6 @@
     margin-left: 5rem;
   }
 
-  .cars-list{
-    padding-top: 25%;
-  }
 
   @media only screen and (max-width: 1250px) {
 
@@ -29,9 +23,7 @@
       font-size: 400%;
       padding-top: 15%;
     }
-    .cars-list{
-      padding-top: 35%;
-    }
+
     .nav-options{
       margin-left: -15%;
     }
@@ -44,12 +36,6 @@
     font-size: 300%;
     margin-top: 35%;
   }
-  .cars-list{
-    padding-top: 45%;
-    margin-left: -5%;
-  }
-
-
 }
 
 @media only screen and (max-width: 920px) {
@@ -58,8 +44,6 @@
     font-size: 300%;
     margin-top: 35%;
   }
-  .cars-list{
-    padding-top: 45%;
-  }
+
 
 }

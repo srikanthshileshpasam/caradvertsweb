@@ -129,18 +129,9 @@ nav {
   margin-top: 4%;
   background-color: #a8a8a8;}
 
-.cars-inventory h2 {
-  text-align: center;
-  margin-top: 2%;
-  font-size: 4rem;
-  font-weight: 100;
-  display: inline-block;
-  letter-spacing: 1px;
-  border-bottom: 2px solid #e67e22;}
-
-  .cars-list {
-    padding-top: 10%;
-  }
+.cars-list{
+  padding-top:5%;
+}
 
   .btn, .btn:link, .btn:visited {
     margin-left: 27%;
