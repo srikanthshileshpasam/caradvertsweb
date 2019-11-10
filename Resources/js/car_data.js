@@ -31,12 +31,12 @@ function set_car_info_on_pop_info(){
     document.getElementById('car_year').innerHTML=car1[2];
     document.getElementById('car_distributor').innerHTML=car1[3];
     document.getElementById('car_price').innerHTML=car1[4];
-    document.getElementById('car_1').src="Resources/img/cars/gli/gli_1.jpg";
-    document.getElementById('car_2').src="Resources/img/cars/gli/gli_2.jpg";
-    document.getElementById('car_3').src="Resources/img/cars/gli/gli_3.jpg";
-    document.getElementById('car_4').src="Resources/img/cars/gli/gli_4.jpg";
-    document.getElementById('car_5').src="Resources/img/cars/gli/gli_5.png";
-    document.getElementById('car_6').src="Resources/img/cars/gli/gli_6.jpg";
+    document.getElementById('car-pic-1').src="Resources/img/cars/gli/gli_1.jpg";
+    document.getElementById('car-pic-2').src="Resources/img/cars/gli/gli_2.jpg";
+    document.getElementById('car-pic-3').src="Resources/img/cars/gli/gli_3.jpg";
+    document.getElementById('car-pic-4').src="Resources/img/cars/gli/gli_4.jpg";
+    document.getElementById('car-pic-5').src="Resources/img/cars/gli/gli_5.png";
+    document.getElementById('car-pic-6').src="Resources/img/cars/gli/gli_6.jpg";
   }
   else if (car=='civic'){
     document.getElementById('car_company').innerHTML=car2[0];
@@ -44,9 +44,9 @@ function set_car_info_on_pop_info(){
     document.getElementById('car_year').innerHTML=car2[2];
     document.getElementById('car_distributor').innerHTML=car2[3];
     document.getElementById('car_price').innerHTML=car2[4];
-    document.getElementById('car_3').src="Resources/img/cars/civic/civic_3.jpeg";
-    document.getElementById('car_2').src="Resources/img/cars/civic/civic_2.jpg";
-    document.getElementById('car_1').src="Resources/img/cars/civic/civic_1.jpg";
+    document.getElementById('car-pic-3').src="Resources/img/cars/civic/civic_3.jpeg";
+    document.getElementById('car-pic-2').src="Resources/img/cars/civic/civic_2.jpg";
+    document.getElementById('car-pic-1').src="Resources/img/cars/civic/civic_1.jpg";
   }
   else if (car=='city'){
     document.getElementById('car_company').innerHTML=car3[0];
@@ -54,9 +54,9 @@ function set_car_info_on_pop_info(){
     document.getElementById('car_year').innerHTML=car3[2];
     document.getElementById('car_distributor').innerHTML=car3[3];
     document.getElementById('car_price').innerHTML=car3[4];
-    document.getElementById('car_3').src="Resources/img/cars/city/city_3.jpg";
-    document.getElementById('car_2').src="Resources/img/cars/city/city_2.jpg";
-    document.getElementById('car_1').src="Resources/img/cars/city/city_1.jpg";
+    document.getElementById('car-pic-3').src="Resources/img/cars/city/city_3.jpg";
+    document.getElementById('car-pic-2').src="Resources/img/cars/city/city_2.jpg";
+    document.getElementById('car-pic-1').src="Resources/img/cars/city/city_1.jpg";
   }
   else if (car=='grandy'){
     document.getElementById('car_company').innerHTML=car4[0];
@@ -64,9 +64,9 @@ function set_car_info_on_pop_info(){
     document.getElementById('car_year').innerHTML=car4[2];
     document.getElementById('car_distributor').innerHTML=car4[3];
     document.getElementById('car_price').innerHTML=car4[4];
-    document.getElementById('car_3').src="Resources/img/cars/grandy/grandy_3.jpg";
-    document.getElementById('car_2').src="Resources/img/cars/grandy/grandy_2.jpg";
-    document.getElementById('car_1').src="Resources/img/cars/grandy/grandy_1.jpg";
+    document.getElementById('car-pic-3').src="Resources/img/cars/grandy/grandy_3.jpg";
+    document.getElementById('car-pic-2').src="Resources/img/cars/grandy/grandy_2.jpg";
+    document.getElementById('car-pic-1').src="Resources/img/cars/grandy/grandy_1.jpg";
   }
   else if (car=='x7'){
     document.getElementById('car_company').innerHTML=car5[0];
@@ -74,9 +74,9 @@ function set_car_info_on_pop_info(){
     document.getElementById('car_year').innerHTML=car5[2];
     document.getElementById('car_distributor').innerHTML=car5[3];
     document.getElementById('car_price').innerHTML=car5[4];
-    document.getElementById('car_3').src="Resources/img/cars/bmw/x7_3.jpg";
-    document.getElementById('car_2').src="Resources/img/cars/bmw/x7_2.jpg";
-    document.getElementById('car_1').src="Resources/img/cars/bmw/x7_1.jpg";
+    document.getElementById('car-pic-3').src="Resources/img/cars/bmw/x7_3.jpg";
+    document.getElementById('car-pic-2').src="Resources/img/cars/bmw/x7_2.jpg";
+    document.getElementById('car-pic-1').src="Resources/img/cars/bmw/x7_1.jpg";
   }
   else if (car=='accord'){
     document.getElementById('car_company').innerHTML=car6[0];
@@ -84,9 +84,9 @@ function set_car_info_on_pop_info(){
     document.getElementById('car_year').innerHTML=car6[2];
     document.getElementById('car_distributor').innerHTML=car6[3];
     document.getElementById('car_price').innerHTML=car6[4];
-    document.getElementById('car_3').src="Resources/img/cars/accord/accord_3.jpg";
-    document.getElementById('car_2').src="Resources/img/cars/accord/accord_2.jpg";
-    document.getElementById('car_1').src="Resources/img/cars/accord/accord_1.jpg";
+    document.getElementById('car-pic-3').src="Resources/img/cars/accord/accord_3.jpg";
+    document.getElementById('car-pic-2').src="Resources/img/cars/accord/accord_2.jpg";
+    document.getElementById('car-pic-1').src="Resources/img/cars/accord/accord_1.jpg";
   }
   else if (car=='fortuner'){
     document.getElementById('car_company').innerHTML=car7[0];
@@ -94,9 +94,9 @@ function set_car_info_on_pop_info(){
     document.getElementById('car_year').innerHTML=car7[2];
     document.getElementById('car_distributor').innerHTML=car7[3];
     document.getElementById('car_price').innerHTML=car7[4];
-    document.getElementById('car_3').src="Resources/img/cars/fortuner/fortuner_3.jpg";
-    document.getElementById('car_2').src="Resources/img/cars/fortuner/fortuner_2.jpg";
-    document.getElementById('car_1').src="Resources/img/cars/fortuner/fortuner_1.jpg";
+    document.getElementById('car-pic-3').src="Resources/img/cars/fortuner/fortuner_3.jpg";
+    document.getElementById('car-pic-2').src="Resources/img/cars/fortuner/fortuner_2.jpg";
+    document.getElementById('car-pic-1').src="Resources/img/cars/fortuner/fortuner_1.jpg";
   }
   else if (car=='civic_2015'){
     document.getElementById('car_company').innerHTML=car8[0];
@@ -104,9 +104,9 @@ function set_car_info_on_pop_info(){
     document.getElementById('car_year').innerHTML=car8[2];
     document.getElementById('car_distributor').innerHTML=car8[3];
     document.getElementById('car_price').innerHTML=car8[4];
-    document.getElementById('car_3').src="Resources/img/cars/civic2015/civic_2015_3.jpg";
-    document.getElementById('car_2').src="Resources/img/cars/civic2015/civic_2015_2.jpg";
-    document.getElementById('car_1').src="Resources/img/cars/civic2015/civic_2015_1.jpg";
+    document.getElementById('car-pic-3').src="Resources/img/cars/civic2015/civic_2015_3.jpg";
+    document.getElementById('car-pic-2').src="Resources/img/cars/civic2015/civic_2015_2.jpg";
+    document.getElementById('car-pic-1').src="Resources/img/cars/civic2015/civic_2015_1.jpg";
   }
   else if (car=='ciaz'){
     document.getElementById('car_company').innerHTML=car9[0];
@@ -114,9 +114,9 @@ function set_car_info_on_pop_info(){
     document.getElementById('car_year').innerHTML=car9[2];
     document.getElementById('car_distributor').innerHTML=car9[3];
     document.getElementById('car_price').innerHTML=car9[4];
-    document.getElementById('car_3').src="Resources/img/cars/suzuki/ciaz_3.jpg";
-    document.getElementById('car_2').src="Resources/img/cars/suzuki/ciaz_2.jpg";
-    document.getElementById('car_1').src="Resources/img/cars/suzuki/ciaz_1.jpg";
+    document.getElementById('car-pic-3').src="Resources/img/cars/suzuki/ciaz_3.jpg";
+    document.getElementById('car-pic-2').src="Resources/img/cars/suzuki/ciaz_2.jpg";
+    document.getElementById('car-pic-1').src="Resources/img/cars/suzuki/ciaz_1.jpg";
   }
   else if (car=='xli'){
     document.getElementById('car_company').innerHTML=car10[0];
@@ -124,9 +124,9 @@ function set_car_info_on_pop_info(){
     document.getElementById('car_year').innerHTML=car10[2];
     document.getElementById('car_distributor').innerHTML=car10[3];
     document.getElementById('car_price').innerHTML=car10[4];
-    document.getElementById('car_3').src="Resources/img/cars/xli/xli_3.jpg";
-    document.getElementById('car_2').src="Resources/img/cars/xli/xli_2.jpg";
-    document.getElementById('car_1').src="Resources/img/cars/xli/xli_1.jpg";
+    document.getElementById('car-pic-3').src="Resources/img/cars/xli/xli_3.jpg";
+    document.getElementById('car-pic-2').src="Resources/img/cars/xli/xli_2.jpg";
+    document.getElementById('car-pic-1').src="Resources/img/cars/xli/xli_1.jpg";
   }
    else {
      alert("Car information unavailable!");
