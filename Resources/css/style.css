@@ -9,10 +9,11 @@ body {
   text-rendering: optimizeLegibility;
   font-size: 15px;
   line-height: 1.5;
-  overflow-x: hidden;}
+  overflow-x: hidden;
+  overflow-y:scroll;}
 
-section {
-  min-height: 200px;
+header {
+  padding-bottom: 50%;
 }
 
   @keyframes moveinright {
@@ -44,9 +45,10 @@ section {
 }
 
 nav {
-  background-color: grey;
   position: fixed;
+  background-color: grey;
   width: 100%;
+  z-index: 9999;
 }
 
 .logo {
@@ -66,7 +68,6 @@ nav {
   margin-left: 50%;}
 
 .nav-options li {
-  position: relative;
   display: inline-block;
   margin-left: 30px;}
 
@@ -104,6 +105,7 @@ nav {
   transform: translate(-50%, -50%);} */
 
   #myVideo {
+  position: absolute;
   right: 0;
   bottom: 0;
   min-width: 100%;
@@ -112,7 +114,7 @@ nav {
 
 /* Add some content at the bottom of the video/page */
 .content {
-  /* position:fixed; */
+  position:absolute;
   bottom: 0;
   background: rgba(0, 0, 0, 0.5);
   color: #f1f1f1;
@@ -407,7 +409,8 @@ nav {
 
 .search {
   position: absolute;
-  margin-left: 15%;}
+  margin-top: 25%;
+  margin-left: 20%;}
 
 .search-feild {
   width: 50rem;
