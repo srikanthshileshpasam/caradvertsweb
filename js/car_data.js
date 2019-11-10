@@ -25,7 +25,7 @@ var car10 = ['Toyota', 'XLI', '2019', 'Trans Auto', '4500']
 
 
 function set_car_info_on_pop_info(){
-  if (car=="gli"){
+  if (car=='gli'){
     document.getElementById('car_company').innerHTML=car1[0];
     document.getElementById('car_model').innerHTML=car1[1];
     document.getElementById('car_year').innerHTML=car1[2];
@@ -44,9 +44,9 @@ function set_car_info_on_pop_info(){
     document.getElementById('car_year').innerHTML=car2[2];
     document.getElementById('car_suplier').innerHTML=car2[3];
     document.getElementById('car_price').innerHTML=car2[4];
-    document.getElementsById('car_3').src="Resources/img/cars/civic/civic_3.jpeg";
-    document.getElementsById('car_2').src="Resources/img/cars/civic/civic_2.jpg";
-    document.getElementsById('car_1').src="Resources/img/cars/civic/civic_1.jpg";
+    document.getElementById('car_3').src="Resources/img/cars/civic/civic_3.jpeg";
+    document.getElementById('car_2').src="Resources/img/cars/civic/civic_2.jpg";
+    document.getElementById('car_1').src="Resources/img/cars/civic/civic_1.jpg";
   }
   else if (car=='city'){
     document.getElementById('car_company').innerHTML=car3[0];
