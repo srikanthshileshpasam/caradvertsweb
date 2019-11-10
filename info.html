@@ -5,7 +5,8 @@
 	<meta charset="utf-8">
 	<meta name="viewpoint" content="width=device-width, initial-scale=1.0">
 
-<link href="https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css" rel="stylesheet">
+  <title>CAR ADVERTS - Garage</title>
+
 <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400&display=swap" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="Resources/css/styleinfo.css">
 <link rel="stylesheet" type="text/css" href="Resources/css/responsive.css">
@@ -100,11 +101,59 @@
 			<h3 id="car_suplier">Distributor</h3>
 			<h3 id="car_price">Price</h3>
 			<a href="index.html" class="btn">Return</a>
-			<a href="contact_us.html" class="btn">Book Now</a>
+			<a href="#pop-up-form" class="btn">Book Now</a>
 		</div>
 </section>
 
+  <div class="pop-up" id="pop-up-form">
+      <div class="pop-up-content">
+        <h2>Contact Us Form</h2>
+        <div class="pop-up-text">
+          <h3>Name</h3>
+          <form>
+          <input type="text" value="" placeholder="Your name" class="pop-up-textbox" id="name">
+          </form>
+        </div>
+      <div class="pop-up-text">
+        <h3>Email</h3>
+        <form>
+           <input type="email" value="" name="email" placeholder="Your email address" class="pop-up-textbox" id="email">
+           </form>
+      </div>
 
+      <div class="pop-up-text">
+        <h3>Phone</h3>
+        <form>
+        <input type="text" value="" placeholder="Your mobile number" class="pop-up-textbox" id="phone">
+        </form>
+      </div>
+      <div class="pop-up-text">
+        <h3>I want to...</h3>
+        <form>
+  <input type="radio" name="option" value="" class="pop-up-radio"> Buy a car<br>
+  <input type="radio" name="option" value="" class="pop-up-radio"> Sell my car<br>
+  <input type="radio" name="option" value="" class="pop-up-radio"> Something else
+  </form>
+  </div>
+  <div class="pop-up-text">
+    <h3>Call on</h3>
+    <form>
+      <input type="datetime-local" name="callback" class="pop-up-textbox">
+      </form>
+  </div>
+
+      <div class="pop-up-text">
+        <h3>Comments</h3>
+        <form>
+        <input type="text" value="" placeholder="Provide details here" id='message' class="pop-up-message" >
+        </form>
+      </div>
+        <a href="#pop-up" class="btn" onclick='clear_form()'>Go back</a>
+        <a href="#pop-up" class="btn" id="contact-btn" onclick="message()">Contact Us</a>
+      </div>
+    </div>
+
+<script type="text/javascript" src="Resources/js/contact_us.js"></script>
 <script type="text/javascript" src="Resources/js/car_data.js"></script>
 <script type="text/javascript" src="Resources/js/slide.js"></script>
 
