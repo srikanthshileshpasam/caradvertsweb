@@ -238,41 +238,32 @@ nav h1 {
 
 
   .pop-up {
+    z-index: 9999;
     height: 100%;
     width: 100%;
     position: fixed;
     top: 0;
     left: 0;
-    background-color: rgba(0, 0, 0, 0.8);
+    background: rgba(0, 0, 0, 0.8);
     opacity: 0;
     visibility: hidden;
     transition: all .5s;}
 
-  .pop-up:target {
+   .pop-up:target {
     opacity: 1;
     visibility: visible;}
 
-  .pop-up-close:link, .pop-up-close:visited {
-    color: #777;
-    position: absolute;
-    top: .02rem;
-    right: 1rem;
-    font-size: 2rem;
-    text-decoration: none;
-    display: inline-block;}
+    .pop-up:target .pop-up-content {
+      opacity: 1;
+      transform: translate(-50%, -50%) scale(1);}
 
-  .pop-up-close:hover {
-    color: rgba(126, 213, 111, 0.8);}
 
   .pop-up-content {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
     width: 75%;
-    height: 40rem;
-    background-color: rgba(255, 255, 255, 0.9);
-    box-shadow: 0 2rem 4rem rgba(0, 0, 0, 0.2);
+    background-color: rgba(255, 255, 255, 0.8);
     border-radius: 5px;
     display: table;
     transform: translate(-50%, -50%) scale(0.5);
@@ -283,36 +274,50 @@ nav h1 {
     font-size: 50px;
     font-weight: 100;}
 
-  .pop-up:target .pop-up-content {
-    opacity: 1;
-    transform: translate(-50%, -50%) scale(1);}
+  .pop-up-text h3 {
+    text-align: left;
+    margin-left: 5%;
+    font-size: 20px;
+    font-weight: 400;
+    display: inline-block;}
 
-  .pop-up_email {
-    text-align: center;}
+  .pop-up-email, .pop-up-message{
+    margin-left: 10%;
+    padding: 1% 0;
+    padding-right: 15%;
+    border: none;
+    border-radius: 5px;
+  }
 
-  .pop-up_input_email {
-    align-items:center;
-    margin-left:21.3rem;
-    padding-right: 10rem;
-    padding-top: .8rem;
-    padding-bottom: .8rem;
-    border: none;}
+  .pop-up-message{
+    margin-left: 9%;
+    padding-bottom: 15%;
+  }
 
-  .pop-up_input_email:focus {
-    border-bottom: 4px solid(0,0,0,.9);}
 
-  .pop-up_message {
-    text-align: center;}
+  /* .pop-up_input_email {
+    float:left;
+    display: inline-block;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 20%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-right: 15%;
+    padding-left: 1%;
+    border: none;
+    border-radius: 5px;} */
 
-  .pop-up_input_message {
-    align-items: center;
-    margin-left: 21.3rem;
-    padding-right: 10rem;
-    padding-top: .8rem;
-    padding-bottom: 15rem;
+  /* .pop-up_input_message {
+    float:left;
+    display: inline-block;
+    margin-left: 10px;
+    padding-right: 15%;
+    padding-top: 1%;
+    padding-bottom: 20%;
     border: none;
     margin-bottom: 1rem;
-    display: block;}
+    display: inline-block;} */
 
 
     .btn, .btn:link, .btn:visited {
