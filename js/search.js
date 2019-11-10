@@ -43,8 +43,7 @@ function clear_form(){
 
 
 
-
-search_form.onclick=function search_car(){
+search_form.onclick= function search_car(){
 
   var year=document.getElementById('search-input').value;
 
@@ -60,7 +59,6 @@ document.getElementById('car-7').classList.add("overall_display");
 document.getElementById('car-8').classList.add("overall_display");
 document.getElementById('car-9').classList.add("overall_display");
 document.getElementById('car-10').classList.remove("overall_display");
-return false;
 }
 else if (year==2018) {
   document.getElementById('car-1').classList.add("overall_display");
@@ -73,7 +71,6 @@ else if (year==2018) {
   document.getElementById('car-8').classList.add("overall_display");
   document.getElementById('car-9').classList.remove("overall_display");
   document.getElementById('car-10').classList.add("overall_display");
-  return false;
 }
 else if (year==2017) {
   document.getElementById('car-1').classList.add("overall_display");
@@ -86,7 +83,6 @@ else if (year==2017) {
   document.getElementById('car-8').classList.add("overall_display");
   document.getElementById('car-9').classList.add("overall_display");
   document.getElementById('car-10').classList.add("overall_display");
-  return false;
 }
 else if (year==2015) {
   document.getElementById('car-1').classList.add("overall_display");
@@ -99,7 +95,6 @@ else if (year==2015) {
   document.getElementById('car-8').classList.remove("overall_display");
   document.getElementById('car-9').classList.add("overall_display");
   document.getElementById('car-10').classList.add("overall_display");
-  return false;
 }
 else if (year==2012) {
   document.getElementById('car-1').classList.add("overall_display");
@@ -112,27 +107,9 @@ else if (year==2012) {
   document.getElementById('car-8').classList.add("overall_display");
   document.getElementById('car-9').classList.add("overall_display");
   document.getElementById('car-10').classList.add("overall_display");
-return false;
 }
 else{
   alert(`Sorry! No cars available that are manufactured in ${year}. Please search for a different year.`);
 return false;
 }
-
-
 }
-
-// search_form.onsubmit=function search_car() {
-//     let input = document.getElementById('search-input').value
-//     input=input.toLowerCase();
-//     let x =
-//
-//     for (i = 0; i < x.length; i++) {
-//         if (!x[i].innerHTML.toLowerCase().includes(input)) {
-//             x[i].style.display="none";
-//         }
-//         else {
-//             x[i].style.display="list-item";
-//         }
-//     }
-// }

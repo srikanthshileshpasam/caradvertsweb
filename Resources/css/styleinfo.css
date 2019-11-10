@@ -228,3 +228,120 @@ nav h1 {
     background-color: grey;
     padding-left: 25px;
   }
+
+
+  .pop-info {
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.8);
+    opacity: 0;
+    visibility: hidden;
+    transition: all .5s;}
+
+  .pop-info:target {
+    opacity: 1;
+    visibility: visible;}
+
+  .pop-info-close:link, .pop-info-close:visited {
+    color: #777;
+    position: absolute;
+    top: .02rem;
+    right: 1rem;
+    font-size: 2rem;
+    text-decoration: none;
+    display: inline-block;}
+
+  .pop-info-close:hover {
+    color: rgba(126, 213, 111, 0.8);}
+
+  .pop-info-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 75%;
+    height: 40rem;
+    background-color: rgba(255, 255, 255, 0.9);
+    box-shadow: 0 2rem 4rem rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    display: table;
+    transform: translate(-50%, -50%) scale(0.5);
+    transition: all .5s .5s;}
+
+  .pop-info h2 {
+    margin-left: 40%;
+    font-size: 1.5rem;}
+
+  .pop-info:target .pop-info-content {
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1);}
+
+  .pop-info-img {
+    margin: 0 5%;
+    transition: all .5s}
+
+  .pop-info-img:hover {
+    transform: scale(2.5);}
+
+  .pop-info-details {
+    padding-left: 5%;
+    font-size: 1rem;}
+
+  .pop-info_btn {
+    margin-left: 1rem;
+    color: green;}
+
+  .pop-info_email {
+    text-align: center;}
+
+  .pop-info_input_email {
+    align-items:center;
+    margin-left:21.3rem;
+    padding-right: 10rem;
+    padding-top: .8rem;
+    padding-bottom: .8rem;
+    border: none;}
+
+  .pop-info_input_email:focus {
+    border-bottom: 4px solid(0,0,0,.9);}
+
+  .pop-info_message {
+    text-align: center;}
+
+  .pop-info_input_message {
+    align-items: center;
+    margin-left: 21.3rem;
+    padding-right: 10rem;
+    padding-top: .8rem;
+    padding-bottom: 15rem;
+    border: none;
+    margin-bottom: 1rem;
+    display: block;}
+
+  .pop-info_conatct_btn {
+    margin-left: 1rem;
+      color: green;}
+
+
+    .btn, .btn:link, .btn:visited {
+      margin-left: 27%;
+      margin-bottom: 2%;
+      background-color: #ffa500;
+      color: white;
+      text-transform: capitalize;
+      text-align: center;
+      text-decoration: none;
+      padding: 15px;
+      display: inline-block;
+      border-radius: 100px;
+      transition: all .2s;
+      position: relative;
+      border: none;
+      cursor: pointer;}
+
+      .btn:hover, .btn:link:hover, .btn:visited:hover {
+        transform: translatey(-3px);
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);}
