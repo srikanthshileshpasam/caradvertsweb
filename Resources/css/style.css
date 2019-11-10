@@ -130,7 +130,8 @@ nav {
   background-color: #a8a8a8;}
 
 .cars-list{
-  padding-top:5%;
+  margin-top: -15%;
+  padding-top: 15%;
 }
 
   .btn, .btn:link, .btn:visited {
