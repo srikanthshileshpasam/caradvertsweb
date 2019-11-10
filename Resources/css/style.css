@@ -46,7 +46,7 @@ header {
 
 nav {
   position: fixed;
-  background-color: grey;
+  background-color: #a8a8a8;
   width: 100%;
   z-index: 9999;
 }
@@ -143,11 +143,13 @@ nav {
   padding-top: 45px;}
 
 .cars-inventory h2 {
-  margin-top: -5rem;
+  text-align: center;
+  margin-top: 2%;
   font-size: 4rem;
   font-weight: 200;
   display: inline-block;
-  letter-spacing: .1rem;}
+  letter-spacing: 1px;
+  border-bottom: 2px solid #e67e22;}
 
 .btn, .btn:link, .btn:visited {
   background-color: #ffa500;
