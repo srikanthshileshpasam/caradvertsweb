@@ -13,11 +13,7 @@
 }
 
 @media only screen and (max-width: 1410px) {
-  #myVideo {
 
-  min-width: 80%;
-  min-height: 80%;
-}
   .logo{
     height: 60px;
   }
@@ -44,6 +40,9 @@
     .cars-list{
       padding-top: 35%;
     }
+    .nav-options{
+      margin-left: -15%;
+    }
 
 }
 
@@ -57,7 +56,9 @@
   }
   .cars-list{
     padding-top: 45%;
+    margin-left: -5%;
   }
+
 
 }
 
