@@ -15,14 +15,12 @@ function myFunction() {
   }
 }
 
-var search_form=document.getElementById('search_form');
 
+var search_form=document.getElementById('search-form');
 
 search_form.onclick= function search_car(){
-
   var year=document.getElementById('search-input').value;
 
-  document.getElementById('car-1').classList.add("mystyle");
 if(year==2019){
 document.getElementById('car-1').classList.remove("overall_display");
 document.getElementById('car-2').classList.remove("overall_display");
@@ -85,6 +83,6 @@ else if (year==2012) {
 }
 else{
   alert(`Sorry! No cars available that are manufactured in ${year}. Please search for a different year.`);
-return false;
+  return false;
 }
 }
