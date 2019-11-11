@@ -60,7 +60,7 @@
   }
   .cars-inventory{
     margin-top: 10%;
-    margin-left: -4%
+    margin-left: -4%;
   }
   .content{
     font-size: 1.5rem;
@@ -82,73 +82,14 @@
   }
 }
 
-@media only screen and (max-width: 995px) {
-  .cars-list {
-    margin-top: -35%;
-    padding-top: 35%;
-    margin-left: -3%;
-  }
-
+@media only screen and (max-width: 768px) {
   .content{
     font-size: 1rem;
   }
+  .cars-list {
+    margin-top: 70%;
+  }
   .cars-inventory{
-    margin-top: 15%;
-  }
-
-
-}
-
-@media only screen and (max-width: 940px) {
-  .nav-options li a{
-    font-size: 0.1rem;
-  }
-  .cars-list {
-    margin-top: -40%;
-    padding-top: 40%;
-    margin-left: -4%;
-    padding-left: -2%;
-  }
-
-  .cars-inventory{
-    margin-top: 20%;
-  }
-
-  .car{
-    margin-right: 5%;
-    margin-left: 15%;
-  }
-
-  .search-feild{
-    width:20rem;
-    margin-left: 4rem;
-  }
-
-  .car-details ul p, .car-details ul li, .display h4{
-    font-size: 1rem;
-  }
-}
-
-@media only screen and (max-width: 860px) {
-  .cars-list {
     margin-top: 10%;
-    padding-top: 10%;
-    margin-left: -4%;
-    padding-left: -2%;
   }
-
-  .car-details ul p, .car-details ul li, .display h4{
-    font-size: 0.9rem;
-  }
-
-}
-
-@media only screen and (max-width: 780px) {
-  .cars-list {
-    margin-top: 10%;
-    padding-top: 10%;
-    margin-left: -4%;
-    padding-left: -2%;
-  }
-
 }
