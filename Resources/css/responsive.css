@@ -39,14 +39,17 @@
       margin-left: -15%;
     }
     .cars-inventory{
-      margin-top: 10%;
+      margin-top: -5%;
     }
     .search-feild{
       width:25rem;
       margin-left: 5rem;
     }
     .logo{
-      height: 60px;
+      height: 80px;
+    }
+    .car-details ul p, .car-details ul li, .display h4{
+      font-size: 1.3rem;
     }
 }
 
