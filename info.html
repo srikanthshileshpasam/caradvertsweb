@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewpoint" content="width=device-width, initial-scale=1.0">
+
+<link href="https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="Resources/css/styleinfo.css">
+<link rel="stylesheet" type="text/css" href="Resources/css/responsive.css">
+</head>
+
+<body onload="set_car_info_on_pop_info()">
+
+<section class="nav-section">
+<nav>
+  		<ul class= "nav-options anim">
+				<li><a href="#">Sign Up</a></li>
+				<li><a href="#">Contact Us</a></li>
+		</ul>
+			<img src="Resources/css/img/logo.png" alt="Car Adverts logo" class="logo">
+</nav>
+</section>
+
+<section class="page">
+<div class="big">
+  <img style="width:50%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor" id='car_1'/>
+</div>
+
+<div class="row">
+  <div class="column">
+    <img style="width:100%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor" id="car_2"/>
+  </div>
+  <div class="column">
+    <img style="width:100%" onclick="openModal();currentSlide(2)" class="hover-shadow cursor" id="car_3"/>
+  </div>
+  <div class="column">
+    <img style="width:100%" onclick="openModal();currentSlide(3)" class="hover-shadow cursor" id="car_4"/>
+  </div>
+  <div class="column">
+    <img style="width:100%" onclick="openModal();currentSlide(4)" class="hover-shadow cursor" id="car_5" />
+  </div>
+</div>
+
+<div id="myModal" class="modal">
+  <span class="close cursor" onclick="closeModal()">&times;</span>
+  <div class="modal-content">
+
+    <div class="mySlides">
+      <div class="numbertext">1 / 4</div>
+      <img id='car_6' style="width:100%">
+    </div>
+
+    <div class="mySlides">
+      <div class="numbertext">2 / 4</div>
+      <img id='car_6' style="width:100%">
+    </div>
+
+    <div class="mySlides">
+      <div class="numbertext">3 / 4</div>
+      <img id='car_6' style="width:100%">
+    </div>
+
+    <div class="mySlides">
+      <div class="numbertext">4 / 4</div>
+      <img id='car_6' style="width:100%">
+    </div>
+
+    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+    <div class="caption-container">
+      <p id="caption"></p>
+    </div>
+
+
+    <div class="column">
+      <img class="demo cursor" id='car_3' style="width:100%" onclick="currentSlide(1)" alt="Nature and sunrise">
+    </div>
+    <div class="column">
+      <img class="demo cursor" id='car_3' style="width:100%" onclick="currentSlide(2)" alt="Snow">
+    </div>
+    <div class="column">
+      <img class="demo cursor" id='car_2' style="width:100%" onclick="currentSlide(3)" alt="Mountains and fjords">
+    </div>
+    <div class="column">
+      <img class="demo cursor" id='car_1' style="width:100%" onclick="currentSlide(4)" alt="Northern Lights">
+    </div>
+  </div>
+</div>
+</section>
+
+<section class="info">
+  <div>
+			<h2>Vehicle Details</h2>
+			<h3 id='car_company'>Manufacturer</h3>
+			<h3 id="car_model">Model</h3>
+			<h3 id="car_year">Year</h3>
+			<h3 id="car_suplier">Distributor</h3>
+			<h3 id="car_price">Price</h3>
+			<a href="index.html" class="btn">Return</a>
+			<a href="#pop-up-form" class="btn">Book Now</a>
+		</div>
+</section>
+
+    <div class="pop-up" id="pop-up-form">
+      <div class="pop-up-content">
+        <h2>Contact Us Form</h2>
+        <div class="pop-up-text">
+          <h3>Enter your name</h3>
+          <input type="text" name="" value="" placeholder="Your name" class="pop-up-name" id="name">
+        </div>
+      <div class="pop-up-text">
+        <h3>Enter your email</h3>
+        <input type="text" name="" value="" placeholder="Your email" class="pop-up-email" id="email">
+      </div>
+      <div class="pop-up-text">
+        <h3>Any Other details</h3>
+        <input type="text" name="" value="" placeholder="Provide details here" id='message' class="pop-up-message" >
+      </div>
+        <a href="#pop-up" class="btn" onclick='clear_form()' >Go back</a>
+        <a href="#pop-up" class="btn" id="contact-btn" onclick="message()">Contact Us</a>
+      </div>
+    </div>
+
+
+<script type="text/javascript" src="js/slide.js"></script>
+<script type="text/javascript" src="js/car_data.js"></script>
+
+</body>
+</html>
