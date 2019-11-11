@@ -1,24 +1,37 @@
-var car1 = ['Toyota', 'GLI', '2019', 'Easy Cars', '4000']
-var car2 = ['Honda', 'Civic', '2019', 'Alex Cars', '6000']
-var car3 = ['Honda', 'City', '2019', 'Trans Auto', '5000']
-var car4 = ['Toyota', 'Grandy', '2017', 'Trans Auto', '9500']
-var car5 = ['BMW', 'X7', '2019', 'Alex Cars', '4000']
-var car6 = ['Honda', 'Accord', '2012', 'Alex Cars', '7000']
-var car7 = ['Toyota', 'Fortuner', '2018', 'Alex Cars', '4000']
-var car8 = ['Honda', 'Civic', '2015', 'Trans Auto', '8000']
-var car9 = ['Suzuki', 'Ciaz', '2018', 'Alex Cars', '6000']
-var car10 = ['Toyota', 'XLI', '2019', 'Trans Auto', '4500']
+// var car1 = ['Toyota', 'GLI', '2019', 'Easy Cars', '4000']
+// var car2 = ['Honda', 'Civic', '2019', 'Alex Cars', '6000']
+// var car3 = ['Honda', 'City', '2019', 'Trans Auto', '5000']
+// var car4 = ['Toyota', 'Grandy', '2017', 'Trans Auto', '9500']
+// var car5 = ['BMW', 'X7', '2019', 'Alex Cars', '4000']
+// var car6 = ['Honda', 'Accord', '2012', 'Alex Cars', '7000']
+// var car7 = ['Toyota', 'Fortuner', '2018', 'Alex Cars', '4000']
+// var car8 = ['Honda', 'Civic', '2015', 'Trans Auto', '8000']
+// var car9 = ['Suzuki', 'Ciaz', '2018', 'Alex Cars', '6000']
+// var car10 = ['Toyota', 'XLI', '2019', 'Trans Auto', '4500']
+//
+// var all_cars = [['Toyota', 'GLI', '2019', 'Easy Cars', '4000'],
+//                 ['Honda', 'Civic', '2019', 'Alex Cars', '6000'],
+//                 ['Honda', 'City', '2019', 'Trans Auto', '5000'],
+//                 ['Toyota', 'Grandy', '2017', 'Trans Auto', '9500'],
+//                 ['BMW', 'X7', '2019', 'Alex Cars', '4000'],
+//                 ['Honda', 'Accord', '2012', 'Alex Cars', '7000'],
+//                 ['Toyota', 'Fortuner', '2018', 'Alex Cars', '4000'],
+//                 ['Honda', 'Civic', '2015', 'Trans Auto', '8000'],
+//                 ['Suzuki', 'Ciaz', '2018', 'Alex Cars', '6000'],
+//                 ['Toyota', 'XLI', '2019', 'Trans Auto', '4500']]
 
-var all_cars = [['Toyota', 'GLI', '2019', 'Easy Cars', '4000'],
-                ['Honda', 'Civic', '2019', 'Alex Cars', '6000'],
-                ['Honda', 'City', '2019', 'Trans Auto', '5000'],
-                ['Toyota', 'Grandy', '2017', 'Trans Auto', '9500'],
-                ['BMW', 'X7', '2019', 'Alex Cars', '4000'],
-                ['Honda', 'Accord', '2012', 'Alex Cars', '7000'],
-                ['Toyota', 'Fortuner', '2018', 'Alex Cars', '4000'],
-                ['Honda', 'Civic', '2015', 'Trans Auto', '8000'],
-                ['Suzuki', 'Ciaz', '2018', 'Alex Cars', '6000'],
-                ['Toyota', 'XLI', '2019', 'Trans Auto', '4500']]
+
+    var xhr = new XMLHttpRequest();
+    xhr.onreadystatechange = function() {
+      if(xhr.readyState==4 && xhr.status==200)
+      {
+        var javobj=JSON.parse(xhr.response);
+      }
+    };
+    xhr.open("GET", "data/car_data.json", true);
+    xhr.send();
+
+
 
 // initialize an empty object
 let car = '';
@@ -52,7 +65,7 @@ let i=0;
 while(i<=9){
     let j=1;
     while(j<=4){
-      document.getElementById("car1_model").innerHTML=all_cars[i][j];
+      document.getElementById("car1_model").innerHTML=xhr.car1;
       j++;
       document.getElementById('car1_year').innerHTML=all_cars[i][j];
       j++;
