@@ -1,0 +1,324 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewpoint" content="width=device-width, initial-scale=1.0">
+
+<title>CAR ADVERTS - Home</title>
+
+<link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="Resources/css/style.css">
+<link rel="stylesheet" type="text/css" href="Resources/css/responsive.css">
+</head>
+
+<body onload="cars_display()">
+
+
+	<header onload="car_details()">
+		<nav id="nav-bar">
+		<div class="hero">
+			<ul class="nav-options anim">
+			 <li><a href="#">Sign Up / Sign In</a></li>
+		 </ul>
+		 <img src="Resources/css/img/logo.png" alt="Car Adverts logo" class="logo">
+	</div>
+</nav>
+<!-- The video -->
+<video autoplay muted loop id="myVideo">
+<source src="Resources/css/videos/background2.mp4" type="video/mp4">
+</video>
+
+<div class="search">
+		<input type="text" placeholder="Enter year" class="search-feild" id='search-input'/>
+		<a href="#inventory"  class="search-btn" id='search-form'>Search</a>
+</div>
+
+<!-- Optional: some overlay text to describe the video -->
+<div class="content">
+<h1>CAR ADVERTS</h1>
+<p>The journey starts here...</p>
+<!-- Use a button to pause/play the video with JavaScript -->
+<button id="myBtn" onclick="myFunction()">Pause Video</button>
+</div>
+	</header>
+
+
+	<section class="cars-inventory" id='inventory'>
+
+<div class="cars-list">
+		<div class="car" id='car-1'>
+			<div class="display display-front">
+				<img  id="car-pic-1" class="car-picture"/>
+					<h4>Toyota</h4>
+						<div class="car-details">
+							<ul>
+								<p>Model -</p>
+								<li id="car1_model"></li>
+								<p>Year -</p>
+								<li id="car1_year"></li>
+								<p>Shop -</p>
+								<li id="car1_distributor"></li>
+								<p>Price -</p>
+								<li id="car1_price"></li>
+							</ul>
+						</div>
+				</div>
+
+				<div class="display display-back">
+					<div class="car-info">
+						<a href='info.html?car=gli' class="btn btn-on" id="feature-btn-guid">Learn more</a>
+					</div>
+				</div>
+		</div>
+
+
+		<div class="car" id='car-2'>
+			<div class="display display-front">
+				<img  id="car-pic-2" class="car-picture"/>
+					<h4>Honda</h4>
+						<div class="car-details">
+							<ul>
+								<p>Model -</p>
+								<li id="car2_model"></li>
+								<p>Year -</p>
+								<li id="car2_year"></li>
+								<p>Shop -</p>
+								<li id="car2_distributor"></li>
+								<p>Price -</p>
+								<li id="car2_price"></li>
+							</ul>
+						</div>
+					</div>
+
+					<div class="display display-back">
+						<div class="car-info">
+							<a href='info.html?car=civic' class="btn btn-on" id="feature-btn-guid">Learn More</a>
+						</div>
+					</div>
+		</div>
+
+
+		<div class="car" id='car-3'>
+			<div class="display display-front">
+				<img  id="car-pic-3" class="car-picture"/>
+				<h4>Honda</h4>
+				<div class="car-details">
+					<ul>
+						<p>Model -</p>
+						<li id="car3_model"></li>
+						<p>Year -</p>
+						<li id="car3_year"></li>
+						<p>Shop -</p>
+						<li id="car3_distributor"></li>
+						<p>Price -</p>
+						<li id="car3_price"></li>
+					</ul>
+				</div>
+			</div>
+
+			<div class="display display-back">
+				<div class="car-info">
+					<a href='info.html?car=city' class="btn btn-on"id="feature-btn-guid">Learn more</a>
+				</div>
+			</div>
+		</div>
+
+
+		<div class="car" id='car-4'>
+			<div class="display display-front">
+				<img  id="car-pic-4" class="car-picture"/>
+					<h4>Toyota</h4>
+						<div class="car-details">
+							<ul>
+								<p>Model -</p>
+								<li id="car4_model"></li>
+								<p>Year -</p>
+								<li id="car4_year"></li>
+								<p>Shop -</p>
+								<li id="car4_distributor"></li>
+								<p>Price -</p>
+								<li id="car4_price"></li>
+							</ul>
+						</div>
+					</div>
+
+					<div class="display display-back">
+						<div class="car-info">
+							<a href='info.html?car=grandy' class="btn btn-on"id="feature-btn-guid">Learn more</a>
+						</div>
+					</div>
+		</div>
+
+
+		<div class="car" id='car-5'>
+			<div class="display display-front">
+				<img  id="car-pic-5" class="car-picture"/>
+					<h4>BMW</h4>
+						<div class="car-details">
+							<ul>
+								<p>Model -</p>
+								<li id="car5_model"></li>
+								<p>Year -</p>
+								<li id="car5_year"></li>
+								<p>Shop -</p>
+								<li id="car5_distributor"></li>
+								<p>Price -</p>
+								<li id="car5_price"></li>
+							</ul>
+						</div>
+					</div>
+
+					<div class="display display-back">
+						<div class="car-info">
+							<a href='info.html?car=x7' class="btn btn-on"id="feature-btn-guid">Learn more</a>
+						</div>
+					</div>
+		</div>
+
+
+		<div class="car" id='car-6'>
+			<div class="display display-front">
+				<img  id="car-pic-6" class="car-picture"/>
+					<h4>Honda</h4>
+						<div class="car-details">
+							<ul>
+								<p>Model -</p>
+								<li id="car6_model"></li>
+								<p>Year -</p>
+								<li id="car6_year"></li>
+								<p>Shop -</p>
+								<li id="car6_distributor"></li>
+								<p>Price -</p>
+								<li id="car6_price"></li>
+							</ul>
+						</div>
+					</div>
+
+					<div class="display display-back">
+						<div class="car-info">
+							<a href='info.html?car=accord' class="btn btn-on"id="feature-btn-guid">Learn more</a>
+						</div>
+					</div>
+		</div>
+
+
+		<div class="car" id='car-7'>
+			<div class="display display-front">
+				<img  id="car-pic-7" class="car-picture"/>
+					<h4>Toyota</h4>
+						<div class="car-details">
+							<ul>
+								<p>Model -</p>
+								<li id="car7_model"></li>
+								<p>Year -</p>
+								<li id="car7_year"></li>
+								<p>Shop -</p>
+								<li id="car7_distributor"></li>
+								<p>Price -</p>
+								<li id="car7_price"></li>
+							</ul>
+						</div>
+					</div>
+
+					<div class="display display-back">
+						<div class="car-info">
+							<a href='info.html?car=fortuner' class="btn btn-on"id="feature-btn-guid">Learn more</a>
+						</div>
+					</div>
+		</div>
+
+
+		<div class="car" id='car-8'>
+			<div class="display display-front">
+				<img  id="car-pic-8" class="car-picture"/>
+					<h4>Honda</h4>
+						<div class="car-details">
+							<ul>
+								<p>Model -</p>
+								<li id="car8_model"></li>
+								<p>Year -</p>
+								<li id="car8_year"></li>
+								<p>Shop -</p>
+								<li id="car8_distributor"></li>
+								<p>Price -</p>
+								<li id="car8_price"></li>
+							</ul>
+						</div>
+					</div>
+
+					<div class="display display-back">
+						<div class="car-info">
+							<a href='info.html?car=civic_2015' class="btn btn-on"id="feature-btn-guid">Learn more</a>
+						</div>
+					</div>
+		</div>
+
+
+		<div class="car"id='car-9'>
+			<div class="display display-front">
+				<img  id="car-pic-9" class="car-picture"/>
+					<h4>Suzuki</h4>
+						<div class="car-details">
+							<ul>
+								<p>Model -</p>
+								<li id="car9_model"></li>
+								<p>Year -</p>
+								<li id="car9_year"></li>
+								<p>Shop -</p>
+								<li id="car9_distributor"></li>
+								<p>Price -</p>
+								<li id="car9_price"></li>
+							</ul>
+						</div>
+					</div>
+
+					<div class=" display display-back">
+						<div class="car-info">
+							<a href='info.html?car=ciaz' class="btn btn-on"id="feature-btn-guid">Learn more</a>
+						</div>
+					</div>
+		</div>
+
+
+		<div class="car" id='car-10'>
+			<div class="display display-front">
+				<img  id="car-pic-10" class="car-picture"/>
+					<h4>Toyota</h4>
+						<div class="car-details">
+							<ul>
+								<p>Model -</p>
+								<li id="car10_model"></li>
+								<p>Year -</p>
+								<li id="car10_year"></li>
+								<p>Shop -</p>
+								<li id="car10_distributor"></li>
+								<p>Price -</p>
+								<li id="car10_price"></li>
+							</ul>
+						</div>
+					</div>
+
+					<div class=" display display-back">
+						<div class="car-info">
+							<a href='info.html?car=xli' class="btn btn-on"id="feature-btn-guid">Learn more</a>
+						</div>
+					</div>
+		</div>
+	</div>
+	</section>
+
+
+	<footer>
+    <div>
+      <p>
+      	Made for educational purposes only by Aniketh, Srikanth and Suneet for Web and Mobile Technologies Project.<br>DBS 2019
+      </p>
+    </div>
+  </footer>
+
+	<script type="text/javascript" src="Resources/js/animations.js"></script>
+	<script type="text/javascript" src="Resources/js/car_data.js"></script>
+	<script type="text/javascript" src="Resources/js/search.js"></script>
+
+	</body>
+</html>

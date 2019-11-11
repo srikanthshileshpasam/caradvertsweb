@@ -9,7 +9,7 @@ body {
   text-rendering: optimizeLegibility;
   font-size: 15px;
   line-height: 1.5;
-  overflow-x: hidden;
+  overflow-x:hidden;
   overflow-y:scroll;}
 
 header {
@@ -86,6 +86,8 @@ nav {
   border-bottom: 2px solid #e67e22;
   }
 
+
+
 .content {
   font-size: 2rem;
 }
@@ -105,7 +107,6 @@ nav {
   background: rgba(0, 0, 0, 0.5);
   color: #f1f1f1;
   width: 100%;
-  padding: 20px;
 }
 
 /* Style the button used to pause/play the video */
@@ -125,17 +126,13 @@ nav {
 }
 
 .cars-inventory {
-  background-color: #a8a8a8;
-  padding-top: 45px;}
+  margin-top: 4%;
+  background-color: #a8a8a8;}
 
-.cars-inventory h2 {
-  text-align: center;
-  margin-top: 2%;
-  font-size: 4rem;
-  font-weight: 100;
-  display: inline-block;
-  letter-spacing: 1px;
-  border-bottom: 2px solid #e67e22;}
+.cars-list{
+  margin-top: -15%;
+  padding-top: 15%;
+}
 
   .btn, .btn:link, .btn:visited {
     margin-left: 27%;
@@ -167,12 +164,11 @@ nav {
 
 .car {
   display: inline-block;
-  perspective: 150rem;
   position: relative;
   height:20rem;
   margin-left: 5rem;
-  width:25%;
-  margin-top: 2rem;}
+  margin-top: 2%;
+  width:25%;}
 
 .display {
   height: 20rem;
@@ -192,8 +188,8 @@ nav {
   transform: rotatey(180deg);}
 
 .car-picture {
-  background-size: cover;
-  height: 10rem;
+  width: 100%;
+  height: 50%;
   background-blend-mode: screen;}
 
 .car h4 {
@@ -213,9 +209,18 @@ nav {
   margin: 0 auto;}
 
 .car-details ul li {
-  text-align: left;
-  font-size: 1rem;
-  padding: .5rem;}
+  text-align: center;
+  font-weight: 800;
+  font-size: 1.2rem;
+  padding: 2%;}
+
+.car-details ul p {
+  position: absolute;
+  display: inline;
+  font-size: 1.2rem;
+
+  padding:2%;
+}
 
 .car-details ul li:not(:last-child) {
   border-bottom: 1px solid rgba(0, 0, 0, 0.4);}
@@ -245,36 +250,6 @@ nav {
   .car:hover .display-back {
     transform: rotatey(0deg);}
 
-.car-picture-1 {
-  background-image: url('img/cars/gli/gli_1.jpg');}
-
-.car-picture-2 {
-  background-image: url('img/cars/civic/civic_1.jpg');}
-
-.car-picture-3 {
-  background-image: url('img/cars/city/city_1.jpg');}
-
-.car-picture-4 {
-  background-image: url('img/cars/grandy/grandy_1.jpg');}
-
-.car-picture-5 {
-  background-image: url('img/cars/bmw/x7_1.jpg');}
-
-.car-picture-6 {
-  background-image: url('img/cars/accord/accord_1.jpg');}
-
-.car-picture-7 {
-  background-image: url('img/cars/fortuner/fortuner_1.jpg');}
-
-.car-picture-8 {
-  background-image: url('img/cars/civic2015/civic_2015_1.jpg');}
-
-.car-picture-9 {
-  background-image: url('img/cars/suzuki/ciaz_1.jpg');}
-
-.car-picture-10 {
-  background-image: url('img/cars/xli/xli_1.jpg');}
-
 
 .search {
   position: absolute;
@@ -284,21 +259,24 @@ nav {
 .search-feild {
   width: 50rem;
   padding: 1rem 0;
-  border: 1px solid #A9A9A9;}
+  border: 1px solid #A9A9A9;
+  border-radius: 5px;}
 
 .search-feild::placeholder {
   font-size: .8rem;
   color: rgba(0,0,0,0.4);}
 
-footer {
-  background: linear-gradient(to right, #bdc3c7, #2c3e50);
-  padding: 50px;
-  text-align: center;
-  font-weight: 300;
-  color: white;
-  font-size: 1.2rem;}
-
-.overall_display {
+  .search_results{
   opacity: 0;
   visibility: hidden;
-  display: none;}
+  display:none;
+}
+
+  footer {
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    text-align: center;
+    padding: 2%;
+    font-weight: 300;
+    color: white;
+    font-size: 1.2rem;}

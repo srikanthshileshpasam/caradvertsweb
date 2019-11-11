@@ -5,7 +5,8 @@
 	<meta charset="utf-8">
 	<meta name="viewpoint" content="width=device-width, initial-scale=1.0">
 
-<link href="https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css" rel="stylesheet">
+  <title>CAR ADVERTS - Garage</title>
+
 <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400&display=swap" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="Resources/css/styleinfo.css">
 <link rel="stylesheet" type="text/css" href="Resources/css/responsive.css">
@@ -17,7 +18,7 @@
 <nav>
   		<ul class= "nav-options anim">
 				<li><a href="#">Sign Up</a></li>
-				<li><a href="#">Contact Us</a></li>
+				<li><a href="#pop-up-form">Contact Us</a></li>
 		</ul>
 			<img src="Resources/css/img/logo.png" alt="Car Adverts logo" class="logo">
 </nav>
@@ -25,21 +26,21 @@
 
 <section class="page">
 <div class="big">
-  <img style="width:50%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor" id='car_1'/>
+  <img style="width:50%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor" id='car-pic-1'/>
 </div>
 
 <div class="row">
   <div class="column">
-    <img style="width:100%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor" id="car_2"/>
+    <img style="width:100%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor" id="car-pic-2"/>
   </div>
   <div class="column">
-    <img style="width:100%" onclick="openModal();currentSlide(2)" class="hover-shadow cursor" id="car_3"/>
+    <img style="width:100%" onclick="openModal();currentSlide(2)" class="hover-shadow cursor" id="car-pic-3"/>
   </div>
   <div class="column">
-    <img style="width:100%" onclick="openModal();currentSlide(3)" class="hover-shadow cursor" id="car_4"/>
+    <img style="width:100%" onclick="openModal();currentSlide(3)" class="hover-shadow cursor" id="car-pic-4"/>
   </div>
   <div class="column">
-    <img style="width:100%" onclick="openModal();currentSlide(4)" class="hover-shadow cursor" id="car_5" />
+    <img style="width:100%" onclick="openModal();currentSlide(4)" class="hover-shadow cursor" id="car-pic-5" />
   </div>
 </div>
 
@@ -49,22 +50,22 @@
 
     <div class="mySlides">
       <div class="numbertext">1 / 4</div>
-      <img id='car_6' style="width:100%">
+      <img id='car-pic-6' style="width:100%">
     </div>
 
     <div class="mySlides">
       <div class="numbertext">2 / 4</div>
-      <img id='car_6' style="width:100%">
+      <img id='car-pic-6' style="width:100%">
     </div>
 
     <div class="mySlides">
       <div class="numbertext">3 / 4</div>
-      <img id='car_6' style="width:100%">
+      <img id='car-pic-6' style="width:100%">
     </div>
 
     <div class="mySlides">
       <div class="numbertext">4 / 4</div>
-      <img id='car_6' style="width:100%">
+      <img id='car-pic-6' style="width:100%">
     </div>
 
     <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -76,16 +77,16 @@
 
 
     <div class="column">
-      <img class="demo cursor" id='car_3' style="width:100%" onclick="currentSlide(1)" alt="Nature and sunrise">
+      <img class="demo cursor" id='car-pic-3' style="width:100%" onclick="currentSlide(1)" alt="Nature and sunrise">
     </div>
     <div class="column">
-      <img class="demo cursor" id='car_3' style="width:100%" onclick="currentSlide(2)" alt="Snow">
+      <img class="demo cursor" id='car-pic-3' style="width:100%" onclick="currentSlide(2)" alt="Snow">
     </div>
     <div class="column">
-      <img class="demo cursor" id='car_2' style="width:100%" onclick="currentSlide(3)" alt="Mountains and fjords">
+      <img class="demo cursor" id='car-pic-2' style="width:100%" onclick="currentSlide(3)" alt="Mountains and fjords">
     </div>
     <div class="column">
-      <img class="demo cursor" id='car_1' style="width:100%" onclick="currentSlide(4)" alt="Northern Lights">
+      <img class="demo cursor" id='car-pic-1' style="width:100%" onclick="currentSlide(4)" alt="Northern Lights">
     </div>
   </div>
 </div>
@@ -97,36 +98,73 @@
 			<h3 id='car_company'>Manufacturer</h3>
 			<h3 id="car_model">Model</h3>
 			<h3 id="car_year">Year</h3>
-			<h3 id="car_suplier">Distributor</h3>
+			<h3 id="car_distributor">Distributor</h3>
 			<h3 id="car_price">Price</h3>
 			<a href="index.html" class="btn">Return</a>
 			<a href="#pop-up-form" class="btn">Book Now</a>
 		</div>
 </section>
 
-    <div class="pop-up" id="pop-up-form">
+  <div class="pop-up" id="pop-up-form">
       <div class="pop-up-content">
         <h2>Contact Us Form</h2>
         <div class="pop-up-text">
-          <h3>Enter your name</h3>
-          <input type="text" name="" value="" placeholder="Your name" class="pop-up-name" id="name">
+          <h3>Name <span class="star">&#10036;</span></h3>
+          <form>
+          <input type="text" value="" placeholder="Your name" class="pop-up-textbox" id="name">
+          </form>
         </div>
       <div class="pop-up-text">
-        <h3>Enter your email</h3>
-        <input type="text" name="" value="" placeholder="Your email" class="pop-up-email" id="email">
+        <h3>Email <span class="star">&#10036;</span></h3>
+        <form>
+           <input type="email" value="" name="email" placeholder="Your email address" class="pop-up-textbox" id="email">
+           </form>
+      </div>
+
+      <div class="pop-up-text">
+        <h3>Phone <span class="star">&#10036;</span></h3>
+        <form>
+        <input type="text" value="" placeholder="Your mobile number" class="pop-up-textbox" id="phone">
+        </form>
       </div>
       <div class="pop-up-text">
-        <h3>Any Other details</h3>
-        <input type="text" name="" value="" placeholder="Provide details here" id='message' class="pop-up-message" >
+        <h3>I want to...</h3>
+        <form>
+  <input type="radio" name="option" value="" class="pop-up-radio"> Buy a car<br>
+  <input type="radio" name="option" value="" class="pop-up-radio"> Sell my car<br>
+  <input type="radio" name="option" value="" class="pop-up-radio"> Something else
+  </form>
+  </div>
+  <div class="pop-up-text">
+    <h3>Call on</h3>
+    <form>
+      <input type="datetime-local" name="callback" class="pop-up-textbox">
+      </form>
+  </div>
+
+      <div class="pop-up-text">
+        <h3>Comments</h3>
+        <form>
+        <input type="text" value="" placeholder="Provide details here" id='message' class="pop-up-message" >
+        </form>
       </div>
-        <a href="#pop-up" class="btn" onclick='clear_form()' >Go back</a>
+        <a href="#pop-up" class="btn" onclick='clear_form()'>Go back</a>
         <a href="#pop-up" class="btn" id="contact-btn" onclick="message()">Contact Us</a>
       </div>
     </div>
 
 
-<script type="text/javascript" src="js/slide.js"></script>
-<script type="text/javascript" src="js/car_data.js"></script>
+    <footer>
+      <div>
+        <p>
+          Made for educational purposes only by Aniketh, Srikanth and Suneet for Web and Mobile Technologies Project.<br>DBS 2019
+        </p>
+      </div>
+    </footer>
+
+<script type="text/javascript" src="Resources/js/contact_us.js"></script>
+<script type="text/javascript" src="Resources/js/car_data.js"></script>
+<script type="text/javascript" src="Resources/js/slide.js"></script>
 
 </body>
 </html>

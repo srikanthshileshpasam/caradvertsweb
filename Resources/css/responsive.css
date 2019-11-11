@@ -1,137 +1,110 @@
-
-@media (max-width: 62em) {
-  body {
-    padding: 0;}
-
-  .head {
-    height: 50vh;
-    clip-path: polygon(0 0,100% 0,100% 99vh,0 100%);}
-
-  .main-heading-main {
-    font-size: 5rem;
-    margin-top: -15rem;}
-
-  .main-heading-tag{
-    font-size: 3rem;
-    display:none;
-    visibility: hidden;
-    opacity: 0;}
-
-  .head-text-box{
-    top: 50%;}
-
-  .btn, .btn:link, .btn:visited{
-    padding: 35px;
-    font-size: 1.5rem;}
-
-  .card{
+@media only screen and (max-width: 1920px) {
+  .cars-inventory{
+    margin-top: -4%;
+  }
+  .cars-list {
+    margin: 0 5%;
+  }
+  .display{
     height: 30rem;
-    width: 80%;}
+    }
+    .car{
+    height: 35rem;
+    }
+    .car h4{
+      top: 12.5rem;
+    }
+    .car-details ul p, .car-details ul li, .display h4{
+      font-size: 1.8rem;
+    }
 
-  .card-side {
-    height: 30rem;}
+}
 
-  .card-picture {
-    height: 9rem;
-    background-size:contain;}
+@media only screen and (max-width: 1440px) {
+  .nav-options{
+    padding-right: 5%;
+    padding-bottom: 1%;
+  }
+  .cars-inventory{
+    margin-top: 5%;
+  }
+  .car-details ul p, .car-details ul li, .display h4{
+    font-size: 1.5rem;
+  }
 
-  .card-heading {
-    font-size: 2.5rem;
-    margin-top: -1rem;}
+}
 
-  .card-details ul li {
-    font-size: 2rem;
-    margin-top: 1rem;}
+@media only screen and (max-width: 1366px) {
+  .nav-options{
+    margin-left: -15%;
+  }
+  .cars-inventory{
+    margin-top: 12%;
+  }
+  .search-feild{
+    width:25rem;
+    margin-left: 5rem;
+  }
+  .logo{
+    height: 80px;
+  }
+  .car-details ul p, .car-details ul li, .display h4{
+    font-size: 1.3rem;
+  }
+}
 
-  .card-details ul li:not(:last-child) {
-    border-bottom: 1px solid rgba(0, 0, 0, 0.4);}
+@media only screen and (max-width: 1280px) {
+  .cars-list {
+    margin-top: -10%;
+    padding-top: 15%;
+  }
+  .cars-inventory{
+    margin-top: 10%;
+    margin-left: -4%;
+  }
+  .content{
+    font-size: 1.5rem;
+  }
+}
 
-  .card-price-box {
-    margin-bottom: -17rem;}
+@media only screen and (max-width: 1024px) {
+  .cars-list {
+    margin-top: 70%;
+    margin-left: -1%;
+  }
+  .car-details ul p, .car-details ul li, .display h4{
+    font-size: 1.1rem;
+  }
+  .search-feild{
+    width:25rem;
+    margin-top: 25rem;
+    margin-left: 4rem;
+  }
+}
 
-  .card-price-only {
-    font-size: 2.5rem;}
+@media only screen and (max-width: 960px) {
+  .search, .search-feild{
+    margin-top: -200%;
+  }
+}
 
-  .popup {
-    overflow: scroll;}
+@media only screen and (max-width: 768px) {
+  .content{
+    font-size: 1rem;
+  }
+  .cars-list {
+    margin-top: 70%;
+  }
+  .cars-inventory{
+    margin-top: 10%;
+  }
+}
 
-  .popup-close:link, .popup-close:visited {
-    font-size: 3.5rem;}
-
-  .popup-content {
-    width: 90%;
-    height:10rem;}
-
-  .popup-content-h2 {
-    margin-left: 16rem;
-    font-size: 2rem;
-    margin-top: 1rem;}
-
-  .popup-content-h5 {
-    margin-left: 20rem;
-    font-size: 2rem;}
-
-  .popup_img_1 {
-    height: 10rem;
-    width: 15rem;}
-
-  .popup_company {
-    font-size: 3rem;}
-
-  .popup_img_1:hover {
-    transform: scale(1.6);}
-
-  .popup_model {
-    font-size: 2rem;}
-
-  .popup_year {
-    font-size: 2rem;}
-
-  .popup_distributer {
-    font-size: 2rem;}
-
-  .popup_btn{
-    margin-left: 1rem;}
-
-  .btn-go-back-info {
-    margin-left: 15.5rem;}
-
-  .popup_email {
-    font-size: 3rem;}
-
-  .popup_input_email {
-    margin-left: 6rem;
-    padding-right: 18rem;
-    padding-top: 2rem;
-    padding-bottom: 2rem;
-    font-size: 2rem;}
-
-  .popup_message {
-    font-size: 2rem;}
-
-  .popup_input_message {
-    margin-left: 6rem;
-    padding-right: 18rem;
-    padding-top: 2rem;
-    padding-bottom: 20rem;
-    font-size: 2rem;}
-
-  .btn-go-back-form {
-    margin-left: 15rem;}
-
-  .search {
-    margin-top: -25rem;
-    margin-left: 10.5rem;}
-
-  .search_feild {
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-    font-size: 2.5rem;}
-
-  .search_feild::placeholder {
-    font-size: 2rem;}
-
-  .search_bn {
-    font-size: 2rem;}
-
+@media only screen and (max-width: 600px) {
+  .cars-inventory {
+    padding-top: -200%;
+  }
+  .cars-list {
+    padding-top: 700%;
+  }
 }
