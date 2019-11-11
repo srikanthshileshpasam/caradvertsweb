@@ -12,8 +12,12 @@
     height: 35rem;
     }
     .car h4{
-      top: 12.8rem;
+      top: 12.5rem;
     }
+    .car-details ul p, .car-details ul li, .display h4{
+      font-size: 1.8rem;
+    }
+
 }
 
 @media only screen and (max-width: 1440px) {

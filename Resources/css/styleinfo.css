@@ -203,7 +203,7 @@ nav {
   background: rgba(0, 0, 0, 0.5);
   color: #f1f1f1;
   width: 100%;
-  z-index: 9999;
+  z-index: 1;
 }
 
 .logo {
