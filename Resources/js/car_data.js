@@ -8,29 +8,49 @@
 // var car8 = ['Honda', 'Civic', '2015', 'Trans Auto', '8000']
 // var car9 = ['Suzuki', 'Ciaz', '2018', 'Alex Cars', '6000']
 // var car10 = ['Toyota', 'XLI', '2019', 'Trans Auto', '4500']
-//
-// var all_cars = [['Toyota', 'GLI', '2019', 'Easy Cars', '4000'],
-//                 ['Honda', 'Civic', '2019', 'Alex Cars', '6000'],
-//                 ['Honda', 'City', '2019', 'Trans Auto', '5000'],
-//                 ['Toyota', 'Grandy', '2017', 'Trans Auto', '9500'],
-//                 ['BMW', 'X7', '2019', 'Alex Cars', '4000'],
-//                 ['Honda', 'Accord', '2012', 'Alex Cars', '7000'],
-//                 ['Toyota', 'Fortuner', '2018', 'Alex Cars', '4000'],
-//                 ['Honda', 'Civic', '2015', 'Trans Auto', '8000'],
-//                 ['Suzuki', 'Ciaz', '2018', 'Alex Cars', '6000'],
-//                 ['Toyota', 'XLI', '2019', 'Trans Auto', '4500']]
+
+var all_cars = [['Toyota', 'GLI', '2019', 'Easy Cars', '4000'],
+                ['Honda', 'Civic', '2019', 'Alex Cars', '6000'],
+                ['Honda', 'City', '2019', 'Trans Auto', '5000'],
+                ['Toyota', 'Grandy', '2017', 'Trans Auto', '9500'],
+                ['BMW', 'X7', '2019', 'Alex Cars', '4000'],
+                ['Honda', 'Accord', '2012', 'Alex Cars', '7000'],
+                ['Toyota', 'Fortuner', '2018', 'Alex Cars', '4000'],
+                ['Honda', 'Civic', '2015', 'Trans Auto', '8000'],
+                ['Suzuki', 'Ciaz', '2018', 'Alex Cars', '6000'],
+                ['Toyota', 'XLI', '2019', 'Trans Auto', '4500']]
 
 
-    var xhr = new XMLHttpRequest();
-    xhr.onreadystatechange = function() {
-      if(xhr.readyState==4 && xhr.status==200)
-      {
-        var javobj=JSON.parse(xhr.response);
-      }
-    };
-    xhr.open("GET", "https://github.com/srikanthshileshpasam/caradvertsweb.github.io/blob/master/data/car_data.json", true);
-    xhr.send();
+    // (function() {
+    //     var cors_api_host = 'cors-anywhere.herokuapp.com';
+    //     var cors_api_url = 'data/car_data.json' + cors_api_host + '/';
+    //     var slice = [].slice;
+    //     var origin = window.location.protocol + '//' + window.location.host;
+    //     var open = XMLHttpRequest.prototype.open;
+    //     XMLHttpRequest.prototype.open = function() {
+    //         var args = slice.call(arguments);
+    //         var targetOrigin = /^https?:\/\/([^\/]+)/i.exec(args[1]);
+    //         if (targetOrigin && targetOrigin[0].toLowerCase() !== origin &&
+    //             targetOrigin[1] !== cors_api_host) {
+    //             args[1] = cors_api_url + args[1];
+    //         }
+    //         return open.apply(this, args);
+    //     };
+    // })();
 
+
+// fetch("https://drive.google.com/open?id=1UcHcOX_EEZc2GcnS2i6KS87EPULS25l7")
+//   .then (function(resp){
+//     return resp.json();
+//   })
+//   .then (function(data){
+//     console.log(data.car1);
+//   })
+
+
+// const response =  fetch('data/car_data.json');
+// const myJson =  response.json();
+// console.log(JSON.stringify(myJson));
 
 
 // initialize an empty object
@@ -65,7 +85,7 @@ let i=0;
 while(i<=9){
     let j=1;
     while(j<=4){
-      document.getElementById("car1_model").innerHTML=xhr.car1;
+      document.getElementById("car1_model").innerHTML=open.car1;
       j++;
       document.getElementById('car1_year').innerHTML=all_cars[i][j];
       j++;
