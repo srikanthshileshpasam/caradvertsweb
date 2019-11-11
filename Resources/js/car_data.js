@@ -28,7 +28,7 @@
         var javobj=JSON.parse(xhr.response);
       }
     };
-    xhr.open("GET", "data/car_data.json", true);
+    xhr.open("GET", "https://github.com/srikanthshileshpasam/caradvertsweb.github.io/blob/master/data/car_data.json", true);
     xhr.send();
 
 
