@@ -1,3 +1,21 @@
+@media only screen and (max-width: 1920px) {
+  .cars-inventory{
+    margin-top: -4%;
+  }
+  .cars-list {
+    margin: 0 5%;
+  }
+  .display{
+    height: 30rem;
+    }
+    .car{
+    height: 35rem;
+    }
+    .car h4{
+      top: 12.8rem;
+    }
+}
+
 @media only screen and (max-width: 1440px) {
   .nav-options{
     padding-right: 5%;
