@@ -85,7 +85,7 @@ let i=0;
 while(i<=9){
     let j=1;
     while(j<=4){
-      document.getElementById("car1_model").innerHTML=open.car1;
+      document.getElementById("car1_model").innerHTML=all_cars[i][j];
       j++;
       document.getElementById('car1_year').innerHTML=all_cars[i][j];
       j++;
