@@ -1,13 +1,13 @@
-// var car1 = ['Toyota', 'GLI', '2019', 'Easy Cars', '4000']
-// var car2 = ['Honda', 'Civic', '2019', 'Alex Cars', '6000']
-// var car3 = ['Honda', 'City', '2019', 'Trans Auto', '5000']
-// var car4 = ['Toyota', 'Grandy', '2017', 'Trans Auto', '9500']
-// var car5 = ['BMW', 'X7', '2019', 'Alex Cars', '4000']
-// var car6 = ['Honda', 'Accord', '2012', 'Alex Cars', '7000']
-// var car7 = ['Toyota', 'Fortuner', '2018', 'Alex Cars', '4000']
-// var car8 = ['Honda', 'Civic', '2015', 'Trans Auto', '8000']
-// var car9 = ['Suzuki', 'Ciaz', '2018', 'Alex Cars', '6000']
-// var car10 = ['Toyota', 'XLI', '2019', 'Trans Auto', '4500']
+var car1 = ['Toyota', 'GLI', '2019', 'Easy Cars', '4000']
+var car2 = ['Honda', 'Civic', '2019', 'Alex Cars', '6000']
+var car3 = ['Honda', 'City', '2019', 'Trans Auto', '5000']
+var car4 = ['Toyota', 'Grandy', '2017', 'Trans Auto', '9500']
+var car5 = ['BMW', 'X7', '2019', 'Alex Cars', '4000']
+var car6 = ['Honda', 'Accord', '2012', 'Alex Cars', '7000']
+var car7 = ['Toyota', 'Fortuner', '2018', 'Alex Cars', '4000']
+var car8 = ['Honda', 'Civic', '2015', 'Trans Auto', '8000']
+var car9 = ['Suzuki', 'Ciaz', '2018', 'Alex Cars', '6000']
+var car10 = ['Toyota', 'XLI', '2019', 'Trans Auto', '4500']
 
 var all_cars = [['Toyota', 'GLI', '2019', 'Easy Cars', '4000'],
                 ['Honda', 'Civic', '2019', 'Alex Cars', '6000'],
@@ -52,23 +52,8 @@ var all_cars = [['Toyota', 'GLI', '2019', 'Easy Cars', '4000'],
 // const myJson =  response.json();
 // console.log(JSON.stringify(myJson));
 
+function start(){
 
-// initialize an empty object
-let car = '';
-// get URL query string
-let params = window.location.search;
-// remove the '?' character
-params = params.substr(1);
-let queryParamArray = params.split('&amp;');
-// iterate over parameter array
-queryParamArray.forEach(function(queryParam) {
-  // split the query parameter over '='
-  let item = queryParam.split("=");
-  car = decodeURIComponent(item[1]);
-});
-
-
-function cars_display(){
   document.getElementById('car-pic-1').src="Resources/img/cars/gli/gli_1.jpg";
   document.getElementById('car-pic-2').src="Resources/img/cars/civic/civic_1.jpg";
   document.getElementById('car-pic-3').src="Resources/img/cars/city/city_1.jpg";
@@ -79,7 +64,7 @@ function cars_display(){
   document.getElementById('car-pic-8').src="Resources/img/cars/civic2015/civic_2015_1.jpg";
   document.getElementById('car-pic-9').src="Resources/img/cars/suzuki/ciaz_1.jpg";
   document.getElementById('car-pic-10').src="Resources/img/cars/xli/xli_1.jpg";
-}
+
 
 let i=0;
 while(i<=9){
@@ -213,6 +198,22 @@ while(i<=9){
       }
       i++;
 }
+}
+
+
+// initialize an empty object
+let car = '';
+// get URL query string
+let params = window.location.search;
+// remove the '?' character
+params = params.substr(1);
+let queryParamArray = params.split('&amp;');
+// iterate over parameter array
+queryParamArray.forEach(function(queryParam) {
+  // split the query parameter over '='
+  let item = queryParam.split("=");
+  car = decodeURIComponent(item[1]);
+});
 
 
 function set_car_info_on_pop_info(){
