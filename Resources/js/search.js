@@ -210,7 +210,7 @@ else if (search_term=='ciaz') {
   document.getElementById('car-9').classList.remove("search_results");
   document.getElementById('car-10').classList.add("search_results");
 }
-else if (search_term=='xli') {
+else if (search_term=='jaguar') {
   document.getElementById('car-1').classList.add("search_results");
   document.getElementById('car-2').classList.add("search_results");
   document.getElementById('car-3').classList.add("search_results");

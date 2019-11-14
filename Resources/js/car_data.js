@@ -7,39 +7,7 @@ var all_cars = [['Toyota', 'GLI', '2019', 'Easy Cars', '4000'],
                 ['Toyota', 'Fortuner', '2018', 'Alex Cars', '4000'],
                 ['Honda', 'Civic', '2015', 'Trans Auto', '8000'],
                 ['Suzuki', 'Ciaz', '2018', 'Alex Cars', '6000'],
-                ['Toyota', 'XLI', '2019', 'Trans Auto', '4500']]
-
-
-    // (function() {
-    //     var cors_api_host = 'cors-anywhere.herokuapp.com';
-    //     var cors_api_url = 'data/car_data.json' + cors_api_host + '/';
-    //     var slice = [].slice;
-    //     var origin = window.location.protocol + '//' + window.location.host;
-    //     var open = XMLHttpRequest.prototype.open;
-    //     XMLHttpRequest.prototype.open = function() {
-    //         var args = slice.call(arguments);
-    //         var targetOrigin = /^https?:\/\/([^\/]+)/i.exec(args[1]);
-    //         if (targetOrigin && targetOrigin[0].toLowerCase() !== origin &&
-    //             targetOrigin[1] !== cors_api_host) {
-    //             args[1] = cors_api_url + args[1];
-    //         }
-    //         return open.apply(this, args);
-    //     };
-    // })();
-
-
-// fetch("https://drive.google.com/open?id=1UcHcOX_EEZc2GcnS2i6KS87EPULS25l7")
-//   .then (function(resp){
-//     return resp.json();
-//   })
-//   .then (function(data){
-//     console.log(data.car1);
-//   })
-
-
-// const response =  fetch('data/car_data.json');
-// const myJson =  response.json();
-// console.log(JSON.stringify(myJson));
+                ['Jaguar', 'XF8', '2019', 'Trans Auto', '4500']]
 
 function sign_in(){
   alert(`This page will lead to the sign in section in the future!`)
@@ -56,7 +24,7 @@ function start(){
   document.getElementById('car-pic-7').src="Resources/img/cars/fortuner/fortuner_1.jpg";
   document.getElementById('car-pic-8').src="Resources/img/cars/civic2015/civic_2015_1.jpg";
   document.getElementById('car-pic-9').src="Resources/img/cars/suzuki/ciaz_1.jpg";
-  document.getElementById('car-pic-10').src="Resources/img/cars/xli/xli_1.jpg";
+  document.getElementById('car-pic-10').src="Resources/img/cars/jaguar/car_1.jpg";
 
 
 let i=0;
@@ -221,7 +189,6 @@ function set_car_info_on_pop_info(){
     document.getElementById('car-pic-3').src="Resources/img/cars/gli/gli_3.jpg";
     document.getElementById('car-pic-4').src="Resources/img/cars/gli/gli_4.jpg";
     document.getElementById('car-pic-5').src="Resources/img/cars/gli/gli_5.png";
-    document.getElementById('car-pic-6').src="Resources/img/cars/gli/gli_6.jpg";
   }
   else if (car=='civic'){
     document.getElementById('car_company').innerHTML=all_cars[1][0];
@@ -303,15 +270,15 @@ function set_car_info_on_pop_info(){
     document.getElementById('car-pic-2').src="Resources/img/cars/suzuki/ciaz_2.jpg";
     document.getElementById('car-pic-1').src="Resources/img/cars/suzuki/ciaz_1.jpg";
   }
-  else if (car=='xli'){
+  else if (car=='jaguar'){
     document.getElementById('car_company').innerHTML=all_cars[9][0];
     document.getElementById('car_model').innerHTML=all_cars[9][1];
     document.getElementById('car_year').innerHTML=all_cars[9][2];
     document.getElementById('car_distributor').innerHTML=all_cars[9][3];
     document.getElementById('car_price').innerHTML=all_cars[9][4];
-    document.getElementById('car-pic-3').src="Resources/img/cars/xli/xli_3.jpg";
-    document.getElementById('car-pic-2').src="Resources/img/cars/xli/xli_2.jpg";
-    document.getElementById('car-pic-1').src="Resources/img/cars/xli/xli_1.jpg";
+    document.getElementById('car-pic-1').src="Resources/img/cars/jaguar/car_1.jpg";
+    document.getElementById('car-pic-2').src="Resources/img/cars/jaguar/car_2.jpg";
+    document.getElementById('car-pic-3').src="Resources/img/cars/jaguar/car_3.jpg";
   }
    else {
      alert("Car information unavailable!");
