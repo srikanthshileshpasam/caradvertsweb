@@ -1,13 +1,13 @@
-var all_cars = [['Toyota', 'GLI', '2019', 'Easy Cars', '4000'],
-                ['Honda', 'Civic', '2019', 'Alex Cars', '6000'],
-                ['Honda', 'City', '2019', 'Trans Auto', '5000'],
-                ['Toyota', 'Grandy', '2017', 'Trans Auto', '9500'],
-                ['BMW', 'X7', '2019', 'Alex Cars', '4000'],
-                ['Honda', 'Accord', '2012', 'Alex Cars', '7000'],
-                ['Toyota', 'Fortuner', '2018', 'Alex Cars', '4000'],
-                ['Honda', 'Civic', '2015', 'Trans Auto', '8000'],
-                ['Suzuki', 'Ciaz', '2018', 'Alex Cars', '6000'],
-                ['Jaguar', 'XF8', '2019', 'Trans Auto', '4500']]
+var all_cars = [['Audi', 'R8', '2019', 'Easy Cars', '40000'],
+                ['Buggati', 'Chiron', '2019', 'Alex Cars', '60000'],
+                ['Ferrari', 'F12', '2019', 'Trans Auto', '50000'],
+                ['Ford', 'GT', '2017', 'Trans Auto', '65000'],
+                ['Mclaren', 'P1', '2019', 'Alex Cars', '40000'],
+                ['Mercedes', 'AMG', '2012', 'Alex Cars', '70000'],
+                ['Ford', 'Mustang', '2018', 'Alex Cars', '40000'],
+                ['Porsche', 'Spyder', '2015', 'Trans Auto', '80000'],
+                ['Porsche', 'Cayman', '2018', 'Alex Cars', '60000'],
+                ['Lamborghini', 'Veneno', '2019', 'Trans Auto', '45000']]
 
 function sign_in(){
   alert(`This page will lead to the sign in section in the future!`)
@@ -15,16 +15,16 @@ function sign_in(){
 
 function start(){
 
-  document.getElementById('car-pic-1').src="Resources/img/cars/gli/gli_1.jpg";
-  document.getElementById('car-pic-2').src="Resources/img/cars/civic/civic_1.jpg";
-  document.getElementById('car-pic-3').src="Resources/img/cars/city/city_1.jpg";
-  document.getElementById('car-pic-4').src="Resources/img/cars/grandy/grandy_1.jpg";
-  document.getElementById('car-pic-5').src="Resources/img/cars/bmw/x7_1.jpg";
-  document.getElementById('car-pic-6').src="Resources/img/cars/accord/accord_1.jpg";
-  document.getElementById('car-pic-7').src="Resources/img/cars/fortuner/fortuner_1.jpg";
-  document.getElementById('car-pic-8').src="Resources/img/cars/civic2015/civic_2015_1.jpg";
-  document.getElementById('car-pic-9').src="Resources/img/cars/suzuki/ciaz_1.jpg";
-  document.getElementById('car-pic-10').src="Resources/img/cars/jaguar/car_1.jpg";
+  document.getElementById('car-pic-1').src="Resources/img/cars/audi/car_1.jpg";
+  document.getElementById('car-pic-2').src="Resources/img/cars/buggati/car_1.jpg";
+  document.getElementById('car-pic-3').src="Resources/img/cars/ferrari/car_1.jpg";
+  document.getElementById('car-pic-4').src="Resources/img/cars/ford/car_1.jpg";
+  document.getElementById('car-pic-5').src="Resources/img/cars/mclaren/car_1.jpg";
+  document.getElementById('car-pic-6').src="Resources/img/cars/mercedes/car_1.jpg";
+  document.getElementById('car-pic-7').src="Resources/img/cars/mustang/car_1.jpg";
+  document.getElementById('car-pic-8').src="Resources/img/cars/porsche/car_1.jpg";
+  document.getElementById('car-pic-9').src="Resources/img/cars/porsche911/car_1.jpg";
+  document.getElementById('car-pic-10').src="Resources/img/cars/veneno/car_1.jpg";
 
 
 let i=0;
@@ -178,107 +178,107 @@ queryParamArray.forEach(function(queryParam) {
 
 
 function set_car_info_on_pop_info(){
-  if (car=='gli'){
+  if (car=='car1'){
     document.getElementById('car_company').innerHTML=all_cars[0][0];
     document.getElementById('car_model').innerHTML=all_cars[0][1];
     document.getElementById('car_year').innerHTML=all_cars[0][2];
     document.getElementById('car_distributor').innerHTML=all_cars[0][3];
     document.getElementById('car_price').innerHTML=all_cars[0][4];
-    document.getElementById('car-pic-1').src="Resources/img/cars/gli/gli_1.jpg";
-    document.getElementById('car-pic-2').src="Resources/img/cars/gli/gli_2.jpg";
-    document.getElementById('car-pic-3').src="Resources/img/cars/gli/gli_3.jpg";
-    document.getElementById('car-pic-4').src="Resources/img/cars/gli/gli_4.jpg";
-    document.getElementById('car-pic-5').src="Resources/img/cars/gli/gli_5.png";
+    document.getElementById('car-pic-1').src="Resources/img/cars/audi/car_1.jpg";
+    document.getElementById('car-pic-2').src="Resources/img/cars/audi/car_2.jpg";
+    document.getElementById('car-pic-3').src="Resources/img/cars/audi/car_3.jpg";
+    document.getElementById('car-pic-4').src="Resources/img/cars/audi/car_4.jpg";
+    document.getElementById('car-pic-5').src="Resources/img/cars/audi/car_5.png";
   }
-  else if (car=='civic'){
+  else if (car=='car2'){
     document.getElementById('car_company').innerHTML=all_cars[1][0];
     document.getElementById('car_model').innerHTML=all_cars[1][1];
     document.getElementById('car_year').innerHTML=all_cars[1][2];
     document.getElementById('car_distributor').innerHTML=all_cars[1][3];
     document.getElementById('car_price').innerHTML=all_cars[1][4];
-    document.getElementById('car-pic-3').src="Resources/img/cars/civic/civic_3.jpeg";
-    document.getElementById('car-pic-2').src="Resources/img/cars/civic/civic_2.jpg";
-    document.getElementById('car-pic-1').src="Resources/img/cars/civic/civic_1.jpg";
+    document.getElementById('car-pic-3').src="Resources/img/cars/buggati/car_3.jpeg";
+    document.getElementById('car-pic-2').src="Resources/img/cars/buggati/car_2.jpg";
+    document.getElementById('car-pic-1').src="Resources/img/cars/buggati/car_1.jpg";
   }
-  else if (car=='city'){
+  else if (car=='car3'){
     document.getElementById('car_company').innerHTML=all_cars[2][0];
     document.getElementById('car_model').innerHTML=all_cars[2][1];
     document.getElementById('car_year').innerHTML=all_cars[2][2];
     document.getElementById('car_distributor').innerHTML=all_cars[2][3];
     document.getElementById('car_price').innerHTML=all_cars[2][4];
-    document.getElementById('car-pic-3').src="Resources/img/cars/city/city_3.jpg";
-    document.getElementById('car-pic-2').src="Resources/img/cars/city/city_2.jpg";
-    document.getElementById('car-pic-1').src="Resources/img/cars/city/city_1.jpg";
+    document.getElementById('car-pic-3').src="Resources/img/cars/ferrari/car_3.jpg";
+    document.getElementById('car-pic-2').src="Resources/img/cars/ferrari/car_2.jpg";
+    document.getElementById('car-pic-1').src="Resources/img/cars/ferrari/car_1.jpg";
   }
-  else if (car=='grandy'){
+  else if (car=='car4'){
     document.getElementById('car_company').innerHTML=all_cars[3][0];
     document.getElementById('car_model').innerHTML=all_cars[3][1];
     document.getElementById('car_year').innerHTML=all_cars[3][2];
     document.getElementById('car_distributor').innerHTML=all_cars[3][3];
     document.getElementById('car_price').innerHTML=all_cars[3][4];
-    document.getElementById('car-pic-3').src="Resources/img/cars/grandy/grandy_3.jpg";
-    document.getElementById('car-pic-2').src="Resources/img/cars/grandy/grandy_2.jpg";
-    document.getElementById('car-pic-1').src="Resources/img/cars/grandy/grandy_1.jpg";
+    document.getElementById('car-pic-3').src="Resources/img/cars/ford/car_3.jpg";
+    document.getElementById('car-pic-2').src="Resources/img/cars/ford/car_2.jpg";
+    document.getElementById('car-pic-1').src="Resources/img/cars/ford/car_1.jpg";
   }
-  else if (car=='x7'){
+  else if (car=='car5'){
     document.getElementById('car_company').innerHTML=all_cars[4][0];
     document.getElementById('car_model').innerHTML=all_cars[4][1];
     document.getElementById('car_year').innerHTML=all_cars[4][2];
     document.getElementById('car_distributor').innerHTML=all_cars[4][3];
     document.getElementById('car_price').innerHTML=all_cars[4][4];
-    document.getElementById('car-pic-3').src="Resources/img/cars/bmw/x7_3.jpg";
-    document.getElementById('car-pic-2').src="Resources/img/cars/bmw/x7_2.jpg";
-    document.getElementById('car-pic-1').src="Resources/img/cars/bmw/x7_1.jpg";
+    document.getElementById('car-pic-3').src="Resources/img/cars/mclaren/car_3.jpg";
+    document.getElementById('car-pic-2').src="Resources/img/cars/mclaren/car_2.jpg";
+    document.getElementById('car-pic-1').src="Resources/img/cars/mclaren/car_1.jpg";
   }
-  else if (car=='accord'){
+  else if (car=='car6'){
     document.getElementById('car_company').innerHTML=all_cars[5][0];
     document.getElementById('car_model').innerHTML=all_cars[5][1];
     document.getElementById('car_year').innerHTML=all_cars[5][2];
     document.getElementById('car_distributor').innerHTML=all_cars[5][3];
     document.getElementById('car_price').innerHTML=all_cars[5][4];
-    document.getElementById('car-pic-3').src="Resources/img/cars/accord/accord_3.jpg";
-    document.getElementById('car-pic-2').src="Resources/img/cars/accord/accord_2.jpg";
-    document.getElementById('car-pic-1').src="Resources/img/cars/accord/accord_1.jpg";
+    document.getElementById('car-pic-3').src="Resources/img/cars/mercedes/car_3.jpg";
+    document.getElementById('car-pic-2').src="Resources/img/cars/mercedes/car_2.jpg";
+    document.getElementById('car-pic-1').src="Resources/img/cars/mercedes/car_1.jpg";
   }
-  else if (car=='fortuner'){
+  else if (car=='car7'){
     document.getElementById('car_company').innerHTML=all_cars[6][0];
     document.getElementById('car_model').innerHTML=all_cars[6][1];
     document.getElementById('car_year').innerHTML=all_cars[6][2];
     document.getElementById('car_distributor').innerHTML=all_cars[6][3];
     document.getElementById('car_price').innerHTML=all_cars[6][4];
-    document.getElementById('car-pic-3').src="Resources/img/cars/fortuner/fortuner_3.jpg";
-    document.getElementById('car-pic-2').src="Resources/img/cars/fortuner/fortuner_2.jpg";
-    document.getElementById('car-pic-1').src="Resources/img/cars/fortuner/fortuner_1.jpg";
+    document.getElementById('car-pic-3').src="Resources/img/cars/mustang/car_3.jpg";
+    document.getElementById('car-pic-2').src="Resources/img/cars/mustang/car_2.jpg";
+    document.getElementById('car-pic-1').src="Resources/img/cars/mustang/car_1.jpg";
   }
-  else if (car=='civic_2015'){
+  else if (car=='car8'){
     document.getElementById('car_company').innerHTML=all_cars[7][0];
     document.getElementById('car_model').innerHTML=all_cars[7][1];
     document.getElementById('car_year').innerHTML=all_cars[7][2];
     document.getElementById('car_distributor').innerHTML=all_cars[7][3];
     document.getElementById('car_price').innerHTML=all_cars[7][4];
-    document.getElementById('car-pic-3').src="Resources/img/cars/civic2015/civic_2015_3.jpg";
-    document.getElementById('car-pic-2').src="Resources/img/cars/civic2015/civic_2015_2.jpg";
-    document.getElementById('car-pic-1').src="Resources/img/cars/civic2015/civic_2015_1.jpg";
+    document.getElementById('car-pic-3').src="Resources/img/cars/porsche/car_3.jpg";
+    document.getElementById('car-pic-2').src="Resources/img/cars/porsche/car_2.jpg";
+    document.getElementById('car-pic-1').src="Resources/img/cars/porsche/car_1.jpg";
   }
-  else if (car=='ciaz'){
+  else if (car=='car9'){
     document.getElementById('car_company').innerHTML=all_cars[8][0];
     document.getElementById('car_model').innerHTML=all_cars[8][1];
     document.getElementById('car_year').innerHTML=all_cars[8][2];
     document.getElementById('car_distributor').innerHTML=all_cars[8][3];
     document.getElementById('car_price').innerHTML=all_cars[8][4];
-    document.getElementById('car-pic-3').src="Resources/img/cars/suzuki/ciaz_3.jpg";
-    document.getElementById('car-pic-2').src="Resources/img/cars/suzuki/ciaz_2.jpg";
-    document.getElementById('car-pic-1').src="Resources/img/cars/suzuki/ciaz_1.jpg";
+    document.getElementById('car-pic-3').src="Resources/img/cars/porsche911/car_3.jpg";
+    document.getElementById('car-pic-2').src="Resources/img/cars/porsche911/car_2.jpg";
+    document.getElementById('car-pic-1').src="Resources/img/cars/porsche911/car_1.jpg";
   }
-  else if (car=='jaguar'){
+  else if (car=='car10'){
     document.getElementById('car_company').innerHTML=all_cars[9][0];
     document.getElementById('car_model').innerHTML=all_cars[9][1];
     document.getElementById('car_year').innerHTML=all_cars[9][2];
     document.getElementById('car_distributor').innerHTML=all_cars[9][3];
     document.getElementById('car_price').innerHTML=all_cars[9][4];
-    document.getElementById('car-pic-1').src="Resources/img/cars/jaguar/car_1.jpg";
-    document.getElementById('car-pic-2').src="Resources/img/cars/jaguar/car_2.jpg";
-    document.getElementById('car-pic-3').src="Resources/img/cars/jaguar/car_3.jpg";
+    document.getElementById('car-pic-1').src="Resources/img/cars/veneno/car_1.jpg";
+    document.getElementById('car-pic-2').src="Resources/img/cars/veneno/car_2.jpg";
+    document.getElementById('car-pic-3').src="Resources/img/cars/veneno/car_3.jpg";
   }
    else {
      alert("Car information unavailable!");
