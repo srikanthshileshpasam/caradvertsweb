@@ -1,133 +1,149 @@
 <!doctype html>
 <html lang="en">
 
-<head>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewpoint" content="width=device-width, initial-scale=1.0">
 
-	<meta charset="utf-8">
-	<meta name="viewpoint" content="width=device-width, initial-scale=1.0">
+	 	 <title>CAR ADVERTS - Garage</title>
 
-  <title>CAR ADVERTS - Garage</title>
-
-<link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400&display=swap" rel="stylesheet">
-<link rel="stylesheet" type="text/css" href="Resources/css/style.css">
-<link rel="stylesheet" type="text/css" href="Resources/css/responsive.css">
-</head>
-
-<body onload="set_car_info_on_pop_info()">
-
-<section class="info-page">
-<section class="nav-section">
-<nav>
-  		<ul class= "nav-options anim">
-				<li><a href="#" onclick="sign_in()">Sign In</a></li>
-				<li><a href="#pop-up-form">Contact Us</a></li>
-		</ul>
-			<img src="Resources/css/img/logo1.png" alt="Car Adverts logo" class="logo">
-</nav>
-</section>
-
-<section class="page">
-<div class="big">
-  <img style="width:50%" class="hover-shadow" id='car-pic-1'/>
-</div>
-
-<div class="row">
-  <div class="column">
-    <img style="width:100%" class="hover-shadow" id="car-pic-2"/>
-  </div>
-  <div class="column">
-    <img style="width:100%" class="hover-shadow" id="car-pic-3"/>
-  </div>
-  <div class="column">
-    <img style="width:100%" class="hover-shadow" id="car-pic-4"/>
-  </div>
-  <div class="column">
-    <img style="width:100%" class="hover-shadow" id="car-pic-5" />
-  </div>
-</div>
-</section>
-
-<section class="info">
-			<h2>Vehicle Details</h2>
-      <h4>Manufacturer&#58;</h4>
-			<p id='car_company'></p>
-      <h4>Model&#58;</h4>
-			<p id="car_model">Model&#58;</p>
-      <h4>MFG Year&#58;</h4>
-			<p id="car_year">Year</p>
-      <h4>Distributor&#58;</h4>
-			<p id="car_distributor">Distributor</p>
-      <h4>Selling Price&#58;</h4>
-			<p id="car_price">Price</p>
-      <h4>Description&#58;</h4>
-      <p id="car_description"></p>
-
-      <a href="index.html" class="btn btn-margin">Return</a>
-      <a href="#pop-up-form" class="btn">Book Now</a>
-</section>
+     <!-- CSS sheets and fonts -->
+		<link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400&display=swap" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" href="Resources/css/style.css">
+		<link rel="stylesheet" type="text/css" href="Resources/css/responsive.css">
+	</head>
 
 
-  <div class="pop-up" id="pop-up-form">
-      <div class="pop-up-content">
-        <h2>Contact Us Form</h2>
-        <div class="pop-up-text">
-          <h3>Name <span class="star">&#10036;</span></h3>
-          <form>
-          <input type="text" value="" placeholder="Your name" class="pop-up-textbox" id="name">
-          </form>
-        </div>
-      <div class="pop-up-text">
-        <h3>Email <span class="star">&#10036;</span></h3>
-        <form>
-           <input type="email" value="" name="email" placeholder="Your email address" class="pop-up-textbox" id="email">
-           </form>
-      </div>
+	<body onload="set_car_info_on_pop_info()">
 
-      <div class="pop-up-text">
-        <h3>Phone <span class="star">&#10036;</span></h3>
-        <form>
-        <input type="text" value="" placeholder="Your mobile number" class="pop-up-textbox" id="phone">
-        </form>
-      </div>
-      <div class="pop-up-text">
-        <h3>I want to</h3>
-        <form>
-  <input type="radio" name="option" value="" class="pop-up-radio"> Buy a car<br>
-  <input type="radio" name="option" value="" class="pop-up-radio"> Sell my car<br>
-  <input type="radio" name="option" value="" class="pop-up-radio"> Something else
-  </form>
-  </div>
-  <div class="pop-up-text">
-    <h3>Call on</h3>
-    <form>
-      <input type="datetime-local" name="callback" class="pop-up-textbox">
-      </form>
-  </div>
+		<section class="info-page">
 
-      <div class="pop-up-text">
-        <h3>Comments</h3>
-        <form>
-        <input type="text" value="" placeholder="Provide details here" id='message' class="pop-up-message" >
-        </form>
-      </div>
-        <a href="#pop-up" class="btn" onclick='clear_form()'>Go back</a>
-        <a href="#pop-up" class="btn" id="contact-btn" onclick="message()">Contact Us</a>
-      </div>
-    </div>
+      <!-- Navigation bar -->
+			<section class="nav-section">
+				<nav>
+	  				<ul class= "nav-options anim">
+						<li><a href="#" onclick="sign_in()">Sign In</a></li>
+						<li><a href="#pop-up-form">Contact Us</a></li>
+					</ul>
+
+					<img src="Resources/css/img/logo1.png" alt="Car Adverts logo" class="logo">
+				</nav>
+			</section>
+
+      <!-- Car picture big -->
+			<section class="page">
+				<div class="big">
+	 			 	<img style="width:50%" class="hover-shadow" id='car-pic-1'/>
+				</div>
+
+        <!-- Car pictures small -->
+				<div class="row">
+	  				<div class="column">
+	    				<img style="width:100%" class="hover-shadow" id="car-pic-2"/>
+	  				</div>
+	  				<div class="column">
+	   					<img style="width:100%" class="hover-shadow" id="car-pic-3"/>
+	 				</div>
+	  				<div class="column">
+	    				<img style="width:100%" class="hover-shadow" id="car-pic-4"/>
+	  				</div>
+	  				<div class="column">
+	    				<img style="width:100%" class="hover-shadow" id="car-pic-5" />
+	  				</div>
+				</div>
+			</section>
+
+      <!-- Car details -->
+			<section class="info">
+				<h2>Vehicle Details</h2>
+	      			<h4>Manufacturer&#58;</h4>
+						<p id='car_company'></p>
+	      			<h4>Model&#58;</h4>
+						<p id="car_model">Model&#58;</p>
+	      			<h4>MFG Year&#58;</h4>
+						<p id="car_year">Year</p>
+	      			<h4>Distributor&#58;</h4>
+						<p id="car_distributor">Distributor</p>
+	      			<h4>Selling Price&#58;</h4>
+						<p id="car_price">Price</p>
+	      			<h4>Description&#58;</h4>
+	      				<p id="car_description"></p>
+
+	      			<a href="index.html" class="btn btn-margin">Return</a>
+	      			<a href="#pop-up-form" class="btn">Book Now</a>
+			</section>
+
+        <!-- Contact us pop up -->
+	  		<div class="pop-up" id="pop-up-form">
+	      		<div class="pop-up-content">
+	        		<h2>Contact Us Form</h2>
+                <!-- Name -->
+	        			<div class="pop-up-text">
+	          				<h3>Name <span class="star">&#10036;</span></h3>
+	          					<form>
+	          						<input type="text" value="" placeholder="Your name" class="pop-up-textbox" id="name">
+	          					</form>
+	        			</div>
+
+                <!-- Email -->
+	      				<div class="pop-up-text">
+	        				<h3>Email <span class="star">&#10036;</span></h3>
+	        					<form>
+	           						<input type="email" value="" name="email" placeholder="Your email address" class="pop-up-textbox" id="email">
+	          					</form>
+	      				</div>
+
+                <!-- Phone -->
+	      				<div class="pop-up-text">
+	        				<h3>Phone <span class="star">&#10036;</span></h3>
+	        					<form>
+	        						<input type="text" value="" placeholder="Your mobile number" class="pop-up-textbox" id="phone">
+	        					</form>
+	      				</div>
+
+              <!-- Options -->
+	     				<div class="pop-up-text">
+	        				<h3>I want to</h3>
+	       						<form>
+	  								<input type="radio" name="option" value="" class="pop-up-radio"> Buy a car<br>
+	  								<input type="radio" name="option" value="" class="pop-up-radio"> Sell my car<br>
+	  								<input type="radio" name="option" value="" class="pop-up-radio"> Something else
+	  							</form>
+	  					</div>
+
+              <!-- Available timings -->
+	  					<div class="pop-up-text">
+	    					<h3>Call on</h3>
+	   							<form>
+	      							<input type="datetime-local" name="callback" class="pop-up-textbox">
+	      						</form>
+	  					</div>
+
+                <!-- Comments -->
+	      				<div class="pop-up-text">
+	       					 <h3>Comments</h3>
+	        					<form>
+	        						<input type="text" value="" placeholder="Provide details here" id='message' class="pop-up-message" >
+	        					</form>
+	      				</div>
+
+                <!-- Submit and return buttons -->
+	        			<a href="#pop-up" class="btn" onclick='clear_form()'>Go back</a>
+	        			<a href="#pop-up" class="btn" id="contact-btn" onclick="message()">Contact Us</a>
+	     		</div>
+	    	</div>
 
 
-    <footer>
-      <div>
-        <p>
-          Made for educational purposes only by Aniketh, Srikanth and Suneet for Web and Mobile Technologies Project.<br>DBS 2019
-        </p>
-      </div>
-    </footer>
-  </section>
+			<footer>
+	    		<div>
+	    			<p>Made for educational purposes only by Aniketh, Srikanth and Suneet for Web and Mobile Technologies Project.<br>DBS 2019</p>
+	    		</div>
+			</footer>
+		</section>
 
-<script type="text/javascript" src="Resources/js/contact_us.js"></script>
-<script type="text/javascript" src="Resources/js/car_data.js"></script>
-<!-- <script type="text/javascript" src="data/car_data.json"></script> -->
+    <!-- Javascript files -->
+		<script type="text/javascript" src="Resources/js/contact_us.js"></script>
+		<script type="text/javascript" src="Resources/js/car_data.js"></script>
 
-</body>
+	</body>
 </html>

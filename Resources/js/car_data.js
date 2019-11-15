@@ -50,8 +50,10 @@ function start(){
 
 let i=0;
 while(i<=9){
-    let j=1;
+    let j=0;
     while(j<=4){
+      document.getElementById('car1_man').innerHTML=all_cars[i][j];
+      j++;
       document.getElementById('car1_model').innerHTML=all_cars[i][j];
       j++;
       document.getElementById('car1_year').innerHTML=all_cars[i][j];
@@ -63,8 +65,10 @@ while(i<=9){
      }
      i++;
 
-      j=1;
+      j=0;
      while(j<=4){
+       document.getElementById('car2_man').innerHTML=all_cars[i][j];
+       j++;
        document.getElementById("car2_model").innerHTML=all_cars[i][j];
        j++;
        document.getElementById('car2_year').innerHTML=all_cars[i][j];
@@ -76,8 +80,10 @@ while(i<=9){
       }
       i++;
 
-      j=1;
+      j=0;
      while(j<=4){
+       document.getElementById('car3_man').innerHTML=all_cars[i][j];
+       j++;
        document.getElementById("car3_model").innerHTML=all_cars[i][j];
        j++;
        document.getElementById('car3_year').innerHTML=all_cars[i][j];
@@ -89,8 +95,10 @@ while(i<=9){
       }
       i++;
 
-      j=1;
+      j=0;
      while(j<=4){
+       document.getElementById('car4_man').innerHTML=all_cars[i][j];
+       j++;
        document.getElementById("car4_model").innerHTML=all_cars[i][j];
        j++;
        document.getElementById('car4_year').innerHTML=all_cars[i][j];
@@ -102,8 +110,10 @@ while(i<=9){
       }
       i++;
 
-      j=1;
+      j=0;
      while(j<=4){
+       document.getElementById('car5_man').innerHTML=all_cars[i][j];
+       j++;
        document.getElementById("car5_model").innerHTML=all_cars[i][j];
        j++;
        document.getElementById('car5_year').innerHTML=all_cars[i][j];
@@ -115,8 +125,10 @@ while(i<=9){
       }
       i++;
 
-      j=1;
+      j=0;
      while(j<=4){
+       document.getElementById('car6_man').innerHTML=all_cars[i][j];
+       j++;
        document.getElementById("car6_model").innerHTML=all_cars[i][j];
        j++;
        document.getElementById('car6_year').innerHTML=all_cars[i][j];
@@ -128,8 +140,10 @@ while(i<=9){
       }
       i++;
 
-      j=1;
+      j=0;
      while(j<=4){
+       document.getElementById('car7_man').innerHTML=all_cars[i][j];
+       j++;
        document.getElementById("car7_model").innerHTML=all_cars[i][j];
        j++;
        document.getElementById('car7_year').innerHTML=all_cars[i][j];
@@ -141,8 +155,10 @@ while(i<=9){
       }
       i++;
 
-      j=1;
+      j=0;
      while(j<=4){
+       document.getElementById('car8_man').innerHTML=all_cars[i][j];
+       j++;
        document.getElementById("car8_model").innerHTML=all_cars[i][j];
        j++;
        document.getElementById('car8_year').innerHTML=all_cars[i][j];
@@ -154,8 +170,10 @@ while(i<=9){
       }
       i++;
 
-      j=1;
+      j=0;
      while(j<=4){
+       document.getElementById('car9_man').innerHTML=all_cars[i][j];
+       j++;
        document.getElementById("car9_model").innerHTML=all_cars[i][j];
        j++;
        document.getElementById('car9_year').innerHTML=all_cars[i][j];
@@ -167,8 +185,10 @@ while(i<=9){
       }
       i++;
 
-      j=1;
+      j=0;
      while(j<=4){
+       document.getElementById('car10_man').innerHTML=all_cars[i][j];
+       j++;
        document.getElementById("car10_model").innerHTML=all_cars[i][j];
        j++;
        document.getElementById('car10_year').innerHTML=all_cars[i][j];
