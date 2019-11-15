@@ -231,7 +231,7 @@ nav {
   box-shadow: 0 2rem 4rem rgba(0, 0, 0, 0.5);}
 
 .display-back {
-  background-image: url(img/icon.png);
+  background-image: url(img/icon1.png);
   background-color: #fff;
   -webkit-transform: rotatey(180deg);
   transform: rotatey(180deg);}
