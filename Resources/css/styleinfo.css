@@ -143,6 +143,12 @@ nav {
     padding-left: 25px;
   }
 
+  .info p {
+    text-align: justify;
+    margin: 5%;
+    font-size: 1.3rem;
+  }
+
 
     .btn, .btn:link, .btn:visited {
       margin-left: 27%;
