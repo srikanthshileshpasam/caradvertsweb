@@ -1,4 +1,4 @@
-data = {
+data = [{
   "car1": [{"company": "Toyota", "model": "GLI", "year": 2019, "dist": "Easy Cars", "price": 4000}],
   "car2": [{"company": "Honda", "model": "Civic", "year": 2019, "dist": "Alex Cars", "price": 6000}],
   "car3": [{"company": "Honda", "model": "City", "year": 2019, "dist": "Trans Auto", "price": 5000}],
@@ -9,4 +9,4 @@ data = {
   "car8": [{"company": "Honda", "model": "Civic", "year": 2015, "dist": "Trans Auto", "price": 8000}],
   "car9": [{"company": "Suzuki", "model": "Ciaz", "year": 2018, "dist": "Alex Cars", "price": 6000}],
   "car10": [{"company": "Toyota", "model": "XLI", "year": 2019, "dist": "Trans Auto", "price": 4500}]
-}
+}]
