@@ -140,19 +140,32 @@ nav {
 
   .info {
     background-color: grey;
-    padding-left: 25px;
+    padding: 5%;
+  }
+
+  .info h2 {
+    text-decoration: underline;
+    text-align: center;
+    font-size: 1.5rem;
+  }
+
+  .info h4 {
+    font-size: 1.3rem;
+    text-decoration: underline;
+    position: relative;
   }
 
   .info p {
     text-align: justify;
-    margin: 5%;
-    font-size: 1.3rem;
+    font-size: 1.2rem;
+    padding-left: 10%;
   }
 
+  .info a {
+    margin-left: 30%;
+  }
 
     .btn, .btn:link, .btn:visited {
-      margin-left: 27%;
-      margin-bottom: 2%;
       background-color: #ffa500;
       color: white;
       text-transform: capitalize;
@@ -164,7 +177,9 @@ nav {
       transition: all .2s;
       position: relative;
       border: none;
-      cursor: pointer;}
+      cursor: pointer;
+    }
+
 
       .btn:hover, .btn:link:hover, .btn:visited:hover {
         transform: translatey(-3px);
@@ -195,19 +210,21 @@ nav {
             position: absolute;
             top: 50%;
             left: 50%;
-            width: 50%;
-            height: 100vh;
+            width: 40%;
+            height: 80%;
             background-color: rgba(255, 255, 255, 0.8);
             border-radius: 5px;
             display: table;
             transform: translate(-50%, -50%) scale(0.5);
-            transition: all .5s .5s;}
+            transition: all .5s .5s;
+          }
 
           .pop-up h2 {
             text-align: center;
             font-size: 50px;
             font-weight: 100;
-            border-bottom: 2px solid #e67e22;}
+            border-bottom: 2px solid #e67e22;
+          }
 
           .pop-up-text h3 {
             margin-left: 5%;
@@ -222,11 +239,16 @@ nav {
             margin-top: -4%;
           }
 
+          .pop-up a {
+            margin-left: 24%;
+            margin-bottom: 5%;
+          }
+
           .pop-up-textbox, .pop-up-message{
             margin-bottom: 3%;
             border: none;
             border-radius: 5px;
-            width: 50%;
+            width: 70%;
             height: 5vh;
           }
 
