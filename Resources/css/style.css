@@ -15,7 +15,10 @@
             line-height: 1.5;
             overflow-x:hidden;
             overflow-y:scroll;
+            background-color: #a8a8a8;
           }
+
+
 
 /* =================================================== */
 
@@ -156,11 +159,6 @@
 
 /* =====================================>Nav bar */
 
-    header {
-              padding-bottom: 50%;
-            }
-
-
     nav {
           position: fixed;
           background: rgba(0, 0, 0, 0.5);
@@ -225,6 +223,10 @@
                 min-height: 100%;
               }
 
+    .hero-section {
+                    min-height: 100vh;
+                  }
+
     .content {
                 font-size: 2rem;
                 position:absolute;
@@ -261,16 +263,6 @@
                                           font-size: .8rem;
                                           color: rgba(0,0,0,0.4);
                                         }
-
-/* =================================================== */
-
-
-/* =====================================>Inventory section */
-
-    .cars-inventory {
-                      margin-top: 4%;
-                      background-color: #a8a8a8;
-                    }
 
 /* =================================================== */
 
@@ -421,6 +413,7 @@
 
     .column img {
                   margin-bottom: -4px;
+                  width: 100%;
                   -webkit-transition: 0.3s;
                   transition: 0.3s;
                 }
@@ -430,6 +423,10 @@
             text-align: center;
             padding-bottom: 25px;
           }
+
+    .big img {
+                width: 50%;
+              }
 
       .hover-shadow:hover {
                             -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);

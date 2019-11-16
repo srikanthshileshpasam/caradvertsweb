@@ -1,3 +1,5 @@
+//==============================================>Car data
+
 var all_cars = [['Audi', 'R8', '2019', 'Easy Cars', '40000'],
                 ['Buggati', 'Chiron', '2019', 'Alex Cars', '60000'],
                 ['Ferrari', 'F12', '2019', 'Trans Auto', '50000'],
@@ -29,10 +31,17 @@ var car9_d = "The Porsche Boxster and Porsche Cayman are mid-engined two-seater 
 
 var car10_d = "The Lamborghini Veneno (Spanish pronunciation: [beˈneno]) is a limited production high performance sports car manufactured by Italian automobile manufacturer Lamborghini. Based on the Lamborghini Aventador, the Veneno was developed to celebrate Lamborghini’s 50th anniversary. It was introduced at the 2013 Geneva Motor Show. When introduced, it had a price of US$4,000,000, making it one of the most expensive production cars in the world. The prototype, Car Zero, is finished in Grigio Telesto (medium grey) and includes an Italian flag vinyl on both sides of the car."
 
+
+
+//==============================================>Sign in response
+
 function sign_in(){
   alert(`This page will lead to the sign in section in the future!`)
 }
 
+
+
+//==============================================>Index page pictures loading
 
 function start(){
 
@@ -47,6 +56,9 @@ function start(){
   document.getElementById('car-pic-9').src="Resources/img/cars/car9/car_1.jpg";
   document.getElementById('car-pic-10').src="Resources/img/cars/car10/car_1.jpg";
 
+
+
+//==============================================>Index page data loading
 
 let i=0;
 while(i<=9){
@@ -203,6 +215,9 @@ while(i<=9){
 }
 
 
+
+//=>Collecting clicked instance variable from index page to load relevant car data on info page
+
 // initialize an empty object
 let car = '';
 // get URL query string
@@ -212,11 +227,14 @@ params = params.substr(1);
 let queryParamArray = params.split('&amp;');
 // iterate over parameter array
 queryParamArray.forEach(function(queryParam) {
-  // split the query parameter over '='
-  let item = queryParam.split("=");
-  car = decodeURIComponent(item[1]);
+// split the query parameter over '='
+let item = queryParam.split("=");
+car = decodeURIComponent(item[1]);
 });
 
+
+
+//=>Function to load relevant car data based on variable collected from above
 
 function set_car_info_on_pop_info(){
   if (car=='car1'){
