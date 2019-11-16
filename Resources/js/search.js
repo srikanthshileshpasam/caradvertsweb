@@ -7,16 +7,16 @@ var search_term=document.getElementById('search-input').value;
 
 
 if(search_term=='2019'){
-document.getElementById('car-1').classList.remove("search_results");
-document.getElementById('car-2').classList.remove("search_results");
-document.getElementById('car-3').classList.remove("search_results");
-document.getElementById('car-4').classList.add("search_results");
-document.getElementById('car-5').classList.remove("search_results");
-document.getElementById('car-6').classList.add("search_results");
-document.getElementById('car-7').classList.add("search_results");
-document.getElementById('car-8').classList.add("search_results");
-document.getElementById('car-9').classList.add("search_results");
-document.getElementById('car-10').classList.remove("search_results");
+  document.getElementById('car-1').classList.remove("search_results");
+  document.getElementById('car-2').classList.remove("search_results");
+  document.getElementById('car-3').classList.remove("search_results");
+  document.getElementById('car-4').classList.add("search_results");
+  document.getElementById('car-5').classList.remove("search_results");
+  document.getElementById('car-6').classList.add("search_results");
+  document.getElementById('car-7').classList.add("search_results");
+  document.getElementById('car-8').classList.add("search_results");
+  document.getElementById('car-9').classList.add("search_results");
+  document.getElementById('car-10').classList.remove("search_results");
 }
 else if (search_term=='2018') {
   document.getElementById('car-1').classList.add("search_results");
@@ -67,16 +67,16 @@ else if (search_term=='2012') {
   document.getElementById('car-10').classList.add("search_results");
 }
 else if(search_term=='audi'){
-document.getElementById('car-1').classList.remove("search_results");
-document.getElementById('car-2').classList.add("search_results");
-document.getElementById('car-3').classList.add("search_results");
-document.getElementById('car-4').classList.add("search_results");
-document.getElementById('car-5').classList.add("search_results");
-document.getElementById('car-6').classList.add("search_results");
-document.getElementById('car-7').classList.add("search_results");
-document.getElementById('car-8').classList.add("search_results");
-document.getElementById('car-9').classList.add("search_results");
-document.getElementById('car-10').classList.add("search_results");
+  document.getElementById('car-1').classList.remove("search_results");
+  document.getElementById('car-2').classList.add("search_results");
+  document.getElementById('car-3').classList.add("search_results");
+  document.getElementById('car-4').classList.add("search_results");
+  document.getElementById('car-5').classList.add("search_results");
+  document.getElementById('car-6').classList.add("search_results");
+  document.getElementById('car-7').classList.add("search_results");
+  document.getElementById('car-8').classList.add("search_results");
+  document.getElementById('car-9').classList.add("search_results");
+  document.getElementById('car-10').classList.add("search_results");
 }
 else if (search_term=='buggati') {
   document.getElementById('car-1').classList.add("search_results");
@@ -127,16 +127,16 @@ else if (search_term=='mclaren') {
   document.getElementById('car-10').classList.add("search_results");
 }
 else if(search_term=='mercedes'){
-document.getElementById('car-1').classList.add("search_results");
-document.getElementById('car-2').classList.add("search_results");
-document.getElementById('car-3').classList.add("search_results");
-document.getElementById('car-4').classList.add("search_results");
-document.getElementById('car-5').classList.add("search_results");
-document.getElementById('car-6').classList.remove("search_results");
-document.getElementById('car-7').classList.add("search_results");
-document.getElementById('car-8').classList.add("search_results");
-document.getElementById('car-9').classList.add("search_results");
-document.getElementById('car-10').classList.add("search_results");
+  document.getElementById('car-1').classList.add("search_results");
+  document.getElementById('car-2').classList.add("search_results");
+  document.getElementById('car-3').classList.add("search_results");
+  document.getElementById('car-4').classList.add("search_results");
+  document.getElementById('car-5').classList.add("search_results");
+  document.getElementById('car-6').classList.remove("search_results");
+  document.getElementById('car-7').classList.add("search_results");
+  document.getElementById('car-8').classList.add("search_results");
+  document.getElementById('car-9').classList.add("search_results");
+  document.getElementById('car-10').classList.add("search_results");
 }
 else if (search_term=='porsche') {
   document.getElementById('car-1').classList.add("search_results");

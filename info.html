@@ -13,9 +13,8 @@
 		<link rel="stylesheet" type="text/css" href="Resources/css/responsive.css">
 	</head>
 
-
+  <!-- Calling function on page load to display the corresponding car data -->
 	<body onload="set_car_info_on_pop_info()">
-
 		<section class="info-page">
 
       <!-- Navigation bar -->
@@ -23,6 +22,7 @@
 				<nav>
 	  				<ul class= "nav-options anim">
 						<li><a href="#" onclick="sign_in()">Sign In</a></li>
+            <!-- Called function to display alert message when sign in is clicked by user -->
 						<li><a href="#pop-up-form">Contact Us</a></li>
 					</ul>
 
@@ -69,6 +69,7 @@
 	      			<h4>Description&#58;</h4>
 	      				<p id="car_description"></p>
 
+              <!-- Contact us and go back button -->
 	      			<a href="index.html" class="btn btn-margin">Return</a>
 	      			<a href="#pop-up-form" class="btn">Book Now</a>
 			</section>
@@ -129,11 +130,13 @@
 
                 <!-- Submit and return buttons -->
 	        			<a href="#pop-up" class="btn" onclick='clear_form()'>Go back</a>
+                <!-- Called function to clear user input after user enters all details -->
 	        			<a href="#pop-up" class="btn" id="contact-btn" onclick="message()">Contact Us</a>
+                <!-- Called function to respond to submitted input by user on the contact us form -->
 	     		</div>
 	    	</div>
 
-
+      <!-- Footer -->
 			<footer>
 	    		<div>
 	    			<p>Made for educational purposes only by Aniketh, Srikanth and Suneet for Web and Mobile Technologies Project.<br>DBS 2019</p>

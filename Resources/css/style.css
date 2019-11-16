@@ -247,6 +247,11 @@
                     border-radius: 5px;
                   }
 
+    .search-feild::placeholder {
+                                  font-size: .8rem;
+                                  color: rgba(0,0,0,0.4);
+                                }
+
     .search-feild::-webkit-input-placeholder {
                                                 font-size: .8rem;
                                                 color: rgba(0,0,0,0.4);
@@ -257,17 +262,6 @@
                                           color: rgba(0,0,0,0.4);
                                         }
 
-    .search-feild::placeholder {
-                                  font-size: .8rem;
-                                  color: rgba(0,0,0,0.4);
-                                }
-
-    .search_results {
-                      opacity: 0;
-                      visibility: hidden;
-                      display:none;
-                    }
-
 /* =================================================== */
 
 
@@ -277,11 +271,6 @@
                       margin-top: 4%;
                       background-color: #a8a8a8;
                     }
-
-    .cars-list  {
-                  margin-top: -15%;
-                  padding-top: 15%;
-                }
 
 /* =================================================== */
 
@@ -382,9 +371,19 @@
                               }
 
 /* =================================================== */
+
+
+/* =====================================>Search results */
+    .search_results {
+                      opacity: 0;
+                      visibility: hidden;
+                      display:none;
+                      float:right;
+                    }
+
 /* =================================================== */
 /* =================================================== */
-/* =====================================================>Page 2 */
+/* =====================================================>Info page CSS*/
 /* =================================================== */
 /* =================================================== */
 /* =================================================== */
@@ -392,8 +391,8 @@
 /* =====================================>Background */
 
     .info-page {
-                  background-image:-webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.7))), url('img/background.jpeg');
-                  background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('img/background.jpeg');
+                  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.7))), url('img/background.jpeg');
+                  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('img/background.jpeg');
                   background-size: cover;
                   background-attachment: fixed;
                   background-position: center;
