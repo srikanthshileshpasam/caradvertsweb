@@ -1,11 +1,10 @@
-// Get the video
-var video = document.getElementById("myVideo");
+// Video element ID:
+var video = document.getElementById("video");
 
-// Get the button
-var btn = document.getElementById("myBtn");
+var btn = document.getElementById("video-btn");
 
-// Pause and play the video, and change the button text
-function myFunction() {
+// Play and pause video
+function playback() {
   if (video.paused) {
     video.play();
     btn.innerHTML = "Pause";

@@ -78,6 +78,7 @@
     .pause-btn:hover {
                         background: #ddd;
                         color: black;
+                        border: none;
                       }
 
     .info a {
