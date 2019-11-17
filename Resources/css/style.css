@@ -48,6 +48,7 @@
                   position: relative;
                   border: none;
                   margin-bottom: 5%;
+                  font-size: 2.5rem;
                 }
 
     .search-btn {
@@ -68,7 +69,7 @@
 
     .pause-btn {
                   width: 200px;
-                  font-size: 18px;
+                  font-size: 1rem;
                   padding: 10px;
                   border: none;
                   background: #000;
