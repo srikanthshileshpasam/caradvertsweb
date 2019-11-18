@@ -1,8 +1,6 @@
 @media only screen and (max-width: 1920px) {
 
-  .cars-list {
-    margin: 0 5%;
-  }
+
   .display{
     height: 30rem;
     }
@@ -48,10 +46,7 @@
 }
 
 @media only screen and (max-width: 1280px) {
-  .cars-list {
-    margin-top: -10%;
-    padding-top: 15%;
-  }
+
 
   .content{
     font-size: 1.5rem;
@@ -59,10 +54,7 @@
 }
 
 @media only screen and (max-width: 1024px) {
-  .cars-list {
-    margin-top: 70%;
-    margin-left: -1%;
-  }
+
   .car-details ul p, .car-details ul li, .display h4{
     font-size: 1.1rem;
   }
@@ -70,6 +62,10 @@
     width:25rem;
     margin-top: 15rem;
     margin-left: 4rem;
+  }
+  .car {
+    margin-left: 2%;
+    margin-right: 6%;
   }
 }
 
@@ -82,15 +78,5 @@
 @media only screen and (max-width: 768px) {
   .content{
     font-size: 1rem;
-  }
-  .cars-list {
-    margin-top: 70%;
-  }
-}
-
-@media only screen and (max-width: 600px) {
-
-  .cars-list {
-    padding-top: 700%;
   }
 }
