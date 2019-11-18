@@ -119,7 +119,7 @@
 
 }
 
-@media only screen and (max-width: 991px) {
+@media only screen and (max-width: 400px) {
   .search-feild{
     width: 25rem;
     height: 5rem;
