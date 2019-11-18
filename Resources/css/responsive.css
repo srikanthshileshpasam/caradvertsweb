@@ -119,3 +119,16 @@
   }
 
 }
+
+
+@media only screen and (max-width: 960px) {
+  .search, .search-feild{
+    margin-top: -200%;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .content{
+    font-size: 1rem;
+  }
+}
