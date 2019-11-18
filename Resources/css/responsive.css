@@ -14,7 +14,7 @@
       font-size: 1.8rem;
     }
 
-}
+/* }
 
 @media only screen and (max-width: 1440px) {
   .nav-options{
@@ -26,9 +26,9 @@
     font-size: 1.5rem;
   }
 
-}
+} */
 
-@media only screen and (max-width: 1366px) {
+/* @media only screen and (max-width: 1366px) {
   .nav-options{
     margin-left: -15%;
   }
@@ -43,15 +43,15 @@
   .car-details ul p, .car-details ul li, .display h4{
     font-size: 1.3rem;
   }
-}
+} */
 
-@media only screen and (max-width: 1280px) {
+/* @media only screen and (max-width: 1280px) {
 
 
   .content{
     font-size: 1.5rem;
   }
-}
+} */
 
 @media only screen and (max-width: 1024px) {
   .search-feild{
@@ -117,7 +117,7 @@
 
 }
 
-@media only screen and (max-width: 960px) {
+/* @media only screen and (max-width: 960px) {
   .search, .search-feild{
     margin-top: -200%;
   }
@@ -127,4 +127,4 @@
   .content{
     font-size: 1rem;
   }
-}
+} */
