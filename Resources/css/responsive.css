@@ -54,19 +54,67 @@
 }
 
 @media only screen and (max-width: 1024px) {
-
-  .car-details ul p, .car-details ul li, .display h4{
-    font-size: 1.1rem;
-  }
   .search-feild{
-    width:25rem;
+    width: 25rem;
+    height: 5rem;
     margin-top: 15rem;
     margin-left: 4rem;
   }
-  .car {
-    margin-left: 2%;
-    margin-right: 6%;
+  .search-btn, .info-btn {
+    font-size: 2rem;
   }
+  .info a {
+    margin-left: 23%;
+  }
+  .search-feild::placeholder {
+    font-size: 1.4rem;
+  }
+  .content h1 {
+    font-size: 3rem;
+  }
+  .display {
+    width: 200%;
+    height: 160%;
+  }
+  .car {
+    margin-left: 5%;
+    padding-left: 25%;
+    padding-right: 20%;
+    margin-bottom: 35%;
+  }
+  .car-details ul li:not(:last-child) {
+    margin-bottom: 10%;
+  }
+  .car h4 {
+    font-size: 2.5rem;
+    top: 24rem;
+  }
+  .car-details ul li, .car-details ul p {
+    font-size: 2.2rem;
+    padding: 0;
+  }
+  .pop-up-content {
+    width: 200%;
+    height: 200%;
+    border-radius: 0;
+  }
+  .pop-up h2 {
+    font-size: 8rem;
+    margin-bottom: 20%;
+    margin-top: 5%;
+    border-bottom: 5px solid #e67e22;
+  }
+  .pop-up-text h3 {
+    font-size: 4.5rem;
+  }
+  .pop-up-textbox {
+    font-size: 4rem;
+  }
+
+  footer {
+    font-size: 2rem;
+  }
+
 }
 
 @media only screen and (max-width: 960px) {
