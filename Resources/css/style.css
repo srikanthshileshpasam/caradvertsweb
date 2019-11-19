@@ -100,6 +100,32 @@
               margin-top: 2%;
             }
 
+    .prev, .next {
+                    cursor: pointer;
+                    position: absolute;
+                    top: 50%;
+                    width: auto;
+                    margin-top: -22px;
+                    padding: 16px;
+                    color: white;
+                    font-weight: bold;
+                    font-size: 18px;
+                    transition: 0.6s ease;
+                    border-radius: 0 3px 3px 0;
+                    user-select: none;
+                  }
+
+    .next {
+            right: 0;
+            border-radius: 3px 0 0 3px;
+          }
+
+    .prev:hover,
+    .next:hover {
+                  background-color: rgba(0,0,0,0.8);
+                }
+
+
 /* =================================================== */
 
 
@@ -409,45 +435,28 @@
 /* =================================================== */
 
 
-/* =====================================>Images */
+/* =====================================>Image slideshow */
+      .slideshow {
+        max-width: 70%;
+        position: relative;
+        margin: auto;
+        padding-top: 8%;
+      }
 
-    .row {
-            padding: 0 8px;
-          }
+      .circle {
+        cursor: pointer;
+        height: 15px;
+        width: 15px;
+        margin: 0 2px;
+        background-color: #bbb;
+        border-radius: 50%;
+        display: inline-block;
+        transition: background-color 0.6s ease;
+      }
 
-    .row:after {
-                  content: "";
-                  display: table;
-                  clear: both;
-                }
-
-    .column {
-              padding: 0 8px;
-              width: 25%;
-              float:left;
-            }
-
-    .column img {
-                  margin-bottom: -4px;
-                  width: 100%;
-                  -webkit-transition: 0.3s;
-                  transition: 0.3s;
-                }
-
-    .big {
-            padding-top: 8%;
-            text-align: center;
-            padding-bottom: 25px;
-          }
-
-    .big img {
-                width: 50%;
-              }
-
-      .hover-shadow:hover {
-                            -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-                            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-                          }
+      .active, .circle:hover {
+        background-color: grey;
+      }
 
 /* =================================================== */
 

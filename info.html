@@ -28,28 +28,41 @@
 					<img src="Resources/css/img/logo1.png" alt="Car Adverts logo" class="logo">
 				</nav>
 
-      <!-- Car picture big -->
-			<section class="page">
-				<div class="big">
-	 			 	<img class="hover-shadow" id='car-pic-1'/>
-				</div>
+			<!-- Slideshow -->
+			<section class="slideshow">
+			  <div class="slides">
+			    <img id="car-pic-1">
+			  </div>
 
-        <!-- Car pictures small -->
-				<div class="row">
-	  				<div class="column">
-	    				<img class="hover-shadow" id="car-pic-2"/>
-	  				</div>
-	  				<div class="column">
-	   					<img class="hover-shadow" id="car-pic-3"/>
-	 				</div>
-	  				<div class="column">
-	    				<img class="hover-shadow" id="car-pic-4"/>
-	  				</div>
-	  				<div class="column">
-	    				<img class="hover-shadow" id="car-pic-5" />
-	  				</div>
-				</div>
-			</section>
+			  <div class="slides">
+			    <img id="car-pic-2">
+			  </div>
+
+			  <div class="slides">
+			    <img id="car-pic-3">
+			  </div>
+
+				<div class="slides">
+			    <img id="car-pic-4">
+			  </div>
+
+				<div class="slides">
+			    <img id="car-pic-5">
+			  </div>
+
+			  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+			  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+			</div>
+			<br>
+
+			<!-- Function call for changing slides -->
+			<div style="text-align:center">
+			  <span class="circle" onclick="currentSlide(1)"></span>
+			  <span class="circle" onclick="currentSlide(2)"></span>
+			  <span class="circle" onclick="currentSlide(3)"></span>
+				<span class="circle" onclick="currentSlide(4)"></span>
+				<span class="circle" onclick="currentSlide(5)"></span>
+		</section>
 
       <!-- Car details -->
 			<section class="info">
@@ -145,6 +158,7 @@
     <!-- Javascript files -->
 		<script type="text/javascript" src="Resources/js/contact_us.js"></script>
 		<script type="text/javascript" src="Resources/js/car_data.js"></script>
+		<script type="text/javascript" src="Resources/js/changepic.js"></script>
 
 	</body>
 </html>
