@@ -67,7 +67,7 @@ else if (search_term=='2012') {
   document.getElementById('car-9').classList.add("search_results");
   document.getElementById('car-10').classList.add("search_results");
 }
-else if(search_term=='audi'){
+else if(search_term=='audi') {
   document.getElementById('car-1').classList.remove("search_results");
   document.getElementById('car-2').classList.add("search_results");
   document.getElementById('car-3').classList.add("search_results");
@@ -127,7 +127,7 @@ else if (search_term=='mclaren') {
   document.getElementById('car-9').classList.add("search_results");
   document.getElementById('car-10').classList.add("search_results");
 }
-else if(search_term=='mercedes'){
+else if(search_term=='mercedes') {
   document.getElementById('car-1').classList.add("search_results");
   document.getElementById('car-2').classList.add("search_results");
   document.getElementById('car-3').classList.add("search_results");
