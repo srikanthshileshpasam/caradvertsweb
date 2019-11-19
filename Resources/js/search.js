@@ -3,7 +3,8 @@
 var search_form=document.getElementById('search-form');
 search_form.onclick= function search_car(){
 
-var search_term=document.getElementById('search-input').value;
+var text=document.getElementById('search-input').value;
+var search_term=text.toLowerCase();
 
 
 if(search_term=='2019'){
