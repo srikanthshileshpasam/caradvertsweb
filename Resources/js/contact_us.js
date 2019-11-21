@@ -1,15 +1,16 @@
-
+// Collecting user info from contact us form
 function message(){
   var name = document.getElementById('name').value;
   var email = document.getElementById('email').value;
   var phone = document.getElementById('phone').value;
   var message = document.getElementById('message').value;
 
-
+// Logging required fields in console
   console.log(name);
   console.log(email);
   console.log(phone);
 
+// Checking if user entered all required feilds and responding
   if(name==""){
     document.getElementById('contact-btn').setAttribute("href", "#pop-up-form");
     alert(`Please provide your name.`);
@@ -32,6 +33,7 @@ function message(){
   }
 }
 
+// Function to clear the form after user submits information
 function clear_form(){
   document.getElementById('name').value="";
   document.getElementById('email').value="";

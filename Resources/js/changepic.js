@@ -6,11 +6,11 @@ function plusSlides(n) {
   showSlides(slideIndex += n);
 }
 
-// Thumbnail image controls
 function currentSlide(n) {
   showSlides(slideIndex = n);
 }
 
+// Slideshow function
 function showSlides(n) {
   var i;
   var slides = document.getElementsByClassName("slides");

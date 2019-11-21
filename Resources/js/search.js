@@ -1,12 +1,12 @@
-
-
+// Collecting search input from search feild
 var search_form=document.getElementById('search-form');
 search_form.onclick= function search_car(){
 
+// Converting user entry to lower case
 var text=document.getElementById('search-input').value;
 var search_term=text.toLowerCase();
 
-
+// Searches and displays the corresponding slides based on entered input from user
 if(search_term=='2019'){
   document.getElementById('car-1').classList.remove("search_results");
   document.getElementById('car-2').classList.remove("search_results");

@@ -1,4 +1,4 @@
-// Video element ID:
+// Collecting video ID and storing in local variable
 var video = document.getElementById("video");
 
 var btn = document.getElementById("video-btn");
