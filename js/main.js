@@ -63,25 +63,29 @@
         });
     }
 
-    function hideValidate(input) {
-        var thisAlert = $(input).parent();
-        $(thisAlert).removeClass('alert-validate');
-        $(thisAlert).find('.btn-hide-validate').remove();
-    }
-    var $form = $('form#data-entry'),
-        url = 'https://script.google.com/macros/s/AKfycbwuKy3XaIgnTX4DoidAuP75V3Vs8QpDucbra5gjPCXEMe3HxIsJ/exec'
 
-    $('#submit-form').on('click', function(e) {
-      e.preventDefault();
-      var jqxhr = $.ajax({
-        url: url,
-        method: "GET",
-        dataType: "json",
-        data: $form.serializeObject()
-      }).success(
-        alert("Receipt successfully added!")
-      );
-    })
+
+
 
 
 })(jQuery);
+
+function hideValidate(input) {
+    var thisAlert = $(input).parent();
+    $(thisAlert).removeClass('alert-validate');
+    $(thisAlert).find('.btn-hide-validate').remove();
+}
+var $form = $('form#data-entry'),
+    url = 'https://script.google.com/macros/s/AKfycbwuKy3XaIgnTX4DoidAuP75V3Vs8QpDucbra5gjPCXEMe3HxIsJ/exec'
+
+$('#submit-form').on('click', function(e) {
+  e.preventDefault();
+  var jqxhr = $.ajax({
+    url: url,
+    method: "GET",
+    dataType: "json",
+    data: $form.serializeObject()
+  }).success(
+    alert("Receipt successfully added!")
+  );
+})
