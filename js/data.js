@@ -51260,7 +51260,7 @@ function agentAuth() {
 
       for (var x in agent_DB){
         if (agent_DB[x]["FIELD2"]==agent) {
-          var agent_found=agent_DB[x]["FIELD2"];
+          var agent_found=agent_DB[x]["FIELD1"];
         }
       }
 

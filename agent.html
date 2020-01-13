@@ -36,7 +36,7 @@
 
 	<div class="container-contact100">
 		<div class="wrap-contact100">
-			<form class="contact100-form validate-form">
+			<form id="data-entry" class="contact100-form validate-form">
 				<span class="contact100-form-title">
 					Agent Entry
 				</span>
@@ -75,18 +75,18 @@
 
 		<div class="wrap-input100 validate-input bg1" data-validate="Please Type Receipt Number">
 			<span class="label-input100">Receipt Number *</span>
-			<input class="input100" type="number" name="name" placeholder="Enter Receipt Number" required>
+			<input class="input100" type="number" name="receipt" placeholder="Enter Receipt Number" required>
 		</div>
 
 						<div class="wrap-input100 validate-input bg1 rs1-wrap-input100" data-validate = "Enter Amount Paid by Customer">
 			<span class="label-input100">Amount *</span>
-			<input class="input100" type="number" name="email" placeholder="Enter Amount Paid " required>
+			<input class="input100" type="number" name="amount" placeholder="Enter Amount Paid " required>
 		</div>
 
 		<div class="wrap-input100 input100-select bg1 validate-input" data-validate = "Select a Package">
 			<span class="label-input100">Needed Services</span>
 			<div>
-				<select class="js-select2" name="service">
+				<select class="js-select2" name="package">
 					<option value="" disabled selected>Select Package</option>
 					<option value=300>PKG 300</option>
 					<option value=250>PKG 250</option>
@@ -103,7 +103,7 @@
 
 		<div class="wrap-input100 bg0 rs1-alert-validate">
 			<span class="label-input100">Remarks</span>
-			<textarea class="input100" name="message" placeholder="Your message here..."></textarea>
+			<textarea class="input100" name="remarks" placeholder="Your message here..."></textarea>
 		</div>
 
 		<div class="wrap-input100 validate-input bg1 rs1-wrap-input100" data-validate = "Enter PIN to submit">
