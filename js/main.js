@@ -70,6 +70,7 @@
 
 })(jQuery);
 
+
 $.fn.serializeObject = function()
 {
    var o = {};
