@@ -71,25 +71,43 @@
 })(jQuery);
 
 
+// $.fn.serializeObject = function()
+// {
+//    var o = {};
+//    var a = this.serializeArray();
+//    $.each(a, function() {
+//        if (o[this.name]) {
+//            if (!o[this.name].push) {
+//                o[this.name] = [o[this.name]];
+//            }
+//            o[this.name].push(this.value || '');
+//        } else {
+//            o[this.name] = this.value || '';
+//        }
+//    });
+//    return o;
+// };
+// var v = $("#postStatus").serializeObject();
+// console.log(v);
+
 $.fn.serializeObject = function()
 {
-   var o = {};
-   var a = this.serializeArray();
-   $.each(a, function() {
-       if (o[this.name]) {
-           if (!o[this.name].push) {
-               o[this.name] = [o[this.name]];
-           }
-           o[this.name].push(this.value || '');
-       } else {
-           o[this.name] = this.value || '';
-       }
-   });
-   return o;
-};
-var v = $("#postStatus").serializeObject();
-console.log(v);
+var o = {};
+var a = this.serializeArray();
 
+$.each(a, function() {
+if (o[this.name]) {
+if (!o[this.name].push) {
+o[this.name] = [o[this.name]];
+}
+o[this.name].push(this.value || '');
+} else {
+o[this.name] = this.value || '';
+}
+});
+return o;
+};
+var v = $("#data-entry").serializeObject();
 
 
 function hideValidate(input) {
@@ -99,6 +117,7 @@ function hideValidate(input) {
 }
 var $form = $('form#data-entry'),
     url = 'https://script.google.com/macros/s/AKfycbwuKy3XaIgnTX4DoidAuP75V3Vs8QpDucbra5gjPCXEMe3HxIsJ/exec'
+
 
 $('#submit-form').on('click', function(e) {
   e.preventDefault();
