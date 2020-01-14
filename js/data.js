@@ -1,5 +1,5 @@
 
-  var cust_DB=[
+var cust_DB=[
  {
    "Sms ID": 11220966,
    "VC No": 1766459027,
