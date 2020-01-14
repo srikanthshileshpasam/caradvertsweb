@@ -51241,8 +51241,6 @@ for (var x in cust_DB){
         return false;
       }
     else {
-      alert("Customer found!\nCustomer Name: " +customer)
-
       // location.reload(true);
       document.getElementById("c_vc").innerHTML = vcid;
       document.getElementById("c_name").innerHTML = customer;
@@ -51273,7 +51271,6 @@ function agentAuth() {
           return false;
         }
       else {
-          alert("Agent verification successful!");
           return true;
         }}
 }
