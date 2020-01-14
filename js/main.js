@@ -86,9 +86,12 @@ o[this.name].push(this.value || '');
 o[this.name] = this.value || '';
 }
 });
+console.log(o);
 return o;
 };
 var v = $("#data-entry").serializeObject();
+console.log(v);
+
 
 
 function hideValidate(input) {
