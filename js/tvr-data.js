@@ -118979,6 +118979,8 @@ function customerSearch(){
   var due_date;
   var phone;
   var vcid=document.getElementById('vc_no').value;
+
+
   // var today = Utilities.formatDate(new Date(), "GMT+5", "dd/MM/yyyy")
 
 for (var x in cust_DB){
