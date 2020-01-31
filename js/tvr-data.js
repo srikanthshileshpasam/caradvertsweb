@@ -1,3 +1,7 @@
+window.onload = function() {
+  document.getElementById('toggleDIV').style.display = 'none';
+  document.getElementById('toggleDIV2').style.display = 'none';
+};
 
 var cust_DB=[
  {
@@ -118981,8 +118985,6 @@ function customerSearch(){
   var vcid=document.getElementById('vc_no').value;
 
 
-  // var today = Utilities.formatDate(new Date(), "GMT+5", "dd/MM/yyyy")
-
 for (var x in cust_DB){
   if (cust_DB[x]["VC No"]==vcid){
   customer = cust_DB[x]["Subscriber Name"];
@@ -118995,12 +118997,15 @@ for (var x in cust_DB){
         return false;
       }
     else {
-      // location.reload(true);
       document.getElementById("c_vc").innerHTML = vcid;
       document.getElementById("c_name").innerHTML = customer;
       document.getElementById("c_phone").innerHTML = phone;
       document.getElementById("d_d").innerHTML = due_date;
 
+      var y = document.getElementById("toggleDIV");
+  		if (y.style.display === "none") {
+    		y.style.display = "block";
+  	}
       return [vcid, customer, phone, due_date];
     }
     }
@@ -119025,6 +119030,10 @@ function agentAuth() {
           return false;
         }
       else {
+        var z = document.getElementById("toggleDIV2");
+  			if (z.style.display === "none") {
+    			z.style.display = "block";
+  	}
           return true;
         }}
 }

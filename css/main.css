@@ -298,6 +298,32 @@ textarea.input100 {
   width: 100%;
 }
 
+.container-contact100-form-btn-auth {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-left: -30%;
+  padding-top: 20px;
+  width: 100%;
+}
+
+.container-contact100-form-btn-sub {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-left: 100%;
+  padding-top: 20px;
+  width: 100%;
+}
+
 .contact100-form-btn {
   display: -webkit-box;
   display: -webkit-flex;
