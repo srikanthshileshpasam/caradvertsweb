@@ -1,6 +1,7 @@
 window.onload = function() {
   document.getElementById('toggleDIV').style.display = 'none';
   document.getElementById('toggleDIV2').style.display = 'none';
+  document.getElementById('toggleDIV3').style.display = 'none';
 };
 
 var cust_DB=[

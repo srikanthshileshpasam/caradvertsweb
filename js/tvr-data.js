@@ -1,6 +1,8 @@
 window.onload = function() {
   document.getElementById('toggleDIV').style.display = 'none';
   document.getElementById('toggleDIV2').style.display = 'none';
+  document.getElementById('toggleDIV3').style.display = 'none';
+
 };
 
 var cust_DB=[
@@ -119021,11 +119023,8 @@ function agentAuth() {
         }
       }
 
-      {if (customerSearch()==false) {
-        alert("Enter customer details first!!")
-        return false;
-      }
-      else if (agent_found==null){
+      {
+      if (agent_found==null){
           alert("Invalid PIN!");
           return false;
         }
