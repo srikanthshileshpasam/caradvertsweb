@@ -70951,7 +70951,7 @@ for (var x in cust_DB){
               return false;
             }
             else if (amt==null || amt==''){
-              alert("Enter AMount Paid!");
+              alert("Enter Amount Paid!");
               return false;
             }
 
