@@ -21929,7 +21929,6 @@ var agent_DB=[
 
 var customer, due_date, phone, sms, lco, status, area, card, cell, last_paid;
 
-
 function customerSearch(){
 
   var vcid=document.getElementById('vc_no').value;
@@ -21939,15 +21938,14 @@ for (var x in cust_DB){
   if (cust_DB[x]["VC No"]==vcid){
   sms = cust_DB[x]["Sms ID"];
   lco = cust_DB[x]["LCO ID"];
-  customer = cust_DB[x]["Subscriber Name"];
+  customer = cust_DB[x]["Name"];
   status = cust_DB[x]["Status"];
   area = cust_DB[x]["Area"];
   card = cust_DB[x]["Card No"];
   phone = cust_DB[x]["Cel 1"];
-  cell = cust_DB[x]["Cel2"];
+  cell = cust_DB[x]["Cel 2"];
   due_date = cust_DB[x]["Due Date"];
   last_paid = cust_DB[x]["Last Paid Date"];
-
   }
 }
     if (customer==null){
