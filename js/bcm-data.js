@@ -23889,7 +23889,7 @@ var agent_DB=[
 }
 ]
 
-var customer, due_date, phone, sms, lco, status, area, card, cell, last_paid;
+var sub, customer, due_date, phone, sms, lco, status, area, card, cell, last_paid;
 
 function customerSearch(){
 
@@ -23900,13 +23900,14 @@ for (var x in cust_DB){
   if (cust_DB[x]["VC No"]==vcid){
   sms = cust_DB[x]["Sms ID"];
   lco = cust_DB[x]["LCO ID"];
+  sub = cust_DB[x]["Subscriber Name"];
   customer = cust_DB[x]["Name"];
   status = cust_DB[x]["Status"];
   area = cust_DB[x]["Area"];
   card = cust_DB[x]["Card No"];
   phone = cust_DB[x]["Cel 1"];
   cell = cust_DB[x]["Cel 2"];
-  due_date = cust_DB[x]["Due Date"];
+  due_date = cust_DB[x]["Feb Due Date"];
   last_paid = cust_DB[x]["Last Paid Date"];
   }
 }
@@ -23924,7 +23925,7 @@ for (var x in cust_DB){
   		if (y.style.display === "none") {
     		y.style.display = "block";
   	}
-      return [sms, vcid, lco, customer, status, area, card, phone, cell, due_date, last_paid];
+      return [sms, vcid, lco, customer, sub, status, area, card, phone, cell, due_date, last_paid];
     }
     }
 
@@ -23984,7 +23985,7 @@ var agent = agentAuth();
 
 var $form = $('#data-entry'),
     url = 'https://script.google.com/macros/s/AKfycbzxW8aStatR33fJD2F68typ7JcpUh7eSK1Bp8DLp63adwTulf1h/exec'
-    var array = {'SMS ID':sms, 'VC No':vc, 'LCO ID':lco, 'Subscriber Name':customer, 'Status':status, 'Area':area, 'Card No':card, 'Name':customer, 'Cel1':phone, 'Cel2':cell, 'Due Date':due_date, 'Last Paid':last_paid, 'Remarks':rem, 'Receipt No':rec_no, 'Package':pkg, 'Amount':amt, 'Agent':agent, 'PIN':pwd};
+    var array = {'SMS ID':sms, 'VC No':vc, 'LCO ID':lco, 'Subscriber Name':sub, 'Status':status, 'Area':area, 'Card No':card, 'Name':customer, 'Cel1':phone, 'Cel2':cell, 'Due Date':due_date, 'Last Paid':last_paid, 'Remarks':rem, 'Receipt No':rec_no, 'Package':pkg, 'Amount':amt, 'Agent':agent, 'PIN':pwd};
     console.log(array);
 
     var jqxhr = $.ajax({
