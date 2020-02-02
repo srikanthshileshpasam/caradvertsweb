@@ -119020,8 +119020,10 @@ for (var x in cust_DB){
 
 
 function agentAuth() {
-
-      var agent=document.getElementById('password-3').value;
+  var rec_no = document.getElementById('rec_no').value;
+  var pkg = document.getElementById('pkg').value;
+  var amt = document.getElementById('amt').value;
+  var agent=document.getElementById('password-3').value;
 
       for (var x in agent_DB){
         if (agent_DB[x]["FIELD2"]==agent) {
@@ -119030,7 +119032,20 @@ function agentAuth() {
       }
 
       {
-      if (agent_found==null){
+        if (rec_no==null || rec_no==''){
+          alert("Enter Receipt Number!");
+          return false;
+        }
+        else if (pkg==null || pkg==''){
+          alert("Enter Customer Package!");
+          return false;
+        }
+        else if (amt==null || amt==''){
+          alert("Enter AMount Paid!");
+          return false;
+        }
+
+      else if (agent_found==null){
           alert("Invalid PIN!");
           return false;
         }
