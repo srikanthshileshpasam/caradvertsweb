@@ -16191,9 +16191,9 @@ var cust_DB=[
    "VC No": "02560021364",
    "LCO ID": "43859",
    "Card No": "nc",
-   "Subscriber Name": "new box",
-   "Area": "0",
-   "Cel 1": "0",
+   "Subscriber Name": "D Janardhan",
+   "Area": "Bhoopal Reddy Street",
+   "Cel 1": "9010302721",
    "Due Date": "19-Feb-20",
    "status": "active"
  },
