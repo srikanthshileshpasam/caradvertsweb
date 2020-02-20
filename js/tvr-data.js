@@ -113291,410 +113291,262 @@ var cust_DB=[
 
 
 var agent_DB=[
-  {
+ {
+   "FIELD1": "PRASAD SIR",
+   "FIELD2": 1005
+ },
+ {
+   "FIELD1": "MAHESH-58101",
+   "FIELD2": 1010
+ },
+ {
+   "FIELD1": "anjali",
+   "FIELD2": 1011
+ },
+ {
+   "FIELD1": "Buchibabu",
+   "FIELD2": 1012
+ },
+ {
+   "FIELD1": "chillapally Venkateswarao",
+   "FIELD2": 1013
+ },
+ {
+   "FIELD1": "CP Hanumanth Reddy",
+   "FIELD2": 1014
+ },
+ {
+   "FIELD1": "CP rajabali 58064",
+   "FIELD2": 1015
+ },
+ {
+   "FIELD1": "cp-anjaneya",
+   "FIELD2": 1016
+ },
+ {
+   "FIELD1": "cp-ansar",
+   "FIELD2": 1017
+ },
+ {
+   "FIELD1": "cp-anuradha",
+   "FIELD2": 1018
+ },
+ {
+   "FIELD1": "cp-challa srinu",
+   "FIELD2": 1019
+ },
+ {
+   "FIELD1": "cp-dosapati lakshmanrao",
+   "FIELD2": 1020
+ },
+ {
+   "FIELD1": "cp-geetha",
+   "FIELD2": 1021
+ },
+ {
+   "FIELD1": "cp-golla satyanarayana",
+   "FIELD2": 1022
+ },
+ {
+   "FIELD1": "cp-kola tirupathirao",
+   "FIELD2": 1023
+ },
+ {
+   "FIELD1": "cp-krishna",
+   "FIELD2": 1024
+ },
+ {
+   "FIELD1": "cp-krishna reddy",
+   "FIELD2": 1025
+ },
+ {
+   "FIELD1": "cp-krishnamurthy",
+   "FIELD2": 1026
+ },
+ {
+   "FIELD1": "cp-lakshmi",
+   "FIELD2": 1027
+ },
+ {
+   "FIELD1": "cp-laxmanrao",
+   "FIELD2": 1028
+ },
+ {
+   "FIELD1": "cp-mareswarao",
+   "FIELD2": 1029
+ },
+ {
+   "FIELD1": "cp-miriyala venkateswarao",
+   "FIELD2": 1030
+ },
+ {
+   "FIELD1": "cp-nagesh",
+   "FIELD2": 1031
+ },
+ {
+   "FIELD1": "cp-narendra",
+   "FIELD2": 1032
+ },
+ {
+   "FIELD1": "cp-padma",
+   "FIELD2": 1033
+ },
+ {
+   "FIELD1": "cp-Rakesh anpl",
+   "FIELD2": 1034
+ },
+ {
+   "FIELD1": "cp-Ramprasad",
+   "FIELD2": 1035
+ },
+ {
+   "FIELD1": "cp-rohith 58064",
+   "FIELD2": 1036
+ },
+ {
+   "FIELD1": "cp-siva",
+   "FIELD2": 1037
+ },
+ {
+   "FIELD1": "cp-stalinreddy",
+   "FIELD2": 1038
+ },
+ {
+   "FIELD1": "cp-subani",
+   "FIELD2": 1039
+ },
+ {
+   "FIELD1": "cp-subbarao",
+   "FIELD2": 1040
+ },
+ {
+   "FIELD1": "cp-subbarao 35396",
+   "FIELD2": 1041
+ },
+ {
+   "FIELD1": "cp-sudakar",
+   "FIELD2": 1042
+ },
+ {
+   "FIELD1": "cp-surendra",
+   "FIELD2": 1043
+ },
+ {
+   "FIELD1": "cp-suribabu",
+   "FIELD2": 1044
+ },
+ {
+   "FIELD1": "cp-talluri satyanarayana",
+   "FIELD2": 1045
+ },
+ {
+   "FIELD1": "cp-Tirupathirao",
+   "FIELD2": 1046
+ },
+ {
+   "FIELD1": "cp-tv mechanic ramarao",
+   "FIELD2": 1047
+ },
+ {
+   "FIELD1": "cp-ushasri",
+   "FIELD2": 1048
+ },
+ {
+   "FIELD1": "cp-vanamagopalrao",
+   "FIELD2": 1049
+ },
+ {
+   "FIELD1": "cp-vani",
+   "FIELD2": 1050
+ },
+ {
+   "FIELD1": "cp-vasavi",
+   "FIELD2": 1051
+ },
+ {
+   "FIELD1": "cp-vemula srinivasarao",
+   "FIELD2": 1052
+ },
+ {
+   "FIELD1": "cp-vutukuru ramarao",
+   "FIELD2": 1053
+ },
+ {
+   "FIELD1": "Google Pay",
+   "FIELD2": 1054
+ },
+ {
+   "FIELD1": "Hussen 58073",
+   "FIELD2": 1055
+ },
+ {
+   "FIELD1": "Kamalakar",
+   "FIELD2": 1056
+ },
+ {
+   "FIELD1": "MSrinu 58072",
+   "FIELD2": 1057
+ },
+ {
+   "FIELD1": "Muthireddy 32723",
+   "FIELD2": 1111
+ },
+ {
+   "FIELD1": "MVR 58064",
+   "FIELD2": 1059
+ },
+ {
+   "FIELD1": "Prasad B Staff",
+   "FIELD2": 1062
+ },
+ {
+   "FIELD1": "Raju 58885",
+   "FIELD2": 2304
+ },
+ {
+   "FIELD1": "satish 58104",
+   "FIELD2": 1064
+ },
+ {
+   "FIELD1": "SSrinu 58073",
+   "FIELD2": 1065
+ },
+ {
+   "FIELD1": "Subani",
+   "FIELD2": 1066
+ },
+ {
+   "FIELD1": "venkatakrishna 32723",
+   "FIELD2": 9912
+ },
+ {
+   "FIELD1": "VRath 58103",
+   "FIELD2": 1068
+ },
+ {
+   "FIELD1": "cp-rayala venkateswarlu",
+   "FIELD2": 1069
+ },
+ {
+   "FIELD1": "CP-VINAY-VMB",
+   "FIELD2": 1070
+ },
+ {
+   "FIELD1": "CHANDU",
+   "FIELD2": 1075
+ },
+ {
+   "FIELD1": "Krishna sir",
+   "FIELD2": 1080
+ },
+ {
+   "FIELD1": "SAI-TVR Off",
+   "FIELD2": 1090
+ },
+ {
    "FIELD1": "PSRK",
    "FIELD2": 2045
-  },
-{
- "FIELD1": "Agent1",
- "FIELD2": 1001
-},
-{
- "FIELD1": "Agent2",
- "FIELD2": 1002
-},
-{
- "FIELD1": "Agent3",
- "FIELD2": 1003
-},
-{
- "FIELD1": "Agent4",
- "FIELD2": 1004
-},
-{
- "FIELD1": "Agent5",
- "FIELD2": 1005
-},
-{
- "FIELD1": "Agent6",
- "FIELD2": 1006
-},
-{
- "FIELD1": "Agent7",
- "FIELD2": 1007
-},
-{
- "FIELD1": "Agent8",
- "FIELD2": 1008
-},
-{
- "FIELD1": "Agent9",
- "FIELD2": 1009
-},
-{
- "FIELD1": "Agent10",
- "FIELD2": 1010
-},
-{
- "FIELD1": "Agent11",
- "FIELD2": 1011
-},
-{
- "FIELD1": "Agent12",
- "FIELD2": 1012
-},
-{
- "FIELD1": "Agent13",
- "FIELD2": 1013
-},
-{
- "FIELD1": "Agent14",
- "FIELD2": 1014
-},
-{
- "FIELD1": "Agent15",
- "FIELD2": 1015
-},
-{
- "FIELD1": "Agent16",
- "FIELD2": 1016
-},
-{
- "FIELD1": "Agent17",
- "FIELD2": 1017
-},
-{
- "FIELD1": "Agent18",
- "FIELD2": 1018
-},
-{
- "FIELD1": "Agent19",
- "FIELD2": 1019
-},
-{
- "FIELD1": "Agent20",
- "FIELD2": 1020
-},
-{
- "FIELD1": "Agent21",
- "FIELD2": 1021
-},
-{
- "FIELD1": "Agent22",
- "FIELD2": 1022
-},
-{
- "FIELD1": "Agent23",
- "FIELD2": 1023
-},
-{
- "FIELD1": "Agent24",
- "FIELD2": 1024
-},
-{
- "FIELD1": "Agent25",
- "FIELD2": 1025
-},
-{
- "FIELD1": "Agent26",
- "FIELD2": 1026
-},
-{
- "FIELD1": "Agent27",
- "FIELD2": 1027
-},
-{
- "FIELD1": "Agent28",
- "FIELD2": 1028
-},
-{
- "FIELD1": "Agent29",
- "FIELD2": 1029
-},
-{
- "FIELD1": "Agent30",
- "FIELD2": 1030
-},
-{
- "FIELD1": "Agent31",
- "FIELD2": 1031
-},
-{
- "FIELD1": "Agent32",
- "FIELD2": 1032
-},
-{
- "FIELD1": "Agent33",
- "FIELD2": 1033
-},
-{
- "FIELD1": "Agent34",
- "FIELD2": 1034
-},
-{
- "FIELD1": "Agent35",
- "FIELD2": 1035
-},
-{
- "FIELD1": "Agent36",
- "FIELD2": 1036
-},
-{
- "FIELD1": "Agent37",
- "FIELD2": 1037
-},
-{
- "FIELD1": "Agent38",
- "FIELD2": 1038
-},
-{
- "FIELD1": "Agent39",
- "FIELD2": 1039
-},
-{
- "FIELD1": "Agent40",
- "FIELD2": 1040
-},
-{
- "FIELD1": "Agent41",
- "FIELD2": 1041
-},
-{
- "FIELD1": "Agent42",
- "FIELD2": 1042
-},
-{
- "FIELD1": "Agent43",
- "FIELD2": 1043
-},
-{
- "FIELD1": "Agent44",
- "FIELD2": 1044
-},
-{
- "FIELD1": "Agent45",
- "FIELD2": 1045
-},
-{
- "FIELD1": "Agent46",
- "FIELD2": 1046
-},
-{
- "FIELD1": "Agent47",
- "FIELD2": 1047
-},
-{
- "FIELD1": "Agent48",
- "FIELD2": 1048
-},
-{
- "FIELD1": "Agent49",
- "FIELD2": 1049
-},
-{
- "FIELD1": "Agent50",
- "FIELD2": 1050
-},
-{
- "FIELD1": "Agent51",
- "FIELD2": 1051
-},
-{
- "FIELD1": "Agent52",
- "FIELD2": 1052
-},
-{
- "FIELD1": "Agent53",
- "FIELD2": 1053
-},
-{
- "FIELD1": "Agent54",
- "FIELD2": 1054
-},
-{
- "FIELD1": "Agent55",
- "FIELD2": 1055
-},
-{
- "FIELD1": "Agent56",
- "FIELD2": 1056
-},
-{
- "FIELD1": "Agent57",
- "FIELD2": 1057
-},
-{
- "FIELD1": "Agent58",
- "FIELD2": 1058
-},
-{
- "FIELD1": "Agent59",
- "FIELD2": 1059
-},
-{
- "FIELD1": "Agent60",
- "FIELD2": 1060
-},
-{
- "FIELD1": "Agent61",
- "FIELD2": 1061
-},
-{
- "FIELD1": "Agent62",
- "FIELD2": 1062
-},
-{
- "FIELD1": "Agent63",
- "FIELD2": 1063
-},
-{
- "FIELD1": "Agent64",
- "FIELD2": 1064
-},
-{
- "FIELD1": "Agent65",
- "FIELD2": 1065
-},
-{
- "FIELD1": "Agent66",
- "FIELD2": 1066
-},
-{
- "FIELD1": "Agent67",
- "FIELD2": 1067
-},
-{
- "FIELD1": "Agent68",
- "FIELD2": 1068
-},
-{
- "FIELD1": "Agent69",
- "FIELD2": 1069
-},
-{
- "FIELD1": "Agent70",
- "FIELD2": 1070
-},
-{
- "FIELD1": "Agent71",
- "FIELD2": 1071
-},
-{
- "FIELD1": "Agent72",
- "FIELD2": 1072
-},
-{
- "FIELD1": "Agent73",
- "FIELD2": 1073
-},
-{
- "FIELD1": "Agent74",
- "FIELD2": 1074
-},
-{
- "FIELD1": "Agent75",
- "FIELD2": 1075
-},
-{
- "FIELD1": "Agent76",
- "FIELD2": 1076
-},
-{
- "FIELD1": "Agent77",
- "FIELD2": 1077
-},
-{
- "FIELD1": "Agent78",
- "FIELD2": 1078
-},
-{
- "FIELD1": "Agent79",
- "FIELD2": 1079
-},
-{
- "FIELD1": "Agent80",
- "FIELD2": 1080
-},
-{
- "FIELD1": "Agent81",
- "FIELD2": 1081
-},
-{
- "FIELD1": "Agent82",
- "FIELD2": 1082
-},
-{
- "FIELD1": "Agent83",
- "FIELD2": 1083
-},
-{
- "FIELD1": "Agent84",
- "FIELD2": 1084
-},
-{
- "FIELD1": "Agent85",
- "FIELD2": 1085
-},
-{
- "FIELD1": "Agent86",
- "FIELD2": 1086
-},
-{
- "FIELD1": "Agent87",
- "FIELD2": 1087
-},
-{
- "FIELD1": "Agent88",
- "FIELD2": 1088
-},
-{
- "FIELD1": "Agent89",
- "FIELD2": 1089
-},
-{
- "FIELD1": "Agent90",
- "FIELD2": 1090
-},
-{
- "FIELD1": "Agent91",
- "FIELD2": 1091
-},
-{
- "FIELD1": "Agent92",
- "FIELD2": 1092
-},
-{
- "FIELD1": "Agent93",
- "FIELD2": 1093
-},
-{
- "FIELD1": "Agent94",
- "FIELD2": 1094
-},
-{
- "FIELD1": "Agent95",
- "FIELD2": 1095
-},
-{
- "FIELD1": "Agent96",
- "FIELD2": 1096
-},
-{
- "FIELD1": "Agent97",
- "FIELD2": 1097
-},
-{
- "FIELD1": "Agent98",
- "FIELD2": 1098
-},
-{
- "FIELD1": "Agent99",
- "FIELD2": 1099
-},
-{
- "FIELD1": "Agent100",
- "FIELD2": 1100
-}
+ }
 ]
 
 var customer, due_date, phone, sms, lco, status, area, card, cell, last_paid;
