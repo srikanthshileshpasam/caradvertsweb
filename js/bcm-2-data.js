@@ -54387,6 +54387,7 @@ for (var x in cust_DB){
       var pkg = document.getElementById('pkg').value;
       var amt = document.getElementById('amt').value;
       var agent=document.getElementById('password-3').value;
+      var months=document.getElementById('months').value;
 
           for (var x in agent_DB){
             if (agent_DB[x]["FIELD2"]==agent) {
@@ -54405,6 +54406,10 @@ for (var x in cust_DB){
             }
             else if (amt==null || amt==''){
               alert("Enter Amount Paid!");
+              return false;
+            }
+            else if (months==null || months==''){
+              alert("Enter Number of Months Paid!");
               return false;
             }
 
@@ -54432,12 +54437,13 @@ var pkg = document.getElementById('pkg').value;
 var amt = document.getElementById('amt').value;
 var rem = document.getElementById('rem').value;
 var pwd = document.getElementById('password-3').value;
+var months=document.getElementById('months').value;
 
 var agent = agentAuth();
 
 var $form = $('#data-entry'),
     url = 'https://script.google.com/macros/s/AKfycbwsnL82FJ1cdtyWCdyKNHXGUNpyK8V6pgQctgidV0kA0rL2k8k/exec'
-    var array = {'SMS ID':sms, 'VC No':vc, 'LCO ID':lco, 'Subscriber Name':sub, 'Status':status, 'Area':area, 'Card No':card, 'Name':customer, 'Cel1':phone, 'Cel2':cell, 'Due Date':due_date, 'Last Paid':last_paid, 'Remarks':rem, 'Receipt No':rec_no, 'Package':pkg, 'Amount':amt, 'Agent':agent, 'PIN':pwd};
+    var array = {'SMS ID':sms, 'VC No':vc, 'LCO ID':lco, 'Subscriber Name':customer, 'Status':status, 'Area':area, 'Card No':card, 'Name':customer, 'Cel1':phone, 'Cel2':cell, 'Due Date':due_date, 'Last Paid':last_paid, 'Remarks':rem, 'Receipt No':rec_no, 'Package':pkg, 'Amount':amt, 'Agent':agent, 'PIN':pwd, 'Months':months};
     console.log(array);
 
     var jqxhr = $.ajax({
