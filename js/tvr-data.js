@@ -113292,10 +113292,6 @@ var cust_DB=[
 
 var agent_DB=[
  {
-   "FIELD1": "PRASAD SIR",
-   "FIELD2": 1005
- },
- {
    "FIELD1": "MAHESH-58101",
    "FIELD2": 1010
  },
@@ -113473,7 +113469,7 @@ var agent_DB=[
  },
  {
    "FIELD1": "Google Pay",
-   "FIELD2": 1054
+   "FIELD2": 9999
  },
  {
    "FIELD1": "Hussen 58073",
@@ -113532,10 +113528,6 @@ var agent_DB=[
    "FIELD2": 1070
  },
  {
-   "FIELD1": "CHANDU",
-   "FIELD2": 1075
- },
- {
    "FIELD1": "Krishna sir",
    "FIELD2": 1080
  },
@@ -113545,7 +113537,7 @@ var agent_DB=[
  },
  {
    "FIELD1": "PSRK",
-   "FIELD2": 9999
+   "FIELD2": 2045
  }
 ]
 
