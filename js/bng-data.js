@@ -113424,7 +113424,7 @@ var agent = agentAuth();
 var $form = $('#data-entry'),
     url = 'https://script.google.com/macros/s/AKfycbzcByEyOfaPIIya5r1AijgF6NuBrPetxG8FEujnZikAnLPTouY/exec'
 
-    var array = {'SMS ID':sms, 'VC No':vc, 'LCO ID':lco, 'Subscriber Name':customer, 'Status':status, 'Area':area, 'Card No':card, 'Name':customer, 'Cel1':phone, 'Cel2':cell, 'Due Date':due_date, 'Last Paid':last_paid, 'Remarks':rem, 'Receipt No':rec_no, 'Package':pkg, 'Amount':amt, 'Agent':agent, 'PIN':pwd, 'Months':months};
+    var array = {'VC No':vc, 'LCO ID':lco, 'Area':area, 'Card No':card, 'Name':customer, 'Cel1':phone, 'Cel2':cell, 'Due Date':due_date, 'Remarks':rem, 'Receipt No':rec_no, 'Package':pkg, 'Amount':amt, 'Agent':agent, 'PIN':pwd, 'Months':months};
     console.log(array);
 
     var jqxhr = $.ajax({
