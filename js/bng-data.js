@@ -113291,10 +113291,10 @@ var cust_DB=[
 
 
 var agent_DB=[
-  {
+{
    "FIELD1": "Bandi Thulasi Rao",
    "FIELD2": 1522
-  },
+},
 {
  "FIELD1": "D Lakshman Rao MDPD",
  "FIELD2": 6789
