@@ -113437,7 +113437,7 @@ var $form = $('#data-entry'),
       dataType: "json",
       data: array
        })
-       alert('Submitted Successfully Thanks for Your Response!');
+       alert('Submitted Successfully!');
        location.reload();
 
 }
