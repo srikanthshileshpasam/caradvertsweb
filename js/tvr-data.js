@@ -113532,7 +113532,7 @@ var agent_DB=[
    "FIELD2": 1080
  },
  {
-   "FIELD1": "SAI-TVR Off",
+   "FIELD1": "TVR Off",
    "FIELD2": 1090
  },
  {
@@ -113622,7 +113622,7 @@ function agentAuth() {
           return false;
         }
 
-      else if (agent_found==null){
+        else if (agent_found==null){
           alert("Invalid PIN!");
           return false;
         }
