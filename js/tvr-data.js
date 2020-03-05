@@ -114120,6 +114120,19 @@ var cust_DB=[
    "Status": "Deactive"
  },
  {
+   "SMS ID": 9999999,
+   "VC No": 2561183189,
+   "LCO ID": 58072,
+   "Subscriber Name": "BLKT XXX BATHULA NARASIMHA RAO DURGA",
+   "Area": "BLKT",
+   "Card No": "",
+   "Name": "BLKT XXX BATHULA NARASIMHA RAO DURGA",
+   "Cel 1": "9347278292",
+   "Cel2": "",
+   "Due Date": "N/C",
+   "Status": "SPARE BOX"
+ },
+ {
    "SMS ID": 21981566,
    "VC No": 2520778048,
    "LCO ID": 58073,
