@@ -77663,7 +77663,7 @@ for (var x in cust_DB){
   status = cust_DB[x]["Status"];
   area = cust_DB[x]["Area"];
   card = cust_DB[x]["Card No"];
-  phone = cust_DB[x]["Cel 1"];
+  phone = cust_DB[x]["Cel"];
   cell = cust_DB[x]["Cel2"];
   due_date = cust_DB[x]["Due Date"];
   last_paid = cust_DB[x]["Last Paid Date"];
@@ -77749,7 +77749,7 @@ var agent = agentAuth();
 
 var $form = $('#data-entry'),
     url = 'https://script.google.com/macros/s/AKfycbzjLNgC5zBsZhVyxwI-O8C67Vr512bsZ5YeHMv449-HMQPJQ1s/exec'
-    var array = {'SMS ID':sms, 'VC No':vc, 'LCO ID':lco, 'Subscriber Name':customer, 'Status':status, 'Area':area, 'Card No':card, 'Name':customer, 'Cel1':phone, 'Cel2':cell, 'Due Date':due_date, 'Last Paid':last_paid, 'Remarks':rem, 'Receipt No':rec_no, 'Package':pkg, 'Amount':amt, 'Agent':agent, 'PIN':pwd, 'Months':months};
+    var array = {'SMS ID':sms, 'VC No':vc, 'LCO ID':lco, 'Subscriber Name':customer, 'Status':status, 'Area':area, 'Card No':card, 'Name':customer, 'Cel':phone, 'Cel2':cell, 'Due Date':due_date, 'Last Paid':last_paid, 'Remarks':rem, 'Receipt No':rec_no, 'Package':pkg, 'Amount':amt, 'Agent':agent, 'PIN':pwd, 'Months':months};
     console.log(array);
 
     var jqxhr = $.ajax({
