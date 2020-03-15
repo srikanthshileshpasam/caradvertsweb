@@ -77585,6 +77585,186 @@ var cust_DB=[
    "Due Date": "18-Sep-18",
    "Status": "Inactive"
  },
+ {
+   "Sms ID": null,
+   "VC No": null,
+   "LCO ID": null,
+   "Subscriber Name": "",
+   "Card No": "",
+   "Name": "",
+   "Area": "",
+   "Cel": "",
+   "Due Date": "",
+   "Status": ""
+ },
+ {
+   "Sms ID": null,
+   "VC No": null,
+   "LCO ID": null,
+   "Subscriber Name": "",
+   "Card No": "",
+   "Name": "",
+   "Area": "",
+   "Cel": "",
+   "Due Date": "",
+   "Status": ""
+ },
+ {
+   "Sms ID": null,
+   "VC No": null,
+   "LCO ID": null,
+   "Subscriber Name": "",
+   "Card No": "",
+   "Name": "",
+   "Area": "",
+   "Cel": "",
+   "Due Date": "",
+   "Status": ""
+ },
+ {
+   "Sms ID": null,
+   "VC No": null,
+   "LCO ID": null,
+   "Subscriber Name": "",
+   "Card No": "",
+   "Name": "",
+   "Area": "",
+   "Cel": "",
+   "Due Date": "",
+   "Status": ""
+ },
+ {
+   "Sms ID": null,
+   "VC No": null,
+   "LCO ID": null,
+   "Subscriber Name": "",
+   "Card No": "",
+   "Name": "",
+   "Area": "",
+   "Cel": "",
+   "Due Date": "",
+   "Status": ""
+ },
+ {
+   "Sms ID": null,
+   "VC No": null,
+   "LCO ID": null,
+   "Subscriber Name": "",
+   "Card No": "",
+   "Name": "",
+   "Area": "",
+   "Cel": "",
+   "Due Date": "",
+   "Status": ""
+ },
+ {
+   "Sms ID": null,
+   "VC No": null,
+   "LCO ID": null,
+   "Subscriber Name": "",
+   "Card No": "",
+   "Name": "",
+   "Area": "",
+   "Cel": "",
+   "Due Date": "",
+   "Status": ""
+ },
+ {
+   "Sms ID": null,
+   "VC No": null,
+   "LCO ID": null,
+   "Subscriber Name": "",
+   "Card No": "",
+   "Name": "",
+   "Area": "",
+   "Cel": "",
+   "Due Date": "",
+   "Status": ""
+ },
+ {
+   "Sms ID": null,
+   "VC No": null,
+   "LCO ID": null,
+   "Subscriber Name": "",
+   "Card No": "",
+   "Name": "",
+   "Area": "",
+   "Cel": "",
+   "Due Date": "",
+   "Status": ""
+ },
+ {
+   "Sms ID": null,
+   "VC No": null,
+   "LCO ID": null,
+   "Subscriber Name": "",
+   "Card No": "",
+   "Name": "",
+   "Area": "",
+   "Cel": "",
+   "Due Date": "",
+   "Status": ""
+ },
+ {
+   "Sms ID": null,
+   "VC No": null,
+   "LCO ID": null,
+   "Subscriber Name": "",
+   "Card No": "",
+   "Name": "",
+   "Area": "",
+   "Cel": "",
+   "Due Date": "",
+   "Status": ""
+ },
+ {
+   "Sms ID": null,
+   "VC No": null,
+   "LCO ID": null,
+   "Subscriber Name": "",
+   "Card No": "",
+   "Name": "",
+   "Area": "",
+   "Cel": "",
+   "Due Date": "",
+   "Status": ""
+ },
+ {
+   "Sms ID": null,
+   "VC No": null,
+   "LCO ID": null,
+   "Subscriber Name": "",
+   "Card No": "",
+   "Name": "",
+   "Area": "",
+   "Cel": "",
+   "Due Date": "",
+   "Status": ""
+ },
+ {
+   "Sms ID": null,
+   "VC No": null,
+   "LCO ID": null,
+   "Subscriber Name": "",
+   "Card No": "",
+   "Name": "",
+   "Area": "",
+   "Cel": "",
+   "Due Date": "",
+   "Status": ""
+ },
+ {
+   "Sms ID": null,
+   "VC No": null,
+   "LCO ID": null,
+   "Subscriber Name": "",
+   "Card No": "",
+   "Name": "",
+   "Area": "",
+   "Cel": "",
+   "Due Date": "",
+   "Status": ""
+ }
 ]
 
 
@@ -77664,7 +77844,7 @@ for (var x in cust_DB){
   area = cust_DB[x]["Area"];
   card = cust_DB[x]["Card No"];
   phone = cust_DB[x]["Cel"];
-  cell = cust_DB[x]["Cel2"];
+  cell = cust_DB[x]["Cel"];
   due_date = cust_DB[x]["Due Date"];
   last_paid = cust_DB[x]["Last Paid Date"];
 

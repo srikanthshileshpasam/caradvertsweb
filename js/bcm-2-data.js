@@ -54298,6 +54298,20 @@ var cust_DB=[
    "Status": "DeActive"
  },
  {
+   "Sms ID": 99999999,
+   "VC No": 09999999999,
+   "LCO ID": "N/C",
+   "Subscriber Name": "New Box / Spare Box",
+   "Card No": "",
+   "Name": "New Box / Spare Box",
+   "D No": "#N/A",
+   "Area": "#N/A",
+   "Cel No": "#N/A",
+   "Ope Name": "#N/A",
+   "Due Date": "N/A",
+   "Status": "New"
+ },
+ {
    "Sms ID": 21960216,
    "VC No": 2517012206,
    "LCO ID": 38519,
