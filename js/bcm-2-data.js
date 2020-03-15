@@ -54299,7 +54299,7 @@ var cust_DB=[
  },
  {
    "Sms ID": 99999999,
-   "VC No": 09999999999,
+   "VC No": 9999999999,
    "LCO ID": "N/C",
    "Subscriber Name": "New Box / Spare Box",
    "Card No": "",
