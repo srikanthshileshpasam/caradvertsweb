@@ -53595,7 +53595,7 @@ var cust_DB=[
    "D.No": "322",
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9542806430",
-   "Ope Name": "PULI O/P"
+   "Ope Name": "PULI"
  },
  {
    "Sms ID": 22824149,
@@ -53609,7 +53609,7 @@ var cust_DB=[
    "D.No": "19-2-88",
    "Area": "JAGADEESH COLONY",
    "Cel No": "9505673126",
-   "Ope Name": "BVR O/P"
+   "Ope Name": "BVR"
  }
 ]
 
