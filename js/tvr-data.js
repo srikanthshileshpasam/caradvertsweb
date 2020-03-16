@@ -114133,6 +114133,19 @@ var cust_DB=[
    "Status": "SPARE BOX"
  },
  {
+   "SMS ID": 9999999,
+   "VC No": 9999999999,
+   "LCO ID": "N/C",
+   "Subscriber Name": "New / Spare Box",
+   "Area": "",
+   "Card No": "",
+   "Name": "New / Spare Box",
+   "Cel 1": "",
+   "Cel2": "",
+   "Due Date": "N/C",
+   "Status": "SPARE BOX"
+ },
+ {
    "SMS ID": 21981566,
    "VC No": 2520778048,
    "LCO ID": 58073,
