@@ -53671,9 +53671,9 @@ for (var x in cust_DB){
   status = cust_DB[x]["Status"];
   area = cust_DB[x]["Area"];
   card = cust_DB[x]["Card No"];
-  phone = cust_DB[x]["Cel 1"];
+  phone = cust_DB[x]["Cel No"];
   cell = cust_DB[x]["Cel 2"];
-  due_date = cust_DB[x]["Feb Due Date"];
+  due_date = cust_DB[x]["Due Date"];
   last_paid = cust_DB[x]["Last Paid Date"];
   }
 }
