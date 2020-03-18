@@ -53598,6 +53598,20 @@ var cust_DB=[
    "Ope Name": "PULI"
  },
  {
+   "Sms ID": 99999999,
+   "VC No": 9999999999,
+   "LCO ID": "N/C",
+   "Subscriber Name": "New Box",
+   "Status": "Spare",
+   "Due Date": "N/C",
+   "Caed No": "#N/A",
+   "Name": "New Box",
+   "D.No": "",
+   "Area": "",
+   "Cel No": "",
+   "Ope Name": ""
+ },
+ {
    "Sms ID": 22824149,
    "VC No": 2550174308,
    "LCO ID": 38520,
