@@ -8077,7 +8077,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX nageswar rao garu",
-   "Cel 1": null,
+   "Cel 1": 9676242001,
    "Status": "Inactive",
    "Due Date": "01-Apr-20"
  },
