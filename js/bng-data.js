@@ -13,7 +13,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "34",
    "Name": "BNGM JCD VENKATESWARA RAO DHONTHU",
-   "Cel No": 8985187536,
+   "Cel 1": 8985187536,
    "Status": "Active",
    "Due Date": "31-May-20"
  },
@@ -25,7 +25,7 @@ var cust_DB=[
    "Area": "MDPD",
    "Card No": "9",
    "Name": "MDPX JJI VEERAYYAHOTEL) ADEPU",
-   "Cel No": 9989038064,
+   "Cel 1": 9989038064,
    "Status": "Active",
    "Due Date": "24-May-20"
  },
@@ -37,7 +37,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "73",
    "Name": "TMPL JGC MAHESHWARI NARAGANI",
-   "Cel No": 9177556949,
+   "Cel 1": 9177556949,
    "Status": "Active",
    "Due Date": "01-May-20"
  },
@@ -49,7 +49,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "XXXX XXX NANNAKA CHENNARAO XXXXX bng",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "30-Apr-20"
  },
@@ -61,7 +61,7 @@ var cust_DB=[
    "Area": "MDPD",
    "Card No": "115",
    "Name": "MDPX AAE RAGUPATHI GAYAM",
-   "Cel No": 9948933485,
+   "Cel 1": 9948933485,
    "Status": "Inactive",
    "Due Date": "30-Apr-20"
  },
@@ -73,7 +73,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "TMPL XXX Krishna Eeda",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "30-Apr-20"
  },
@@ -85,7 +85,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "TMPL XXX V BIKSHAM",
-   "Cel No": 9000327031,
+   "Cel 1": 9000327031,
    "Status": "Active",
    "Due Date": "04-May-20"
  },
@@ -97,7 +97,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "220",
    "Name": "RCHB BBJ VENKATESWARA RAO GAMPA",
-   "Cel No": 9701759846,
+   "Cel 1": 9701759846,
    "Status": "Active",
    "Due Date": "08-May-20"
  },
@@ -109,7 +109,7 @@ var cust_DB=[
    "Area": "RCHB",
    "Card No": "50",
    "Name": "RCHB JEJ RAMULU KANDUKURI",
-   "Cel No": 7702483937,
+   "Cel 1": 7702483937,
    "Status": "Inactive",
    "Due Date": "08-Apr-20"
  },
@@ -121,7 +121,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "999",
    "Name": "RRBR XXX GANGARAPU KRISHNAIAH",
-   "Cel No": 9000098830,
+   "Cel 1": 9000098830,
    "Status": "Active",
    "Due Date": "01-May-20"
  },
@@ -133,7 +133,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "235",
    "Name": "RCHB BCE SRINU BALUSUPATI",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "03-May-20"
  },
@@ -145,7 +145,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "TMPL XXX KOTHAPALLI SRINU",
-   "Cel No": 8179554294,
+   "Cel 1": 8179554294,
    "Status": "Active",
    "Due Date": "02-May-20"
  },
@@ -157,7 +157,7 @@ var cust_DB=[
    "Area": "MDPD",
    "Card No": "68",
    "Name": "MDPX JFH MAHALAKSHMI MALLELA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "02-May-20"
  },
@@ -169,7 +169,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "296",
    "Name": "BNGM BIF VENKATESVARAO",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "30-Apr-20"
  },
@@ -181,7 +181,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "36",
    "Name": "BNGM JCF NARASIMHA RAO DHONTHU",
-   "Cel No": 8106074766,
+   "Cel 1": 8106074766,
    "Status": "Active",
    "Due Date": "01-May-20"
  },
@@ -193,7 +193,7 @@ var cust_DB=[
    "Area": "MDPD",
    "Card No": "66",
    "Name": "MDPX JFF SURYANARAYNA CHARI THATIKONA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "02-May-20"
  },
@@ -205,7 +205,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "186",
    "Name": "TMPL AHF SIDULU SHAIK",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "01-May-20"
  },
@@ -217,7 +217,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "298",
    "Name": "BNGM BIH CHENNARAO PARSA",
-   "Cel No": 8096992707,
+   "Cel 1": 8096992707,
    "Status": "Active",
    "Due Date": "01-May-20"
  },
@@ -229,7 +229,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "TMPL XXX JONEBOINANAGESWARA RAO",
-   "Cel No": 9177071715,
+   "Cel 1": 9177071715,
    "Status": "Active",
    "Due Date": "06-May-20"
  },
@@ -241,7 +241,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "31",
    "Name": "BNGM JCA VENKATESWARA RAO PAMARTHI",
-   "Cel No": 9502321559,
+   "Cel 1": 9502321559,
    "Status": "Active",
    "Due Date": "06-May-20"
  },
@@ -253,7 +253,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "43",
    "Name": "BNGM JDC RAMANAMMA VELDHI",
-   "Cel No": 9000314251,
+   "Cel 1": 9000314251,
    "Status": "Active",
    "Due Date": "02-May-20"
  },
@@ -265,7 +265,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "999",
    "Name": "RRBR XXX SANIKA BERAPPA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "13-May-20"
  },
@@ -277,7 +277,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "",
    "Name": "RRBR XXX ORUGANTI RAMESH",
-   "Cel No": 9849569339,
+   "Cel 1": 9849569339,
    "Status": "Active",
    "Due Date": "15-May-20"
  },
@@ -289,7 +289,7 @@ var cust_DB=[
    "Area": "CHAA",
    "Card No": "",
    "Name": "CHAA XXX r narasimharao",
-   "Cel No": 9014713481,
+   "Cel 1": 9014713481,
    "Status": "Inactive",
    "Due Date": "07-Apr-20"
  },
@@ -301,7 +301,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "999",
    "Name": "RRBR XXX VANAMA MALLAIAH",
-   "Cel No": 8008323504,
+   "Cel 1": 8008323504,
    "Status": "Active",
    "Due Date": "19-May-20"
  },
@@ -313,7 +313,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "70",
    "Name": "TMPL JGJ SATYANARAYANA PARIKALA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "09-May-20"
  },
@@ -325,7 +325,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "271",
    "Name": "BNGM BGA RAVI MARIDHU",
-   "Cel No": 9701154634,
+   "Cel 1": 9701154634,
    "Status": "Active",
    "Due Date": "02-May-20"
  },
@@ -337,7 +337,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "XXXX XXX SIVA RAMA KRISHNA",
-   "Cel No": 9000065655,
+   "Cel 1": 9000065655,
    "Status": "Active",
    "Due Date": "03-May-20"
  },
@@ -349,7 +349,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "35",
    "Name": "BNGM JCE BUCHAIAH DHONTHU",
-   "Cel No": 9701107474,
+   "Cel 1": 9701107474,
    "Status": "Active",
    "Due Date": "03-May-20"
  },
@@ -361,7 +361,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "XXXX XXX Siri",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "07-May-20"
  },
@@ -373,7 +373,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "TMPL XXX RAYALA SRINIVASA RAO",
-   "Cel No": 7675933004,
+   "Cel 1": 7675933004,
    "Status": "Active",
    "Due Date": "11-May-20"
  },
@@ -385,7 +385,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "XXXX XXX ko[ulla venkateswarlu",
-   "Cel No": 9701221431,
+   "Cel 1": 9701221431,
    "Status": "Active",
    "Due Date": "12-May-20"
  },
@@ -397,7 +397,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "XXXX XXX Thoralapati Rambabu Thummalapalli",
-   "Cel No": 9963843415,
+   "Cel 1": 9963843415,
    "Status": "Active",
    "Due Date": "12-May-20"
  },
@@ -409,7 +409,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "XXXX XXX Sai",
-   "Cel No": 9550088219,
+   "Cel 1": 9550088219,
    "Status": "Active",
    "Due Date": "14-May-20"
  },
@@ -421,7 +421,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "109",
    "Name": "TMPL AJI VENKATESWARA RAO PATRA",
-   "Cel No": 7993511856,
+   "Cel 1": 7993511856,
    "Status": "Active",
    "Due Date": "06-May-20"
  },
@@ -433,7 +433,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "XXXX XXX KRISHNA RAVULA",
-   "Cel No": 9989889703,
+   "Cel 1": 9989889703,
    "Status": "Active",
    "Due Date": "02-May-20"
  },
@@ -445,7 +445,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "XXXX XXX Kthapalli Kamalakar Thummalapalli",
-   "Cel No": 9133483280,
+   "Cel 1": 9133483280,
    "Status": "Active",
    "Due Date": "02-May-20"
  },
@@ -457,7 +457,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX BANKA SATISH",
-   "Cel No": 9704258389,
+   "Cel 1": 9704258389,
    "Status": "Active",
    "Due Date": "08-May-20"
  },
@@ -469,7 +469,7 @@ var cust_DB=[
    "Area": "BVRM",
    "Card No": "999",
    "Name": "BVRM XXX Mangalapudi moshe",
-   "Cel No": 9640505787,
+   "Cel 1": 9640505787,
    "Status": "Inactive",
    "Due Date": "01-Apr-20"
  },
@@ -481,7 +481,7 @@ var cust_DB=[
    "Area": "MDPD",
    "Card No": "999",
    "Name": "XXXX XXX Sataya prasad",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "01-May-20"
  },
@@ -493,7 +493,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "154",
    "Name": "RCHB AED VEERA SWAMY BOMMAKANTI",
-   "Cel No": 9553536707,
+   "Cel 1": 9553536707,
    "Status": "Active",
    "Due Date": "15-May-20"
  },
@@ -505,7 +505,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "183",
    "Name": "RCHB AHC KRISHNAYAH BOMMAKANTI",
-   "Cel No": 8008323545,
+   "Cel 1": 8008323545,
    "Status": "Active",
    "Due Date": "08-May-20"
  },
@@ -517,7 +517,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "213",
    "Name": "BNGM BAC BALAKRISHNA KOPUULA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "04-May-20"
  },
@@ -529,7 +529,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "999",
    "Name": "RRBR XXX CHEKURI SATYANARAYANA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "27-Apr-20"
  },
@@ -541,7 +541,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "216",
    "Name": "RCHB BAF PARVATHI CHENNU",
-   "Cel No": 7095317421,
+   "Cel 1": 7095317421,
    "Status": "Inactive",
    "Due Date": "23-Apr-20"
  },
@@ -553,7 +553,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "XXXX XXX Akil",
-   "Cel No": 7893094792,
+   "Cel 1": 7893094792,
    "Status": "Active",
    "Due Date": "03-May-20"
  },
@@ -565,7 +565,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "155",
    "Name": "TMPL AEE KANNAYYA KOMMU",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "11-May-20"
  },
@@ -577,7 +577,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "XXXX XXX Koppula Venkatarao Thummalapalli",
-   "Cel No": 9550848617,
+   "Cel 1": 9550848617,
    "Status": "Active",
    "Due Date": "03-May-20"
  },
@@ -589,7 +589,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "XXXX XXX RAMULU SINIGISELA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "06-May-20"
  },
@@ -601,7 +601,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "245",
    "Name": "BNGM BDE TARUNKUMAR CHITHRALA",
-   "Cel No": 9701055827,
+   "Cel 1": 9701055827,
    "Status": "Active",
    "Due Date": "19-May-20"
  },
@@ -613,7 +613,7 @@ var cust_DB=[
    "Area": "VMBR",
    "Card No": "999",
    "Name": "VMBR XXX VANGA CHENNARAO",
-   "Cel No": 9963249337,
+   "Cel 1": 9963249337,
    "Status": "Inactive",
    "Due Date": "02-Apr-20"
  },
@@ -625,7 +625,7 @@ var cust_DB=[
    "Area": "KNVL",
    "Card No": "200",
    "Name": "KNVL BJJ SEELAM SRINIVASAREDDY",
-   "Cel No": 7729947594,
+   "Cel 1": 7729947594,
    "Status": "Inactive",
    "Due Date": "04-Apr-20"
  },
@@ -637,7 +637,7 @@ var cust_DB=[
    "Area": "MDPD",
    "Card No": "81",
    "Name": "MDPX JHA VENKATESWARA RAO MAMILLA",
-   "Cel No": 9963045227,
+   "Cel 1": 9963045227,
    "Status": "Inactive",
    "Due Date": "06-Mar-20"
  },
@@ -649,7 +649,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "253",
    "Name": "BNGM BEC MALLAIAH DHONTHU",
-   "Cel No": 9618116302,
+   "Cel 1": 9618116302,
    "Status": "Active",
    "Due Date": "05-May-20"
  },
@@ -661,7 +661,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "XXXX XXX Jalagam Prasadgaru Thummalapally",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "04-Apr-20"
  },
@@ -673,7 +673,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "214",
    "Name": "BNGM BAD BASAVAMMARAMULU) KOPPULA",
-   "Cel No": 9963506933,
+   "Cel 1": 9963506933,
    "Status": "Active",
    "Due Date": "05-May-20"
  },
@@ -685,7 +685,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "XXXX XXX SREENU BANKA",
-   "Cel No": 8008524303,
+   "Cel 1": 8008524303,
    "Status": "Active",
    "Due Date": "04-May-20"
  },
@@ -697,7 +697,7 @@ var cust_DB=[
    "Area": "MDPD",
    "Card No": "008/A",
    "Name": "MDPX JJHXAMADHUSUDHANRAO KOMPALLY",
-   "Cel No": 7674053282,
+   "Cel 1": 7674053282,
    "Status": "Active",
    "Due Date": "05-May-20"
  },
@@ -709,7 +709,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "XXXX XXX SK AMEENA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "10-May-20"
  },
@@ -721,7 +721,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "XXXX XXX vadetha venkateswarao",
-   "Cel No": 9848978419,
+   "Cel 1": 9848978419,
    "Status": "Active",
    "Due Date": "05-May-20"
  },
@@ -733,7 +733,7 @@ var cust_DB=[
    "Area": "MDPD",
    "Card No": "111/A",
    "Name": "MDPX AAAXA NARASIMHARAO GAYAM",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "08-May-20"
  },
@@ -745,7 +745,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "207",
    "Name": "BNGM BJG KANTHARAO KOMATI",
-   "Cel No": 9905995867,
+   "Cel 1": 9905995867,
    "Status": "Active",
    "Due Date": "04-May-20"
  },
@@ -757,7 +757,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "68",
    "Name": "TMPL JFH SRINIVASARAO EEDA",
-   "Cel No": 9490715284,
+   "Cel 1": 9490715284,
    "Status": "Active",
    "Due Date": "05-May-20"
  },
@@ -769,7 +769,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "BNGM XXX RAMA KRISHNA BANKA",
-   "Cel No": 9959031881,
+   "Cel 1": 9959031881,
    "Status": "Active",
    "Due Date": "06-May-20"
  },
@@ -781,7 +781,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "BNGM XXX K RANGACHARYULU",
-   "Cel No": 9989962733,
+   "Cel 1": 9989962733,
    "Status": "Active",
    "Due Date": "27-May-20"
  },
@@ -793,7 +793,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "XXXX XXX KOMATI VENKATESWARA RAO XXXXX bng",
-   "Cel No": 9505068156,
+   "Cel 1": 9505068156,
    "Status": "Active",
    "Due Date": "17-May-20"
  },
@@ -805,7 +805,7 @@ var cust_DB=[
    "Area": "VMBR",
    "Card No": "999",
    "Name": "XXXX XXX ISLAVATHU DARMA GUN MEN CI",
-   "Cel No": 9642228299,
+   "Cel 1": 9642228299,
    "Status": "Inactive",
    "Due Date": "24-Apr-20"
  },
@@ -817,7 +817,7 @@ var cust_DB=[
    "Area": "MDPD",
    "Card No": "37",
    "Name": "MDPX JCG PULLARAO ALLAKUNTA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "14-May-20"
  },
@@ -829,7 +829,7 @@ var cust_DB=[
    "Area": "MDPD",
    "Card No": "71",
    "Name": "MDPX JGA NARASIMHA RAO ORUGANTI",
-   "Cel No": 8790922034,
+   "Cel 1": 8790922034,
    "Status": "Active",
    "Due Date": "21-May-20"
  },
@@ -841,7 +841,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "267",
    "Name": "BNGM BFG SREENU GARIDEPALLI",
-   "Cel No": 9704348545,
+   "Cel 1": 9704348545,
    "Status": "Active",
    "Due Date": "07-May-20"
  },
@@ -853,7 +853,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "XXXX XXX Sivaramakrishna",
-   "Cel No": 9703925521,
+   "Cel 1": 9703925521,
    "Status": "Active",
    "Due Date": "07-May-20"
  },
@@ -865,7 +865,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "XXXX XXX p sai babu",
-   "Cel No": 9959389499,
+   "Cel 1": 9959389499,
    "Status": "Inactive",
    "Due Date": "06-Apr-20"
  },
@@ -877,7 +877,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "32",
    "Name": "TMPL JCB VEERABABU TATI",
-   "Cel No": 7032330528,
+   "Cel 1": 7032330528,
    "Status": "Active",
    "Due Date": "05-May-20"
  },
@@ -889,7 +889,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "",
    "Name": "XXXX XXX singisalavenkateswara rao rrb",
-   "Cel No": 9502643313,
+   "Cel 1": 9502643313,
    "Status": "Active",
    "Due Date": "07-May-20"
  },
@@ -901,7 +901,7 @@ var cust_DB=[
    "Area": "MDPD",
    "Card No": "246",
    "Name": "VMBR BDF SANDYA RANI KONDAPALLI",
-   "Cel No": 9989384691,
+   "Cel 1": 9989384691,
    "Status": "Active",
    "Due Date": "08-May-20"
  },
@@ -913,7 +913,7 @@ var cust_DB=[
    "Area": "MDPD",
    "Card No": "44",
    "Name": "MDPX JDD NAGAIAH MALLE",
-   "Cel No": 7093165754,
+   "Cel 1": 7093165754,
    "Status": "Active",
    "Due Date": "11-May-20"
  },
@@ -925,7 +925,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "999",
    "Name": "RRBR XXX ELAMARTHI SRINU",
-   "Cel No": 9885573019,
+   "Cel 1": 9885573019,
    "Status": "Active",
    "Due Date": "07-May-20"
  },
@@ -937,7 +937,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "14",
    "Name": "BNGM JAD CHENNA RAOMAHESH) DENKANA",
-   "Cel No": 9000121195,
+   "Cel 1": 9000121195,
    "Status": "Active",
    "Due Date": "08-May-20"
  },
@@ -949,7 +949,7 @@ var cust_DB=[
    "Area": "MDPD",
    "Card No": "43",
    "Name": "MDPX JDC NEELAMMA MALLE",
-   "Cel No": 8185046120,
+   "Cel 1": 8185046120,
    "Status": "Active",
    "Due Date": "13-May-20"
  },
@@ -961,7 +961,7 @@ var cust_DB=[
    "Area": "RCHB",
    "Card No": "176",
    "Name": "RCHB AGF SRINU SANIKA",
-   "Cel No": 9959511344,
+   "Cel 1": 9959511344,
    "Status": "Active",
    "Due Date": "11-May-20"
  },
@@ -973,7 +973,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "189",
    "Name": "BNGM AHI RAVI MALLADI",
-   "Cel No": 9618113622,
+   "Cel 1": 9618113622,
    "Status": "Active",
    "Due Date": "09-May-20"
  },
@@ -985,7 +985,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "XXXX XXX Pathigadapa SatyanarayanaRaju thummalapalli",
-   "Cel No": 9177115573,
+   "Cel 1": 9177115573,
    "Status": "Active",
    "Due Date": "09-May-20"
  },
@@ -997,7 +997,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "232",
    "Name": "TMPL BCB SRINIVASARAO NARAGANI",
-   "Cel No": 9000314363,
+   "Cel 1": 9000314363,
    "Status": "Active",
    "Due Date": "20-May-20"
  },
@@ -1009,7 +1009,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX APPARAO tractor",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "10-Apr-20"
  },
@@ -1021,7 +1021,7 @@ var cust_DB=[
    "Area": "KNVL",
    "Card No": "999",
    "Name": "XXXX XXX SK MOULLALI",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "09-Mar-20"
  },
@@ -1033,7 +1033,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "41",
    "Name": "TMPL JDA YESU KAVURI",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "13-May-20"
  },
@@ -1045,7 +1045,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "XXXX XXX JYOSHNA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "13-May-20"
  },
@@ -1057,7 +1057,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "BNGM XXX DEVARAPALLI RAMARAO",
-   "Cel No": 9866511706,
+   "Cel 1": 9866511706,
    "Status": "Active",
    "Due Date": "19-May-20"
  },
@@ -1069,7 +1069,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "216",
    "Name": "BNGM BAF KRISHNAIAH REPAKULA",
-   "Cel No": 9603625202,
+   "Cel 1": 9603625202,
    "Status": "Active",
    "Due Date": "08-May-20"
  },
@@ -1081,7 +1081,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "42",
    "Name": "RCHB JDB PRASAD GUGULOTHU",
-   "Cel No": 9502887188,
+   "Cel 1": 9502887188,
    "Status": "Active",
    "Due Date": "08-May-20"
  },
@@ -1093,7 +1093,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "XXXX XXX Sivaramakrishna K",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "26-May-20"
  },
@@ -1105,7 +1105,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "223",
    "Name": "TMPL BBC SRINU NARSING",
-   "Cel No": 8978856983,
+   "Cel 1": 8978856983,
    "Status": "Active",
    "Due Date": "08-May-20"
  },
@@ -1117,7 +1117,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "88",
    "Name": "BNGM JHH RAMBABU PADHILAM",
-   "Cel No": 8374916177,
+   "Cel 1": 8374916177,
    "Status": "Active",
    "Due Date": "09-May-20"
  },
@@ -1129,7 +1129,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "311/A",
    "Name": "BNGM CAAXASEETHA DHONTHU",
-   "Cel No": 8886180084,
+   "Cel 1": 8886180084,
    "Status": "Active",
    "Due Date": "10-May-20"
  },
@@ -1141,7 +1141,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "38",
    "Name": "BNGM JCH VENKATWSWARA RAOSUBADHRA) DHONTHU",
-   "Cel No": 9666465248,
+   "Cel 1": 9666465248,
    "Status": "Active",
    "Due Date": "12-May-20"
  },
@@ -1153,7 +1153,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "12",
    "Name": "BNGM JAB VEKATESWERAO EJIGANI",
-   "Cel No": 9963843348,
+   "Cel 1": 9963843348,
    "Status": "Active",
    "Due Date": "08-May-20"
  },
@@ -1165,7 +1165,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "39",
    "Name": "BNGM JCI SUMANDHANA LAKSHMI) POTHURAJU",
-   "Cel No": 9959590203,
+   "Cel 1": 9959590203,
    "Status": "Active",
    "Due Date": "15-May-20"
  },
@@ -1177,7 +1177,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "33",
    "Name": "BNGM JCC KRISHNA RAO DHONTHU",
-   "Cel No": 9963920288,
+   "Cel 1": 9963920288,
    "Status": "Active",
    "Due Date": "09-May-20"
  },
@@ -1189,7 +1189,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "222",
    "Name": "BNGM BBB RAMAKRISHNA UPPU",
-   "Cel No": 7337081565,
+   "Cel 1": 7337081565,
    "Status": "Active",
    "Due Date": "11-May-20"
  },
@@ -1201,7 +1201,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "260",
    "Name": "BNGM BFJ SREENUSARPANCH) KANDHIMALLA",
-   "Cel No": 9912337939,
+   "Cel 1": 9912337939,
    "Status": "Active",
    "Due Date": "12-May-20"
  },
@@ -1213,7 +1213,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "32",
    "Name": "BNGM JCB KRISHNAIAH DHONTHU",
-   "Cel No": 8179144392,
+   "Cel 1": 8179144392,
    "Status": "Active",
    "Due Date": "08-May-20"
  },
@@ -1225,7 +1225,7 @@ var cust_DB=[
    "Area": "MDPD",
    "Card No": "999",
    "Name": "XXXX XXX Joneboina Chennarao Mandalapadu",
-   "Cel No": 9618849005,
+   "Cel 1": 9618849005,
    "Status": "Active",
    "Due Date": "15-May-20"
  },
@@ -1237,7 +1237,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "301",
    "Name": "BNGM CJA KRISHNARAO DHONTHU",
-   "Cel No": 8096694365,
+   "Cel 1": 8096694365,
    "Status": "Active",
    "Due Date": "09-May-20"
  },
@@ -1249,7 +1249,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "BNGM XXX Sivaramakrishna",
-   "Cel No": 9701601688,
+   "Cel 1": 9701601688,
    "Status": "Active",
    "Due Date": "09-May-20"
  },
@@ -1261,7 +1261,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "XXXX XXX UPPU RANGAYA XXXXX bng",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "10-May-20"
  },
@@ -1273,7 +1273,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "BNGM XXX RAJA RAO SINGISALA",
-   "Cel No": 9550758075,
+   "Cel 1": 9550758075,
    "Status": "Active",
    "Due Date": "11-May-20"
  },
@@ -1285,7 +1285,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "36",
    "Name": "RCHB JCF NAGESWARA RAO BALUSUPATI",
-   "Cel No": 9160837296,
+   "Cel 1": 9160837296,
    "Status": "Active",
    "Due Date": "19-May-20"
  },
@@ -1297,7 +1297,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "XXXX XXX SK AMEENA",
-   "Cel No": 9885661086,
+   "Cel 1": 9885661086,
    "Status": "Inactive",
    "Due Date": "12-Apr-20"
  },
@@ -1309,7 +1309,7 @@ var cust_DB=[
    "Area": "BVRM",
    "Card No": "147/A",
    "Name": "BVRM ADGXA MANDHDAPU NAGAMMA",
-   "Cel No": 9640530959,
+   "Cel 1": 9640530959,
    "Status": "Inactive",
    "Due Date": "09-Apr-20"
  },
@@ -1321,7 +1321,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "243",
    "Name": "BNGM BDC VENKATESWAR RAO PULIVARTHI",
-   "Cel No": 9866856954,
+   "Cel 1": 9866856954,
    "Status": "Active",
    "Due Date": "10-May-20"
  },
@@ -1333,7 +1333,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "XXXX XXX Jalagam Prasadgaru Thummalapally",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "10-May-20"
  },
@@ -1345,7 +1345,7 @@ var cust_DB=[
    "Area": "PNBL",
    "Card No": "999",
    "Name": "XXXX XXX NADHAYLAA SRINIVASARAO PNB",
-   "Cel No": 9177967339,
+   "Cel 1": 9177967339,
    "Status": "Inactive",
    "Due Date": "09-Apr-20"
  },
@@ -1357,7 +1357,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "280",
    "Name": "BNGM BHJ KRISHNA DHONTHU",
-   "Cel No": 9704152304,
+   "Cel 1": 9704152304,
    "Status": "Active",
    "Due Date": "13-May-20"
  },
@@ -1369,7 +1369,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "BNGM XXX DHAMERA SATHYA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "19-May-20"
  },
@@ -1381,7 +1381,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "XXXX XXX DEEPTHI",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "13-May-20"
  },
@@ -1393,7 +1393,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "288",
    "Name": "BNGM BHH VENKATESWAR RAO BALAGANI",
-   "Cel No": 9908887346,
+   "Cel 1": 9908887346,
    "Status": "Active",
    "Due Date": "27-May-20"
  },
@@ -1405,7 +1405,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "70",
    "Name": "MDPX JGJ VENKATESWARA RAOTHREE76) ORUGANTI",
-   "Cel No": 9550085065,
+   "Cel 1": 9550085065,
    "Status": "Active",
    "Due Date": "09-May-20"
  },
@@ -1417,7 +1417,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "999",
    "Name": "XXXX XXX Raj",
-   "Cel No": 9704610200,
+   "Cel 1": 9704610200,
    "Status": "Active",
    "Due Date": "11-May-20"
  },
@@ -1429,7 +1429,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "310",
    "Name": "BNGM CAJ SATHYANARAYANA DHONTHU",
-   "Cel No": 9704351707,
+   "Cel 1": 9704351707,
    "Status": "Active",
    "Due Date": "11-May-20"
  },
@@ -1441,7 +1441,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "212",
    "Name": "BNGM BAB CHOPPAVARAPU LINGAYYA",
-   "Cel No": 9000314414,
+   "Cel 1": 9000314414,
    "Status": "Inactive",
    "Due Date": "14-Apr-20"
  },
@@ -1453,7 +1453,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "34",
    "Name": "RCHB JCD MURALI BALUSUPATI",
-   "Cel No": 9000121151,
+   "Cel 1": 9000121151,
    "Status": "Active",
    "Due Date": "27-May-20"
  },
@@ -1465,7 +1465,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "76",
    "Name": "TMPL JGF SAJEED SHAIK",
-   "Cel No": 9704375102,
+   "Cel 1": 9704375102,
    "Status": "Active",
    "Due Date": "28-May-20"
  },
@@ -1477,7 +1477,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "141",
    "Name": "TMPL ADA RAVI AMBOJU",
-   "Cel No": 8106385436,
+   "Cel 1": 8106385436,
    "Status": "Active",
    "Due Date": "14-May-20"
  },
@@ -1489,7 +1489,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "TMPL XXX SK SONDHU SAHEM",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "10-May-20"
  },
@@ -1501,7 +1501,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "999",
    "Name": "RCHB JBG LAKSHMANA RAO GANGARAPU",
-   "Cel No": 9963959936,
+   "Cel 1": 9963959936,
    "Status": "Active",
    "Due Date": "11-May-20"
  },
@@ -1513,7 +1513,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "275",
    "Name": "BNGM BGE KRISHNA BAJINNI",
-   "Cel No": 9652124104,
+   "Cel 1": 9652124104,
    "Status": "Active",
    "Due Date": "12-May-20"
  },
@@ -1525,7 +1525,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "278",
    "Name": "BNGM BGH MAHESWARA RAO DHONTHU",
-   "Cel No": 9177674729,
+   "Cel 1": 9177674729,
    "Status": "Inactive",
    "Due Date": "13-Apr-20"
  },
@@ -1537,7 +1537,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "317",
    "Name": "BNGM CAG SATHYAMRAJA) GODHA",
-   "Cel No": 9676461172,
+   "Cel 1": 9676461172,
    "Status": "Active",
    "Due Date": "10-May-20"
  },
@@ -1549,7 +1549,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "4",
    "Name": "TMPL JJD PEDDA VENKATESWARLU ANANTHA",
-   "Cel No": 9640039195,
+   "Cel 1": 9640039195,
    "Status": "Active",
    "Due Date": "13-May-20"
  },
@@ -1561,7 +1561,7 @@ var cust_DB=[
    "Area": "MDPD",
    "Card No": "8",
    "Name": "MDPX JJH VENKATESWARA RAO ADEPRA",
-   "Cel No": 9963168965,
+   "Cel 1": 9963168965,
    "Status": "Active",
    "Due Date": "01-May-20"
  },
@@ -1573,7 +1573,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "XXXX XXX Chinthoju Tulasamma Thummalapalli",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "10-May-20"
  },
@@ -1585,7 +1585,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "213",
    "Name": "TMPL BAC VENKATESWARA RAO CHINTA",
-   "Cel No": 9963081842,
+   "Cel 1": 9963081842,
    "Status": "Active",
    "Due Date": "15-May-20"
  },
@@ -1597,7 +1597,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "47",
    "Name": "BNGM JDG SREENU MADDIBOINA",
-   "Cel No": 9989287621,
+   "Cel 1": 9989287621,
    "Status": "Active",
    "Due Date": "19-May-20"
  },
@@ -1609,7 +1609,7 @@ var cust_DB=[
    "Area": "VMBR",
    "Card No": "",
    "Name": "VMBR XXX KATAMANENI SUNEETHA",
-   "Cel No": 9866668196,
+   "Cel 1": 9866668196,
    "Status": "Active",
    "Due Date": "15-May-20"
  },
@@ -1621,7 +1621,7 @@ var cust_DB=[
    "Area": "MDPD",
    "Card No": "56",
    "Name": "MDPX JEF VENKATESWARA RAORAMBABU) NALLABOINA",
-   "Cel No": 7893806949,
+   "Cel 1": 7893806949,
    "Status": "Active",
    "Due Date": "15-May-20"
  },
@@ -1633,7 +1633,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "188",
    "Name": "RCHB AHH RAMULU CHINNAM",
-   "Cel No": 9989390368,
+   "Cel 1": 9989390368,
    "Status": "Active",
    "Due Date": "15-May-20"
  },
@@ -1645,7 +1645,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "231",
    "Name": "TMPL BCA PICHHAIAH NARAGANI",
-   "Cel No": 9502545626,
+   "Cel 1": 9502545626,
    "Status": "Active",
    "Due Date": "25-May-20"
  },
@@ -1657,7 +1657,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "XXXX XXX DEEPTHI",
-   "Cel No": 8008261967,
+   "Cel 1": 8008261967,
    "Status": "Active",
    "Due Date": "14-May-20"
  },
@@ -1669,7 +1669,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "287",
    "Name": "BNGM BHG VENKTA RAMAYYA BALAGANI",
-   "Cel No": 8790717557,
+   "Cel 1": 8790717557,
    "Status": "Active",
    "Due Date": "19-May-20"
  },
@@ -1681,7 +1681,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "161",
    "Name": "RCHB AFA MUTHAYAH BABUPEDA) SANIKA",
-   "Cel No": 9505805929,
+   "Cel 1": 9505805929,
    "Status": "Active",
    "Due Date": "12-May-20"
  },
@@ -1693,7 +1693,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "44",
    "Name": "RCHB JDD BHADRA RAO KANDUKURI",
-   "Cel No": 9963168354,
+   "Cel 1": 9963168354,
    "Status": "Active",
    "Due Date": "17-May-20"
  },
@@ -1705,7 +1705,7 @@ var cust_DB=[
    "Area": "NGDM",
    "Card No": "",
    "Name": "XXXX XXX SRINUBODA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "19-Apr-20"
  },
@@ -1717,7 +1717,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "233",
    "Name": "BNGM BCC VASANTHA RAO KOTHAPALLI",
-   "Cel No": 9989304226,
+   "Cel 1": 9989304226,
    "Status": "Active",
    "Due Date": "11-May-20"
  },
@@ -1729,7 +1729,7 @@ var cust_DB=[
    "Area": "MDPD",
    "Card No": "14",
    "Name": "MDPX JAD BAJAR PALLAPU",
-   "Cel No": 9949427254,
+   "Cel 1": 9949427254,
    "Status": "Active",
    "Due Date": "13-May-20"
  },
@@ -1741,7 +1741,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "999",
    "Name": "XXXX XXX SAI",
-   "Cel No": 9640132585,
+   "Cel 1": 9640132585,
    "Status": "Active",
    "Due Date": "14-May-20"
  },
@@ -1753,7 +1753,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "55",
    "Name": "BNGM JEE SATHYAM PULIVARTHI",
-   "Cel No": 9885661086,
+   "Cel 1": 9885661086,
    "Status": "Active",
    "Due Date": "12-May-20"
  },
@@ -1765,7 +1765,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "293",
    "Name": "BNGM BIC MANAMMA DHONTHU",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "14-May-20"
  },
@@ -1777,7 +1777,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "TMPL XXX M VENKATESWARAO",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "20-May-20"
  },
@@ -1789,7 +1789,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "53",
    "Name": "TMPL JEC RAMESHSATYAM) NERELLA",
-   "Cel No": 9603845338,
+   "Cel 1": 9603845338,
    "Status": "Active",
    "Due Date": "14-May-20"
  },
@@ -1801,7 +1801,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "XXXX XXX DEEPTHI",
-   "Cel No": 9912501967,
+   "Cel 1": 9912501967,
    "Status": "Active",
    "Due Date": "14-May-20"
  },
@@ -1813,7 +1813,7 @@ var cust_DB=[
    "Area": "VMBR",
    "Card No": "152",
    "Name": "VMBR AEB CHINNI KRISHNA DENKANA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "14-Apr-20"
  },
@@ -1825,7 +1825,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "999",
    "Name": "XXXX XXX Sai",
-   "Cel No": 9959590230,
+   "Cel 1": 9959590230,
    "Status": "Inactive",
    "Due Date": "24-Apr-20"
  },
@@ -1837,7 +1837,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "168",
    "Name": "BNGM AFH SREENU SINGISALA",
-   "Cel No": 9908570308,
+   "Cel 1": 9908570308,
    "Status": "Active",
    "Due Date": "12-May-20"
  },
@@ -1849,7 +1849,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "999",
    "Name": "RRBR XXX ACHANT PULLARAO",
-   "Cel No": 8374439659,
+   "Cel 1": 8374439659,
    "Status": "Active",
    "Due Date": "13-May-20"
  },
@@ -1861,7 +1861,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "80",
    "Name": "RCHB JHJ NARASIMHA RAO BANNE",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "21-Apr-20"
  },
@@ -1873,7 +1873,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "193",
    "Name": "BNGM AIC RAJU BANKA",
-   "Cel No": 9959018850,
+   "Cel 1": 9959018850,
    "Status": "Active",
    "Due Date": "13-May-20"
  },
@@ -1885,7 +1885,7 @@ var cust_DB=[
    "Area": "VMBR",
    "Card No": "999",
    "Name": "VMBR XXX PAMARTHI SATYANARAYANA",
-   "Cel No": 9959110629,
+   "Cel 1": 9959110629,
    "Status": "Inactive",
    "Due Date": "26-Apr-20"
  },
@@ -1897,7 +1897,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "81",
    "Name": "RCHB JHA NAGESWARA RAO BANNE",
-   "Cel No": 9550318160,
+   "Cel 1": 9550318160,
    "Status": "Inactive",
    "Due Date": "22-Apr-20"
  },
@@ -1909,7 +1909,7 @@ var cust_DB=[
    "Area": "RRBSC",
    "Card No": "",
    "Name": "XXXX XXX marakalaramesh",
-   "Cel No": 8074173361,
+   "Cel 1": 8074173361,
    "Status": "Active",
    "Due Date": "25-May-20"
  },
@@ -1921,7 +1921,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "BNGM XXX Banka Nageswara Rao",
-   "Cel No": 8106642622,
+   "Cel 1": 8106642622,
    "Status": "Active",
    "Due Date": "17-May-20"
  },
@@ -1933,7 +1933,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "223",
    "Name": "BNGM BBC SUBBARAO SURAMPALLI",
-   "Cel No": 9908005915,
+   "Cel 1": 9908005915,
    "Status": "Active",
    "Due Date": "14-May-20"
  },
@@ -1945,7 +1945,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "164",
    "Name": "RCHB AFD VENKATESWARA RAO VEMULAPALLI",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "20-May-20"
  },
@@ -1957,7 +1957,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "92",
    "Name": "BNGM JIB MURALI PARITALA",
-   "Cel No": 9949840159,
+   "Cel 1": 9949840159,
    "Status": "Active",
    "Due Date": "15-May-20"
  },
@@ -1969,7 +1969,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "268",
    "Name": "BNGM BFH GOPALRAO GARIDEPALLI",
-   "Cel No": 7702930674,
+   "Cel 1": 7702930674,
    "Status": "Active",
    "Due Date": "14-May-20"
  },
@@ -1981,7 +1981,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "999",
    "Name": "BNGM XXX KOPPULA CHINNARAO",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "18-May-20"
  },
@@ -1993,7 +1993,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "XXXX XXX Rayala Shesaiah Thummalapalli",
-   "Cel No": 9963385181,
+   "Cel 1": 9963385181,
    "Status": "Active",
    "Due Date": "14-May-20"
  },
@@ -2005,7 +2005,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "TMPL XXX CH KRISHNA RAO",
-   "Cel No": 9573629164,
+   "Cel 1": 9573629164,
    "Status": "Active",
    "Due Date": "18-May-20"
  },
@@ -2017,7 +2017,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "999",
    "Name": "XXXX XXX Sivaramakrishna",
-   "Cel No": 9963665697,
+   "Cel 1": 9963665697,
    "Status": "Inactive",
    "Due Date": "21-Apr-20"
  },
@@ -2029,7 +2029,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "XXXX XXX Vangala Venu Thummalapalli",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "19-May-20"
  },
@@ -2041,7 +2041,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "61",
    "Name": "BNGM JFA PEDHA VENKATESWARA RAO VEMULA",
-   "Cel No": 9652719579,
+   "Cel 1": 9652719579,
    "Status": "Active",
    "Due Date": "18-May-20"
  },
@@ -2053,7 +2053,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "164",
    "Name": "BNGM AFD RAMBABU BANKA",
-   "Cel No": 9502619064,
+   "Cel 1": 9502619064,
    "Status": "Active",
    "Due Date": "16-May-20"
  },
@@ -2065,7 +2065,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "",
    "Name": "TMPL XXX Ramakrishna Thallada",
-   "Cel No": 9849569339,
+   "Cel 1": 9849569339,
    "Status": "Active",
    "Due Date": "17-May-20"
  },
@@ -2077,7 +2077,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "",
    "Name": "XXXX XXX SINGISALA RAMESH",
-   "Cel No": 9704316627,
+   "Cel 1": 9704316627,
    "Status": "Active",
    "Due Date": "15-May-20"
  },
@@ -2089,7 +2089,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "",
    "Name": "TMPL XXX Padma Mokka\n",
-   "Cel No": 9866271357,
+   "Cel 1": 9866271357,
    "Status": "Active",
    "Due Date": "18-May-20"
  },
@@ -2101,7 +2101,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "274",
    "Name": "BNGM BGD PEDHA NARASIMHARAO BAJINNI",
-   "Cel No": 9603536726,
+   "Cel 1": 9603536726,
    "Status": "Active",
    "Due Date": "14-May-20"
  },
@@ -2113,7 +2113,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "67",
    "Name": "BNGM JFG KRISHNA RAO GARIDEPALLI",
-   "Cel No": 9908802483,
+   "Cel 1": 9908802483,
    "Status": "Active",
    "Due Date": "14-May-20"
  },
@@ -2125,7 +2125,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "221",
    "Name": "RCHB BBA RAMU IMMADI",
-   "Cel No": 8142911418,
+   "Cel 1": 8142911418,
    "Status": "Active",
    "Due Date": "15-May-20"
  },
@@ -2137,7 +2137,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "244",
    "Name": "BNGM BDD ANJIBABU CHENAMALALU",
-   "Cel No": 9502643266,
+   "Cel 1": 9502643266,
    "Status": "Active",
    "Due Date": "24-May-20"
  },
@@ -2149,7 +2149,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "999",
    "Name": "XXXX XXX Sivaramakrishna",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "19-Apr-20"
  },
@@ -2161,7 +2161,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "XXXX XXX NAGARAJU PC",
-   "Cel No": 9866263663,
+   "Cel 1": 9866263663,
    "Status": "Active",
    "Due Date": "23-May-20"
  },
@@ -2173,7 +2173,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "999",
    "Name": "RRBR XXX MARAKALA BASKAR",
-   "Cel No": 9959037759,
+   "Cel 1": 9959037759,
    "Status": "Active",
    "Due Date": "16-May-20"
  },
@@ -2185,7 +2185,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "210",
    "Name": "BNGM BAJ SREENU DHONTHU",
-   "Cel No": 9618848821,
+   "Cel 1": 9618848821,
    "Status": "Active",
    "Due Date": "16-May-20"
  },
@@ -2197,7 +2197,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "208",
    "Name": "BNGM BJH SREENU KAVATI",
-   "Cel No": 9989548402,
+   "Cel 1": 9989548402,
    "Status": "Active",
    "Due Date": "16-May-20"
  },
@@ -2209,7 +2209,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "BNGM XXX GODA SRINU",
-   "Cel No": 9949666736,
+   "Cel 1": 9949666736,
    "Status": "Active",
    "Due Date": "22-May-20"
  },
@@ -2221,7 +2221,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "316",
    "Name": "BNGM CAF VINAYALATHA MIDHE",
-   "Cel No": 9963175186,
+   "Cel 1": 9963175186,
    "Status": "Active",
    "Due Date": "17-May-20"
  },
@@ -2233,7 +2233,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "302",
    "Name": "BNGM CJB GURNADHAM KOMATI",
-   "Cel No": 9963807625,
+   "Cel 1": 9963807625,
    "Status": "Active",
    "Due Date": "15-May-20"
  },
@@ -2245,7 +2245,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "XXXX XXX THORLAPATI VENKATESWARA RAO XXXXX tmp",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "17-May-20"
  },
@@ -2257,7 +2257,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "XXXX XXX Eda Naga Pularao thummalapalli",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "16-May-20"
  },
@@ -2269,7 +2269,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "XXXX XXX Amboju Gopaiah Thummalapalli",
-   "Cel No": 8179639961,
+   "Cel 1": 8179639961,
    "Status": "Inactive",
    "Due Date": "17-Apr-20"
  },
@@ -2281,7 +2281,7 @@ var cust_DB=[
    "Area": "KNVL",
    "Card No": "282",
    "Name": "KNVL BHB SK MOGALA SAHEB",
-   "Cel No": 8978626676,
+   "Cel 1": 8978626676,
    "Status": "Inactive",
    "Due Date": "13-Apr-20"
  },
@@ -2293,7 +2293,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "",
    "Name": "TMPL XXX yerra samrajyam",
-   "Cel No": 9553218368,
+   "Cel 1": 9553218368,
    "Status": "Active",
    "Due Date": "16-May-20"
  },
@@ -2305,7 +2305,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "SC-CLNY",
    "Name": "RRBR SCC Markala Ananda Rao",
-   "Cel No": 9502257473,
+   "Cel 1": 9502257473,
    "Status": "Active",
    "Due Date": "21-May-20"
  },
@@ -2317,7 +2317,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "266",
    "Name": "BNGM BFF RAMAKRISHNA JIDIMETLA",
-   "Cel No": 8008323327,
+   "Cel 1": 8008323327,
    "Status": "Active",
    "Due Date": "17-May-20"
  },
@@ -2329,7 +2329,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "6",
    "Name": "BNGM JJF VENKATA SATHYAM CHINTHA",
-   "Cel No": 9949896087,
+   "Cel 1": 9949896087,
    "Status": "Active",
    "Due Date": "18-May-20"
  },
@@ -2341,7 +2341,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "999",
    "Name": "RRBR XXX Gogineni Ramu",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "17-May-20"
  },
@@ -2353,7 +2353,7 @@ var cust_DB=[
    "Area": "RCHB",
    "Card No": "37",
    "Name": "RCHB JCG VEERAYAH KANDUKURI",
-   "Cel No": 9652491507,
+   "Cel 1": 9652491507,
    "Status": "Active",
    "Due Date": "19-May-20"
  },
@@ -2365,7 +2365,7 @@ var cust_DB=[
    "Area": "NGDM",
    "Card No": "",
    "Name": "NGDM XXX BHEMINENI KRISHNA",
-   "Cel No": 9381939413,
+   "Cel 1": 9381939413,
    "Status": "Inactive",
    "Due Date": "19-Apr-20"
  },
@@ -2377,7 +2377,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "TMPL XXX M RAMESH",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "17-May-20"
  },
@@ -2389,7 +2389,7 @@ var cust_DB=[
    "Area": "KNVL",
    "Card No": "999",
    "Name": "XXXX XXX SAMATHA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "23-Apr-20"
  },
@@ -2401,7 +2401,7 @@ var cust_DB=[
    "Area": "NGDM",
    "Card No": "",
    "Name": "NGDM XXX GADDEPUDI VENU",
-   "Cel No": 9010008867,
+   "Cel 1": 9010008867,
    "Status": "Active",
    "Due Date": "20-May-20"
  },
@@ -2413,7 +2413,7 @@ var cust_DB=[
    "Area": "RCHB",
    "Card No": "999",
    "Name": "RCHB XXX GANGARAPU RAMBABU",
-   "Cel No": 9000098830,
+   "Cel 1": 9000098830,
    "Status": "Active",
    "Due Date": "18-May-20"
  },
@@ -2425,7 +2425,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "77",
    "Name": "BNGM JGG SRIRAMKRISHNA DHASARAI",
-   "Cel No": 8106074942,
+   "Cel 1": 8106074942,
    "Status": "Active",
    "Due Date": "20-May-20"
  },
@@ -2437,7 +2437,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "96",
    "Name": "TMPL JIF MURALI CHILLUMUNTHA",
-   "Cel No": 9912028875,
+   "Cel 1": 9912028875,
    "Status": "Active",
    "Due Date": "26-May-20"
  },
@@ -2449,7 +2449,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "315",
    "Name": "BNGM CAE YELURI SATHYAMOHAN",
-   "Cel No": 9885248856,
+   "Cel 1": 9885248856,
    "Status": "Active",
    "Due Date": "22-May-20"
  },
@@ -2461,7 +2461,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "TMPL XXX PALAGANI CHINABABU(VENKATESWARA RAO",
-   "Cel No": 9705725363,
+   "Cel 1": 9705725363,
    "Status": "Active",
    "Due Date": "22-May-20"
  },
@@ -2473,7 +2473,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX BALAKRISHNA",
-   "Cel No": 9866263663,
+   "Cel 1": 9866263663,
    "Status": "Active",
    "Due Date": "19-May-20"
  },
@@ -2485,7 +2485,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "",
    "Name": "RRBR XXX marakala rambabu",
-   "Cel No": 8374741475,
+   "Cel 1": 8374741475,
    "Status": "Active",
    "Due Date": "19-May-20"
  },
@@ -2497,7 +2497,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "",
    "Name": "XXXX XXX pandeti kumari",
-   "Cel No": 8374369906,
+   "Cel 1": 8374369906,
    "Status": "Active",
    "Due Date": "18-May-20"
  },
@@ -2509,7 +2509,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "74",
    "Name": "BNGM JGD CHENNA RAO PAMARTHI",
-   "Cel No": 8179614958,
+   "Cel 1": 8179614958,
    "Status": "Active",
    "Due Date": "20-May-20"
  },
@@ -2521,7 +2521,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "314",
    "Name": "BNGM CAD VENKATA SATHYAM PARSA",
-   "Cel No": 9494596511,
+   "Cel 1": 9494596511,
    "Status": "Active",
    "Due Date": "18-May-20"
  },
@@ -2533,7 +2533,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "78",
    "Name": "BNGM JGH VENKATESWARLLU DEVARAPALLI",
-   "Cel No": 9177045823,
+   "Cel 1": 9177045823,
    "Status": "Active",
    "Due Date": "19-May-20"
  },
@@ -2545,7 +2545,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "177",
    "Name": "TMPL AGG LAKSHMI GOSU",
-   "Cel No": 8790320775,
+   "Cel 1": 8790320775,
    "Status": "Active",
    "Due Date": "21-May-20"
  },
@@ -2557,7 +2557,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "BNGM XXX DONKENA RAMBABU",
-   "Cel No": 9963727749,
+   "Cel 1": 9963727749,
    "Status": "Active",
    "Due Date": "19-May-20"
  },
@@ -2569,7 +2569,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "184",
    "Name": "TMPL AHD RAMBABU RAYALA",
-   "Cel No": 9010605517,
+   "Cel 1": 9010605517,
    "Status": "Active",
    "Due Date": "19-May-20"
  },
@@ -2581,7 +2581,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "193",
    "Name": "TMPL AIC KRISHNIAH YARRAGORLA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "21-May-20"
  },
@@ -2593,7 +2593,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "234",
    "Name": "TMPL BCD BASHA SHAIK",
-   "Cel No": 9949420172,
+   "Cel 1": 9949420172,
    "Status": "Active",
    "Due Date": "26-May-20"
  },
@@ -2605,7 +2605,7 @@ var cust_DB=[
    "Area": "RCHB",
    "Card No": "",
    "Name": "XXXX XXX RAMESH",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "22-Apr-20"
  },
@@ -2617,7 +2617,7 @@ var cust_DB=[
    "Area": "NGDM",
    "Card No": "",
    "Name": "NGDM XXX SK SUBHANI Staff",
-   "Cel No": 7680837852,
+   "Cel 1": 7680837852,
    "Status": "Active",
    "Due Date": "20-May-20"
  },
@@ -2629,7 +2629,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "999",
    "Name": "RRBR XXX BANEE KRISHNAIA XXXXX rrb",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "24-May-20"
  },
@@ -2641,7 +2641,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "XXXX XXX akhil",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "21-May-20"
  },
@@ -2653,7 +2653,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "2",
    "Name": "TMPL JJB DASU MAHESWARA RAO",
-   "Cel No": 9966176698,
+   "Cel 1": 9966176698,
    "Status": "Active",
    "Due Date": "21-May-20"
  },
@@ -2665,7 +2665,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "50",
    "Name": "BNGM JEJ CHANDRA SREENU VUYYURU",
-   "Cel No": 9949497584,
+   "Cel 1": 9949497584,
    "Status": "Active",
    "Due Date": "19-May-20"
  },
@@ -2677,7 +2677,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "TMPL XXX Vangala Bhikshyam",
-   "Cel No": 6303745409,
+   "Cel 1": 6303745409,
    "Status": "Active",
    "Due Date": "21-May-20"
  },
@@ -2689,7 +2689,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "91",
    "Name": "BNGM JIA JAGANADHAM JONNUDU",
-   "Cel No": 9490772933,
+   "Cel 1": 9490772933,
    "Status": "Active",
    "Due Date": "24-May-20"
  },
@@ -2701,7 +2701,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "BNGM XXX Donthu venkatasathyam",
-   "Cel No": 9959417539,
+   "Cel 1": 9959417539,
    "Status": "Active",
    "Due Date": "24-May-20"
  },
@@ -2713,7 +2713,7 @@ var cust_DB=[
    "Area": "MDPD",
    "Card No": "63",
    "Name": "MDPX JFC VASANTH RAO GAYAM",
-   "Cel No": 7675921748,
+   "Cel 1": 7675921748,
    "Status": "Active",
    "Due Date": "22-May-20"
  },
@@ -2725,7 +2725,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "26",
    "Name": "BNGM JBF NAGEWSARAO KONAKALA",
-   "Cel No": 9502887105,
+   "Cel 1": 9502887105,
    "Status": "Active",
    "Due Date": "21-May-20"
  },
@@ -2737,7 +2737,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "179",
    "Name": "TMPL AGI RAMASWAMI PALAGANI",
-   "Cel No": 7337527328,
+   "Cel 1": 7337527328,
    "Status": "Active",
    "Due Date": "19-May-20"
  },
@@ -2749,7 +2749,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "84",
    "Name": "TMPL JHD PRASAD BANDI",
-   "Cel No": 9908991280,
+   "Cel 1": 9908991280,
    "Status": "Active",
    "Due Date": "27-May-20"
  },
@@ -2761,7 +2761,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "XXXX XXX Sivaramakrishna",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "20-May-20"
  },
@@ -2773,7 +2773,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "TMLP XXX Shaik Pullasaheb Thummalapalli",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "20-May-20"
  },
@@ -2785,7 +2785,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "241",
    "Name": "BNGM BDA VENKATESWARAO TWO GOSU",
-   "Cel No": 9542993338,
+   "Cel 1": 9542993338,
    "Status": "Active",
    "Due Date": "25-May-20"
  },
@@ -2797,7 +2797,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "XXXX XXX Kommu Seetha",
-   "Cel No": 7093398087,
+   "Cel 1": 7093398087,
    "Status": "Active",
    "Due Date": "21-May-20"
  },
@@ -2809,7 +2809,7 @@ var cust_DB=[
    "Area": "RCHB",
    "Card No": "",
    "Name": "RCHB XXX KOLIKAPOGU VENKATESWARA RAO",
-   "Cel No": 9866808610,
+   "Cel 1": 9866808610,
    "Status": "Active",
    "Due Date": "20-May-20"
  },
@@ -2821,7 +2821,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "",
    "Name": "BNGM XXX swargam venkateswararao",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "23-May-20"
  },
@@ -2833,7 +2833,7 @@ var cust_DB=[
    "Area": "NGDM",
    "Card No": "",
    "Name": "NGDM XXX DHUMPA MANGAMMA",
-   "Cel No": 9121760839,
+   "Cel 1": 9121760839,
    "Status": "Active",
    "Due Date": "29-May-20"
  },
@@ -2845,7 +2845,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "264",
    "Name": "BNGM BFD KOTESWARAO VANAMA",
-   "Cel No": 9704960418,
+   "Cel 1": 9704960418,
    "Status": "Active",
    "Due Date": "20-May-20"
  },
@@ -2857,7 +2857,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "41",
    "Name": "BNGM JDA VENKATWSWARA RAO KUKKALA",
-   "Cel No": 8008298734,
+   "Cel 1": 8008298734,
    "Status": "Active",
    "Due Date": "20-May-20"
  },
@@ -2869,7 +2869,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "TMPL XXX Thallada Venkateswarlu",
-   "Cel No": 9000314392,
+   "Cel 1": 9000314392,
    "Status": "Active",
    "Due Date": "22-May-20"
  },
@@ -2881,7 +2881,7 @@ var cust_DB=[
    "Area": "VMBR",
    "Card No": "999",
    "Name": "VMBR XXX CHLLAMALA VITALRAO CPM LEADRE",
-   "Cel No": 8978163018,
+   "Cel 1": 8978163018,
    "Status": "Inactive",
    "Due Date": "28-Apr-20"
  },
@@ -2893,7 +2893,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "XXXX XXX Reddypogu Venkateswarao Thummalappli",
-   "Cel No": 7995230570,
+   "Cel 1": 7995230570,
    "Status": "Active",
    "Due Date": "21-May-20"
  },
@@ -2905,7 +2905,7 @@ var cust_DB=[
    "Area": "RRBSC",
    "Card No": "",
    "Name": "XXXX XXX GRAMARAO",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "29-May-20"
  },
@@ -2917,7 +2917,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "BNGM JCG NARASIMHA RAO DHONTHU",
-   "Cel No": 8106074766,
+   "Cel 1": 8106074766,
    "Status": "Active",
    "Due Date": "24-May-20"
  },
@@ -2929,7 +2929,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "56",
    "Name": "BNGM JEF SURESH SAMINENI",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "21-May-20"
  },
@@ -2941,7 +2941,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "283",
    "Name": "BNGM BHC RAJU VISWANADHUNI",
-   "Cel No": 9949947559,
+   "Cel 1": 9949947559,
    "Status": "Active",
    "Due Date": "24-May-20"
  },
@@ -2953,7 +2953,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "286",
    "Name": "BNGM BHF MADHAVARAO DHONTHU",
-   "Cel No": 9177138198,
+   "Cel 1": 9177138198,
    "Status": "Active",
    "Due Date": "21-May-20"
  },
@@ -2965,7 +2965,7 @@ var cust_DB=[
    "Area": "RCHB",
    "Card No": "132",
    "Name": "RCHB ACB SRINU MAYARA",
-   "Cel No": 9652938619,
+   "Cel 1": 9652938619,
    "Status": "Active",
    "Due Date": "23-May-20"
  },
@@ -2977,7 +2977,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "XXXX XXX Anil",
-   "Cel No": 8978766439,
+   "Cel 1": 8978766439,
    "Status": "Active",
    "Due Date": "22-May-20"
  },
@@ -2989,7 +2989,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "TMPL XXX GADDAM SRINU",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "26-May-20"
  },
@@ -3001,7 +3001,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "3",
    "Name": "TMPL JJC Polagani Balakrishna",
-   "Cel No": 7080085157,
+   "Cel 1": 7080085157,
    "Status": "Active",
    "Due Date": "22-May-20"
  },
@@ -3013,7 +3013,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "XXXX XXX Uma",
-   "Cel No": 7730040913,
+   "Cel 1": 7730040913,
    "Status": "Active",
    "Due Date": "22-May-20"
  },
@@ -3025,7 +3025,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "",
    "Name": "XXXX XXX SATHEESH rice shop",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "29-Apr-20"
  },
@@ -3037,7 +3037,7 @@ var cust_DB=[
    "Area": "MDPD",
    "Card No": "49",
    "Name": "MDPX JDI SREENUHOTEL) ADEPU",
-   "Cel No": 8466992325,
+   "Cel 1": 8466992325,
    "Status": "Inactive",
    "Due Date": "24-Apr-20"
  },
@@ -3049,7 +3049,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "XXXX XXX akhil",
-   "Cel No": 9177069244,
+   "Cel 1": 9177069244,
    "Status": "Inactive",
    "Due Date": "28-Apr-20"
  },
@@ -3061,7 +3061,7 @@ var cust_DB=[
    "Area": "MDPD",
    "Card No": "22",
    "Name": "MDPX JBB LAKSHMANA RAOCHILLARA KOTTU) DOSAPATI",
-   "Cel No": 9849775901,
+   "Cel 1": 9849775901,
    "Status": "Inactive",
    "Due Date": "23-Apr-20"
  },
@@ -3073,7 +3073,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "240",
    "Name": "BNGM BDJ VENKATESWARA RAO GOSU",
-   "Cel No": 9542993338,
+   "Cel 1": 9542993338,
    "Status": "Active",
    "Due Date": "22-May-20"
  },
@@ -3085,7 +3085,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "199",
    "Name": "BNGM AII RAMARAO PARIKALA",
-   "Cel No": 8790983473,
+   "Cel 1": 8790983473,
    "Status": "Active",
    "Due Date": "22-May-20"
  },
@@ -3097,7 +3097,7 @@ var cust_DB=[
    "Area": "VMBR",
    "Card No": "999",
    "Name": "XXXX XXX SAI",
-   "Cel No": 9652659408,
+   "Cel 1": 9652659408,
    "Status": "Inactive",
    "Due Date": "26-Mar-20"
  },
@@ -3109,7 +3109,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "215",
    "Name": "BNGM BAE SATHYAM REPAKULA",
-   "Cel No": 9963663471,
+   "Cel 1": 9963663471,
    "Status": "Active",
    "Due Date": "24-May-20"
  },
@@ -3121,7 +3121,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "75",
    "Name": "TMPL JGE AKBHAR SHAIK",
-   "Cel No": 9492311347,
+   "Cel 1": 9492311347,
    "Status": "Active",
    "Due Date": "23-May-20"
  },
@@ -3133,7 +3133,7 @@ var cust_DB=[
    "Area": "RCHB",
    "Card No": "33",
    "Name": "RCHB JCC LAKSHMAYAH BALUSUPATI",
-   "Cel No": 9666266500,
+   "Cel 1": 9666266500,
    "Status": "Active",
    "Due Date": "25-May-20"
  },
@@ -3145,7 +3145,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "328",
    "Name": "BNGM CBH CHENNARAO TWO NANNAKA",
-   "Cel No": 9000314191,
+   "Cel 1": 9000314191,
    "Status": "Active",
    "Due Date": "23-May-20"
  },
@@ -3157,7 +3157,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "146",
    "Name": "TMPL ADF ANANDHARAO AMBOJU",
-   "Cel No": 7674953263,
+   "Cel 1": 7674953263,
    "Status": "Active",
    "Due Date": "22-May-20"
  },
@@ -3169,7 +3169,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "133",
    "Name": "TMPL ACC RAMESH VALADASI",
-   "Cel No": 9502163278,
+   "Cel 1": 9502163278,
    "Status": "Active",
    "Due Date": "22-May-20"
  },
@@ -3181,7 +3181,7 @@ var cust_DB=[
    "Area": "PNBL",
    "Card No": "999",
    "Name": "XXXX XXX Gajjala Lakshminarasamma Thummalapalli",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "28-Apr-20"
  },
@@ -3193,7 +3193,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "327",
    "Name": "BNGM CBG CHENNARAO NANNAKA",
-   "Cel No": 9000314191,
+   "Cel 1": 9000314191,
    "Status": "Active",
    "Due Date": "23-May-20"
  },
@@ -3205,7 +3205,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "207",
    "Name": "TMPL BJG KRISHNA RAO KOPPULA",
-   "Cel No": 9707144902,
+   "Cel 1": 9707144902,
    "Status": "Active",
    "Due Date": "23-May-20"
  },
@@ -3217,7 +3217,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "XXXX XXX SK AMEENA",
-   "Cel No": 9989310532,
+   "Cel 1": 9989310532,
    "Status": "Inactive",
    "Due Date": "24-Apr-20"
  },
@@ -3229,7 +3229,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "999",
    "Name": "RRBS XXX THUNGA RAMA KRISHNA",
-   "Cel No": 9347360569,
+   "Cel 1": 9347360569,
    "Status": "Active",
    "Due Date": "23-May-20"
  },
@@ -3241,7 +3241,7 @@ var cust_DB=[
    "Area": "RRBSC",
    "Card No": "",
    "Name": "XXXX XXX BALAKRISHNA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "23-May-20"
  },
@@ -3253,7 +3253,7 @@ var cust_DB=[
    "Area": "MDPD",
    "Card No": "69",
    "Name": "MDPX JFI CHICKEN CENTER BISMILLA",
-   "Cel No": 9603124743,
+   "Cel 1": 9603124743,
    "Status": "Active",
    "Due Date": "26-May-20"
  },
@@ -3265,7 +3265,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "18",
    "Name": "BNGM JAH PRAKASH RAO EJIGANI",
-   "Cel No": 7673997022,
+   "Cel 1": 7673997022,
    "Status": "Active",
    "Due Date": "23-May-20"
  },
@@ -3277,7 +3277,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "28",
    "Name": "BNGM JBH SATHYAM PAMARTHI",
-   "Cel No": 9502261884,
+   "Cel 1": 9502261884,
    "Status": "Active",
    "Due Date": "23-May-20"
  },
@@ -3289,7 +3289,7 @@ var cust_DB=[
    "Area": "PNBL",
    "Card No": "863",
    "Name": "PNBL HFC PRASAD VELDHI",
-   "Cel No": 9701099310,
+   "Cel 1": 9701099310,
    "Status": "Inactive",
    "Due Date": "23-Apr-20"
  },
@@ -3301,7 +3301,7 @@ var cust_DB=[
    "Area": "MDPD",
    "Card No": "72",
    "Name": "MDPX JGB KRISHNAIAH ORUGANTI",
-   "Cel No": 9550082886,
+   "Cel 1": 9550082886,
    "Status": "Active",
    "Due Date": "26-May-20"
  },
@@ -3313,7 +3313,7 @@ var cust_DB=[
    "Area": "MDPD",
    "Card No": "62",
    "Name": "MDPX JFB BUCHAYYA GAYAM",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "27-May-20"
  },
@@ -3325,7 +3325,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "TMPL XXX Rama",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "17-May-20"
  },
@@ -3337,7 +3337,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "192",
    "Name": "TMPL AIB SAROJINI MARTHA",
-   "Cel No": 7893804836,
+   "Cel 1": 7893804836,
    "Status": "Inactive",
    "Due Date": "24-Apr-20"
  },
@@ -3349,7 +3349,7 @@ var cust_DB=[
    "Area": "RCHB",
    "Card No": "32",
    "Name": "RCHB JCB RAMA KRISHNA BOLUSUPATI",
-   "Cel No": 9963952976,
+   "Cel 1": 9963952976,
    "Status": "Active",
    "Due Date": "24-May-20"
  },
@@ -3361,7 +3361,7 @@ var cust_DB=[
    "Area": "RRBSC",
    "Card No": "",
    "Name": "XXXX XXX marakalavenkateswararao",
-   "Cel No": 8374740716,
+   "Cel 1": 8374740716,
    "Status": "Active",
    "Due Date": "24-May-20"
  },
@@ -3373,7 +3373,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "",
    "Name": "XXXX XXX singisala krishna",
-   "Cel No": 7893111981,
+   "Cel 1": 7893111981,
    "Status": "Active",
    "Due Date": "13-May-20"
  },
@@ -3385,7 +3385,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "307",
    "Name": "BNGM CJG SWAMI REPAKULA",
-   "Cel No": 7893785154,
+   "Cel 1": 7893785154,
    "Status": "Active",
    "Due Date": "24-May-20"
  },
@@ -3397,7 +3397,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "999",
    "Name": "XXXX XXX KRISHNAYAH GODHA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "30-Apr-20"
  },
@@ -3409,7 +3409,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "187",
    "Name": "TMPL AHG DURGA SAHEEB SHAIK",
-   "Cel No": 9701957588,
+   "Cel 1": 9701957588,
    "Status": "Active",
    "Due Date": "25-May-20"
  },
@@ -3421,7 +3421,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "BNGM XXX DONTHU KRISHNAIAH",
-   "Cel No": 9963175086,
+   "Cel 1": 9963175086,
    "Status": "Active",
    "Due Date": "25-May-20"
  },
@@ -3433,7 +3433,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "XXXX XXX LAKSHMAIAH PATHIPATI SUJATHA SINGISALA",
-   "Cel No": 9676757284,
+   "Cel 1": 9676757284,
    "Status": "Active",
    "Due Date": "25-May-20"
  },
@@ -3445,7 +3445,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "BNGM BEG NARESH NILAVENI",
-   "Cel No": 9502767103,
+   "Cel 1": 9502767103,
    "Status": "Inactive",
    "Due Date": "29-Apr-20"
  },
@@ -3457,7 +3457,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX SK AMEENA",
-   "Cel No": 9000314041,
+   "Cel 1": 9000314041,
    "Status": "Active",
    "Due Date": "01-May-20"
  },
@@ -3469,7 +3469,7 @@ var cust_DB=[
    "Area": "RRBSC",
    "Card No": "",
    "Name": "XXXX XXX P RAMULU",
-   "Cel No": 9949571075,
+   "Cel 1": 9949571075,
    "Status": "Active",
    "Due Date": "25-May-20"
  },
@@ -3481,7 +3481,7 @@ var cust_DB=[
    "Area": "KNVL",
    "Card No": "112",
    "Name": "KNVL AAB KISTA RADHA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "30-Mar-20"
  },
@@ -3493,7 +3493,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "304",
    "Name": "BNGM CJD PRASAD VUYYURU",
-   "Cel No": 9848440465,
+   "Cel 1": 9848440465,
    "Status": "Active",
    "Due Date": "26-May-20"
  },
@@ -3505,7 +3505,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "40",
    "Name": "BNGM JDJ VENKATACHARI RADHAM",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "27-Apr-20"
  },
@@ -3517,7 +3517,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "25",
    "Name": "BNGM JBE SREENU NAGULA",
-   "Cel No": 9959800206,
+   "Cel 1": 9959800206,
    "Status": "Active",
    "Due Date": "25-May-20"
  },
@@ -3529,7 +3529,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "71",
    "Name": "TMPL JGA VENKATESWARA RAO MIDDE",
-   "Cel No": 7036374115,
+   "Cel 1": 7036374115,
    "Status": "Active",
    "Due Date": "26-May-20"
  },
@@ -3541,7 +3541,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "XXXX XXX Raj",
-   "Cel No": 9000039025,
+   "Cel 1": 9000039025,
    "Status": "Inactive",
    "Due Date": "27-Apr-20"
  },
@@ -3553,7 +3553,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "216",
    "Name": "TMPL BAF RAMESH KOPPULA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "29-Apr-20"
  },
@@ -3565,7 +3565,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "999",
    "Name": "RRBR XXX BANNE THATHAIAH",
-   "Cel No": 8179569421,
+   "Cel 1": 8179569421,
    "Status": "Active",
    "Due Date": "26-May-20"
  },
@@ -3577,7 +3577,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "222/A",
    "Name": "BNGM BBBXAVENKATA SATYAM UPPU",
-   "Cel No": 9966061498,
+   "Cel 1": 9966061498,
    "Status": "Active",
    "Due Date": "25-May-20"
  },
@@ -3589,7 +3589,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "BNGM XXX BAJINI VENKATESWARARAO",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "27-May-20"
  },
@@ -3601,7 +3601,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "51",
    "Name": "TMPL JEA MEERA SAHEEB SHAIK",
-   "Cel No": 7036794637,
+   "Cel 1": 7036794637,
    "Status": "Active",
    "Due Date": "27-May-20"
  },
@@ -3613,7 +3613,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "51",
    "Name": "BNGM JEA SRINIVASA RAO SOMARAJU",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "25-May-20"
  },
@@ -3625,7 +3625,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "249",
    "Name": "BNGM BDI SUBBARAOCURRENT) M",
-   "Cel No": 9963274769,
+   "Cel 1": 9963274769,
    "Status": "Inactive",
    "Due Date": "27-Apr-20"
  },
@@ -3637,7 +3637,7 @@ var cust_DB=[
    "Area": "MDPD",
    "Card No": "119",
    "Name": "MDPX AAI RAMARAO SAMBAR",
-   "Cel No": 8184976526,
+   "Cel 1": 8184976526,
    "Status": "Active",
    "Due Date": "27-May-20"
  },
@@ -3649,7 +3649,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "42",
    "Name": "BNGM JDB YEDUKONDALU NAGULA",
-   "Cel No": 9000314251,
+   "Cel 1": 9000314251,
    "Status": "Active",
    "Due Date": "29-May-20"
  },
@@ -3661,7 +3661,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "XXXX XXX Sivaramakrishna",
-   "Cel No": 9701409602,
+   "Cel 1": 9701409602,
    "Status": "Active",
    "Due Date": "28-May-20"
  },
@@ -3673,7 +3673,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "BNGM XXX SINGISALA RADHA",
-   "Cel No": 9100700583,
+   "Cel 1": 9100700583,
    "Status": "Active",
    "Due Date": "29-May-20"
  },
@@ -3685,7 +3685,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "234",
    "Name": "BNGM BCD VENKATESWARA RAO KOTHAPALLI",
-   "Cel No": 9618113588,
+   "Cel 1": 9618113588,
    "Status": "Active",
    "Due Date": "27-May-20"
  },
@@ -3697,7 +3697,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "XXXX XXX SK AMEENA",
-   "Cel No": 9000423557,
+   "Cel 1": 9000423557,
    "Status": "Active",
    "Due Date": "27-May-20"
  },
@@ -3709,7 +3709,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "85",
    "Name": "BNGM JHE SATHYANARAYANA UPPU",
-   "Cel No": 9000094737,
+   "Cel 1": 9000094737,
    "Status": "Active",
    "Due Date": "27-May-20"
  },
@@ -3721,7 +3721,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "",
    "Name": "XXXX XXX gopi",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "29-Apr-20"
  },
@@ -3733,7 +3733,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "53",
    "Name": "BNGM JEC VENKATESWARA RAO MARIDHU",
-   "Cel No": 7032330264,
+   "Cel 1": 7032330264,
    "Status": "Inactive",
    "Due Date": "29-Apr-20"
  },
@@ -3745,7 +3745,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "20",
    "Name": "BNGM JBJ SESHAGIRI DHONTHU",
-   "Cel No": 9705583115,
+   "Cel 1": 9705583115,
    "Status": "Active",
    "Due Date": "27-May-20"
  },
@@ -3757,7 +3757,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "116",
    "Name": "TMPL AAF YAKOB KOMMU",
-   "Cel No": 9908933953,
+   "Cel 1": 9908933953,
    "Status": "Active",
    "Due Date": "28-May-20"
  },
@@ -3769,7 +3769,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "265",
    "Name": "BNGM BFE GURUVULU JIDIMETLA",
-   "Cel No": 9866460042,
+   "Cel 1": 9866460042,
    "Status": "Inactive",
    "Due Date": "30-Apr-20"
  },
@@ -3781,7 +3781,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "309",
    "Name": "BNGM CJI LAKSHAMANRAO DHONTHU",
-   "Cel No": 9959933828,
+   "Cel 1": 9959933828,
    "Status": "Active",
    "Due Date": "27-May-20"
  },
@@ -3793,7 +3793,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Rana",
-   "Cel No": 9010788768,
+   "Cel 1": 9010788768,
    "Status": "Inactive",
    "Due Date": "30-Apr-20"
  },
@@ -3805,7 +3805,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "999",
    "Name": "XXXX XXX Raj",
-   "Cel No": 9959595839,
+   "Cel 1": 9959595839,
    "Status": "Active",
    "Due Date": "30-Mar-21"
  },
@@ -3817,7 +3817,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "999",
    "Name": "RRBR XXX K SATHAIAH",
-   "Cel No": 9963681763,
+   "Cel 1": 9963681763,
    "Status": "Inactive",
    "Due Date": "30-Apr-20"
  },
@@ -3829,7 +3829,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "999",
    "Name": "XXXX XXX Sai",
-   "Cel No": 9959489413,
+   "Cel 1": 9959489413,
    "Status": "Inactive",
    "Due Date": "15-Apr-20"
  },
@@ -3841,7 +3841,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "155",
    "Name": "BNGM AEE KUMARI SINGISELA",
-   "Cel No": 8179173467,
+   "Cel 1": 8179173467,
    "Status": "Active",
    "Due Date": "27-May-20"
  },
@@ -3853,7 +3853,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "308",
    "Name": "BNGM CJH SURESH PAMMI",
-   "Cel No": 8886234202,
+   "Cel 1": 8886234202,
    "Status": "Inactive",
    "Due Date": "30-Apr-20"
  },
@@ -3865,7 +3865,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "101",
    "Name": "TMPL AJA ANJANEYULUANJI) KAVURI",
-   "Cel No": 9550999813,
+   "Cel 1": 9550999813,
    "Status": "Active",
    "Due Date": "27-May-20"
  },
@@ -3877,7 +3877,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Thallada Venkateswarao Thummalapalli",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "03-Mar-20"
  },
@@ -3889,7 +3889,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "XXXX XXX satyaprasad",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "03-May-20"
  },
@@ -3901,7 +3901,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "XXXX XXX DHONTHU DURGA RAO XXXXX bng",
-   "Cel No": 9550322086,
+   "Cel 1": 9550322086,
    "Status": "Active",
    "Due Date": "27-May-20"
  },
@@ -3913,7 +3913,7 @@ var cust_DB=[
    "Area": "MDPD",
    "Card No": "58",
    "Name": "MDPX JEH NAGESWARA RAO GOSU",
-   "Cel No": 9866571739,
+   "Cel 1": 9866571739,
    "Status": "Inactive",
    "Due Date": "30-Apr-20"
  },
@@ -3925,7 +3925,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "XXXX XXX VINODH XXXXX bng",
-   "Cel No": 9949386195,
+   "Cel 1": 9949386195,
    "Status": "Inactive",
    "Due Date": "30-Apr-20"
  },
@@ -3937,7 +3937,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "202",
    "Name": "TMPL BJB RAMAKRISHNA RAJU PRATHIGADAPA",
-   "Cel No": 9492939787,
+   "Cel 1": 9492939787,
    "Status": "Active",
    "Due Date": "30-May-20"
  },
@@ -3949,7 +3949,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "999",
    "Name": "RRBR XXXX e gopalakrishna",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "05-May-20"
  },
@@ -3961,7 +3961,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "XXXX XXX Pothagani Lakshmana",
-   "Cel No": 9701978985,
+   "Cel 1": 9701978985,
    "Status": "Active",
    "Due Date": "04-May-20"
  },
@@ -3973,7 +3973,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "204",
    "Name": "TMPL BJD VISHWANADHAM GAJJELA",
-   "Cel No": 9603840972,
+   "Cel 1": 9603840972,
    "Status": "Active",
    "Due Date": "07-May-20"
  },
@@ -3985,7 +3985,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "22",
    "Name": "BNGM JBB BUCHIBABU DHONTHU",
-   "Cel No": 9989632294,
+   "Cel 1": 9989632294,
    "Status": "Active",
    "Due Date": "10-May-20"
  },
@@ -3997,7 +3997,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "19",
    "Name": "BNGM JAI ANASUYA GAJJALA",
-   "Cel No": 9948966252,
+   "Cel 1": 9948966252,
    "Status": "Active",
    "Due Date": "28-May-20"
  },
@@ -4009,7 +4009,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "247",
    "Name": "BNGM BDG VEERAMMA GODHA",
-   "Cel No": 9949666736,
+   "Cel 1": 9949666736,
    "Status": "Active",
    "Due Date": "04-May-20"
  },
@@ -4021,7 +4021,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "XXXX XXX VUYYURU PRASAD XXXXX bng",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "13-May-20"
  },
@@ -4033,7 +4033,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "048/A",
    "Name": "BNGM JDHXASATYAPPA KONDAPALLI",
-   "Cel No": 9949266646,
+   "Cel 1": 9949266646,
    "Status": "Active",
    "Due Date": "13-Aug-20"
  },
@@ -4045,7 +4045,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX VENKATANARAYANA ANANTHA",
-   "Cel No": 9963841761,
+   "Cel 1": 9963841761,
    "Status": "Active",
    "Due Date": "29-Oct-20"
  },
@@ -4057,7 +4057,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "999",
    "Name": "XXXX XXX YALAMARTHI VENKATESWARA RAO XXXXX rrb",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "29-May-20"
  },
@@ -4069,7 +4069,7 @@ var cust_DB=[
    "Area": "RCHB",
    "Card No": "19",
    "Name": "RCHB JAI RAMARAO IMMADI",
-   "Cel No": 9704818074,
+   "Cel 1": 9704818074,
    "Status": "Active",
    "Due Date": "02-May-20"
  },
@@ -4081,7 +4081,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "201",
    "Name": "BNGM BJA PADHMA VADAANAPU",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "04-May-20"
  },
@@ -4093,7 +4093,7 @@ var cust_DB=[
    "Area": "MDPD",
    "Card No": "999",
    "Name": "XXXX XXX SAMBARU KRISHNAIAH(NODE) XXXXX mdp",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "04-May-20"
  },
@@ -4105,7 +4105,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "999",
    "Name": "RRBR XXX K VENKATESWARA RAO",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "06-May-20"
  },
@@ -4117,7 +4117,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "BNGM XXX VENKAMMA GADHALA",
-   "Cel No": 8186062363,
+   "Cel 1": 8186062363,
    "Status": "Active",
    "Due Date": "29-May-20"
  },
@@ -4129,7 +4129,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "TMPL XXX Satyaprasad",
-   "Cel No": 8106493194,
+   "Cel 1": 8106493194,
    "Status": "Active",
    "Due Date": "01-May-20"
  },
@@ -4141,7 +4141,7 @@ var cust_DB=[
    "Area": "RCHB",
    "Card No": "109",
    "Name": "RCHB AJI SRINIVASA RAO REGUMUDI",
-   "Cel No": 9989384705,
+   "Cel 1": 9989384705,
    "Status": "Active",
    "Due Date": "01-May-20"
  },
@@ -4153,7 +4153,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "XXXX XXX Koppula Venkatanarayana",
-   "Cel No": 9177835903,
+   "Cel 1": 9177835903,
    "Status": "Inactive",
    "Due Date": "30-Apr-20"
  },
@@ -4165,7 +4165,7 @@ var cust_DB=[
    "Area": "RCHB",
    "Card No": "15",
    "Name": "RCHB JAE VENKATESWARA RAO BAJJURI",
-   "Cel No": 9949951944,
+   "Cel 1": 9949951944,
    "Status": "Active",
    "Due Date": "28-May-20"
  },
@@ -4177,7 +4177,7 @@ var cust_DB=[
    "Area": "RCHB",
    "Card No": "170",
    "Name": "RCHB AGJ SRINU SANIKA",
-   "Cel No": 9704750193,
+   "Cel 1": 9704750193,
    "Status": "Active",
    "Due Date": "29-Jun-20"
  },
@@ -4189,7 +4189,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "XXXX XXX Akil",
-   "Cel No": 9866996492,
+   "Cel 1": 9866996492,
    "Status": "Inactive",
    "Due Date": "30-Apr-20"
  },
@@ -4201,7 +4201,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "XXXX XXX Yargorlla Venkateswaralu Thummalapalli",
-   "Cel No": 9908821215,
+   "Cel 1": 9908821215,
    "Status": "Active",
    "Due Date": "29-May-20"
  },
@@ -4213,7 +4213,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "",
    "Name": "RRBR XXX BADHRU teacher",
-   "Cel No": 9866263663,
+   "Cel 1": 9866263663,
    "Status": "Inactive",
    "Due Date": "03-Apr-20"
  },
@@ -4225,7 +4225,7 @@ var cust_DB=[
    "Area": "MDPD",
    "Card No": "59",
    "Name": "MDPX JEI NARSIMHA RAO GOSU",
-   "Cel No": 9553069383,
+   "Cel 1": 9553069383,
    "Status": "Active",
    "Due Date": "11-May-20"
  },
@@ -4237,7 +4237,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "65",
    "Name": "BNGM JFE SAI KRISHNA NAGULAVANCHA",
-   "Cel No": 9866805671,
+   "Cel 1": 9866805671,
    "Status": "Active",
    "Due Date": "15-May-20"
  },
@@ -4249,7 +4249,7 @@ var cust_DB=[
    "Area": "RCHB",
    "Card No": "62",
    "Name": "RCHB JFB RAMARAO DHOSAPATI",
-   "Cel No": 9160565719,
+   "Cel 1": 9160565719,
    "Status": "Active",
    "Due Date": "06-May-20"
  },
@@ -4261,7 +4261,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "71",
    "Name": "BNGM JGA VENKAT SWAMI BEJAVADA",
-   "Cel No": 9177088020,
+   "Cel 1": 9177088020,
    "Status": "Active",
    "Due Date": "03-May-20"
  },
@@ -4273,7 +4273,7 @@ var cust_DB=[
    "Area": "RCHB",
    "Card No": "64",
    "Name": "RCHB JFD MAHESH KANCHU",
-   "Cel No": 9493250040,
+   "Cel 1": 9493250040,
    "Status": "Active",
    "Due Date": "29-May-20"
  },
@@ -4285,7 +4285,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "9",
    "Name": "TMPL JJI VANI NAGULA",
-   "Cel No": 9505412932,
+   "Cel 1": 9505412932,
    "Status": "Active",
    "Due Date": "29-May-20"
  },
@@ -4297,7 +4297,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "BNGM XXX SINGISALA NAGARAJU",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "07-May-20"
  },
@@ -4309,7 +4309,7 @@ var cust_DB=[
    "Area": "RCHB",
    "Card No": "43",
    "Name": "RCHB JDC SRINU KANDUKURI",
-   "Cel No": 8790134809,
+   "Cel 1": 8790134809,
    "Status": "Active",
    "Due Date": "09-May-20"
  },
@@ -4321,7 +4321,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX RAJENDRA PRASAD",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "26-Feb-20"
  },
@@ -4333,7 +4333,7 @@ var cust_DB=[
    "Area": "VMBR",
    "Card No": "Test",
    "Name": "VMBR XXX BUCHIBABU For TESTING",
-   "Cel No": 9949420327,
+   "Cel 1": 9949420327,
    "Status": "Inactive",
    "Due Date": "25-Feb-20"
  },
@@ -4345,7 +4345,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "183",
    "Name": "TMPL AHC VENKATESWARLU RAYALA",
-   "Cel No": 7893804843,
+   "Cel 1": 7893804843,
    "Status": "Active",
    "Due Date": "29-May-20"
  },
@@ -4357,7 +4357,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "999",
    "Name": "XXXX XXX Satya prasad",
-   "Cel No": 9963665657,
+   "Cel 1": 9963665657,
    "Status": "Active",
    "Due Date": "15-May-20"
  },
@@ -4369,7 +4369,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "BNGM CBJB V RAMESH",
-   "Cel No": 9963249235,
+   "Cel 1": 9963249235,
    "Status": "Inactive",
    "Due Date": "26-Apr-20"
  },
@@ -4381,7 +4381,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "XXXX XXX Sivaramakrishna",
-   "Cel No": 8179718503,
+   "Cel 1": 8179718503,
    "Status": "Active",
    "Due Date": "20-May-20"
  },
@@ -4393,7 +4393,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "TMPL XXX KAVURI RAJU",
-   "Cel No": 9177673900,
+   "Cel 1": 9177673900,
    "Status": "Active",
    "Due Date": "01-May-20"
  },
@@ -4405,7 +4405,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "XXXX XXX SSrinivasa Reddy",
-   "Cel No": 8179718503,
+   "Cel 1": 8179718503,
    "Status": "Active",
    "Due Date": "29-May-20"
  },
@@ -4417,7 +4417,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "BNGX XXX B RAMESH",
-   "Cel No": 9963665770,
+   "Cel 1": 9963665770,
    "Status": "Active",
    "Due Date": "03-May-20"
  },
@@ -4429,7 +4429,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "43",
    "Name": "TMPL JDC VENKATESWARA RAO VELPULA",
-   "Cel No": 9010567414,
+   "Cel 1": 9010567414,
    "Status": "Active",
    "Due Date": "18-May-20"
  },
@@ -4441,7 +4441,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "TMPL XXX BUDIGA LAKSHMI",
-   "Cel No": 8096108376,
+   "Cel 1": 8096108376,
    "Status": "Active",
    "Due Date": "03-May-20"
  },
@@ -4453,7 +4453,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "999",
    "Name": "RRBR XXX KATINI KRISHNAVENI",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "24-Apr-20"
  },
@@ -4465,7 +4465,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "169",
    "Name": "BNGM AFI SAMRAT SINGISALA",
-   "Cel No": 7095360633,
+   "Cel 1": 7095360633,
    "Status": "Active",
    "Due Date": "16-May-20"
  },
@@ -4477,7 +4477,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "XXXX XXX Satyaprasad",
-   "Cel No": 9912467112,
+   "Cel 1": 9912467112,
    "Status": "Active",
    "Due Date": "13-May-20"
  },
@@ -4489,7 +4489,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "999",
    "Name": "RRBR XXX E VENKATESWARAO",
-   "Cel No": 9642827508,
+   "Cel 1": 9642827508,
    "Status": "Inactive",
    "Due Date": "18-Feb-20"
  },
@@ -4501,7 +4501,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "999",
    "Name": "XXXX XXX PenuballiVMBanjara",
-   "Cel No": 9542724104,
+   "Cel 1": 9542724104,
    "Status": "Active",
    "Due Date": "01-May-20"
  },
@@ -4513,7 +4513,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "93",
    "Name": "BNGM JIC GOVINDH VAKDHANI",
-   "Cel No": 9963947306,
+   "Cel 1": 9963947306,
    "Status": "Active",
    "Due Date": "22-May-20"
  },
@@ -4525,7 +4525,7 @@ var cust_DB=[
    "Area": "RCHB",
    "Card No": "172",
    "Name": "RCHB AGB VENKATESWARA RAO SANIKA",
-   "Cel No": 9959595907,
+   "Cel 1": 9959595907,
    "Status": "Active",
    "Due Date": "29-May-20"
  },
@@ -4537,7 +4537,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "324",
    "Name": "BNGM CBD RAMU KELOTHU",
-   "Cel No": 9618112531,
+   "Cel 1": 9618112531,
    "Status": "Inactive",
    "Due Date": "29-Apr-20"
  },
@@ -4549,7 +4549,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "XXXX XXX SOWJANYA",
-   "Cel No": 9885131407,
+   "Cel 1": 9885131407,
    "Status": "Active",
    "Due Date": "22-May-20"
  },
@@ -4561,7 +4561,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "BNGM XXX NAGULONCHA VENKATESWARAO",
-   "Cel No": 9502327556,
+   "Cel 1": 9502327556,
    "Status": "Active",
    "Due Date": "16-May-20"
  },
@@ -4573,7 +4573,7 @@ var cust_DB=[
    "Area": "RCHB",
    "Card No": "999",
    "Name": "XXXX XXX Sivaramakrishna",
-   "Cel No": 9492768950,
+   "Cel 1": 9492768950,
    "Status": "Active",
    "Due Date": "12-May-20"
  },
@@ -4585,7 +4585,7 @@ var cust_DB=[
    "Area": "RCHB",
    "Card No": "179",
    "Name": "RCHB AGI VENKATESVARAO BANEY",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "02-May-20"
  },
@@ -4597,7 +4597,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "326",
    "Name": "BNGM CBF RAVINDRANADH J",
-   "Cel No": 9908548837,
+   "Cel 1": 9908548837,
    "Status": "Active",
    "Due Date": "02-May-20"
  },
@@ -4609,7 +4609,7 @@ var cust_DB=[
    "Area": "RCHB",
    "Card No": "78",
    "Name": "RCHB JGH NARASIMHA RAO BANNE",
-   "Cel No": 9704572949,
+   "Cel 1": 9704572949,
    "Status": "Active",
    "Due Date": "20-May-20"
  },
@@ -4621,7 +4621,7 @@ var cust_DB=[
    "Area": "RCHB",
    "Card No": "999",
    "Name": "XXXX XXX Sivaramakrishna",
-   "Cel No": 9949319853,
+   "Cel 1": 9949319853,
    "Status": "Inactive",
    "Due Date": "23-Apr-20"
  },
@@ -4633,7 +4633,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "312",
    "Name": "BNGM CAB SRINIVASARAO DHONTHU",
-   "Cel No": 9070277904,
+   "Cel 1": 9070277904,
    "Status": "Active",
    "Due Date": "19-May-20"
  },
@@ -4645,7 +4645,7 @@ var cust_DB=[
    "Area": "RCHB",
    "Card No": "999",
    "Name": "XXXX XXX Rama",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "11-Feb-20"
  },
@@ -4657,7 +4657,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "205",
    "Name": "BNGM BJE BATAIAH KAVETI",
-   "Cel No": 9502270470,
+   "Cel 1": 9502270470,
    "Status": "Active",
    "Due Date": "19-May-20"
  },
@@ -4669,7 +4669,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "BNGM XXX p venkataramana",
-   "Cel No": 8374683569,
+   "Cel 1": 8374683569,
    "Status": "Active",
    "Due Date": "06-May-20"
  },
@@ -4681,7 +4681,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "10",
    "Name": "BNGM JAJ LAKASHAMANA RAO UPUU",
-   "Cel No": 9963665732,
+   "Cel 1": 9963665732,
    "Status": "Active",
    "Due Date": "04-May-20"
  },
@@ -4693,7 +4693,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "999",
    "Name": "XXXX XXX samatha",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "05-Feb-20"
  },
@@ -4705,7 +4705,7 @@ var cust_DB=[
    "Area": "RCHB",
    "Card No": "999",
    "Name": "XXXX XXX VM Banjara",
-   "Cel No": 8897493294,
+   "Cel 1": 8897493294,
    "Status": "Inactive",
    "Due Date": "05-Feb-20"
  },
@@ -4717,7 +4717,7 @@ var cust_DB=[
    "Area": "MDPD",
    "Card No": "999",
    "Name": "XXXX XXX Naga Seethamahalakshmi Mandalapadu",
-   "Cel No": 9000326799,
+   "Cel 1": 9000326799,
    "Status": "Active",
    "Due Date": "24-May-20"
  },
@@ -4729,7 +4729,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "XXXX XXX nagababu",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "31-Jan-20"
  },
@@ -4741,7 +4741,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "999",
    "Name": "XXXX XXX Rama",
-   "Cel No": 9542821840,
+   "Cel 1": 9542821840,
    "Status": "Inactive",
    "Due Date": "30-Jan-20"
  },
@@ -4753,7 +4753,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "277",
    "Name": "BNGM BGG VENKATA MUTHYAM DHONTHU",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "15-May-20"
  },
@@ -4765,7 +4765,7 @@ var cust_DB=[
    "Area": "VMBR",
    "Card No": "",
    "Name": "XXXX XXX Tejavath Ramesh",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "28-Jan-20"
  },
@@ -4777,7 +4777,7 @@ var cust_DB=[
    "Area": "BDPD",
    "Card No": "999",
    "Name": "XXXX XXX Sivaramakrishna",
-   "Cel No": 7993512033,
+   "Cel 1": 7993512033,
    "Status": "Active",
    "Due Date": "14-May-20"
  },
@@ -4789,7 +4789,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "TMPL XXX Kavuri Visweswarao Thummalapali",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "15-May-20"
  },
@@ -4801,7 +4801,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "XXXX XXX SOWJANYA",
-   "Cel No": 9553218368,
+   "Cel 1": 9553218368,
    "Status": "Inactive",
    "Due Date": "18-Jan-20"
  },
@@ -4813,7 +4813,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "XXXX XXX Sai",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "19-May-20"
  },
@@ -4825,7 +4825,7 @@ var cust_DB=[
    "Area": "MDPD",
    "Card No": "999",
    "Name": "XXXX XXX Malle Venkaiah",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "26-May-20"
  },
@@ -4837,7 +4837,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "BNGM XXX UPPATHALA KRISHNA",
-   "Cel No": 8790218149,
+   "Cel 1": 8790218149,
    "Status": "Active",
    "Due Date": "06-May-20"
  },
@@ -4849,7 +4849,7 @@ var cust_DB=[
    "Area": "RCHB",
    "Card No": "87",
    "Name": "RCHB JHG GOPALA KRISHNAYAH IMMADI",
-   "Cel No": 9704818072,
+   "Cel 1": 9704818072,
    "Status": "Inactive",
    "Due Date": "13-Jan-20"
  },
@@ -4861,7 +4861,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "TMPL XXX AMBOJU SUSEELA",
-   "Cel No": 7893703464,
+   "Cel 1": 7893703464,
    "Status": "Active",
    "Due Date": "03-May-20"
  },
@@ -4873,7 +4873,7 @@ var cust_DB=[
    "Area": "MDPD",
    "Card No": "999",
    "Name": "XXXX XXX RAMESH MALLE",
-   "Cel No": 9515385031,
+   "Cel 1": 9515385031,
    "Status": "Active",
    "Due Date": "13-May-20"
  },
@@ -4885,7 +4885,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "282",
    "Name": "BNGM BHB KRISHNAMACHARI VISWANADHUNI",
-   "Cel No": 7997057869,
+   "Cel 1": 7997057869,
    "Status": "Inactive",
    "Due Date": "09-Jan-20"
  },
@@ -4897,7 +4897,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "TMPL XXX NERELLA VENKATANARAYANA",
-   "Cel No": 9989548407,
+   "Cel 1": 9989548407,
    "Status": "Active",
    "Due Date": "22-May-20"
  },
@@ -4909,7 +4909,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "XXXX XXX CHITHOJI SRINIVASA RAO",
-   "Cel No": 9963522364,
+   "Cel 1": 9963522364,
    "Status": "Active",
    "Due Date": "02-May-20"
  },
@@ -4921,7 +4921,7 @@ var cust_DB=[
    "Area": "MDPD",
    "Card No": "11",
    "Name": "MDPX JAA SATHYAM PUTTAPALA",
-   "Cel No": 9502874487,
+   "Cel 1": 9502874487,
    "Status": "Active",
    "Due Date": "07-May-20"
  },
@@ -4933,7 +4933,7 @@ var cust_DB=[
    "Area": "RCHB",
    "Card No": "171",
    "Name": "RCHB AGA RAMBABU BOLU",
-   "Cel No": 9010591147,
+   "Cel 1": 9010591147,
    "Status": "Inactive",
    "Due Date": "31-Dec-19"
  },
@@ -4945,7 +4945,7 @@ var cust_DB=[
    "Area": "RCHB",
    "Card No": "190",
    "Name": "RCHB AIJ ADINARAYANA RAO CHINNAM",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "20-May-20"
  },
@@ -4957,7 +4957,7 @@ var cust_DB=[
    "Area": "RCHB",
    "Card No": "236",
    "Name": "BNGM BCF PADHMA PANDHI",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "24-Dec-19"
  },
@@ -4969,7 +4969,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX koti",
-   "Cel No": 9949931385,
+   "Cel 1": 9949931385,
    "Status": "Active",
    "Due Date": "05-May-20"
  },
@@ -4981,7 +4981,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "BNGM XXX KONDAPALLI PADMAKAR RAO",
-   "Cel No": 9246774266,
+   "Cel 1": 9246774266,
    "Status": "Inactive",
    "Due Date": "01-Dec-19"
  },
@@ -4993,7 +4993,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "176",
    "Name": "TMPL AGF KRISHNA RAO JONEBOINA",
-   "Cel No": 9000770313,
+   "Cel 1": 9000770313,
    "Status": "Active",
    "Due Date": "03-May-20"
  },
@@ -5005,7 +5005,7 @@ var cust_DB=[
    "Area": "RCHB",
    "Card No": "153",
    "Name": "RCHB AEC VEERAYAH BOLU",
-   "Cel No": 9908408912,
+   "Cel 1": 9908408912,
    "Status": "Inactive",
    "Due Date": "27-Apr-20"
  },
@@ -5017,7 +5017,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX kotio",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "16-Nov-19"
  },
@@ -5029,7 +5029,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "999",
    "Name": "RRBR XXX SANIKA SUSEELA MALAYYA",
-   "Cel No": 7702331201,
+   "Cel 1": 7702331201,
    "Status": "Active",
    "Due Date": "26-May-20"
  },
@@ -5041,7 +5041,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX bharath",
-   "Cel No": 9908282356,
+   "Cel 1": 9908282356,
    "Status": "Inactive",
    "Due Date": "27-Apr-20"
  },
@@ -5053,7 +5053,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Chinthoju Krishnarao Thummalapalli",
-   "Cel No": 9949322861,
+   "Cel 1": 9949322861,
    "Status": "Inactive",
    "Due Date": "11-Nov-19"
  },
@@ -5065,7 +5065,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Sk Kasinbi",
-   "Cel No": 9100821091,
+   "Cel 1": 9100821091,
    "Status": "Inactive",
    "Due Date": "08-Nov-19"
  },
@@ -5077,7 +5077,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX TANUJA",
-   "Cel No": 9553095875,
+   "Cel 1": 9553095875,
    "Status": "Inactive",
    "Due Date": "16-Oct-19"
  },
@@ -5089,7 +5089,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Anu",
-   "Cel No": 9010838897,
+   "Cel 1": 9010838897,
    "Status": "Inactive",
    "Due Date": "04-Oct-19"
  },
@@ -5101,7 +5101,7 @@ var cust_DB=[
    "Area": "RCHB",
    "Card No": "157",
    "Name": "RCHB AEG MUTHAYAH SANIKA",
-   "Cel No": 9573119185,
+   "Cel 1": 9573119185,
    "Status": "Inactive",
    "Due Date": "29-Sep-19"
  },
@@ -5113,7 +5113,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "306",
    "Name": "BNGM CJF SAROJINI GADHE",
-   "Cel No": 9866017647,
+   "Cel 1": 9866017647,
    "Status": "Inactive",
    "Due Date": "02-Sep-19"
  },
@@ -5125,7 +5125,7 @@ var cust_DB=[
    "Area": "RCHB",
    "Card No": "158",
    "Name": "RCHB AEH SOMAYAH BOLU",
-   "Cel No": 9000793925,
+   "Cel 1": 9000793925,
    "Status": "Active",
    "Due Date": "23-May-20"
  },
@@ -5137,7 +5137,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX SK AMEENA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "27-Aug-19"
  },
@@ -5149,7 +5149,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX SAI",
-   "Cel No": 9949420273,
+   "Cel 1": 9949420273,
    "Status": "Inactive",
    "Due Date": "14-Aug-19"
  },
@@ -5161,7 +5161,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "30",
    "Name": "BNGM JCJ SUBBA RAO PAMARTHI",
-   "Cel No": 9989345963,
+   "Cel 1": 9989345963,
    "Status": "Inactive",
    "Due Date": "08-Aug-19"
  },
@@ -5173,7 +5173,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX ChNageswararao",
-   "Cel No": 9963139394,
+   "Cel 1": 9963139394,
    "Status": "Inactive",
    "Due Date": "08-Aug-19"
  },
@@ -5185,7 +5185,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Anu",
-   "Cel No": 9100700618,
+   "Cel 1": 9100700618,
    "Status": "Inactive",
    "Due Date": "07-Aug-19"
  },
@@ -5197,7 +5197,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX kota prasadbheemavaram",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "27-Jul-19"
  },
@@ -5209,7 +5209,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "999",
    "Name": "RRBR XXX Komati Nageswara Rao",
-   "Cel No": 9989460026,
+   "Cel 1": 9989460026,
    "Status": "Active",
    "Due Date": "26-May-20"
  },
@@ -5221,7 +5221,7 @@ var cust_DB=[
    "Area": "KNVL",
    "Card No": "26",
    "Name": "KNVL JBF ENAPANURI YESOBU",
-   "Cel No": 7036036934,
+   "Cel 1": 7036036934,
    "Status": "Inactive",
    "Due Date": "15-Jul-19"
  },
@@ -5233,7 +5233,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX SRINIVAS",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "05-Jul-19"
  },
@@ -5245,7 +5245,7 @@ var cust_DB=[
    "Area": "RCHB",
    "Card No": "210",
    "Name": "RCHB BAJ SAIDHULU SK",
-   "Cel No": 7702184468,
+   "Cel 1": 7702184468,
    "Status": "Inactive",
    "Due Date": "04-Jul-19"
  },
@@ -5257,7 +5257,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Rayala Ramakrishna Thummalapali",
-   "Cel No": 9701135774,
+   "Cel 1": 9701135774,
    "Status": "Inactive",
    "Due Date": "29-Jun-19"
  },
@@ -5269,7 +5269,7 @@ var cust_DB=[
    "Area": "RCHB",
    "Card No": "159",
    "Name": "RCHB AEI NARASIMHA RAO BOLU",
-   "Cel No": 9705524621,
+   "Cel 1": 9705524621,
    "Status": "Active",
    "Due Date": "15-May-20"
  },
@@ -5281,7 +5281,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX DAVA RAJEENI XXXXX bng",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "26-Jun-19"
  },
@@ -5293,7 +5293,7 @@ var cust_DB=[
    "Area": "RCHB",
    "Card No": "155",
    "Name": "RCHB AEE NARSIMHA RAO KANCHU",
-   "Cel No": 9618075687,
+   "Cel 1": 9618075687,
    "Status": "Active",
    "Due Date": "22-May-20"
  },
@@ -5305,7 +5305,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "",
    "Name": "BNGM XXX Nerella Suri",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "23-May-20"
  },
@@ -5317,7 +5317,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "272",
    "Name": "BNGM BGB SRENIVASACHARE CHINTHOJI",
-   "Cel No": 9000314034,
+   "Cel 1": 9000314034,
    "Status": "Inactive",
    "Due Date": "07-Jun-19"
  },
@@ -5329,7 +5329,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "269",
    "Name": "BNGM BFI TIRUPATHI RAO VEDHULLA",
-   "Cel No": 7382551039,
+   "Cel 1": 7382551039,
    "Status": "Inactive",
    "Due Date": "02-Jun-19"
  },
@@ -5341,7 +5341,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "134",
    "Name": "TMPL ACD DEVAMANI RAYALA",
-   "Cel No": 8978310354,
+   "Cel 1": 8978310354,
    "Status": "Inactive",
    "Due Date": "30-May-19"
  },
@@ -5353,7 +5353,7 @@ var cust_DB=[
    "Area": "RCHB",
    "Card No": "167",
    "Name": "RCHB AFG NARASIMHA RAO CHIRAGA",
-   "Cel No": 9701964501,
+   "Cel 1": 9701964501,
    "Status": "Inactive",
    "Due Date": "28-May-19"
  },
@@ -5365,7 +5365,7 @@ var cust_DB=[
    "Area": "RCHB",
    "Card No": "35",
    "Name": "RCHB JCE RAMBABU BALUSUPATI",
-   "Cel No": 9704817383,
+   "Cel 1": 9704817383,
    "Status": "Inactive",
    "Due Date": "28-May-19"
  },
@@ -5377,7 +5377,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Telluri Basavaiah Thummalapalli",
-   "Cel No": 9502765227,
+   "Cel 1": 9502765227,
    "Status": "Inactive",
    "Due Date": "28-May-19"
  },
@@ -5389,7 +5389,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX GUGULOTHU SREENU(SARPUNCH) XXXXX rrb",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "22-May-19"
  },
@@ -5401,7 +5401,7 @@ var cust_DB=[
    "Area": "MDPD",
    "Card No": "42",
    "Name": "MDPX JDB LAKSHMAN MALLE",
-   "Cel No": 9912270733,
+   "Cel 1": 9912270733,
    "Status": "Inactive",
    "Due Date": "20-May-19"
  },
@@ -5413,7 +5413,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX DHORABABU T",
-   "Cel No": 9494036789,
+   "Cel 1": 9494036789,
    "Status": "Inactive",
    "Due Date": "17-Apr-19"
  },
@@ -5425,7 +5425,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX SALMA",
-   "Cel No": 9959595725,
+   "Cel 1": 9959595725,
    "Status": "Inactive",
    "Due Date": "04-Apr-19"
  },
@@ -5437,7 +5437,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX akhil",
-   "Cel No": 7730932401,
+   "Cel 1": 7730932401,
    "Status": "Inactive",
    "Due Date": "04-Apr-19"
  },
@@ -5449,7 +5449,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX akhil",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "04-Apr-19"
  },
@@ -5461,7 +5461,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX akhil",
-   "Cel No": 9652537252,
+   "Cel 1": 9652537252,
    "Status": "Inactive",
    "Due Date": "04-Apr-19"
  },
@@ -5473,7 +5473,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX SOWJANYA",
-   "Cel No": 9963843529,
+   "Cel 1": 9963843529,
    "Status": "Inactive",
    "Due Date": "04-Apr-19"
  },
@@ -5485,7 +5485,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Gayam Kameshwararao",
-   "Cel No": 9000825623,
+   "Cel 1": 9000825623,
    "Status": "Inactive",
    "Due Date": "04-Apr-19"
  },
@@ -5497,7 +5497,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX SAI",
-   "Cel No": 9676242318,
+   "Cel 1": 9676242318,
    "Status": "Inactive",
    "Due Date": "04-Apr-19"
  },
@@ -5509,7 +5509,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX DEEPTHI",
-   "Cel No": 9652537252,
+   "Cel 1": 9652537252,
    "Status": "Inactive",
    "Due Date": "04-Apr-19"
  },
@@ -5521,7 +5521,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Siva",
-   "Cel No": 9502618912,
+   "Cel 1": 9502618912,
    "Status": "Inactive",
    "Due Date": "04-Apr-19"
  },
@@ -5533,7 +5533,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Arun",
-   "Cel No": 9701762453,
+   "Cel 1": 9701762453,
    "Status": "Inactive",
    "Due Date": "04-Apr-19"
  },
@@ -5545,7 +5545,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Veni",
-   "Cel No": 9849886629,
+   "Cel 1": 9849886629,
    "Status": "Inactive",
    "Due Date": "04-Apr-19"
  },
@@ -5557,7 +5557,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX v srinivasarao",
-   "Cel No": 9885638998,
+   "Cel 1": 9885638998,
    "Status": "Inactive",
    "Due Date": "04-Apr-19"
  },
@@ -5569,7 +5569,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Sivaramakrishna",
-   "Cel No": 7893741793,
+   "Cel 1": 7893741793,
    "Status": "Inactive",
    "Due Date": "04-Apr-19"
  },
@@ -5581,7 +5581,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Sivaramakrishna",
-   "Cel No": 8978355529,
+   "Cel 1": 8978355529,
    "Status": "Inactive",
    "Due Date": "04-Apr-19"
  },
@@ -5593,7 +5593,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Satyaprasad",
-   "Cel No": 8498915731,
+   "Cel 1": 8498915731,
    "Status": "Inactive",
    "Due Date": "04-Apr-19"
  },
@@ -5605,7 +5605,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Satyaprasad",
-   "Cel No": 9959952394,
+   "Cel 1": 9959952394,
    "Status": "Inactive",
    "Due Date": "04-Apr-19"
  },
@@ -5617,7 +5617,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Anantha Satyaprasad Thummalapalli",
-   "Cel No": 7989033597,
+   "Cel 1": 7989033597,
    "Status": "Inactive",
    "Due Date": "04-Apr-19"
  },
@@ -5629,7 +5629,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Y susmitha",
-   "Cel No": 8886827717,
+   "Cel 1": 8886827717,
    "Status": "Inactive",
    "Due Date": "27-Mar-19"
  },
@@ -5641,7 +5641,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX SAI",
-   "Cel No": 9908434761,
+   "Cel 1": 9908434761,
    "Status": "Inactive",
    "Due Date": "27-Mar-19"
  },
@@ -5653,7 +5653,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Maragani Lavanya Thummalapalli",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "27-Mar-19"
  },
@@ -5665,7 +5665,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Kavuri Daveed Thummalapalli",
-   "Cel No": 9177075539,
+   "Cel 1": 9177075539,
    "Status": "Inactive",
    "Due Date": "27-Mar-19"
  },
@@ -5677,7 +5677,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Vangala Venkatanarayana Thummalapalli",
-   "Cel No": 8466845119,
+   "Cel 1": 8466845119,
    "Status": "Inactive",
    "Due Date": "27-Mar-19"
  },
@@ -5689,7 +5689,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Singisela Yesu Thummalapalli",
-   "Cel No": 7032130622,
+   "Cel 1": 7032130622,
    "Status": "Inactive",
    "Due Date": "12-Apr-20"
  },
@@ -5701,7 +5701,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX SK AMEENA",
-   "Cel No": 9704265764,
+   "Cel 1": 9704265764,
    "Status": "Inactive",
    "Due Date": "27-Mar-19"
  },
@@ -5713,7 +5713,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Sataya prasad",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "23-Mar-19"
  },
@@ -5725,7 +5725,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Sataya prasad",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "23-Mar-19"
  },
@@ -5737,7 +5737,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX KANTHI",
-   "Cel No": 9550848683,
+   "Cel 1": 9550848683,
    "Status": "Inactive",
    "Due Date": "23-Mar-19"
  },
@@ -5749,7 +5749,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX SAGI RAMAKRISHNAIAH",
-   "Cel No": 9949420218,
+   "Cel 1": 9949420218,
    "Status": "Inactive",
    "Due Date": "23-Mar-19"
  },
@@ -5761,7 +5761,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX akhil",
-   "Cel No": 8179856193,
+   "Cel 1": 8179856193,
    "Status": "Inactive",
    "Due Date": "23-Mar-19"
  },
@@ -5773,7 +5773,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX PHANI",
-   "Cel No": 9703263494,
+   "Cel 1": 9703263494,
    "Status": "Inactive",
    "Due Date": "23-Mar-19"
  },
@@ -5785,7 +5785,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX SOWJANYA",
-   "Cel No": 9550547351,
+   "Cel 1": 9550547351,
    "Status": "Inactive",
    "Due Date": "23-Mar-19"
  },
@@ -5797,7 +5797,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX DEEPTHI",
-   "Cel No": 9573308956,
+   "Cel 1": 9573308956,
    "Status": "Inactive",
    "Due Date": "23-Mar-19"
  },
@@ -5809,7 +5809,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Vallepu Venkarathnam Thummalapali",
-   "Cel No": 9000739637,
+   "Cel 1": 9000739637,
    "Status": "Inactive",
    "Due Date": "23-Mar-19"
  },
@@ -5821,7 +5821,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX nagababu",
-   "Cel No": 9951098964,
+   "Cel 1": 9951098964,
    "Status": "Inactive",
    "Due Date": "23-Mar-19"
  },
@@ -5833,7 +5833,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX SAI",
-   "Cel No": 9848978519,
+   "Cel 1": 9848978519,
    "Status": "Inactive",
    "Due Date": "23-Mar-19"
  },
@@ -5845,7 +5845,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX nagababu",
-   "Cel No": 9989548491,
+   "Cel 1": 9989548491,
    "Status": "Inactive",
    "Due Date": "23-Mar-19"
  },
@@ -5857,7 +5857,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX nagababu",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "23-Mar-19"
  },
@@ -5869,7 +5869,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Siva Rama Krishna",
-   "Cel No": 9701248012,
+   "Cel 1": 9701248012,
    "Status": "Inactive",
    "Due Date": "23-Mar-19"
  },
@@ -5881,7 +5881,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX SOWJANYA",
-   "Cel No": 9652166535,
+   "Cel 1": 9652166535,
    "Status": "Inactive",
    "Due Date": "23-Mar-19"
  },
@@ -5893,7 +5893,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX SAI",
-   "Cel No": 9912232475,
+   "Cel 1": 9912232475,
    "Status": "Inactive",
    "Due Date": "23-Mar-19"
  },
@@ -5905,7 +5905,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Raju",
-   "Cel No": 9550544498,
+   "Cel 1": 9550544498,
    "Status": "Inactive",
    "Due Date": "23-Mar-19"
  },
@@ -5917,7 +5917,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Lakshmi",
-   "Cel No": 7993873460,
+   "Cel 1": 7993873460,
    "Status": "Inactive",
    "Due Date": "23-Mar-19"
  },
@@ -5929,7 +5929,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Ram",
-   "Cel No": 9989313981,
+   "Cel 1": 9989313981,
    "Status": "Inactive",
    "Due Date": "23-Mar-19"
  },
@@ -5941,7 +5941,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Ram",
-   "Cel No": 9949305075,
+   "Cel 1": 9949305075,
    "Status": "Inactive",
    "Due Date": "23-Mar-19"
  },
@@ -5953,7 +5953,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Sai",
-   "Cel No": 9963699398,
+   "Cel 1": 9963699398,
    "Status": "Inactive",
    "Due Date": "23-Mar-19"
  },
@@ -5965,7 +5965,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Sai",
-   "Cel No": 8498852058,
+   "Cel 1": 8498852058,
    "Status": "Inactive",
    "Due Date": "23-Mar-19"
  },
@@ -5977,7 +5977,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX sai",
-   "Cel No": 9704352150,
+   "Cel 1": 9704352150,
    "Status": "Inactive",
    "Due Date": "23-Mar-19"
  },
@@ -5989,7 +5989,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Anil",
-   "Cel No": 9502464808,
+   "Cel 1": 9502464808,
    "Status": "Inactive",
    "Due Date": "23-Mar-19"
  },
@@ -6001,7 +6001,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Anil",
-   "Cel No": 9912578323,
+   "Cel 1": 9912578323,
    "Status": "Inactive",
    "Due Date": "23-Mar-19"
  },
@@ -6013,7 +6013,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Anil",
-   "Cel No": 9959548656,
+   "Cel 1": 9959548656,
    "Status": "Inactive",
    "Due Date": "23-Mar-19"
  },
@@ -6025,7 +6025,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Akil",
-   "Cel No": 9052423149,
+   "Cel 1": 9052423149,
    "Status": "Inactive",
    "Due Date": "23-Mar-19"
  },
@@ -6037,7 +6037,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Sai",
-   "Cel No": 9704068543,
+   "Cel 1": 9704068543,
    "Status": "Inactive",
    "Due Date": "23-Mar-19"
  },
@@ -6049,7 +6049,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Sai",
-   "Cel No": 7036488134,
+   "Cel 1": 7036488134,
    "Status": "Inactive",
    "Due Date": "23-Mar-19"
  },
@@ -6061,7 +6061,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Akil",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "23-Mar-19"
  },
@@ -6073,7 +6073,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Sai",
-   "Cel No": 9949305159,
+   "Cel 1": 9949305159,
    "Status": "Inactive",
    "Due Date": "23-Mar-19"
  },
@@ -6085,7 +6085,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "999",
    "Name": "RRBR XXX Achana Nageswara Rao",
-   "Cel No": 8142413711,
+   "Cel 1": 8142413711,
    "Status": "Active",
    "Due Date": "23-May-20"
  },
@@ -6097,7 +6097,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Sivaramakrishna K",
-   "Cel No": 9573312545,
+   "Cel 1": 9573312545,
    "Status": "Inactive",
    "Due Date": "23-Mar-19"
  },
@@ -6109,7 +6109,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Sivaramakrishna K",
-   "Cel No": 9550845099,
+   "Cel 1": 9550845099,
    "Status": "Inactive",
    "Due Date": "23-Mar-19"
  },
@@ -6121,7 +6121,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Sivaramakrishna",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "23-Mar-19"
  },
@@ -6133,7 +6133,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Sivaramakrishna",
-   "Cel No": 9010873785,
+   "Cel 1": 9010873785,
    "Status": "Inactive",
    "Due Date": "23-Mar-19"
  },
@@ -6145,7 +6145,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Sivaramakrishna K",
-   "Cel No": 9949913802,
+   "Cel 1": 9949913802,
    "Status": "Inactive",
    "Due Date": "21-Mar-19"
  },
@@ -6157,7 +6157,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Sivaramakrishna",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "21-Mar-19"
  },
@@ -6169,7 +6169,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX bharath",
-   "Cel No": 9000065803,
+   "Cel 1": 9000065803,
    "Status": "Active",
    "Due Date": "15-May-20"
  },
@@ -6181,7 +6181,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Satyaprasad",
-   "Cel No": 9573293826,
+   "Cel 1": 9573293826,
    "Status": "Inactive",
    "Due Date": "21-Mar-19"
  },
@@ -6193,7 +6193,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Satyaprasad",
-   "Cel No": 9603035824,
+   "Cel 1": 9603035824,
    "Status": "Inactive",
    "Due Date": "21-Mar-19"
  },
@@ -6205,7 +6205,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Satyaprasad",
-   "Cel No": 7729810139,
+   "Cel 1": 7729810139,
    "Status": "Inactive",
    "Due Date": "21-Mar-19"
  },
@@ -6217,7 +6217,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX RAYALA RAVI",
-   "Cel No": 9010435531,
+   "Cel 1": 9010435531,
    "Status": "Inactive",
    "Due Date": "21-Mar-19"
  },
@@ -6229,7 +6229,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Satyaprasad",
-   "Cel No": 8179144041,
+   "Cel 1": 8179144041,
    "Status": "Inactive",
    "Due Date": "21-Mar-19"
  },
@@ -6241,7 +6241,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Teegalla Venkateswarao Thummalapalli",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "21-Mar-19"
  },
@@ -6253,7 +6253,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Chinthoju Mohan rao Thummalapalli",
-   "Cel No": 9704332690,
+   "Cel 1": 9704332690,
    "Status": "Inactive",
    "Due Date": "30-Apr-20"
  },
@@ -6265,7 +6265,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "XXXX XXX Joneboina Satyanarayanamma Thummalapalli",
-   "Cel No": 7013906516,
+   "Cel 1": 7013906516,
    "Status": "Inactive",
    "Due Date": "21-Mar-19"
  },
@@ -6277,7 +6277,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX mula",
-   "Cel No": 9177281002,
+   "Cel 1": 9177281002,
    "Status": "Inactive",
    "Due Date": "21-Mar-19"
  },
@@ -6289,7 +6289,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX SAMATHA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "21-Mar-19"
  },
@@ -6301,7 +6301,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Vanama Srinivasarao Mandalapadu",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "19-Mar-19"
  },
@@ -6313,7 +6313,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX SOWJANYA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "19-Mar-19"
  },
@@ -6325,7 +6325,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Mamilla Narasimharao",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "19-Mar-19"
  },
@@ -6337,7 +6337,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Satyaprasad",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "09-Mar-19"
  },
@@ -6349,7 +6349,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Veni",
-   "Cel No": 9959535956,
+   "Cel 1": 9959535956,
    "Status": "Inactive",
    "Due Date": "28-Feb-19"
  },
@@ -6361,7 +6361,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX SAJANA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "03-Feb-19"
  },
@@ -6373,7 +6373,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Satyaprasad",
-   "Cel No": 9704216055,
+   "Cel 1": 9704216055,
    "Status": "Inactive",
    "Due Date": "24-Jan-19"
  },
@@ -6385,7 +6385,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Sai",
-   "Cel No": 9000314043,
+   "Cel 1": 9000314043,
    "Status": "Active",
    "Due Date": "21-May-20"
  },
@@ -6397,7 +6397,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Amboju Ragavulu Thummalapalli",
-   "Cel No": 9177027332,
+   "Cel 1": 9177027332,
    "Status": "Inactive",
    "Due Date": "20-Jan-19"
  },
@@ -6409,7 +6409,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Satyaprasad",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "07-Jan-19"
  },
@@ -6421,7 +6421,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX SHANKAR KOMMU",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "07-Jan-19"
  },
@@ -6433,7 +6433,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX KOUSALYA ramarao",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "07-Jan-19"
  },
@@ -6445,7 +6445,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX BALAKRISHNA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "07-Jan-19"
  },
@@ -6457,7 +6457,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX BALAKRISHNA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "07-Jan-19"
  },
@@ -6469,7 +6469,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX BALAKRISHNA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "07-Jan-19"
  },
@@ -6481,7 +6481,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX S TANUJA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "20-Nov-18"
  },
@@ -6493,7 +6493,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX gupta ji",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "13-May-20"
  },
@@ -6505,7 +6505,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX BALAKRISHNA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "16-Nov-18"
  },
@@ -6517,7 +6517,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX BALAKRISHNA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "16-Nov-18"
  },
@@ -6529,7 +6529,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX BALAKRISHNA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "19-May-20"
  },
@@ -6541,7 +6541,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX SHIVA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "16-Nov-18"
  },
@@ -6553,7 +6553,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX SRINUBODA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "16-Nov-18"
  },
@@ -6565,7 +6565,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX RAMAKOTI",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "15-Nov-18"
  },
@@ -6577,7 +6577,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX SRINUBODA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "15-Nov-18"
  },
@@ -6589,7 +6589,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX SRINUBODA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "15-Nov-18"
  },
@@ -6601,7 +6601,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX SRINUBODA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "15-Nov-18"
  },
@@ -6613,7 +6613,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX SRINUBODA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "15-Nov-18"
  },
@@ -6625,7 +6625,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX VENKANNA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "15-Nov-18"
  },
@@ -6637,7 +6637,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX SRINUBODA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "15-Nov-18"
  },
@@ -6649,7 +6649,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX SRINUBODA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "15-Nov-18"
  },
@@ -6661,7 +6661,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX BALAKRISHNA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "15-Nov-18"
  },
@@ -6673,7 +6673,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX BALAKRISHNA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "15-Nov-18"
  },
@@ -6685,7 +6685,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX BALAKRISHNA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "12-Nov-18"
  },
@@ -6697,7 +6697,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX BALAKRISHNA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "12-Nov-18"
  },
@@ -6709,7 +6709,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX BALAKRISHNA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "27-Oct-18"
  },
@@ -6721,7 +6721,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Shanthi",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "25-Oct-18"
  },
@@ -6733,7 +6733,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX SAI",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "14-Oct-18"
  },
@@ -6745,7 +6745,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX SAI",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "03-Oct-18"
  },
@@ -6757,7 +6757,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX KANTHI",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "25-Sep-18"
  },
@@ -6769,7 +6769,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Tallapureddy Padma Thummalapalli",
-   "Cel No": 9866567614,
+   "Cel 1": 9866567614,
    "Status": "Inactive",
    "Due Date": "25-Sep-18"
  },
@@ -6781,7 +6781,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Gunja Ramakrishna",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "07-Sep-18"
  },
@@ -6793,7 +6793,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Thammasetti Venkateswarao",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "07-Sep-18"
  },
@@ -6805,7 +6805,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX SOWJANYA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "23-Aug-18"
  },
@@ -6817,7 +6817,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Sivaramakrishna K",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "23-Aug-18"
  },
@@ -6829,7 +6829,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX Seethampeta",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "18-Aug-18"
  },
@@ -6841,7 +6841,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Gaddam Kumari Thummalapalli",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "06-Aug-18"
  },
@@ -6853,7 +6853,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Joneboina Krishnarao Thummalapalli",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "20-Jul-18"
  },
@@ -6865,7 +6865,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX Kavingar shing",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "06-Jul-18"
  },
@@ -6877,7 +6877,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Sataya prasad",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "23-Jun-18"
  },
@@ -6889,7 +6889,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX LAKSHMI",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "23-Jun-18"
  },
@@ -6901,7 +6901,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Siva",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "20-Jun-18"
  },
@@ -6913,7 +6913,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Gayam Preveen Kumar Mandalapadu",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "19-May-18"
  },
@@ -6925,7 +6925,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX satyaprasad",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "15-May-20"
  },
@@ -6937,7 +6937,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX SK AMEENA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "21-Apr-18"
  },
@@ -6949,7 +6949,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Sivaramakrishna",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "04-Apr-18"
  },
@@ -6961,7 +6961,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Sai",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "20-Mar-18"
  },
@@ -6973,7 +6973,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Raj",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "20-Mar-18"
  },
@@ -6985,7 +6985,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX SRINIVAS",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "19-Mar-18"
  },
@@ -6997,7 +6997,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Pilli Navajevanababu Mandalapadu",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "18-Mar-18"
  },
@@ -7009,7 +7009,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX koti",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "18-Mar-18"
  },
@@ -7021,7 +7021,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Siva Rama Krishna",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "21-Feb-18"
  },
@@ -7033,7 +7033,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Karri Madhavarao Mandalapadu",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "25-Jan-18"
  },
@@ -7045,7 +7045,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX SK AMEENA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "25-Jan-18"
  },
@@ -7057,7 +7057,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Malle Padhma",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "23-Jan-18"
  },
@@ -7069,7 +7069,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Raju",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "24-Dec-17"
  },
@@ -7081,7 +7081,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Sai",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "24-Nov-17"
  },
@@ -7093,7 +7093,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Sivaramakrishna K",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "24-Nov-17"
  },
@@ -7105,7 +7105,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX DEEPTHI",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "18-Nov-17"
  },
@@ -7117,7 +7117,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Satyaprasad",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "13-Nov-17"
  },
@@ -7129,7 +7129,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Bejawada Satyanaryana Thummalappali",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "13-Oct-17"
  },
@@ -7141,7 +7141,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX sai",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "19-Sep-17"
  },
@@ -7153,7 +7153,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Raj",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "21-Aug-17"
  },
@@ -7165,7 +7165,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX sai",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "21-Aug-17"
  },
@@ -7177,7 +7177,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Sivaramakrishna",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "21-Aug-17"
  },
@@ -7189,7 +7189,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX LAKSHMI",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "09-Aug-17"
  },
@@ -7201,7 +7201,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Oruganti Satyanarayana Mandalapadu",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "28-Jul-17"
  },
@@ -7213,7 +7213,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX akhil",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "22-Jul-17"
  },
@@ -7225,7 +7225,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX KANTHI",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "06-Jun-17"
  },
@@ -7237,7 +7237,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX nagababu",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "06-Jun-17"
  },
@@ -7249,7 +7249,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX Satyaprasad",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "02-Jun-17"
  },
@@ -7261,7 +7261,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "999",
    "Name": "XXXX XXX samba",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "25-May-17"
  },
@@ -7273,7 +7273,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "",
    "Name": "TMPL XXX THORLAPATI VENKATRAO",
-   "Cel No": 8479654999,
+   "Cel 1": 8479654999,
    "Status": "Active",
    "Due Date": "20-May-20"
  },
@@ -7285,7 +7285,7 @@ var cust_DB=[
    "Area": "MDPD",
    "Card No": "",
    "Name": "MDPD XXX MUTHAYA D",
-   "Cel No": 9704638701,
+   "Cel 1": 9704638701,
    "Status": "Inactive",
    "Due Date": "02-Mar-20"
  },
@@ -7297,7 +7297,7 @@ var cust_DB=[
    "Area": "MDPD",
    "Card No": "",
    "Name": "MDPD XXX CHANNA RAO",
-   "Cel No": 9390667593,
+   "Cel 1": 9390667593,
    "Status": "Inactive",
    "Due Date": "30-Apr-20"
  },
@@ -7309,7 +7309,7 @@ var cust_DB=[
    "Area": "NGDM",
    "Card No": "",
    "Name": "NDGM XXX Ramanarasimharao Bajinni",
-   "Cel No": 9949960327,
+   "Cel 1": 9949960327,
    "Status": "Inactive",
    "Due Date": "30-Apr-20"
  },
@@ -7321,7 +7321,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999/S",
    "Name": "TMPL XXX SK YAKUB ALI",
-   "Cel No": 9100821091,
+   "Cel 1": 9100821091,
    "Status": "Active",
    "Due Date": "06-May-20"
  },
@@ -7333,7 +7333,7 @@ var cust_DB=[
    "Area": "NGDM",
    "Card No": "",
    "Name": "NGDM XXX Pedda Venkateswararao Racha",
-   "Cel No": 8639350351,
+   "Cel 1": 8639350351,
    "Status": "Active",
    "Due Date": "12-May-20"
  },
@@ -7345,7 +7345,7 @@ var cust_DB=[
    "Area": "NGDM",
    "Card No": "",
    "Name": "NGDM XXX R NAGESWARA RAO",
-   "Cel No": 9908757362,
+   "Cel 1": 9908757362,
    "Status": "Active",
    "Due Date": "19-May-20"
  },
@@ -7357,7 +7357,7 @@ var cust_DB=[
    "Area": "NGDM",
    "Card No": "",
    "Name": "NGDM XXX R NAGESWARA RAO",
-   "Cel No": 9908757362,
+   "Cel 1": 9908757362,
    "Status": "Active",
    "Due Date": "19-May-20"
  },
@@ -7369,7 +7369,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "167",
    "Name": "BNGM AFGXAMALAADHI RAMESH",
-   "Cel No": 9963122819,
+   "Cel 1": 9963122819,
    "Status": "Active",
    "Due Date": "12-May-20"
  },
@@ -7381,7 +7381,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "999",
    "Name": "XXXX XXX T MADHAVA REDDY",
-   "Cel No": 9866567614,
+   "Cel 1": 9866567614,
    "Status": "Active",
    "Due Date": "10-May-20"
  },
@@ -7393,7 +7393,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "259",
    "Name": "BNGM BEI SATHYANARAYANA KANDHIMALAA",
-   "Cel No": 9502544815,
+   "Cel 1": 9502544815,
    "Status": "Active",
    "Due Date": "07-May-20"
  },
@@ -7405,7 +7405,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "XXXX XXX SAI",
-   "Cel No": 8106889142,
+   "Cel 1": 8106889142,
    "Status": "Inactive",
    "Due Date": "10-Feb-20"
  },
@@ -7417,7 +7417,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "49",
    "Name": "BNGM JDIXASATHYANADH JUPALLI",
-   "Cel No": 9492040740,
+   "Cel 1": 9492040740,
    "Status": "Inactive",
    "Due Date": "13-Mar-20"
  },
@@ -7429,7 +7429,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "",
    "Name": "RRBR XXX thunga krishna",
-   "Cel No": 9553227873,
+   "Cel 1": 9553227873,
    "Status": "Active",
    "Due Date": "17-May-20"
  },
@@ -7441,7 +7441,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "999",
    "Name": "RRBR XXX MARAKALA GOPALAKRISHNA",
-   "Cel No": 8367373894,
+   "Cel 1": 8367373894,
    "Status": "Active",
    "Due Date": "14-May-20"
  },
@@ -7453,7 +7453,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "999",
    "Name": "RRBR XXX THUNGA NAGESH",
-   "Cel No": 9502904460,
+   "Cel 1": 9502904460,
    "Status": "Active",
    "Due Date": "22-May-20"
  },
@@ -7465,7 +7465,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "999",
    "Name": "XXXX XXX SALMA",
-   "Cel No": 9866376590,
+   "Cel 1": 9866376590,
    "Status": "Inactive",
    "Due Date": "23-Apr-20"
  },
@@ -7477,7 +7477,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "",
    "Name": "XXXX XXX Thunga Ramu",
-   "Cel No": 9553019242,
+   "Cel 1": 9553019242,
    "Status": "Active",
    "Due Date": "18-May-20"
  },
@@ -7489,7 +7489,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "34",
    "Name": "TMPL JCD NAGARAJU MARAGANI",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "16-May-20"
  },
@@ -7501,7 +7501,7 @@ var cust_DB=[
    "Area": "VMBR",
    "Card No": "Staff",
    "Name": "VMBR XXX Asha Staff",
-   "Cel No": 9705218602,
+   "Cel 1": 9705218602,
    "Status": "Active",
    "Due Date": "23-May-20"
  },
@@ -7513,7 +7513,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "",
    "Name": "RRBR XXX thunga ramakrishna",
-   "Cel No": 9640351961,
+   "Cel 1": 9640351961,
    "Status": "Inactive",
    "Due Date": "22-Apr-20"
  },
@@ -7525,7 +7525,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "XXXX XXX Sataya prasad",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "22-May-20"
  },
@@ -7537,7 +7537,7 @@ var cust_DB=[
    "Area": "RRBR",
    "Card No": "999",
    "Name": "XXXX XXX pandi anjamma",
-   "Cel No": 7095575943,
+   "Cel 1": 7095575943,
    "Status": "Active",
    "Due Date": "23-May-20"
  },
@@ -7549,7 +7549,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "4",
    "Name": "BNGM JJD EGGIGANI SAVITHRAMMA",
-   "Cel No": 7680837852,
+   "Cel 1": 7680837852,
    "Status": "Active",
    "Due Date": "06-May-20"
  },
@@ -7561,7 +7561,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "",
    "Name": "TMPL XXX ANANTHA VEERABHADRAM",
-   "Cel No": 9346247525,
+   "Cel 1": 9346247525,
    "Status": "Active",
    "Due Date": "22-May-20"
  },
@@ -7573,7 +7573,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "XXXX XXX KRISHNAIAH SATHISH M",
-   "Cel No": 9676669205,
+   "Cel 1": 9676669205,
    "Status": "Active",
    "Due Date": "22-May-20"
  },
@@ -7585,7 +7585,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "XXXX XXX UPUU SUDHAKAR",
-   "Cel No": 9705024419,
+   "Cel 1": 9705024419,
    "Status": "Active",
    "Due Date": "24-May-20"
  },
@@ -7597,7 +7597,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "999",
    "Name": "XXXX XXX venkateswarlu VANKALAPATI BAYANNAGUDEM",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "28-May-20"
  },
@@ -7609,7 +7609,7 @@ var cust_DB=[
    "Area": "PNBL",
    "Card No": "999",
    "Name": "XXXX XXX SD SUBHANI",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "28-Apr-20"
  },
@@ -7621,7 +7621,7 @@ var cust_DB=[
    "Area": "RCHB",
    "Card No": "49",
    "Name": "RCHB JDI MALAAYA KANDHUKURI",
-   "Cel No": 8106468608,
+   "Cel 1": 8106468608,
    "Status": "Inactive",
    "Due Date": "27-Apr-20"
  },
@@ -7633,7 +7633,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "155",
    "Name": "BNGM AEEXAVENKATESWARAO SINGSALA",
-   "Cel No": 7893154693,
+   "Cel 1": 7893154693,
    "Status": "Active",
    "Due Date": "03-Jun-20"
  },
@@ -7645,7 +7645,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX chinnamkanthamma",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "03-May-20"
  },
@@ -7657,7 +7657,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "",
    "Name": "XXXX XXX u narasimharao",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "12-May-20"
  },
@@ -7669,7 +7669,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "",
    "Name": "TMPL XXX GANDHAM HARIKRISHNA",
-   "Cel No": 9989244561,
+   "Cel 1": 9989244561,
    "Status": "Active",
    "Due Date": "08-May-20"
  },
@@ -7681,7 +7681,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX Venkateswararao Thallada",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "01-May-20"
  },
@@ -7693,7 +7693,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX ramesh",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "06-May-20"
  },
@@ -7705,7 +7705,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX samadhamnam",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "08-May-20"
  },
@@ -7717,7 +7717,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX aganavadi",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "05-Apr-20"
  },
@@ -7729,7 +7729,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX venkateswar rao",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "06-May-20"
  },
@@ -7741,7 +7741,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX muthayala venkatesvarlu",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "08-May-20"
  },
@@ -7753,7 +7753,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX chinna kesava R",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "07-May-20"
  },
@@ -7765,7 +7765,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX Balakrishna Gosu",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "07-May-20"
  },
@@ -7777,7 +7777,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX NarasimhaRao Donthu BNGM",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "07-May-20"
  },
@@ -7789,7 +7789,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX LAKSHMI",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "10-May-20"
  },
@@ -7801,7 +7801,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX srinu m",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "17-May-20"
  },
@@ -7813,7 +7813,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX venkteswaramma",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "10-May-20"
  },
@@ -7825,7 +7825,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX thungagopalrao",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "18-May-20"
  },
@@ -7837,7 +7837,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX Vemula pulaaya",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "13-Apr-20"
  },
@@ -7849,7 +7849,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX joguvenkatakrishna",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "13-Apr-20"
  },
@@ -7861,7 +7861,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "",
    "Name": "BNGM XXX PULICHARLA MAHESH",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "19-May-20"
  },
@@ -7873,7 +7873,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX JYOSHNA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "16-May-20"
  },
@@ -7885,7 +7885,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX balaji D",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "15-May-20"
  },
@@ -7897,7 +7897,7 @@ var cust_DB=[
    "Area": "PNBL",
    "Card No": "",
    "Name": "PNBL XXX BURRI VEERASWAMY",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "19-Apr-20"
  },
@@ -7909,7 +7909,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX tirupathi rao",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "22-May-20"
  },
@@ -7921,7 +7921,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "",
    "Name": "TMPL JHC VENKATARAMARAO NARAGANI",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "19-Apr-20"
  },
@@ -7933,7 +7933,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX POLICE CHETEEMA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "20-May-20"
  },
@@ -7945,7 +7945,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX POLICE CHETEEMA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "21-May-20"
  },
@@ -7957,7 +7957,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX pingali krishna",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "22-Apr-20"
  },
@@ -7969,7 +7969,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX thadikamallakrishna",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "26-May-20"
  },
@@ -7981,7 +7981,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX Satyaprasad",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "24-May-20"
  },
@@ -7993,7 +7993,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX BANAVATH VENKANNA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "24-Apr-20"
  },
@@ -8005,7 +8005,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX marakala venkateswarao",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "26-May-20"
  },
@@ -8017,7 +8017,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "RRBR JFBXA MALLA SANGAMMA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "28-Apr-20"
  },
@@ -8029,7 +8029,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "MONDIBOINA GOPALRAO",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "29-Apr-20"
  },
@@ -8041,7 +8041,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX DEEPTHI",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "09-May-20"
  },
@@ -8053,7 +8053,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX kanchu krishnayaa",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "13-May-20"
  },
@@ -8065,7 +8065,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX sudharkar",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "02-May-20"
  },
@@ -8077,7 +8077,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX nageswar rao garu",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "01-Apr-20"
  },
@@ -8089,7 +8089,7 @@ var cust_DB=[
    "Area": "KNVL",
    "Card No": "",
    "Name": "KNVL XXX SEELAM NARAYANA REDDY",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "30-Apr-20"
  },
@@ -8101,7 +8101,7 @@ var cust_DB=[
    "Area": "RCPM",
    "Card No": "",
    "Name": "RCPM AAA BANDA VENU SUNEETHA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "03-Mar-20"
  },
@@ -8113,7 +8113,7 @@ var cust_DB=[
    "Area": "RCHB",
    "Card No": "",
    "Name": "RCHB XXX PALLAGANI MALLIKARJUNA RAO",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Active",
    "Due Date": "16-May-20"
  },
@@ -8125,7 +8125,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "",
    "Name": "TMPL XXX Jalagam Prasad xxARxx",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "10-Jan-20"
  },
@@ -8137,7 +8137,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX chinaam krishnayaa",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "17-Sep-19"
  },
@@ -8149,7 +8149,7 @@ var cust_DB=[
    "Area": "XXXX",
    "Card No": "",
    "Name": "XXXX XXX CHINDUKURI EDUKONDALU BNGM",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "18-Jun-19"
  },
@@ -8161,7 +8161,7 @@ var cust_DB=[
    "Area": "BNGM",
    "Card No": "",
    "Name": "BNGM AED PAVAN KISHORE SINGISALA",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "12-May-19"
  },
@@ -8173,7 +8173,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "",
    "Name": "TMLP JCEXAramu mallavarapu",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "05-May-19"
  },
@@ -8185,7 +8185,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "",
    "Name": "TMPL XXX PAGATLA RAMESH",
-   "Cel No": null,
+   "Cel 1": null,
    "Status": "Inactive",
    "Due Date": "23-Mar-19"
  },
@@ -8197,7 +8197,7 @@ var cust_DB=[
    "Area": "MDPD",
    "Card No": "",
    "Name": "MDPD XXX Dosapati Lakshmanarao",
-   "Cel No": 9849775901,
+   "Cel 1": 9849775901,
    "Status": "Active",
    "Due Date": "20-May-20"
  },
@@ -8209,7 +8209,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "",
    "Name": "TMPL XXX Royala Raghavulu",
-   "Cel No": 9000314043,
+   "Cel 1": 9000314043,
    "Status": "Active",
    "Due Date": "21-May-20"
  },
@@ -8221,7 +8221,7 @@ var cust_DB=[
    "Area": "TMPL",
    "Card No": "",
    "Name": "TMPL XXX SK Janimiya",
-   "Cel No": 9502079438,
+   "Cel 1": 9502079438,
    "Status": "Active",
    "Due Date": "21-May-20"
  },
@@ -8233,7 +8233,7 @@ var cust_DB=[
    "Area": "RRBS",
    "Card No": "",
    "Name": "RRBS XXX Marakala Prasad",
-   "Cel No": 9502166396,
+   "Cel 1": 9502166396,
    "Status": "Inactive",
    "Due Date": "01-May-20"
  },
@@ -8245,7 +8245,7 @@ var cust_DB=[
    "Area": "NGDM",
    "Card No": "",
    "Name": "NGDM XXX RASA ACHAYYA",
-   "Cel No": 9849569339,
+   "Cel 1": 9849569339,
    "Status": "Active",
    "Due Date": "29-May-20"
  }
@@ -8299,7 +8299,7 @@ for (var x in cust_DB){
   if (cust_DB[x]["VC No"]==vcid){
   sms = cust_DB[x]["Sms ID"];
   lco = cust_DB[x]["LCO ID"];
-  customer = cust_DB[x]["Subscriber Name"];
+  customer = cust_DB[x]["Name"];
   status = cust_DB[x]["Status"];
   area = cust_DB[x]["Area"];
   card = cust_DB[x]["Card No"];
