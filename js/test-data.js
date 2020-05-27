@@ -55225,8 +55225,10 @@ var $form = $('#data-entry'),
     url = 'https://script.google.com/macros/s/AKfycbwFpUW5uoNhR1tuXOO5J8b8cYPPCtMrMUrV0gpsDaVrYF7uJWY/exec',
     mult_url = 'https://script.google.com/macros/s/AKfycbw_pxucjS1zkPhExh4FMdtPt1ZQOn-XmpNtJrhMpj7_q5lHif8/exec'
 var array = {'SMS ID':sms, 'VC No':vc, 'LCO ID':lco, 'Subscriber Name':customer, 'Status':status, 'Area':area, 'Card No':card, 'Name':customer, 'Cel1':phone, 'Cel2':cell, 'Due Date':due_date, 'Last Paid':last_paid, 'Remarks':rem, 'Receipt No':rec_no, 'Package':pkg, 'Amount':amt, 'Agent':agent, 'PIN':pwd, 'Months':months};
+var mult_array = {'City Code':'MDR', 'SMS ID':sms, 'VC No':vc, 'LCO ID':lco, 'Subscriber Name':customer, 'Status':status, 'Area':area, 'Card No':card, 'Name':customer, 'Cel1':phone, 'Cel2':cell, 'Due Date':due_date, 'Last Paid':last_paid, 'Remarks':rem, 'Receipt No':rec_no, 'Package':pkg, 'Amount':amt, 'Agent':agent, 'PIN':pwd, 'Months':months};
    
 console.log(array);
+console.log(mult_array);
 
     var jqxhr = $.ajax({
       url: url,
@@ -55238,7 +55240,7 @@ console.log(array);
       url: mult_url,
       method: "GET",
       dataType: "json",
-      data: array
+      data: mult_array
        })
        alert('Submitted Successfully!');
        location.reload();

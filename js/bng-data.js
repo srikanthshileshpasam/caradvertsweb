@@ -8388,16 +8388,26 @@ var months=document.getElementById('months').value;
 var agent = agentAuth();
 
 var $form = $('#data-entry'),
-    url = 'https://script.google.com/macros/s/AKfycbzcByEyOfaPIIya5r1AijgF6NuBrPetxG8FEujnZikAnLPTouY/exec'
+    url = 'https://script.google.com/macros/s/AKfycbzcByEyOfaPIIya5r1AijgF6NuBrPetxG8FEujnZikAnLPTouY/exec',
+    mult_url = 'https://script.google.com/macros/s/AKfycbw_pxucjS1zkPhExh4FMdtPt1ZQOn-XmpNtJrhMpj7_q5lHif8/exec'
 
-    var array = {'SMS ID':sms, 'VC No':vc, 'LCO ID':lco, 'Subscriber Name':customer, 'Status':status, 'Area':area, 'Card No':card, 'Name':customer, 'Cel1':phone, 'Cel2':cell, 'Due Date':due_date, 'Last Paid':last_paid, 'Remarks':rem, 'Receipt No':rec_no, 'Package':pkg, 'Amount':amt, 'Agent':agent, 'PIN':pwd, 'Months':months};
-    console.log(array);
+var array = {'SMS ID':sms, 'VC No':vc, 'LCO ID':lco, 'Subscriber Name':customer, 'Status':status, 'Area':area, 'Card No':card, 'Name':customer, 'Cel1':phone, 'Cel2':cell, 'Due Date':due_date, 'Last Paid':last_paid, 'Remarks':rem, 'Receipt No':rec_no, 'Package':pkg, 'Amount':amt, 'Agent':agent, 'PIN':pwd, 'Months':months};
+var mult_array = {'City Code':'BNG', 'SMS ID':sms, 'VC No':vc, 'LCO ID':lco, 'Subscriber Name':customer, 'Status':status, 'Area':area, 'Card No':card, 'Name':customer, 'Cel1':phone, 'Cel2':cell, 'Due Date':due_date, 'Last Paid':last_paid, 'Remarks':rem, 'Receipt No':rec_no, 'Package':pkg, 'Amount':amt, 'Agent':agent, 'PIN':pwd, 'Months':months};
+    
+console.log(array);
+console.log(mult_array);
 
     var jqxhr = $.ajax({
       url: url,
       method: "GET",
       dataType: "json",
       data: array
+       })
+    var mult_jqxhr = $.ajax({
+      url: mult_url,
+      method: "GET",
+      dataType: "json",
+      data: mult_array
        })
        alert('Submitted Successfully!');
        location.reload();
