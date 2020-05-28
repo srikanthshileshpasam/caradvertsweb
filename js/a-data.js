@@ -19183,10 +19183,10 @@ for (var x in cust_DB){
   if (cust_DB[x]["VC NO"]==vcid){
   sms = cust_DB[x]["Sms ID"];
   lco = cust_DB[x]["LCO ID"];
-  customer = cust_DB[x]["Name"];
+  customer = cust_DB[x]["NAME"];
   status = cust_DB[x]["Status"];
-  area = cust_DB[x]["Zone"];
-  card = cust_DB[x]["Card No"];
+  area = cust_DB[x]["Village"];
+  card = cust_DB[x]["CARD NO"];
   phone = cust_DB[x]["Cel 1"];
   cell = cust_DB[x]["Cel2"];
   due_date = cust_DB[x]["Due Date"];
