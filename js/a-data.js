@@ -19180,7 +19180,7 @@ function customerSearch(){
 
 
 for (var x in cust_DB){
-  if (cust_DB[x]["VC No"]==vcid){
+  if (cust_DB[x]["VC NO"]==vcid){
   sms = cust_DB[x]["Sms ID"];
   lco = cust_DB[x]["LCO ID"];
   customer = cust_DB[x]["Name"];
@@ -19274,7 +19274,7 @@ var agent = agentAuth();
 
 var $form = $('#data-entry'),
     url = 'https://script.google.com/macros/s/AKfycbxDvFe_GYIlzjMy6B2QBhvgjYOdOFVEE18L9YUI5vcHJAOy-uU/exec'
-    var array = {'SMS ID':sms, 'VC No':vc, 'LCO ID':lco, 'Subscriber Name':customer, 'Status':status, 'Area':area, 'Card No':card, 'Name':customer, 'Cel1':phone, 'Cel2':cell, 'Due Date':due_date, 'Last Paid':last_paid, 'Remarks':rem, 'Receipt No':rec_no, 'Package':pkg, 'Amount':amt, 'Agent':agent, 'PIN':pwd, 'Months':months};
+    var array = {'SMS ID':sms, 'VC NO':vc, 'LCO ID':lco, 'Name':customer, 'Status':status, 'Area':area, 'Card No':card, 'Name':customer, 'Cel1':phone, 'Cel2':cell, 'Due Date':due_date, 'Last Paid':last_paid, 'Remarks':rem, 'Receipt No':rec_no, 'Package':pkg, 'Amount':amt, 'Agent':agent, 'PIN':pwd, 'Months':months};
     console.log(array);
 
     var jqxhr = $.ajax({
