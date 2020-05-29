@@ -77839,7 +77839,7 @@ for (var x in cust_DB){
   if (cust_DB[x]["VC No"]==vcid){
   sms = cust_DB[x]["Sms ID"];
   lco = cust_DB[x]["LCO ID"];
-  customer = cust_DB[x]["Subscriber Name"];
+  customer = cust_DB[x]["Name"];
   status = cust_DB[x]["Status"];
   area = cust_DB[x]["Area"];
   card = cust_DB[x]["Card No"];
