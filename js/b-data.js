@@ -19188,19 +19188,19 @@ function customerSearch(){
 
 
 for (var x in cust_DB){
-  if (cust_DB[x]["VC No"]==vcid){
+  if (cust_DB[x]["VC NO"]==vcid){
   sms = cust_DB[x]["Sms ID"];
   lco = cust_DB[x]["LCO ID"];
-  customer = cust_DB[x]["Subscriber Name"];
+  customer = cust_DB[x]["NAME"];
   status = cust_DB[x]["Status"];
-  area = cust_DB[x]["Zone"];
-  card = cust_DB[x]["Card No"];
+  area = cust_DB[x]["Village"];
+  card = cust_DB[x]["CARD NO"];
   phone = cust_DB[x]["Cel 1"];
   cell = cust_DB[x]["Cel2"];
   due_date = cust_DB[x]["Due Date"];
   last_paid = cust_DB[x]["Last Paid Date"];
 
-  }
+  }    
 }
     if (customer==null){
         alert("Customer not found!");
@@ -19283,8 +19283,8 @@ var agent = agentAuth();
 var $form = $('#data-entry'),
     url = 'https://script.google.com/macros/s/AKfycby_X5nr5ElaB304M8VwAhQ3bKYK8OpbkT9bqZuQck3w1_jEKsE/exec',
     mult_url = 'https://script.google.com/macros/s/AKfycbw_pxucjS1zkPhExh4FMdtPt1ZQOn-XmpNtJrhMpj7_q5lHif8/exec'
-    var array = {'SMS ID':sms, 'VC No':vc, 'LCO ID':lco, 'Subscriber Name':customer, 'Status':status, 'Area':area, 'Card No':card, 'Name':customer, 'Cel1':phone, 'Cel2':cell, 'Due Date':due_date, 'Last Paid':last_paid, 'Remarks':rem, 'Receipt No':rec_no, 'Package':pkg, 'Amount':amt, 'Agent':agent, 'PIN':pwd, 'Months':months};
-    var mult_array = {'City Code':'TLD', 'SMS ID':sms, 'VC No':vc, 'LCO ID':lco, 'Subscriber Name':customer, 'Status':status, 'Area':area, 'Card No':card, 'Name':customer, 'Cel1':phone, 'Cel2':cell, 'Due Date':due_date, 'Last Paid':last_paid, 'Remarks':rem, 'Receipt No':rec_no, 'Package':pkg, 'Amount':amt, 'Agent':agent, 'PIN':pwd, 'Months':months};
+    var array = {'SMS ID':sms, 'VC No':vc, 'LCO ID':lco, 'Subscriber Name':customer, 'Status':status, 'Area':area, 'Card No':card, 'Name':customer, 'Cel1':phone, 'Due Date':due_date, 'Remarks':rem, 'Receipt No':rec_no, 'Package':pkg, 'Amount':amt, 'Agent':agent, 'PIN':pwd, 'Months':months};
+    var mult_array = {'City Code':'TLD', 'SMS ID':sms, 'VC No':vc, 'LCO ID':lco, 'Subscriber Name':customer, 'Status':status, 'Area':area, 'Card No':card, 'Name':customer, 'Cel1':phone, 'Due Date':due_date, 'Remarks':rem, 'Receipt No':rec_no, 'Package':pkg, 'Amount':amt, 'Agent':agent, 'PIN':pwd, 'Months':months};
     console.log(array);
     console.log(mult_array);
 
