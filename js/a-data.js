@@ -19050,124 +19050,60 @@ var cust_DB=[
 
 var agent_DB=[
  {
-   "FIELD1": "Agent1",
-   "FIELD2": 1001
+   "FIELD1": "VAMSHI",
+   "FIELD2": 6753
  },
  {
-   "FIELD1": "Agent2",
-   "FIELD2": 1002
+   "FIELD1": "SAMPATH",
+   "FIELD2": 905
  },
  {
-   "FIELD1": "Agent3",
-   "FIELD2": 1003
+   "FIELD1": "SRINU",
+   "FIELD2": 1242
  },
  {
-   "FIELD1": "Agent4",
-   "FIELD2": 1004
+   "FIELD1": "LATHA",
+   "FIELD2": 8481
  },
  {
-   "FIELD1": "Agent5",
-   "FIELD2": 1005
+   "FIELD1": "VENU",
+   "FIELD2": 6497
  },
  {
-   "FIELD1": "Agent6",
-   "FIELD2": 1006
+   "FIELD1": "RAMESH ",
+   "FIELD2": 3174
  },
  {
-   "FIELD1": "Agent7",
-   "FIELD2": 1007
+   "FIELD1": "KUMAR",
+   "FIELD2": 2817
  },
  {
-   "FIELD1": "Agent8",
-   "FIELD2": 1008
+   "FIELD1": "ASLAM",
+   "FIELD2": 8715
  },
  {
-   "FIELD1": "Agent9",
-   "FIELD2": 1009
+   "FIELD1": "SINDHU",
+   "FIELD2": 7640
  },
  {
-   "FIELD1": "Agent10",
-   "FIELD2": 1010
+   "FIELD1": "RAMBABU",
+   "FIELD2": 6303
  },
  {
-   "FIELD1": "Agent11",
-   "FIELD2": 1011
+   "FIELD1": "LAXMANARAO",
+   "FIELD2": 5806
  },
  {
-   "FIELD1": "Agent12",
-   "FIELD2": 1012
+   "FIELD1": "SUNIL",
+   "FIELD2": 3629
  },
  {
-   "FIELD1": "Agent13",
-   "FIELD2": 1013
+   "FIELD1": "PSRK",
+   "FIELD2": 2045
  },
  {
-   "FIELD1": "Agent14",
-   "FIELD2": 1014
- },
- {
-   "FIELD1": "Agent15",
-   "FIELD2": 1015
- },
- {
-   "FIELD1": "Agent16",
-   "FIELD2": 1016
- },
- {
-   "FIELD1": "Agent17",
-   "FIELD2": 1017
- },
- {
-   "FIELD1": "Agent18",
-   "FIELD2": 1018
- },
- {
-   "FIELD1": "Agent19",
-   "FIELD2": 1019
- },
- {
-   "FIELD1": "Agent20",
-   "FIELD2": 1020
- },
- {
-   "FIELD1": "Agent21",
-   "FIELD2": 1021
- },
- {
-   "FIELD1": "Agent22",
-   "FIELD2": 1022
- },
- {
-   "FIELD1": "Agent23",
-   "FIELD2": 1023
- },
- {
-   "FIELD1": "Agent24",
-   "FIELD2": 1024
- },
- {
-   "FIELD1": "Agent25",
-   "FIELD2": 1025
- },
- {
-   "FIELD1": "Agent26",
-   "FIELD2": 1026
- },
- {
-   "FIELD1": "Agent27",
-   "FIELD2": 1027
- },
- {
-   "FIELD1": "Agent28",
-   "FIELD2": 1028
- },
- {
-   "FIELD1": "Agent29",
-   "FIELD2": 1029
- },
- {
-   "FIELD1": "Agent30",
-   "FIELD2": 1030
+   "FIELD1": "Gpay",
+   "FIELD2": 9999
  }
 ]
 
