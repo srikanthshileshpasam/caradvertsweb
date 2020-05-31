@@ -19119,7 +19119,6 @@ function customerSearch(){
     if (one=='0'){
         vcid = str.slice(1);
         vcid = parseInt(vcid);
-        console.log(vcid);
     }
 
 for (var x in cust_DB){
