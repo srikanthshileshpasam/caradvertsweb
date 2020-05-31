@@ -19178,7 +19178,6 @@ function customerSearch(){
 
   var vcid=document.getElementById('vc_no').value;
 
-
 for (var x in cust_DB){
   if (cust_DB[x]["VC NO"]==vcid){
   sms = cust_DB[x]["Sms ID"];
@@ -19192,7 +19191,7 @@ for (var x in cust_DB){
   due_date = cust_DB[x]["Due Date"];
   last_paid = cust_DB[x]["Last Paid Date"];
 
-  }
+  }    
 }
     if (customer==null){
         alert("Customer not found!");
