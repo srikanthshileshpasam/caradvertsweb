@@ -19178,6 +19178,13 @@ var customer, due_date, phone, sms, lco, status, area, card, cell, last_paid;
 function customerSearch(){
 
   var vcid=document.getElementById('vc_no').value;
+    var str = vcid.toString();
+    var one = str.charAt(0);
+    
+    if (one=='0'){
+        vcid = str.slice(1);
+        vcid = parseInt(vcid);
+    }
 
 
 for (var x in cust_DB){
