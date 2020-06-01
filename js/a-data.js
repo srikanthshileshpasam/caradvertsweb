@@ -19119,7 +19119,7 @@ function customerSearch(){
   var vcid=document.getElementById('vc_no').value;
     var str = vcid.toString();
     var one = str.charAt(0);
-    
+
     if (one=='0'){
         vcid = str.slice(1);
         vcid = parseInt(vcid);
@@ -19138,7 +19138,7 @@ for (var x in cust_DB){
   due_date = cust_DB[x]["Due Date"];
   last_paid = cust_DB[x]["Last Paid Date"];
 
-  }    
+  }
 }
     if (customer==null){
         alert("Customer not found!");
@@ -19222,7 +19222,7 @@ var $form = $('#data-entry'),
     url = 'https://script.google.com/macros/s/AKfycbxDvFe_GYIlzjMy6B2QBhvgjYOdOFVEE18L9YUI5vcHJAOy-uU/exec',
     mult_url = 'https://script.google.com/macros/s/AKfycbw_pxucjS1zkPhExh4FMdtPt1ZQOn-XmpNtJrhMpj7_q5lHif8/exec'
     var array = {'SMS ID':sms, 'VC No':vc, 'LCO ID':lco, 'Subscriber Name':customer, 'Status':status, 'Area':area, 'Card No':card, 'Name':customer, 'Cel1':phone, 'Cel2':cell, 'Due Date':due_date, 'Last Paid':last_paid, 'Remarks':rem, 'Receipt No':rec_no, 'Package':pkg, 'Amount':amt, 'Agent':agent, 'PIN':pwd, 'Months':months};
-    var mult_array = {'City Code':'DNG', 'SMS ID':sms, 'VC No':vc, 'LCO ID':lco, 'Subscriber Name':customer, 'Status':status, 'Area':area, 'Card No':card, 'Name':customer, 'Cel1':phone, 'Cel2':cell, 'Due Date':due_date, 'Last Paid':last_paid, 'Remarks':rem, 'Receipt No':rec_no, 'Package':pkg, 'Amount':amt, 'Agent':agent, 'PIN':pwd, 'Months':months};
+    var mult_array = {'City Code':'DMG', 'SMS ID':sms, 'VC No':vc, 'LCO ID':lco, 'Subscriber Name':customer, 'Status':status, 'Area':area, 'Card No':card, 'Name':customer, 'Cel1':phone, 'Cel2':cell, 'Due Date':due_date, 'Last Paid':last_paid, 'Remarks':rem, 'Receipt No':rec_no, 'Package':pkg, 'Amount':amt, 'Agent':agent, 'PIN':pwd, 'Months':months};
     console.log(array);
     console.log(mult_array);
 
