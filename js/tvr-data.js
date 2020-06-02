@@ -103738,8 +103738,8 @@ var cust_DB=[
 
 var agent_DB=[
  {
-   "FIELD1": "MAHESH-58101",
-   "FIELD2": 1010
+   "FIELD1": "Jayrao",
+   "FIELD2": 9160
  },
  {
    "FIELD1": "anjali",
@@ -103752,10 +103752,6 @@ var agent_DB=[
  {
    "FIELD1": "chillapally Venkateswarao",
    "FIELD2": 1013
- },
- {
-   "FIELD1": "CP Hanumanth Reddy",
-   "FIELD2": 1014
  },
  {
    "FIELD1": "CP rajabali 58064",
