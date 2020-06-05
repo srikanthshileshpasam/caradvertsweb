@@ -5,6 +5,17 @@ window.onload = function() {
 };
 
 var cust_DB=[
+  {
+    "Sms ID": "0",
+    "VC NO": "9999999999",
+    "LCO ID": 0,
+    "CARD NO": "",
+    "NAME": "Spare / Migrate Box",
+    "VILLAGE": "",
+    "Cel 1": "",
+    "Due Date": "",
+    "Status": "Spare"
+  },
  {
    "Sms ID": "13484471",
    "VC NO": "1769419865",
@@ -19049,6 +19060,10 @@ var cust_DB=[
 ]
 
 var agent_DB=[
+  {
+    "FIELD1": "Ranjith",
+    "FIELD2": 8080
+  },
  {
    "FIELD1": "VAMSHI",
    "FIELD2": 6753
