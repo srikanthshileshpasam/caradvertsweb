@@ -22414,7 +22414,7 @@ for (var x in cust_DB){
   card = cust_DB[x]["Card No"];
   phone = cust_DB[x]["Cel 1"];
   cell = cust_DB[x]["Cel 2"];
-  due_date = cust_DB[x]["Feb Due Date"];
+  due_date = cust_DB[x]["Due Date"];
   last_paid = cust_DB[x]["Last Paid Date"];
   }
 }
