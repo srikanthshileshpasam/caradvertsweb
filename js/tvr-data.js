@@ -103738,6 +103738,10 @@ var cust_DB=[
 
 var agent_DB=[
  {
+    "FIELD1": "G Koteswara Rao",
+    "FIELD2": 4230
+  },
+ {
    "FIELD1": "Jayrao",
    "FIELD2": 9160
  },
