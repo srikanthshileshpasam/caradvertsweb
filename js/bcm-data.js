@@ -5,6 +5,18 @@ window.onload = function() {
 };
 
 var cust_DB=[
+  {
+    "SMS ID": 0,
+    "VC No": 9999999999,
+    "LCO ID": 42095,
+    "Subscriber Name": "Spare / Migrate Box",
+    "Card No": "60",
+    "Name": "Spare / Migrate Box",
+    "Area": "",
+    "Cel 1": "",
+    "Status": "",
+    "Due Date": ""
+  },
  {
    "SMS ID": 11906159,
    "VC No": 1767412709,
