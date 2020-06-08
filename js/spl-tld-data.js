@@ -6,9 +6,9 @@ window.onload = function() {
 
 var cust_DB=[
  {
-   "Sms ID": 0,
+   "Sms ID": 99,
    "VC No": "9999999999",
-   "LCO ID": 0,
+   "LCO ID": 99999,
    "Card No": " ",
    "Subscriber Name": "Spare / Migrate Box",
    "Name": "Spare / Migrate Box",
