@@ -6,7 +6,7 @@ window.onload = function() {
 
 var cust_DB=[
   {
-    "SMS ID": 0,
+    "SMS ID": 99,
     "VC No": 9999999999,
     "LCO ID": 42095,
     "Subscriber Name": "Spare / Migrate Box",
