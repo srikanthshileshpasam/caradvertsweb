@@ -5,6 +5,19 @@ window.onload = function() {
 };
 
 var cust_DB=[
+  {
+    "SMS ID": 99,
+    "VC No": "9999999999",
+    "LCO ID": 9999,
+    "Subscriber Name": "SPARE / Migrate Box",
+    "Area": "RRBR",
+    "Card No": "26",
+    "Name": "SPARE / Migrate Box",
+    "Cel 1": "0",
+    "Cel2": "",
+    "Due Date": "0",
+    "Status": "0"
+  },
  {
    "SMS ID": 11220966,
    "VC No": "01766459027",
@@ -24,7 +37,7 @@ var cust_DB=[
    "LCO ID": 32723,
    "Subscriber Name": "KNVA BAF CHANDRAPALKA RAVIBABU",
    "Area": "KNVL",
-   "Card No": "216",
+   "Card No":"216",
    "Name": "KNVL BAF CHANDRAPALKA RAVIBABU",
    "Cel 1": "9704079251",
    "Cel2": "",
