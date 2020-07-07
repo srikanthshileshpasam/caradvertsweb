@@ -5,20 +5,20 @@ window.onload = function() {
 };
 
 var cust_DB=[
-  {
-    "Sms ID": 0,
-    "VC No": 9999999999,
-    "LCO ID": 0,
-    "Subscriber Name": "Spare/Migrate Box",
-    "Card No": "999",
-    "Name": "Spare/Migrate Box",
-    "D No": "",
-    "Area": "",
-    "Cel No": "",
-    "OpeName": "",
-    "Due Date": "",
-    "Status": ""
-  },
+ {
+   "Sms ID": null,
+   "VC No": 9999999999,
+   "LCO ID": 99999,
+   "Subscriber Name": "Spare/Migrate Box",
+   "Card No": "",
+   "Name": "Spare/Migrate Box",
+   "D No": "",
+   "Area": "",
+   "Cel No": "",
+   "OpeName": "",
+   "Due Date": "",
+   "Status": ""
+ },
  {
    "Sms ID": 21954785,
    "VC No": 2520768146,
@@ -30,8 +30,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9440665888",
    "OpeName": "BVSR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21954904,
@@ -44,8 +44,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9966470350",
    "OpeName": "BVSR",
-   "Due Date": "29-Jun-20",
-   "Status": "active"
+   "Due Date": "30-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21956095,
@@ -86,8 +86,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9603608587",
    "OpeName": "BVSR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21956253,
@@ -100,7 +100,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9573461806",
    "OpeName": "BVSR",
-   "Due Date": "29-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -114,7 +114,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8008472052",
    "OpeName": "BVR",
-   "Due Date": "24-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -128,8 +128,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9440409083",
    "OpeName": "BVR",
-   "Due Date": "29-Jun-20",
-   "Status": "active"
+   "Due Date": "#N/A",
+   "Status": "#N/A"
  },
  {
    "Sms ID": 21956869,
@@ -142,7 +142,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "7702297636",
    "OpeName": "BVR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -156,7 +156,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "7995794707",
    "OpeName": "BVSR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -167,10 +167,10 @@ var cust_DB=[
    "Card No": "1284",
    "Name": "GAMPALA SWARNALATHA",
    "D No": "45901",
-   "Area": "MEDICAL COLONY",
+   "Area": "",
    "Cel No": "9573596274",
    "OpeName": "BVSR",
-   "Due Date": "29-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -184,7 +184,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9848363681",
    "OpeName": "BVSR",
-   "Due Date": "29-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -198,8 +198,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9951005644",
    "OpeName": "BVSR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21958732,
@@ -212,7 +212,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9866207015",
    "OpeName": "BVSR",
-   "Due Date": "30-Jun-20",
+   "Due Date": "30-Jul-20",
    "Status": "active"
  },
  {
@@ -226,7 +226,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9866207015",
    "OpeName": "BVSR",
-   "Due Date": "30-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -240,7 +240,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9966452752",
    "OpeName": "BVSR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -254,7 +254,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9573805509",
    "OpeName": "BVR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -268,7 +268,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9849230998",
    "OpeName": "BVSR",
-   "Due Date": "29-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -282,7 +282,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9705984865",
    "OpeName": "BVR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -296,7 +296,7 @@ var cust_DB=[
    "Area": "GANDHI NAGAR",
    "Cel No": "9701492890",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -310,7 +310,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9866299985",
    "OpeName": "PULI",
-   "Due Date": "20-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -320,11 +320,11 @@ var cust_DB=[
    "Subscriber Name": "Rammohanarao",
    "Card No": "5859",
    "Name": "R MANGATHAYARU",
-   "D No": "6-38",
+   "D No": "Jun-38",
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9581954483",
    "OpeName": "PULI",
-   "Due Date": "10-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -338,8 +338,8 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9491913053",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21980234,
@@ -350,9 +350,9 @@ var cust_DB=[
    "Name": "KARRI GOWRI",
    "D No": "9-4-45/DA/92",
    "Area": "RAJEEV NAGAR COLONY",
-   "Cel No": "8374165702",
+   "Cel No": "8790221048",
    "OpeName": "BVSR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -366,7 +366,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9100569113",
    "OpeName": "PULI",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -380,8 +380,8 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9959589867",
    "OpeName": "PULI",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21980598,
@@ -394,7 +394,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9676866812",
    "OpeName": "PULI",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -408,7 +408,7 @@ var cust_DB=[
    "Area": "SRI RAMNAGAR COLONY",
    "Cel No": "9912086029",
    "OpeName": "PULI",
-   "Due Date": "7-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -422,8 +422,8 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9704527536",
    "OpeName": "PULI",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "1-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21996503,
@@ -436,7 +436,7 @@ var cust_DB=[
    "Area": "RAJEEVNAGR COLONY",
    "Cel No": "7331139142",
    "OpeName": "BVSR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -450,7 +450,7 @@ var cust_DB=[
    "Area": "",
    "Cel No": "",
    "OpeName": "",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -464,8 +464,8 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "#N/A",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "30-May-20",
-   "Status": "Inactive"
+   "Due Date": "1-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21997109,
@@ -478,7 +478,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "0",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -492,7 +492,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "7993992396",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "29-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -506,7 +506,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "7993247218",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "29-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -520,8 +520,8 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9550100203",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "31-May-20",
-   "Status": "Inactive"
+   "Due Date": "16-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21997224,
@@ -534,7 +534,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "6281572184",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "29-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -548,8 +548,8 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9177759874",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "2-Jan-20",
-   "Status": "Inactive"
+   "Due Date": "22-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21997333,
@@ -562,8 +562,8 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9652930152",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "28-Jun-20",
-   "Status": "active"
+   "Due Date": "29-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21999686,
@@ -576,8 +576,8 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "7337596746",
    "OpeName": "BVSR",
-   "Due Date": "29-Jun-20",
-   "Status": "active"
+   "Due Date": "30-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 22050656,
@@ -590,7 +590,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9676732671",
    "OpeName": "BVR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -604,7 +604,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9642101106",
    "OpeName": "BVR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -618,8 +618,8 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "8500336732",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21965226,
@@ -632,7 +632,7 @@ var cust_DB=[
    "Area": "A S R COLONY",
    "Cel No": "9963118147",
    "OpeName": "BVR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -646,7 +646,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9701625482",
    "OpeName": "BVR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -660,7 +660,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "7702135898",
    "OpeName": "BVR",
-   "Due Date": "29-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -674,7 +674,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9951307162",
    "OpeName": "BVR",
-   "Due Date": "19-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -688,7 +688,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9177281775",
    "OpeName": "BVR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -716,8 +716,8 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "7032160477",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
-   "Status": "active"
+   "Due Date": "4-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21966211,
@@ -730,8 +730,8 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "8790705503",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21966260,
@@ -744,7 +744,7 @@ var cust_DB=[
    "Area": "GANDHI NAGAR",
    "Cel No": "9573193475",
    "OpeName": "BVR",
-   "Due Date": "19-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -758,7 +758,7 @@ var cust_DB=[
    "Area": "riksha colony",
    "Cel No": "9966828345",
    "OpeName": "BVR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -786,8 +786,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "7036566720",
    "OpeName": "BVSR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21966939,
@@ -800,8 +800,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9989747167",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21967070,
@@ -814,7 +814,7 @@ var cust_DB=[
    "Area": "JAGADEESH COLONY",
    "Cel No": "9502074467",
    "OpeName": "BVR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -828,7 +828,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9550157500",
    "OpeName": "BVSR",
-   "Due Date": "29-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -842,7 +842,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9603925977",
    "OpeName": "BVR",
-   "Due Date": "19-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -856,7 +856,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9573461275",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -870,8 +870,8 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "7287028153",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "1-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21967459,
@@ -884,8 +884,8 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9866106583",
    "OpeName": "BVSR",
-   "Due Date": "31-May-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21967594,
@@ -898,7 +898,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9553800932",
    "OpeName": "BVSR",
-   "Due Date": "30-Jun-20",
+   "Due Date": "30-Jul-20",
    "Status": "active"
  },
  {
@@ -912,8 +912,8 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9866863548",
    "OpeName": "BVSR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21978967,
@@ -926,7 +926,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "8978241516",
    "OpeName": "PULI",
-   "Due Date": "1-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -940,8 +940,8 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9248456179",
    "OpeName": "PULI",
-   "Due Date": "29-Jun-20",
-   "Status": "active"
+   "Due Date": "#N/A",
+   "Status": "#N/A"
  },
  {
    "Sms ID": 21978987,
@@ -954,8 +954,8 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9908308113",
    "OpeName": "PULI",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "1-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21979050,
@@ -968,8 +968,8 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9912767941",
    "OpeName": "PULI",
-   "Due Date": "31-May-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21979229,
@@ -982,8 +982,8 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "8374299062",
    "OpeName": "PULI",
-   "Due Date": "29-Jun-20",
-   "Status": "active"
+   "Due Date": "30-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21979456,
@@ -996,8 +996,8 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9948260391",
    "OpeName": "PULI",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21979496,
@@ -1010,7 +1010,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "8297548551",
    "OpeName": "PULI",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -1024,7 +1024,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "6305401192",
    "OpeName": "PULI",
-   "Due Date": "1-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -1038,7 +1038,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "7680879935",
    "OpeName": "PULI",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -1052,7 +1052,7 @@ var cust_DB=[
    "Area": "ADHARSH NAGAR COLONY",
    "Cel No": "9177017581",
    "OpeName": "PULI",
-   "Due Date": "20-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -1066,7 +1066,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9959140586",
    "OpeName": "BVSR",
-   "Due Date": "29-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -1080,7 +1080,7 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "9493333724",
    "OpeName": "BVR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -1094,8 +1094,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9381125019",
    "OpeName": "BVR",
-   "Due Date": "5-Apr-20",
-   "Status": "Inactive"
+   "Due Date": "21-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21954878,
@@ -1108,7 +1108,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9505140003",
    "OpeName": "BVSR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -1122,7 +1122,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9490517299",
    "OpeName": "BVSR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "31-Jul-20",
    "Status": "active"
  },
  {
@@ -1150,8 +1150,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "28-Jun-20",
-   "Status": "active"
+   "Due Date": "25-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21955795,
@@ -1164,7 +1164,7 @@ var cust_DB=[
    "Area": "YSR NAGAR",
    "Cel No": "7893778987",
    "OpeName": "BVR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -1178,8 +1178,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8897358399",
    "OpeName": "BVSR",
-   "Due Date": "16-Jun-20",
-   "Status": "active"
+   "Due Date": "17-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21956222,
@@ -1192,7 +1192,7 @@ var cust_DB=[
    "Area": "LF SCHOOL BACK SIDE",
    "Cel No": "9959264164",
    "OpeName": "BVSR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -1206,8 +1206,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "7702779734",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21956379,
@@ -1220,7 +1220,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9550212619",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -1234,7 +1234,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9010503367",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -1248,7 +1248,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9100160188",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -1262,7 +1262,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "7702782344",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -1276,7 +1276,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9494318391",
    "OpeName": "BVSR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -1290,7 +1290,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9949252964",
    "OpeName": "BVSR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -1300,12 +1300,12 @@ var cust_DB=[
    "Subscriber Name": "Rammohanarao",
    "Card No": "1230",
    "Name": "REPAKA RAMBABU",
-   "D No": "9 144/1",
+   "D No": "153",
    "Area": "MEDICAL COLONY",
    "Cel No": "9290192020",
    "OpeName": "BVSR",
-   "Due Date": "29-Jun-20",
-   "Status": "active"
+   "Due Date": "30-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21958810,
@@ -1318,7 +1318,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8686074743",
    "OpeName": "BVSR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -1332,8 +1332,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9848362911",
    "OpeName": "BVSR",
-   "Due Date": "29-Jun-20",
-   "Status": "active"
+   "Due Date": "30-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21960197,
@@ -1346,7 +1346,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9866469066",
    "OpeName": "BVSR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "31-Jul-20",
    "Status": "active"
  },
  {
@@ -1360,7 +1360,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9550387768",
    "OpeName": "BVSR",
-   "Due Date": "29-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -1374,7 +1374,7 @@ var cust_DB=[
    "Area": "YSR NAGAR",
    "Cel No": "9848461501",
    "OpeName": "BVR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -1388,7 +1388,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9701414968",
    "OpeName": "BVSR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -1402,7 +1402,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9502808221",
    "OpeName": "BVSR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -1416,7 +1416,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9441501815",
    "OpeName": "BVSR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -1430,7 +1430,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9849858456",
    "OpeName": "BVR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -1444,8 +1444,8 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9949946898",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21979085,
@@ -1458,7 +1458,7 @@ var cust_DB=[
    "Area": "VANABOTHULA CHERUVU",
    "Cel No": "7780472939",
    "OpeName": "BVSR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -1472,7 +1472,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9676896770",
    "OpeName": "PULI",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -1486,7 +1486,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9010321382",
    "OpeName": "PULI",
-   "Due Date": "1-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -1500,8 +1500,8 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "8185964523",
    "OpeName": "PULI",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21980488,
@@ -1512,10 +1512,10 @@ var cust_DB=[
    "Name": "R MANGA",
    "D No": "74",
    "Area": "SRIRAMNAGAR COLONY",
-   "Cel No": "8331990346",
+   "Cel No": "7989078167",
    "OpeName": "PULI",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21980924,
@@ -1528,7 +1528,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9573449743",
    "OpeName": "BVSR",
-   "Due Date": "30-Jun-20",
+   "Due Date": "30-Jul-20",
    "Status": "active"
  },
  {
@@ -1556,7 +1556,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9493056673",
    "OpeName": "BVSR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -1584,7 +1584,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9440320966",
    "OpeName": "BVSR",
-   "Due Date": "24-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -1598,7 +1598,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "7981316131",
    "OpeName": "BVR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -1612,7 +1612,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "7601043266",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -1626,7 +1626,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9948165078",
    "OpeName": "BVSR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -1640,7 +1640,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "8092462612",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -1654,8 +1654,8 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "8096053012",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21999779,
@@ -1696,7 +1696,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8464988840",
    "OpeName": "BVSR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -1710,7 +1710,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "788843118",
    "OpeName": "BVR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -1724,7 +1724,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9492770632",
    "OpeName": "BVR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -1738,7 +1738,7 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "8897652336",
    "OpeName": "BVR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -1794,7 +1794,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9618213871",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -1808,7 +1808,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8897022234",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -1822,8 +1822,8 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9949546731",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21966651,
@@ -1836,7 +1836,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9493379444",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -1850,7 +1850,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9640455190",
    "OpeName": "BVR",
-   "Due Date": "24-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -1864,8 +1864,8 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "8297648310",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21966749,
@@ -1878,7 +1878,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9618112096",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -1892,7 +1892,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9440144482",
    "OpeName": "BVSR",
-   "Due Date": "25-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -1906,7 +1906,7 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "9908662511",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -1920,7 +1920,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9642281115",
    "OpeName": "BVSR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -1934,7 +1934,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9676767344",
    "OpeName": "BVR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -1948,7 +1948,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9493047496",
    "OpeName": "PULI",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -1962,7 +1962,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9701270703",
    "OpeName": "PULI",
-   "Due Date": "10-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -1990,7 +1990,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "7702148790",
    "OpeName": "PULI",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -2004,7 +2004,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "8106606462",
    "OpeName": "PULI",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -2032,7 +2032,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "7093521156",
    "OpeName": "BVSR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -2046,7 +2046,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9177166138",
    "OpeName": "PULI",
-   "Due Date": "1-Jun-20",
+   "Due Date": "30-Jun-20",
    "Status": "active"
  },
  {
@@ -2060,8 +2060,8 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "7732077580",
    "OpeName": "PULI",
-   "Due Date": "14-May-20",
-   "Status": "Inactive"
+   "Due Date": "1-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21954884,
@@ -2074,8 +2074,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9701833439",
    "OpeName": "BVR",
-   "Due Date": "21-Jun-20",
-   "Status": "active"
+   "Due Date": "22-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21954939,
@@ -2088,7 +2088,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9848636383",
    "OpeName": "BVSR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -2102,7 +2102,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8179795319",
    "OpeName": "BVR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -2116,7 +2116,7 @@ var cust_DB=[
    "Area": "SANTHI NAGAR",
    "Cel No": "9393926216",
    "OpeName": "BVSR",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -2130,7 +2130,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9110379145",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -2156,9 +2156,9 @@ var cust_DB=[
    "Name": "U SEETHA",
    "D No": "0",
    "Area": "JAGADESH COLONY",
-   "Cel No": "9110379145",
+   "Cel No": "9398030425",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "30-Jun-20",
    "Status": "active"
  },
  {
@@ -2172,7 +2172,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9989405681",
    "OpeName": "BVR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -2186,7 +2186,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9963148577",
    "OpeName": "BVR",
-   "Due Date": "1-Jul-20",
+   "Due Date": "31-Jul-20",
    "Status": "active"
  },
  {
@@ -2200,7 +2200,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9393343335",
    "OpeName": "BVSR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -2214,7 +2214,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9502919443",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -2242,8 +2242,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9440458754",
    "OpeName": "BVSR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21956230,
@@ -2256,7 +2256,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "7680996885",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -2270,8 +2270,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8106561701",
    "OpeName": "BVR",
-   "Due Date": "20-May-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21956833,
@@ -2284,7 +2284,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9848988146",
    "OpeName": "BVR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -2298,8 +2298,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9666798645",
    "OpeName": "BVR",
-   "Due Date": "27-Jun-20",
-   "Status": "active"
+   "Due Date": "28-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21958717,
@@ -2312,7 +2312,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9177422624",
    "OpeName": "BVSR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -2326,7 +2326,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8309130946",
    "OpeName": "BVSR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -2340,7 +2340,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9849450918",
    "OpeName": "BVSR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "1-Aug-20",
    "Status": "active"
  },
  {
@@ -2354,7 +2354,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9440509284",
    "OpeName": "BVSR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -2368,7 +2368,7 @@ var cust_DB=[
    "Area": "ADHARSH NAGAR COLONY",
    "Cel No": "9966850907",
    "OpeName": "PULI",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -2382,8 +2382,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9392119297",
    "OpeName": "BVR",
-   "Due Date": "17-May-20",
-   "Status": "Inactive"
+   "Due Date": "6-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21961194,
@@ -2396,7 +2396,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9666092623",
    "OpeName": "BVSR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -2410,7 +2410,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9849668254",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -2424,7 +2424,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8106737225",
    "OpeName": "BVR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -2438,7 +2438,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "7036535064",
    "OpeName": "BVR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -2452,7 +2452,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9908349822",
    "OpeName": "BVR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -2466,7 +2466,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9963575900",
    "OpeName": "BVR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -2494,7 +2494,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9553154255",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -2508,7 +2508,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9550999102",
    "OpeName": "BVR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -2522,7 +2522,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "8106598420",
    "OpeName": "PULI",
-   "Due Date": "13-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -2536,7 +2536,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "8639033883",
    "OpeName": "PULI",
-   "Due Date": "1-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -2550,7 +2550,7 @@ var cust_DB=[
    "Area": "RAJEEVNAGAR COLONY",
    "Cel No": "9948700413",
    "OpeName": "BVSR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -2560,11 +2560,11 @@ var cust_DB=[
    "Subscriber Name": "Rammohana Rao",
    "Card No": "5953",
    "Name": "S MAREMMA",
-   "D No": "7-64",
+   "D No": "Jul-64",
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9701482993",
    "OpeName": "PULI",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -2578,7 +2578,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9948532605",
    "OpeName": "BVSR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -2592,7 +2592,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "6302791082",
    "OpeName": "BVSR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -2606,7 +2606,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9640334519",
    "OpeName": "BVSR",
-   "Due Date": "30-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -2620,7 +2620,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8498839405",
    "OpeName": "BVSR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -2634,7 +2634,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9000128438",
    "OpeName": "BVR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -2648,7 +2648,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9182613680",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -2662,7 +2662,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9885339357",
    "OpeName": "BVR",
-   "Due Date": "26-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -2676,7 +2676,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9705661028",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "3-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -2690,7 +2690,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9908399196",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "1-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -2704,7 +2704,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9949814197",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "1-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -2718,7 +2718,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9177024825",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -2732,7 +2732,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9866353225",
    "OpeName": "BVSR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -2746,7 +2746,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9502172581",
    "OpeName": "BVSR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -2760,8 +2760,8 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "7673991826",
    "OpeName": "PULI",
-   "Due Date": "3-Jun-20",
-   "Status": "active"
+   "Due Date": "4-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 22197548,
@@ -2774,7 +2774,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "7396378555",
    "OpeName": "BVSR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -2788,7 +2788,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "7093105224",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -2802,7 +2802,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9290505776",
    "OpeName": "BVR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -2816,8 +2816,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9515213397",
    "OpeName": "BVR",
-   "Due Date": "20-Jun-20",
-   "Status": "active"
+   "Due Date": "16-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21965627,
@@ -2830,8 +2830,8 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9989605633",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21966126,
@@ -2858,7 +2858,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9493808104",
    "OpeName": "BVSR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -2872,7 +2872,7 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -2886,7 +2886,7 @@ var cust_DB=[
    "Area": "GANDHI NAGAR",
    "Cel No": "9704177057",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -2895,12 +2895,12 @@ var cust_DB=[
    "LCO ID": 38520,
    "Subscriber Name": "P Sai Babu",
    "Card No": "0",
-   "Name": "R PRASAD",
+   "Name": "G CHADRA SHAKER",
    "D No": "19-2-27/4",
-   "Area": "JAGADESH COLONY",
-   "Cel No": "9177090522",
+   "Area": "JAGADEESH COLONY",
+   "Cel No": "9603096977",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "31-Jul-20",
    "Status": "active"
  },
  {
@@ -2914,7 +2914,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9666781311",
    "OpeName": "BVR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -2928,7 +2928,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9963308771",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -2942,7 +2942,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9515545205",
    "OpeName": "BVSR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -2956,7 +2956,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "8897755754",
    "OpeName": "BVSR",
-   "Due Date": "26-Jun-20",
+   "Due Date": "25-Aug-20",
    "Status": "active"
  },
  {
@@ -2970,7 +2970,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9949429088",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -2984,7 +2984,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9290533674",
    "OpeName": "BVR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -2998,8 +2998,8 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9550194624",
    "OpeName": "BVR",
-   "Due Date": "22-May-20",
-   "Status": "Inactive"
+   "Due Date": "2-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21967708,
@@ -3012,7 +3012,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9848636262",
    "OpeName": "BVSR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -3026,7 +3026,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9705841894",
    "OpeName": "PULI",
-   "Due Date": "8-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -3040,7 +3040,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "8367512789",
    "OpeName": "PULI",
-   "Due Date": "1-Jun-20",
+   "Due Date": "31-Jul-20",
    "Status": "active"
  },
  {
@@ -3054,7 +3054,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9397041108",
    "OpeName": "BVR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -3068,7 +3068,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "0",
    "OpeName": "PULI",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -3082,7 +3082,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "7702885123",
    "OpeName": "PULI",
-   "Due Date": "16-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -3096,8 +3096,8 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9866388246",
    "OpeName": "BVSR",
-   "Due Date": "2-Jun-20",
-   "Status": "active"
+   "Due Date": "3-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21980357,
@@ -3110,7 +3110,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9394211999",
    "OpeName": "BVSR",
-   "Due Date": "29-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -3124,7 +3124,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9989277411",
    "OpeName": "BVSR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -3133,13 +3133,13 @@ var cust_DB=[
    "LCO ID": 38520,
    "Subscriber Name": "P Sai Babu",
    "Card No": "0",
-   "Name": "NAGULA NAGARATNAM",
+   "Name": "SURAJ",
    "D No": "19 5 7",
    "Area": "MP COLONY",
    "Cel No": "9100856984",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21980801,
@@ -3152,7 +3152,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9676337994",
    "OpeName": "BVSR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -3166,7 +3166,7 @@ var cust_DB=[
    "Area": "TSRJC",
    "Cel No": "9440727608",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -3180,7 +3180,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9177341646",
    "OpeName": "BVSR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -3194,8 +3194,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9492273518",
    "OpeName": "BVR",
-   "Due Date": "16-Jun-20",
-   "Status": "active"
+   "Due Date": "17-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21954705,
@@ -3208,7 +3208,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "7286049568",
    "OpeName": "BVR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -3222,8 +3222,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8499888283",
    "OpeName": "BVSR",
-   "Due Date": "2-Jun-20",
-   "Status": "active"
+   "Due Date": "#N/A",
+   "Status": "#N/A"
  },
  {
    "Sms ID": 21954836,
@@ -3236,7 +3236,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9989082746",
    "OpeName": "BVSR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -3250,7 +3250,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8374904661",
    "OpeName": "BVSR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -3264,7 +3264,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9704159625",
    "OpeName": "BVR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -3278,7 +3278,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9059896922",
    "OpeName": "BVR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -3292,7 +3292,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8008773765",
    "OpeName": "BVR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -3304,9 +3304,9 @@ var cust_DB=[
    "Name": "PULIGUJJULA Vasantha Ro",
    "D No": "9-1-94/7",
    "Area": "MEDICAL COLONY",
-   "Cel No": "8309111255",
+   "Cel No": "9502425845",
    "OpeName": "BVSR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -3320,7 +3320,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9014819889",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -3334,7 +3334,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9652628839",
    "OpeName": "BVR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -3348,7 +3348,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9705317844",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -3362,7 +3362,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9000851800",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -3376,7 +3376,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "7893829883",
    "OpeName": "BVR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -3404,7 +3404,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9908477276",
    "OpeName": "BVSR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "1-Aug-20",
    "Status": "active"
  },
  {
@@ -3418,7 +3418,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9908477276",
    "OpeName": "BVSR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "30-Jul-20",
    "Status": "active"
  },
  {
@@ -3432,7 +3432,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "0",
    "OpeName": "BVSR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -3446,8 +3446,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9014821789",
    "OpeName": "BVSR",
-   "Due Date": "9-Jun-20",
-   "Status": "active"
+   "Due Date": "10-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21960182,
@@ -3460,8 +3460,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9177236127",
    "OpeName": "BVSR",
-   "Due Date": "6-Jun-20",
-   "Status": "active"
+   "Due Date": "7-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21960183,
@@ -3474,8 +3474,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9948794793",
    "OpeName": "BVSR",
-   "Due Date": "29-Jun-20",
-   "Status": "active"
+   "Due Date": "30-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21960577,
@@ -3488,7 +3488,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9398077521",
    "OpeName": "BVSR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -3502,7 +3502,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "6301012658",
    "OpeName": "BVR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -3516,7 +3516,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9949940244",
    "OpeName": "BVR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -3530,7 +3530,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9573542876",
    "OpeName": "BVSR",
-   "Due Date": "24-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -3544,7 +3544,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9133648871",
    "OpeName": "BVR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -3558,7 +3558,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9849485390",
    "OpeName": "BVR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -3572,7 +3572,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9849798654",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -3586,7 +3586,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9704776709",
    "OpeName": "BVSR",
-   "Due Date": "29-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -3600,7 +3600,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "8978440769",
    "OpeName": "BVR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -3628,7 +3628,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "8106598420",
    "OpeName": "PULI",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -3642,7 +3642,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "8008485337",
    "OpeName": "PULI",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -3656,7 +3656,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9603535877",
    "OpeName": "PULI",
-   "Due Date": "14-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -3670,7 +3670,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "8179355761",
    "OpeName": "PULI",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -3680,11 +3680,11 @@ var cust_DB=[
    "Subscriber Name": "Rammohana Rao",
    "Card No": "5943",
    "Name": "K SATYAVENI",
-   "D No": "1-281",
-   "Area": "SRIRAMNAGAR COLONY",
+   "D No": "1-281.",
+   "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9866744704",
-   "OpeName": "PULI",
-   "Due Date": "26-Jun-20",
+   "OpeName": "BVSR",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -3694,11 +3694,11 @@ var cust_DB=[
    "Subscriber Name": "Rammohanarao",
    "Card No": "5812",
    "Name": "M VENKATESHAM",
-   "D No": "1/75",
+   "D No": "Jan-75",
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "7893396643",
    "OpeName": "PULI",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -3712,7 +3712,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "850047151",
    "OpeName": "PULI",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -3726,7 +3726,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "6301940146",
    "OpeName": "PULI",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -3740,7 +3740,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9573201937",
    "OpeName": "BVSR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -3754,7 +3754,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9492548316",
    "OpeName": "BVSR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -3768,7 +3768,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9985009236",
    "OpeName": "BVSR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -3782,7 +3782,7 @@ var cust_DB=[
    "Area": "VANABOTHULA CHERUVU",
    "Cel No": "7893682440",
    "OpeName": "BVSR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -3796,7 +3796,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9701667516",
    "OpeName": "BVSR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -3810,7 +3810,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9010783488",
    "OpeName": "BVR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -3824,7 +3824,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9441647320",
    "OpeName": "BVR",
-   "Due Date": "29-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -3838,8 +3838,8 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9248356486",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21997103,
@@ -3852,7 +3852,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "8501948039",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "7-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -3866,7 +3866,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9581357091",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -3880,7 +3880,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "8096188328",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "17-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -3894,7 +3894,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9100268342",
    "OpeName": "BVSR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -3908,7 +3908,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9121361942",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -3922,7 +3922,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "7989810073",
    "OpeName": "BVR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -3936,7 +3936,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "",
    "OpeName": "BVSR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -3950,7 +3950,7 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "9852330240",
    "OpeName": "BVR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -3964,7 +3964,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9666889333",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -3978,8 +3978,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "6034679287",
    "OpeName": "BVR",
-   "Due Date": "2-Jun-20",
-   "Status": "active"
+   "Due Date": "25-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21966298,
@@ -3992,7 +3992,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "8978390885",
    "OpeName": "BVR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -4006,7 +4006,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "7893011204",
    "OpeName": "BVR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -4020,8 +4020,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "29-Jun-20",
-   "Status": "active"
+   "Due Date": "30-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21966903,
@@ -4034,7 +4034,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9440708163",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -4048,7 +4048,7 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "9949681064",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -4062,7 +4062,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -4076,7 +4076,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9948651083",
    "OpeName": "BVSR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -4090,7 +4090,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "8978061077",
    "OpeName": "PULI",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -4104,7 +4104,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "6301550387",
    "OpeName": "PULI",
-   "Due Date": "6-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -4118,7 +4118,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9642300579",
    "OpeName": "PULI",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -4132,7 +4132,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9640399455",
    "OpeName": "PULI",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -4160,7 +4160,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9701650911",
    "OpeName": "PULI",
-   "Due Date": "23-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -4174,7 +4174,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9100856936",
    "OpeName": "PULI",
-   "Due Date": "4-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -4188,7 +4188,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9000356042",
    "OpeName": "PULI",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -4202,7 +4202,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "7981688424",
    "OpeName": "BVSR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -4216,7 +4216,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9492957949",
    "OpeName": "BVSR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -4230,7 +4230,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8106333556",
    "OpeName": "BVSR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -4244,7 +4244,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "8106793169",
    "OpeName": "BVSR",
-   "Due Date": "30-Jun-20",
+   "Due Date": "28-Dec-20",
    "Status": "active"
  },
  {
@@ -4258,7 +4258,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9848370029",
    "OpeName": "BVSR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -4272,7 +4272,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9553407526",
    "OpeName": "BVSR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -4314,7 +4314,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9505453688",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -4328,7 +4328,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9948058458",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -4342,7 +4342,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "6302706636",
    "OpeName": "BVSR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -4356,7 +4356,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "7036749566",
    "OpeName": "BVSR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -4370,7 +4370,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9642306200",
    "OpeName": "BVR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -4384,7 +4384,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9032399086",
    "OpeName": "BVSR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -4398,7 +4398,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9652250969",
    "OpeName": "BVSR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -4412,7 +4412,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "7780769726",
    "OpeName": "BVSR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -4426,7 +4426,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9573088564",
    "OpeName": "BVR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -4440,7 +4440,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9494323156",
    "OpeName": "BVSR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -4454,7 +4454,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "7382664072",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -4468,7 +4468,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9704449341",
    "OpeName": "BVR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -4482,7 +4482,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9652983457",
    "OpeName": "BVSR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -4496,7 +4496,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "0",
    "OpeName": "PULI",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -4510,7 +4510,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9848664951",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -4524,7 +4524,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9177040669",
    "OpeName": "BVSR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -4552,7 +4552,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9177584931",
    "OpeName": "PULI",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -4562,11 +4562,11 @@ var cust_DB=[
    "Subscriber Name": "Rammohana Rao",
    "Card No": "5955",
    "Name": "M TRIMURTHULU",
-   "D No": "7-67",
+   "D No": "Jul-67",
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9553116461",
    "OpeName": "PULI",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -4576,11 +4576,11 @@ var cust_DB=[
    "Subscriber Name": "Rammohana Rao",
    "Card No": "5950",
    "Name": "D CHANDRAIAH",
-   "D No": "7-60",
+   "D No": "Jul-60",
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9052444673",
    "OpeName": "PULI",
-   "Due Date": "5-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -4594,7 +4594,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "8019612356",
    "OpeName": "BVR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -4608,7 +4608,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9951203517",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "3-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -4622,7 +4622,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "8106092192",
    "OpeName": "BVSR",
-   "Due Date": "26-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -4636,7 +4636,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9959616791",
    "OpeName": "BVSR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -4650,7 +4650,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "0",
    "OpeName": "PULI",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -4659,13 +4659,13 @@ var cust_DB=[
    "LCO ID": 38520,
    "Subscriber Name": "Rammohanarao",
    "Card No": "2643",
-   "Name": "M MAHESH",
+   "Name": "RAMU",
    "D No": "18-2-193/3",
-   "Area": "ASR COLONY",
-   "Cel No": "6300983711",
-   "OpeName": "BVR",
-   "Due Date": "22-May-20",
-   "Status": "Inactive"
+   "Area": "SRIRAMNAGAR COLONY",
+   "Cel No": "9014515965",
+   "OpeName": "PULI",
+   "Due Date": "13-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21965424,
@@ -4678,8 +4678,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9707476678",
    "OpeName": "BVR",
-   "Due Date": "5-Apr-20",
-   "Status": "Inactive"
+   "Due Date": "1-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21965467,
@@ -4692,7 +4692,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9618780230",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -4706,7 +4706,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9948492387",
    "OpeName": "BVR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -4720,7 +4720,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "8498892656",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -4734,7 +4734,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9398221735",
    "OpeName": "BVR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -4748,7 +4748,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "8897750074",
    "OpeName": "BVR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -4762,7 +4762,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9000573621",
    "OpeName": "BVSR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -4776,7 +4776,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "7893550515",
    "OpeName": "BVR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -4790,7 +4790,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "7799078070",
    "OpeName": "BVR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -4818,8 +4818,8 @@ var cust_DB=[
    "Area": "GANDHI NAGAR",
    "Cel No": "9492957836",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
-   "Status": "active"
+   "Due Date": "4-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21966694,
@@ -4832,7 +4832,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9908796525",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -4846,7 +4846,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "0",
    "OpeName": "BVSR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -4860,7 +4860,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9908741565",
    "OpeName": "BVSR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -4874,7 +4874,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "6305731826",
    "OpeName": "BVR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -4888,7 +4888,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "0",
    "OpeName": "BVSR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -4902,7 +4902,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9550479514",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -4916,8 +4916,8 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9010915673",
    "OpeName": "BVR",
-   "Due Date": "5-Jun-20",
-   "Status": "active"
+   "Due Date": "25-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21967472,
@@ -4930,7 +4930,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9177397191",
    "OpeName": "BVSR",
-   "Due Date": "25-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -4958,8 +4958,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9948055440",
    "OpeName": "BVSR",
-   "Due Date": "14-May-20",
-   "Status": "Inactive"
+   "Due Date": "8-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21967685,
@@ -4972,7 +4972,7 @@ var cust_DB=[
    "Area": "JAGADEESH COLONY",
    "Cel No": "9550225178",
    "OpeName": "BVR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -4986,7 +4986,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9505749584",
    "OpeName": "PULI",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -5000,7 +5000,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "7893671761",
    "OpeName": "PULI",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -5014,7 +5014,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "0",
    "OpeName": "PULI",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -5028,7 +5028,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9550004221",
    "OpeName": "PULI",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -5042,7 +5042,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9550450360",
    "OpeName": "PULI",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -5056,7 +5056,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9177152877",
    "OpeName": "BVSR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -5070,8 +5070,8 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "6302975675",
    "OpeName": "BVSR",
-   "Due Date": "7-Mar-20",
-   "Status": "Inactive"
+   "Due Date": "11-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21980354,
@@ -5084,7 +5084,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -5098,7 +5098,7 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "9440692556",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -5112,7 +5112,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9701402858",
    "OpeName": "BVR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -5126,7 +5126,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9951919615",
    "OpeName": "BVSR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -5140,7 +5140,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9573272385",
    "OpeName": "BVSR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -5154,7 +5154,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9849877281",
    "OpeName": "BVSR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -5168,7 +5168,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8885683370",
    "OpeName": "BVSR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -5182,7 +5182,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9705840481",
    "OpeName": "BVSR",
-   "Due Date": "24-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -5196,7 +5196,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "7893583142",
    "OpeName": "PULI",
-   "Due Date": "24-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -5210,7 +5210,7 @@ var cust_DB=[
    "Area": "SANTHI NAGAR",
    "Cel No": "9395143411",
    "OpeName": "BVSR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -5224,7 +5224,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9705252661",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -5238,7 +5238,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9676357648",
    "OpeName": "BVR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -5252,7 +5252,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9949681019",
    "OpeName": "BVR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -5266,7 +5266,7 @@ var cust_DB=[
    "Area": "LF SCHOOL BACK SIDE",
    "Cel No": "8978056968",
    "OpeName": "BVSR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -5280,7 +5280,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9573791263",
    "OpeName": "BVR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -5294,7 +5294,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9949460741",
    "OpeName": "BVSR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -5308,7 +5308,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "7780222978",
    "OpeName": "BVR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -5317,12 +5317,12 @@ var cust_DB=[
    "LCO ID": 38519,
    "Subscriber Name": "Rammohanarao",
    "Card No": "3052",
-   "Name": "B VENKATESHWARLU",
-   "D No": "19 2 280",
-   "Area": "JAGADESH COLONY",
-   "Cel No": "9704269826",
+   "Name": "K.CHANDRAKALA",
+   "D No": "19-1-33.",
+   "Area": "LAMBADI COLONY",
+   "Cel No": "9390532494",
    "OpeName": "BVR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -5336,7 +5336,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9959944217",
    "OpeName": "BVSR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -5350,7 +5350,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9963832689",
    "OpeName": "BVR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -5364,7 +5364,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9502079739",
    "OpeName": "BVSR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -5378,7 +5378,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "6281403520",
    "OpeName": "BVSR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -5392,7 +5392,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "6300404241",
    "OpeName": "BVSR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -5406,7 +5406,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9949111620",
    "OpeName": "BVSR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -5420,7 +5420,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9949111620",
    "OpeName": "BVSR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -5434,7 +5434,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9030188562",
    "OpeName": "BVSR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -5462,7 +5462,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9963315224",
    "OpeName": "BVSR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -5476,7 +5476,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9491402022",
    "OpeName": "BVR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -5490,7 +5490,7 @@ var cust_DB=[
    "Area": "RAJEEVNAGAR COLONY",
    "Cel No": "9652930365",
    "OpeName": "BVSR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -5504,7 +5504,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9989133780",
    "OpeName": "BVSR",
-   "Due Date": "29-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -5518,7 +5518,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9573692793",
    "OpeName": "BVSR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -5532,7 +5532,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9948813381",
    "OpeName": "BVR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -5546,7 +5546,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "8142910483",
    "OpeName": "BVSR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -5560,7 +5560,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8328114972",
    "OpeName": "BVR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -5574,7 +5574,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "7287993966",
    "OpeName": "PULI",
-   "Due Date": "20-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -5588,7 +5588,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "7995230974",
    "OpeName": "BVSR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -5602,7 +5602,7 @@ var cust_DB=[
    "Area": "SANTHI NAGAR",
    "Cel No": "9573194596",
    "OpeName": "BVSR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -5616,7 +5616,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "8179962517",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "7-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -5630,7 +5630,7 @@ var cust_DB=[
    "Area": "ADHARSH NAGAR COLONY",
    "Cel No": "9441084389",
    "OpeName": "PULI",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -5644,7 +5644,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9908892116",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "13-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -5658,8 +5658,8 @@ var cust_DB=[
    "Area": "#N/A",
    "Cel No": "#N/A",
    "OpeName": "#N/A",
-   "Due Date": "7-May-20",
-   "Status": "Inactive"
+   "Due Date": "2-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 22104191,
@@ -5672,8 +5672,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9866451123",
    "OpeName": "BVSR",
-   "Due Date": "2-Jun-20",
-   "Status": "active"
+   "Due Date": "3-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 22186559,
@@ -5686,7 +5686,7 @@ var cust_DB=[
    "Area": "#N/A",
    "Cel No": "#N/A",
    "OpeName": "#N/A",
-   "Due Date": "4-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -5700,7 +5700,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -5728,7 +5728,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9959245962",
    "OpeName": "BVR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -5742,7 +5742,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9959086801",
    "OpeName": "BVR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -5770,8 +5770,8 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9000128438",
    "OpeName": "BVR",
-   "Due Date": "11-Jun-20",
-   "Status": "active"
+   "Due Date": "12-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21966001,
@@ -5784,7 +5784,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9959345887",
    "OpeName": "BVR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -5798,7 +5798,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "8374757374",
    "OpeName": "BVR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -5812,7 +5812,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -5826,7 +5826,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "8096730452",
    "OpeName": "BVR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -5840,7 +5840,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9010958218",
    "OpeName": "BVR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -5854,7 +5854,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "7674852953",
    "OpeName": "BVR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -5868,7 +5868,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9502662622",
    "OpeName": "BVR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -5882,7 +5882,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "7036221262",
    "OpeName": "BVSR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -5896,7 +5896,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9989985398",
    "OpeName": "BVSR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -5910,7 +5910,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9704463739",
    "OpeName": "PULI",
-   "Due Date": "8-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -5924,7 +5924,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "0",
    "OpeName": "PULI",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -5938,8 +5938,8 @@ var cust_DB=[
    "Area": "SRINIVASA NAGAR",
    "Cel No": "0",
    "OpeName": "PULI",
-   "Due Date": "13-May-20",
-   "Status": "Inactive"
+   "Due Date": "12-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21979262,
@@ -5952,7 +5952,7 @@ var cust_DB=[
    "Area": "SRINIVASA NAGAR",
    "Cel No": "8340029225",
    "OpeName": "PULI",
-   "Due Date": "4-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -5966,7 +5966,7 @@ var cust_DB=[
    "Area": "ST ANNS OPP",
    "Cel No": "9948615967",
    "OpeName": "PULI",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -5980,7 +5980,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9000851285",
    "OpeName": "PULI",
-   "Due Date": "5-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -5994,7 +5994,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "8184818586",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -6003,12 +6003,12 @@ var cust_DB=[
    "LCO ID": 38520,
    "Subscriber Name": "P Sai Babu",
    "Card No": "1056",
-   "Name": "KILARI GANGADHAR",
-   "D No": "9-1-168/15",
-   "Area": "MEDICAL COLONY",
-   "Cel No": "9553810469",
-   "OpeName": "BVSR",
-   "Due Date": "4-Jun-20",
+   "Name": "KANDULA VENKATESWARLU",
+   "D No": "18-1-80.",
+   "Area": "RIKSHWA COLONY",
+   "Cel No": "9701841426",
+   "OpeName": "BVR",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -6022,7 +6022,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9652329264",
    "OpeName": "BVSR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -6050,7 +6050,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "6304511577",
    "OpeName": "PULI",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -6064,7 +6064,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9177281801",
    "OpeName": "PULI",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -6078,7 +6078,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "7660914704",
    "OpeName": "BVR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -6092,7 +6092,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9951170799",
    "OpeName": "BVR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -6106,7 +6106,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9912185230",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -6129,12 +6129,12 @@ var cust_DB=[
    "LCO ID": 38519,
    "Subscriber Name": "Rammohanarao",
    "Card No": "1430",
-   "Name": "SUNKARA SHESHAGIRI RAO",
-   "D No": "9-1-75/A",
-   "Area": "MEDICAL COLONY",
-   "Cel No": "9502089797",
-   "OpeName": "BVSR",
-   "Due Date": "6-Jun-20",
+   "Name": "G NARAYANAMMA",
+   "D No": "19 2 55/2.",
+   "Area": "JAGADESH COLONY",
+   "Cel No": "7013126220",
+   "OpeName": "BVR",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -6148,7 +6148,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "6304221657",
    "OpeName": "BVR",
-   "Due Date": "24-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -6162,7 +6162,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8008472052",
    "OpeName": "BVR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -6176,7 +6176,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9966889608",
    "OpeName": "BVSR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -6204,7 +6204,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9966227046",
    "OpeName": "BVSR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -6218,7 +6218,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9491604990",
    "OpeName": "BVSR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -6232,7 +6232,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "8309230807",
    "OpeName": "BVSR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -6246,8 +6246,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9000969068",
    "OpeName": "BVR",
-   "Due Date": "23-Jun-20",
-   "Status": "active"
+   "Due Date": "24-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21961440,
@@ -6260,7 +6260,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9177059874",
    "OpeName": "BVSR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -6274,7 +6274,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9542966368",
    "OpeName": "BVSR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -6288,7 +6288,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9603344531",
    "OpeName": "BVR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -6302,7 +6302,7 @@ var cust_DB=[
    "Area": "ADHARSH NAGAR COLONY",
    "Cel No": "0",
    "OpeName": "PULI",
-   "Due Date": "9-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -6316,8 +6316,8 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9949474940",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "27-Jun-20",
-   "Status": "active"
+   "Due Date": "28-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21979620,
@@ -6330,7 +6330,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9989407075",
    "OpeName": "PULI",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -6344,7 +6344,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "6309514438",
    "OpeName": "PULI",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -6358,7 +6358,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "8978394266",
    "OpeName": "PULI",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -6372,7 +6372,7 @@ var cust_DB=[
    "Area": "VANABOTHULA CHERUVU",
    "Cel No": "9705845087",
    "OpeName": "BVSR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -6386,7 +6386,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9701135210",
    "OpeName": "BVSR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -6428,7 +6428,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9550155221",
    "OpeName": "BVR",
-   "Due Date": "24-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -6456,7 +6456,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9133624602",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -6470,7 +6470,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9550695614",
    "OpeName": "BVSR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -6484,7 +6484,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9848272549",
    "OpeName": "BVR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -6498,7 +6498,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9949064129",
    "OpeName": "BVSR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -6512,7 +6512,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "6361559298",
    "OpeName": "PULI",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -6526,7 +6526,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "#N/A",
    "OpeName": "BVR",
-   "Due Date": "19-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -6540,7 +6540,7 @@ var cust_DB=[
    "Area": "A S R COLONY",
    "Cel No": "8790289995",
    "OpeName": "BVR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -6554,8 +6554,8 @@ var cust_DB=[
    "Area": "SRI RAM NAGAR",
    "Cel No": "7032324360",
    "OpeName": "PULI",
-   "Due Date": "13-Jun-20",
-   "Status": "active"
+   "Due Date": "14-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21965152,
@@ -6568,8 +6568,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9989531852",
    "OpeName": "BVR",
-   "Due Date": "27-May-20",
-   "Status": "Inactive"
+   "Due Date": "#N/A",
+   "Status": "#N/A"
  },
  {
    "Sms ID": 21965241,
@@ -6582,7 +6582,7 @@ var cust_DB=[
    "Area": "YSR NAGAR",
    "Cel No": "9505052127",
    "OpeName": "BVR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -6596,7 +6596,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9849374853",
    "OpeName": "BVR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -6610,7 +6610,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9618388538",
    "OpeName": "BVR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -6624,7 +6624,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "7013802066",
    "OpeName": "BVR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -6638,8 +6638,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9963658510",
    "OpeName": "BVR",
-   "Due Date": "20-Apr-20",
-   "Status": "Inactive"
+   "Due Date": "17-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21965465,
@@ -6652,8 +6652,8 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9502896963",
    "OpeName": "BVR",
-   "Due Date": "29-Jun-20",
-   "Status": "active"
+   "Due Date": "#N/A",
+   "Status": "#N/A"
  },
  {
    "Sms ID": 21965584,
@@ -6666,8 +6666,8 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9948978803",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "31-May-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21965616,
@@ -6680,7 +6680,7 @@ var cust_DB=[
    "Area": "SRI RAM NAGAR",
    "Cel No": "7287869613",
    "OpeName": "PULI",
-   "Due Date": "13-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -6694,7 +6694,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9573610770",
    "OpeName": "BVR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -6708,7 +6708,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9704995703",
    "OpeName": "BVR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -6722,7 +6722,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "8977575667",
    "OpeName": "BVR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -6750,7 +6750,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "7032542179",
    "OpeName": "BVR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "30-Jul-20",
    "Status": "active"
  },
  {
@@ -6764,8 +6764,8 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9014928110",
    "OpeName": "BVSR",
-   "Due Date": "10-Jun-20",
-   "Status": "active"
+   "Due Date": "11-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21966314,
@@ -6778,8 +6778,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9963451551",
    "OpeName": "BVSR",
-   "Due Date": "23-Jun-20",
-   "Status": "active"
+   "Due Date": "24-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21966791,
@@ -6792,7 +6792,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9951079622",
    "OpeName": "BVR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -6806,7 +6806,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9849802053",
    "OpeName": "BVR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -6820,7 +6820,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9381368927",
    "OpeName": "BVR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -6834,7 +6834,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9949932313",
    "OpeName": "BVSR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -6848,8 +6848,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9291336299",
    "OpeName": "BVR",
-   "Due Date": "19-May-20",
-   "Status": "Inactive"
+   "Due Date": "5-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21967081,
@@ -6862,7 +6862,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9063841211",
    "OpeName": "BVR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -6876,7 +6876,7 @@ var cust_DB=[
    "Area": "JAGADEESH COLONY",
    "Cel No": "8142806341",
    "OpeName": "BVR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -6890,7 +6890,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9848357398",
    "OpeName": "BVSR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -6904,7 +6904,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "8374795363",
    "OpeName": "PULI",
-   "Due Date": "23-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -6913,13 +6913,13 @@ var cust_DB=[
    "LCO ID": 38520,
    "Subscriber Name": "P Sai Babu",
    "Card No": "5663",
-   "Name": "T BHAVANI",
+   "Name": "KATAKALA RAMREDDY",
    "D No": "-608245",
-   "Area": "ADARSHNAGAR COLONY",
-   "Cel No": "9912339762",
+   "Area": "SRINIVASA NAGAR",
+   "Cel No": "9381467081",
    "OpeName": "PULI",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21979421,
@@ -6932,7 +6932,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "7799326469",
    "OpeName": "PULI",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -6946,7 +6946,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9642026294",
    "OpeName": "PULI",
-   "Due Date": "6-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -6960,7 +6960,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "7993496038",
    "OpeName": "PULI",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -6988,7 +6988,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9848853400",
    "OpeName": "BVSR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -7002,8 +7002,8 @@ var cust_DB=[
    "Area": "GANDHI NAGAR",
    "Cel No": "9949786685",
    "OpeName": "BVR",
-   "Due Date": "26-Jun-20",
-   "Status": "active"
+   "Due Date": "27-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21954694,
@@ -7016,7 +7016,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9177553142",
    "OpeName": "BVR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -7030,7 +7030,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9441200953",
    "OpeName": "BVSR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -7044,7 +7044,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9182708936",
    "OpeName": "BVR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -7058,7 +7058,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9494323256",
    "OpeName": "BVR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -7072,8 +7072,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9951944546",
    "OpeName": "BVR",
-   "Due Date": "4-Jun-20",
-   "Status": "active"
+   "Due Date": "8-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21956150,
@@ -7086,7 +7086,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9949429121",
    "OpeName": "BVSR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -7100,7 +7100,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9014009835",
    "OpeName": "BVSR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -7114,7 +7114,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9912184832",
    "OpeName": "BVSR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -7128,7 +7128,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9505516388",
    "OpeName": "BVSR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -7142,7 +7142,7 @@ var cust_DB=[
    "Area": "0",
    "Cel No": "9989209605",
    "OpeName": "BVSR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -7156,7 +7156,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9912608659",
    "OpeName": "BVR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -7170,7 +7170,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9492244533",
    "OpeName": "BVR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -7184,7 +7184,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9441746307",
    "OpeName": "BVSR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -7198,7 +7198,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9490145230",
    "OpeName": "BVSR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -7212,8 +7212,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9347552269",
    "OpeName": "BVSR",
-   "Due Date": "20-Mar-20",
-   "Status": "Inactive"
+   "Due Date": "24-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21960592,
@@ -7226,7 +7226,7 @@ var cust_DB=[
    "Area": "#N/A",
    "Cel No": "#N/A",
    "OpeName": "BVR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -7240,7 +7240,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9703926888",
    "OpeName": "BVSR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -7254,7 +7254,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9951906540",
    "OpeName": "BVSR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -7268,7 +7268,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9951179951",
    "OpeName": "BVR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -7282,7 +7282,7 @@ var cust_DB=[
    "Area": "YSR NAGAR",
    "Cel No": "9502664256",
    "OpeName": "BVR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -7296,7 +7296,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9704658143",
    "OpeName": "BVSR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -7310,7 +7310,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9573868877",
    "OpeName": "BVR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -7324,7 +7324,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "7702779806",
    "OpeName": "BVR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -7352,7 +7352,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "6305762324",
    "OpeName": "BVR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -7366,7 +7366,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "8341143886",
    "OpeName": "PULI",
-   "Due Date": "14-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -7380,7 +7380,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9502466162",
    "OpeName": "PULI",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -7394,7 +7394,7 @@ var cust_DB=[
    "Area": "GANDHI NAGAR",
    "Cel No": "9701906160",
    "OpeName": "BVR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -7408,7 +7408,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9346843857",
    "OpeName": "BVSR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -7422,7 +7422,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9052310443",
    "OpeName": "BVSR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -7436,7 +7436,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9848958373",
    "OpeName": "BVSR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -7450,8 +7450,8 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9177042950",
    "OpeName": "PULI",
-   "Due Date": "12-Feb-20",
-   "Status": "Inactive"
+   "Due Date": "10-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21996499,
@@ -7464,7 +7464,7 @@ var cust_DB=[
    "Area": "VANABOTHULA CHERUVU",
    "Cel No": "7569608762",
    "OpeName": "BVSR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -7478,8 +7478,8 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "8008121319",
    "OpeName": "BVSR",
-   "Due Date": "11-Jun-20",
-   "Status": "active"
+   "Due Date": "12-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21996674,
@@ -7492,7 +7492,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "7901145170",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "7-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -7506,7 +7506,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9912429830",
    "OpeName": "PULI",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -7520,8 +7520,8 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "7731919872",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "11-Jun-20",
-   "Status": "active"
+   "Due Date": "12-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21997215,
@@ -7534,7 +7534,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "0",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -7562,7 +7562,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "8247414436",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -7576,7 +7576,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "7093164910",
    "OpeName": "BVSR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -7590,7 +7590,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9959575569",
    "OpeName": "BVSR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -7604,7 +7604,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9951292521",
    "OpeName": "BVR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -7618,7 +7618,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "8096037132",
    "OpeName": "BVSR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -7632,7 +7632,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9618162689",
    "OpeName": "BVSR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -7646,7 +7646,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9440704478",
    "OpeName": "BVR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -7660,7 +7660,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9533881418",
    "OpeName": "BVR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -7674,7 +7674,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9908577178",
    "OpeName": "BVR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -7688,7 +7688,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9866238413",
    "OpeName": "BVR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "5-Sep-20",
    "Status": "active"
  },
  {
@@ -7702,7 +7702,7 @@ var cust_DB=[
    "Area": "",
    "Cel No": "",
    "OpeName": "",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -7730,7 +7730,7 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "9908389189",
    "OpeName": "BVR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -7744,7 +7744,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9866862516",
    "OpeName": "BVR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -7758,7 +7758,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "8185812573",
    "OpeName": "BVR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -7772,7 +7772,7 @@ var cust_DB=[
    "Area": "RAJEEVE NAGAR COLONY",
    "Cel No": "8096359707",
    "OpeName": "BVSR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -7786,7 +7786,7 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "9505621109",
    "OpeName": "BVR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -7800,7 +7800,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9949950900",
    "OpeName": "BVSR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -7814,7 +7814,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "",
    "OpeName": "BVSR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -7828,7 +7828,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "6304626329",
    "OpeName": "BVSR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -7842,7 +7842,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9666781275",
    "OpeName": "BVSR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -7856,7 +7856,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9966539780",
    "OpeName": "BVSR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -7870,7 +7870,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "7702988238",
    "OpeName": "PULI",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -7884,7 +7884,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9951656954",
    "OpeName": "PULI",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -7898,7 +7898,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "7893485529",
    "OpeName": "PULI",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -7912,8 +7912,8 @@ var cust_DB=[
    "Area": "JAGADEESH COLONY",
    "Cel No": "8008501447",
    "OpeName": "BVR",
-   "Due Date": "27-May-20",
-   "Status": "Inactive"
+   "Due Date": "2-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21979428,
@@ -7926,8 +7926,8 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "8121304368",
    "OpeName": "PULI",
-   "Due Date": "5-Jun-20",
-   "Status": "active"
+   "Due Date": "6-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21980439,
@@ -7940,7 +7940,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9603597925",
    "OpeName": "BVSR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -7954,7 +7954,7 @@ var cust_DB=[
    "Area": "0",
    "Cel No": "0",
    "OpeName": "PULI",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -7968,7 +7968,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "6304288147",
    "OpeName": "PULI",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -7982,8 +7982,8 @@ var cust_DB=[
    "Area": "#N/A",
    "Cel No": "#N/A",
    "OpeName": "#N/A",
-   "Due Date": "21-Feb-20",
-   "Status": "Inactive"
+   "Due Date": "4-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21954973,
@@ -7996,7 +7996,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9603608508",
    "OpeName": "BVSR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -8024,7 +8024,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8978852351",
    "OpeName": "BVR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -8038,7 +8038,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9866346466",
    "OpeName": "BVSR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -8052,7 +8052,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9963273458",
    "OpeName": "BVR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -8066,7 +8066,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9666498872",
    "OpeName": "BVR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -8080,7 +8080,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9573395189",
    "OpeName": "BVR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -8094,7 +8094,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9618228060",
    "OpeName": "BVSR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -8108,7 +8108,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9000036037",
    "OpeName": "BVSR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -8122,7 +8122,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9705536885",
    "OpeName": "BVSR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -8136,7 +8136,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8501905444",
    "OpeName": "BVSR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -8150,7 +8150,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9705361203",
    "OpeName": "BVSR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -8164,7 +8164,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "0",
    "OpeName": "BVSR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -8178,7 +8178,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9849924636",
    "OpeName": "BVSR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -8192,7 +8192,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9502556338",
    "OpeName": "BVSR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -8206,7 +8206,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8978474267",
    "OpeName": "BVSR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -8220,8 +8220,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9949501374",
    "OpeName": "BVSR",
-   "Due Date": "9-May-20",
-   "Status": "Inactive"
+   "Due Date": "10-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21960990,
@@ -8234,7 +8234,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9849685865",
    "OpeName": "BVSR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -8248,7 +8248,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9912308783",
    "OpeName": "BVR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -8262,7 +8262,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8978173291",
    "OpeName": "BVR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -8276,7 +8276,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "19-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -8290,7 +8290,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9701133232",
    "OpeName": "BVSR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -8304,7 +8304,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9908056097",
    "OpeName": "BVSR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -8318,7 +8318,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9550672966",
    "OpeName": "BVR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -8332,7 +8332,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9912360116",
    "OpeName": "BVR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -8341,12 +8341,12 @@ var cust_DB=[
    "LCO ID": 38519,
    "Subscriber Name": "Anuradha",
    "Card No": "3295",
-   "Name": "RAMBABU",
-   "D No": "0",
-   "Area": "LAMBADI COLONY",
-   "Cel No": "9948997122",
-   "OpeName": "BVR",
-   "Due Date": "9-Jun-20",
+   "Name": "T ROHINI",
+   "D No": "229",
+   "Area": "ADARSHNAGAR COLONY",
+   "Cel No": "9642026131",
+   "OpeName": "PULI",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -8360,7 +8360,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8466018161",
    "OpeName": "BVR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -8374,7 +8374,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9553534096",
    "OpeName": "BVR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -8388,8 +8388,8 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9951212145",
    "OpeName": "PULI",
-   "Due Date": "23-Jun-20",
-   "Status": "active"
+   "Due Date": "24-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21979571,
@@ -8398,11 +8398,11 @@ var cust_DB=[
    "Subscriber Name": "Rammohanarao",
    "Card No": "5857",
    "Name": "M SWARAJYAM",
-   "D No": "6-33",
+   "D No": "Jun-33",
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9000428346",
    "OpeName": "PULI",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -8416,7 +8416,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9704507748",
    "OpeName": "PULI",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -8430,7 +8430,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "8096684769",
    "OpeName": "PULI",
-   "Due Date": "26-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -8440,11 +8440,11 @@ var cust_DB=[
    "Subscriber Name": "Rammohana Rao",
    "Card No": "5949",
    "Name": "M ESWAR",
-   "D No": "7-59",
+   "D No": "Jul-59",
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "6301613754",
    "OpeName": "PULI",
-   "Due Date": "15-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -8458,7 +8458,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "7675035748",
    "OpeName": "PULI",
-   "Due Date": "24-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -8472,7 +8472,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9676866430",
    "OpeName": "PULI",
-   "Due Date": "9-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -8486,7 +8486,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9603327627",
    "OpeName": "BVSR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -8528,7 +8528,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9866308400",
    "OpeName": "BVSR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -8542,7 +8542,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "8186911205",
    "OpeName": "BVR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -8556,7 +8556,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "8790764711",
    "OpeName": "BVR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -8570,7 +8570,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9177005961",
    "OpeName": "BVR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -8584,7 +8584,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9642124991",
    "OpeName": "BVR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -8598,7 +8598,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "6305324027",
    "OpeName": "PULI",
-   "Due Date": "7-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -8612,7 +8612,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8096368156",
    "OpeName": "BVR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -8626,7 +8626,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "8434676721",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -8640,7 +8640,7 @@ var cust_DB=[
    "Area": "VANABOTHULA CHERUVU",
    "Cel No": "9959616791",
    "OpeName": "BVSR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -8654,8 +8654,8 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "8106732395",
    "OpeName": "BVSR",
-   "Due Date": "27-Jun-20",
-   "Status": "active"
+   "Due Date": "28-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 22050422,
@@ -8663,12 +8663,12 @@ var cust_DB=[
    "LCO ID": 38519,
    "Subscriber Name": "P Sai Babu",
    "Card No": "0",
-   "Name": "D.APPA RAO",
-   "D No": "0",
-   "Area": "A S R COLONY",
-   "Cel No": "7287839231",
+   "Name": "S JAMES",
+   "D No": "18-2-183.",
+   "Area": "ASR COLONY",
+   "Cel No": "7660821901",
    "OpeName": "BVR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -8682,7 +8682,7 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "6300283958",
    "OpeName": "BVR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -8696,7 +8696,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9951789146",
    "OpeName": "BVR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -8710,7 +8710,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9581437466",
    "OpeName": "BVSR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -8738,7 +8738,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9618083357",
    "OpeName": "BVR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -8752,7 +8752,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9491892985",
    "OpeName": "BVR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -8766,7 +8766,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9949558277",
    "OpeName": "BVR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -8780,7 +8780,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9666379330",
    "OpeName": "BVR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -8794,7 +8794,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9676438794",
    "OpeName": "BVR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -8808,7 +8808,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9000242925",
    "OpeName": "BVR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -8836,7 +8836,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9866982586",
    "OpeName": "BVR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -8850,8 +8850,8 @@ var cust_DB=[
    "Area": "GANDHI NAGAR",
    "Cel No": "9502668537",
    "OpeName": "BVR",
-   "Due Date": "28-Jun-20",
-   "Status": "active"
+   "Due Date": "29-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21966422,
@@ -8864,7 +8864,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9603344811",
    "OpeName": "BVR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -8878,7 +8878,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9553048369",
    "OpeName": "BVR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -8892,7 +8892,7 @@ var cust_DB=[
    "Area": "GANDHI NAGAR",
    "Cel No": "9848332695",
    "OpeName": "BVR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -8906,7 +8906,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9494322509",
    "OpeName": "BVR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -8920,7 +8920,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "8008020223",
    "OpeName": "BVSR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -8934,7 +8934,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9948172400",
    "OpeName": "BVR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -8948,7 +8948,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9948589873",
    "OpeName": "BVR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -8962,7 +8962,7 @@ var cust_DB=[
    "Area": "A S R COLONY",
    "Cel No": "9666065044",
    "OpeName": "BVR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -8976,7 +8976,7 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "9550225309",
    "OpeName": "BVR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -8990,7 +8990,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9989449454",
    "OpeName": "BVR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -9018,7 +9018,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "7794869167",
    "OpeName": "BVSR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -9032,7 +9032,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9701191167",
    "OpeName": "PULI",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -9046,7 +9046,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "7997933019",
    "OpeName": "PULI",
-   "Due Date": "8-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -9060,7 +9060,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9959349460",
    "OpeName": "PULI",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -9074,7 +9074,7 @@ var cust_DB=[
    "Area": "ADHARSH NAGAR COLONY",
    "Cel No": "9959424625",
    "OpeName": "PULI",
-   "Due Date": "7-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -9088,7 +9088,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9618163236",
    "OpeName": "BVSR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -9102,7 +9102,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "8008197135",
    "OpeName": "BVSR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -9116,7 +9116,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8074903818",
    "OpeName": "BVSR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -9130,7 +9130,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "8978115456",
    "OpeName": "BVSR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -9144,7 +9144,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "7280012949",
    "OpeName": "PULI",
-   "Due Date": "10-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -9158,7 +9158,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9490069334",
    "OpeName": "BVR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -9172,8 +9172,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9676399545",
    "OpeName": "BVR",
-   "Due Date": "23-Jun-20",
-   "Status": "active"
+   "Due Date": "24-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21954994,
@@ -9186,7 +9186,7 @@ var cust_DB=[
    "Area": "SANTHI NAGAR",
    "Cel No": "9848389186",
    "OpeName": "BVSR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "4-Aug-20",
    "Status": "active"
  },
  {
@@ -9200,7 +9200,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9177694784",
    "OpeName": "BVR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -9214,7 +9214,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9866339340",
    "OpeName": "BVR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -9228,7 +9228,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8985848141",
    "OpeName": "BVSR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -9242,7 +9242,7 @@ var cust_DB=[
    "Area": "LF SCHOOL BACK SIDE",
    "Cel No": "9441321812",
    "OpeName": "BVSR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "8-Aug-20",
    "Status": "active"
  },
  {
@@ -9256,8 +9256,8 @@ var cust_DB=[
    "Area": "LF SCHOOL BACK SIDE",
    "Cel No": "9515742263",
    "OpeName": "BVSR",
-   "Due Date": "10-Feb-20",
-   "Status": "Inactive"
+   "Due Date": "14-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21956415,
@@ -9284,7 +9284,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9885166711",
    "OpeName": "BVSR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -9298,7 +9298,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9492243571",
    "OpeName": "BVSR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -9326,8 +9326,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "18-Jun-20",
-   "Status": "active"
+   "Due Date": "19-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21958231,
@@ -9340,8 +9340,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9951729686",
    "OpeName": "BVSR",
-   "Due Date": "9-Jun-20",
-   "Status": "active"
+   "Due Date": "10-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21958720,
@@ -9354,7 +9354,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8500256166",
    "OpeName": "BVSR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -9368,7 +9368,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9963315173",
    "OpeName": "BVSR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -9382,7 +9382,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9247241727",
    "OpeName": "BVSR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -9396,7 +9396,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9652574828",
    "OpeName": "BVSR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -9405,12 +9405,12 @@ var cust_DB=[
    "LCO ID": 38519,
    "Subscriber Name": "Anuradha",
    "Card No": "3318",
-   "Name": "P SRINU",
-   "D No": "19-1-27/5",
-   "Area": "LAMBADI COLONY",
-   "Cel No": "9573946097",
+   "Name": "KORUMURI JAYADEEP",
+   "D No": "18 2 103/A.",
+   "Area": "RIKSHWA COLONY",
+   "Cel No": "9908949685",
    "OpeName": "BVR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -9424,7 +9424,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9908311745",
    "OpeName": "BVR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -9438,7 +9438,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "8247781023",
    "OpeName": "BVR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -9452,7 +9452,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9948172400",
    "OpeName": "BVR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -9466,8 +9466,8 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "7890123976",
    "OpeName": "PULI",
-   "Due Date": "13-Apr-20",
-   "Status": "Inactive"
+   "Due Date": "5-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21979566,
@@ -9475,12 +9475,12 @@ var cust_DB=[
    "LCO ID": 38519,
    "Subscriber Name": "Rammohana Rao",
    "Card No": "5885",
-   "Name": "M Sai BABU",
-   "D No": "19 5 167",
-   "Area": "SRIRAMNAGAR COLONY",
-   "Cel No": "7036535035",
-   "OpeName": "PULI",
-   "Due Date": "8-Jun-20",
+   "Name": "RAMAKRISHNA",
+   "D No": "18-1-194.",
+   "Area": "RIKSHAWCOLONY",
+   "Cel No": "9550075343",
+   "OpeName": "BVR",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -9494,7 +9494,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "0",
    "OpeName": "PULI",
-   "Due Date": "12-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -9508,7 +9508,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "6304660916",
    "OpeName": "BVR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -9522,7 +9522,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "6303605383",
    "OpeName": "PULI",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -9536,7 +9536,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9652522182",
    "OpeName": "PULI",
-   "Due Date": "7-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -9550,7 +9550,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9866106239",
    "OpeName": "BVR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -9564,8 +9564,8 @@ var cust_DB=[
    "Area": "YSR NAGAR",
    "Cel No": "9704497621",
    "OpeName": "BVR",
-   "Due Date": "9-Jun-20",
-   "Status": "active"
+   "Due Date": "10-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21996870,
@@ -9578,7 +9578,7 @@ var cust_DB=[
    "Area": "A S R COLONY",
    "Cel No": "7036536820",
    "OpeName": "BVR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -9606,7 +9606,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "7306885986",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -9620,7 +9620,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9247266522",
    "OpeName": "BVR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -9634,8 +9634,8 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9100057870",
    "OpeName": "BVR",
-   "Due Date": "20-Jun-20",
-   "Status": "active"
+   "Due Date": "21-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21965395,
@@ -9648,7 +9648,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9640797711",
    "OpeName": "BVR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -9662,7 +9662,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9951636746",
    "OpeName": "BVR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -9676,8 +9676,8 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9849770579",
    "OpeName": "BVR",
-   "Due Date": "20-May-20",
-   "Status": "Inactive"
+   "Due Date": "14-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21966285,
@@ -9690,7 +9690,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9441334736",
    "OpeName": "BVSR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -9718,7 +9718,7 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "9493465055",
    "OpeName": "BVR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -9727,12 +9727,12 @@ var cust_DB=[
    "LCO ID": 38520,
    "Subscriber Name": "Rammohanarao",
    "Card No": "1632",
-   "Name": "G.RAJESWARI",
-   "D No": "18-1-32/8D",
-   "Area": "YSR NAGAR",
-   "Cel No": "9949600654",
+   "Name": "K MADHUBABU",
+   "D No": "18-2-186.",
+   "Area": "ASR COLONY",
+   "Cel No": "9849337413",
    "OpeName": "BVR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -9746,7 +9746,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9951152221",
    "OpeName": "BVR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -9760,7 +9760,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9989699736",
    "OpeName": "BVSR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -9774,7 +9774,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9848440294",
    "OpeName": "BVSR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -9802,7 +9802,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9398152863",
    "OpeName": "PULI",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -9816,7 +9816,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9949429236",
    "OpeName": "PULI",
-   "Due Date": "7-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -9830,8 +9830,8 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "8790462734",
    "OpeName": "PULI",
-   "Due Date": "16-Mar-20",
-   "Status": "Inactive"
+   "Due Date": "12-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21979220,
@@ -9844,7 +9844,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9866744131",
    "OpeName": "PULI",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -9858,7 +9858,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "8142770921",
    "OpeName": "PULI",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -9872,7 +9872,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9959442091",
    "OpeName": "PULI",
-   "Due Date": "7-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -9886,7 +9886,7 @@ var cust_DB=[
    "Area": "A S R COLONY",
    "Cel No": "9666022263",
    "OpeName": "BVR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -9900,7 +9900,7 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "9100557269",
    "OpeName": "BVR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -9914,7 +9914,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "7989418187",
    "OpeName": "BVSR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -9942,7 +9942,7 @@ var cust_DB=[
    "Area": "TSRJC",
    "Cel No": "7780303945",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "9-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -9956,7 +9956,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9010216750",
    "OpeName": "BVSR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -9970,8 +9970,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9440240266",
    "OpeName": "BVSR",
-   "Due Date": "11-May-20",
-   "Status": "Inactive"
+   "Due Date": "24-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21954906,
@@ -9984,7 +9984,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9550180356",
    "OpeName": "BVR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -9998,7 +9998,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9494865283",
    "OpeName": "BVSR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -10012,7 +10012,7 @@ var cust_DB=[
    "Area": "SANTHI NAGAR",
    "Cel No": "9949285776",
    "OpeName": "BVSR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -10026,7 +10026,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8790290459",
    "OpeName": "BVR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -10040,7 +10040,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "7702052022",
    "OpeName": "BVR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -10054,7 +10054,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9290439487",
    "OpeName": "BVSR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -10068,7 +10068,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9948347329",
    "OpeName": "BVSR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -10082,7 +10082,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9959163228",
    "OpeName": "BVSR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -10096,7 +10096,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "7382856942",
    "OpeName": "BVR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -10110,7 +10110,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9440704120",
    "OpeName": "BVSR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -10124,7 +10124,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9177043620",
    "OpeName": "BVR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -10138,7 +10138,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9963025797",
    "OpeName": "BVR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -10180,8 +10180,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9492396502",
    "OpeName": "BVSR",
-   "Due Date": "12-May-20",
-   "Status": "Inactive"
+   "Due Date": "9-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21958763,
@@ -10194,7 +10194,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8096603963",
    "OpeName": "BVSR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -10208,7 +10208,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "7396259757",
    "OpeName": "BVSR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -10222,7 +10222,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9848768610",
    "OpeName": "BVSR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -10250,7 +10250,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "8374752863",
    "OpeName": "BVR",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -10264,7 +10264,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "8686162310",
    "OpeName": "BVR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -10278,7 +10278,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9177281666",
    "OpeName": "BVSR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -10292,7 +10292,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9441860196",
    "OpeName": "BVR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -10306,7 +10306,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8688859024",
    "OpeName": "BVR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -10320,7 +10320,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "8639916775",
    "OpeName": "BVSR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -10334,7 +10334,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9000756119",
    "OpeName": "BVR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -10348,7 +10348,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "8106934223",
    "OpeName": "PULI",
-   "Due Date": "7-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -10376,7 +10376,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9676846334",
    "OpeName": "PULI",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -10390,7 +10390,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9908026953",
    "OpeName": "BVSR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -10404,7 +10404,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9704738683",
    "OpeName": "BVSR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -10418,7 +10418,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9849769601",
    "OpeName": "BVR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -10432,8 +10432,8 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9505803743",
    "OpeName": "BVSR",
-   "Due Date": "15-May-20",
-   "Status": "Inactive"
+   "Due Date": "3-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21996912,
@@ -10446,7 +10446,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9542795871",
    "OpeName": "BVSR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -10460,7 +10460,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "6300655031",
    "OpeName": "BVSR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -10474,7 +10474,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8185827814",
    "OpeName": "BVSR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -10488,8 +10488,8 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9704311876",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "26-Jun-20",
-   "Status": "active"
+   "Due Date": "#N/A",
+   "Status": "#N/A"
  },
  {
    "Sms ID": 21999703,
@@ -10502,7 +10502,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "8465973921",
    "OpeName": "BVSR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -10516,8 +10516,8 @@ var cust_DB=[
    "Area": "JAGADEESH COLONY",
    "Cel No": "9652754011",
    "OpeName": "BVR",
-   "Due Date": "5-May-20",
-   "Status": "Inactive"
+   "Due Date": "3-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 22197271,
@@ -10530,7 +10530,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9866769972",
    "OpeName": "BVSR",
-   "Due Date": "19-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -10558,7 +10558,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9247521583",
    "OpeName": "BVR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -10572,7 +10572,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9963217730",
    "OpeName": "BVR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -10586,7 +10586,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9963217730",
    "OpeName": "BVR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -10600,7 +10600,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "8897148812",
    "OpeName": "BVR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -10614,7 +10614,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9949879124",
    "OpeName": "BVR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -10628,7 +10628,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9652711473",
    "OpeName": "BVR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -10642,8 +10642,8 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9505034826",
    "OpeName": "BVSR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "2-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21966455,
@@ -10656,7 +10656,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9963821076",
    "OpeName": "BVR",
-   "Due Date": "19-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -10684,8 +10684,8 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9908949685",
    "OpeName": "BVR",
-   "Due Date": "27-May-20",
-   "Status": "Inactive"
+   "Due Date": "#N/A",
+   "Status": "#N/A"
  },
  {
    "Sms ID": 21967012,
@@ -10698,8 +10698,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9866625530",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "1-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21967176,
@@ -10726,7 +10726,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9652664436",
    "OpeName": "BVSR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -10740,7 +10740,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8919608330",
    "OpeName": "BVSR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -10754,7 +10754,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9908403288",
    "OpeName": "PULI",
-   "Due Date": "9-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -10777,12 +10777,12 @@ var cust_DB=[
    "LCO ID": 38520,
    "Subscriber Name": "P Sai Babu",
    "Card No": "5600",
-   "Name": "V RANGA RAO",
+   "Name": "G SURESH",
    "D No": "-649882",
-   "Area": "ADARSHNAGAR COLONY",
-   "Cel No": "9866091652",
-   "OpeName": "PULI",
-   "Due Date": "10-Jun-20",
+   "Area": "RAJEEV NAGAR COLONY",
+   "Cel No": "8978462400",
+   "OpeName": "BVSR",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -10796,7 +10796,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9381769839",
    "OpeName": "PULI",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -10810,7 +10810,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "8340822680",
    "OpeName": "PULI",
-   "Due Date": "11-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -10824,7 +10824,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8008203952",
    "OpeName": "BVSR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -10838,7 +10838,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8341967149",
    "OpeName": "BVSR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -10852,7 +10852,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9052695769",
    "OpeName": "BVSR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -10866,7 +10866,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9440877046",
    "OpeName": "BVSR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -10880,7 +10880,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9704729212",
    "OpeName": "BVR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -10894,7 +10894,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9951379650",
    "OpeName": "BVR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -10908,7 +10908,7 @@ var cust_DB=[
    "Area": "YSR NAGAR",
    "Cel No": "9704789731",
    "OpeName": "BVR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -10936,7 +10936,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9502695260",
    "OpeName": "BVR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -10950,7 +10950,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9885262567",
    "OpeName": "BVSR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -10964,7 +10964,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9550998964",
    "OpeName": "BVSR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -10978,7 +10978,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9849592456",
    "OpeName": "BVSR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -10992,7 +10992,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9949429121",
    "OpeName": "BVSR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -11020,7 +11020,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "7981414038",
    "OpeName": "BVR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -11034,7 +11034,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "7674072415",
    "OpeName": "BVSR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -11048,8 +11048,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9704450394",
    "OpeName": "BVR",
-   "Due Date": "24-Jun-20",
-   "Status": "active"
+   "Due Date": "25-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21956914,
@@ -11062,7 +11062,7 @@ var cust_DB=[
    "Area": "GANDHI NAGAR",
    "Cel No": "9440242059",
    "OpeName": "BVR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -11090,7 +11090,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9440173005",
    "OpeName": "BVSR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -11104,7 +11104,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9110579409",
    "OpeName": "BVSR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -11118,7 +11118,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9849263739",
    "OpeName": "BVSR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -11132,8 +11132,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9866346508",
    "OpeName": "BVR",
-   "Due Date": "16-Apr-20",
-   "Status": "Inactive"
+   "Due Date": "15-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21958512,
@@ -11146,7 +11146,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "7702988404",
    "OpeName": "BVSR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -11160,7 +11160,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9848605805",
    "OpeName": "BVSR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -11174,7 +11174,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9676121165",
    "OpeName": "BVSR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -11188,7 +11188,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9502369641",
    "OpeName": "BVSR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -11202,7 +11202,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9912198294",
    "OpeName": "BVSR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -11216,7 +11216,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9247498300",
    "OpeName": "BVSR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -11230,7 +11230,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9603612422",
    "OpeName": "BVR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -11244,7 +11244,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9676862467",
    "OpeName": "BVR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -11258,8 +11258,8 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9702299857",
    "OpeName": "BVR",
-   "Due Date": "13-Apr-20",
-   "Status": "Inactive"
+   "Due Date": "22-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21961236,
@@ -11272,8 +11272,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "7799358030",
    "OpeName": "BVR",
-   "Due Date": "17-May-20",
-   "Status": "Inactive"
+   "Due Date": "4-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21961408,
@@ -11286,7 +11286,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9542570833",
    "OpeName": "BVR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -11300,7 +11300,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9502949171",
    "OpeName": "BVR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -11314,7 +11314,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9866096800",
    "OpeName": "BVR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -11342,7 +11342,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9959224420",
    "OpeName": "BVR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -11356,7 +11356,7 @@ var cust_DB=[
    "Area": "JAGADEESH COLONY",
    "Cel No": "9603432331",
    "OpeName": "BVR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -11370,7 +11370,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9704170300",
    "OpeName": "PULI",
-   "Due Date": "17-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -11384,7 +11384,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "6301575942",
    "OpeName": "BVSR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -11398,7 +11398,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9502459350",
    "OpeName": "PULI",
-   "Due Date": "15-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -11426,7 +11426,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "7013533009",
    "OpeName": "PULI",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -11440,7 +11440,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9666044682",
    "OpeName": "PULI",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -11454,7 +11454,7 @@ var cust_DB=[
    "Area": "YSR NAGAR",
    "Cel No": "9000996646",
    "OpeName": "BVR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -11468,7 +11468,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9505680002",
    "OpeName": "BVR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -11482,7 +11482,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9394627126",
    "OpeName": "BVSR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -11496,7 +11496,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9849718658",
    "OpeName": "BVR",
-   "Due Date": "27-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -11510,7 +11510,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "8790701393",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -11524,7 +11524,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "8186043241",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -11538,7 +11538,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "0",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -11552,7 +11552,7 @@ var cust_DB=[
    "Area": "VANABOTHULA CHERUVU",
    "Cel No": "9391541272",
    "OpeName": "BVSR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -11561,12 +11561,12 @@ var cust_DB=[
    "LCO ID": 38519,
    "Subscriber Name": "P Sai Babu",
    "Card No": "#N/A",
-   "Name": "SRINU",
-   "D No": "19-4-36",
-   "Area": "JAGADEESH COLONY",
-   "Cel No": "9666983133",
-   "OpeName": "BVR",
-   "Due Date": "14-Jun-20",
+   "Name": "P REDYA",
+   "D No": "9 1 77/3.",
+   "Area": "MEDICAL COLONY",
+   "Cel No": "9493844835",
+   "OpeName": "BVSR",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -11580,7 +11580,7 @@ var cust_DB=[
    "Area": "GANDHI NAGAR",
    "Cel No": "9440302826",
    "OpeName": "BVR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -11594,7 +11594,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9959086856",
    "OpeName": "BVSR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -11608,7 +11608,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9502465756",
    "OpeName": "BVSR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -11622,7 +11622,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8897124214",
    "OpeName": "BVSR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -11636,7 +11636,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9866698605",
    "OpeName": "BVR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -11650,8 +11650,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9603936549",
    "OpeName": "BVR",
-   "Due Date": "13-Jun-20",
-   "Status": "active"
+   "Due Date": "14-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21966064,
@@ -11664,7 +11664,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9963666510",
    "OpeName": "BVR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -11678,7 +11678,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9959203590",
    "OpeName": "BVR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -11692,7 +11692,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9701743076",
    "OpeName": "BVR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -11706,8 +11706,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "6304826396",
    "OpeName": "BVR",
-   "Due Date": "21-May-20",
-   "Status": "Inactive"
+   "Due Date": "19-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21966484,
@@ -11720,7 +11720,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "7893840540",
    "OpeName": "BVR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -11734,7 +11734,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "6303926685",
    "OpeName": "BVR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -11748,7 +11748,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9010254427",
    "OpeName": "BVR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -11762,7 +11762,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "8008701545",
    "OpeName": "BVR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -11776,7 +11776,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9542860977",
    "OpeName": "BVR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -11790,7 +11790,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9505057410",
    "OpeName": "BVR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -11804,7 +11804,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9949879043",
    "OpeName": "BVSR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -11818,7 +11818,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9951644665",
    "OpeName": "BVSR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -11832,7 +11832,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "7093041138",
    "OpeName": "BVSR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -11846,7 +11846,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9701275008",
    "OpeName": "BVR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -11860,7 +11860,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9948156949",
    "OpeName": "BVR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -11874,7 +11874,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9866060835",
    "OpeName": "BVR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -11888,7 +11888,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9550383023",
    "OpeName": "PULI",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -11902,7 +11902,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9505681986",
    "OpeName": "PULI",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -11916,7 +11916,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9676432141",
    "OpeName": "PULI",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -11930,7 +11930,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9640044809",
    "OpeName": "PULI",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -11944,7 +11944,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9052026324",
    "OpeName": "PULI",
-   "Due Date": "10-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -11958,7 +11958,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "0",
    "OpeName": "PULI",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -11972,7 +11972,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "0",
    "OpeName": "BVSR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -11986,7 +11986,7 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "9581815655",
    "OpeName": "BVR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -12000,7 +12000,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "8106068340",
    "OpeName": "BVSR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -12014,7 +12014,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9701408501",
    "OpeName": "BVSR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -12028,7 +12028,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9912449785",
    "OpeName": "BVSR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -12042,7 +12042,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "7032687226",
    "OpeName": "PULI",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -12056,8 +12056,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8106894909",
    "OpeName": "BVR",
-   "Due Date": "23-May-20",
-   "Status": "Inactive"
+   "Due Date": "8-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21955768,
@@ -12066,12 +12066,12 @@ var cust_DB=[
    "Subscriber Name": "Rammohanarao",
    "Card No": "3431",
    "Name": "G SRINIVAS",
-   "D No": "5/58",
+   "D No": "May-58",
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "8106983549",
    "OpeName": "PULI",
-   "Due Date": "27-Jun-20",
-   "Status": "active"
+   "Due Date": "25-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21955776,
@@ -12084,7 +12084,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9908962071",
    "OpeName": "BVSR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -12098,7 +12098,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9177727262",
    "OpeName": "BVSR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -12112,7 +12112,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9963488490",
    "OpeName": "BVR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -12126,8 +12126,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8179364151",
    "OpeName": "BVR",
-   "Due Date": "5-Jun-20",
-   "Status": "active"
+   "Due Date": "6-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21956985,
@@ -12140,7 +12140,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9701773505",
    "OpeName": "BVR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -12154,7 +12154,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9603606085",
    "OpeName": "BVR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -12168,7 +12168,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "7702794420",
    "OpeName": "BVSR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -12182,7 +12182,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9949688082",
    "OpeName": "BVSR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -12196,7 +12196,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9949336717",
    "OpeName": "BVSR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -12210,7 +12210,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "6281222696",
    "OpeName": "BVSR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -12224,7 +12224,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9949692563",
    "OpeName": "BVSR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -12238,7 +12238,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9951844166",
    "OpeName": "BVSR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -12252,7 +12252,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -12266,8 +12266,8 @@ var cust_DB=[
    "Area": "YSR NAGAR",
    "Cel No": "9704449341",
    "OpeName": "BVR",
-   "Due Date": "25-May-20",
-   "Status": "Inactive"
+   "Due Date": "17-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21961427,
@@ -12280,7 +12280,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "8179879587",
    "OpeName": "BVSR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -12289,12 +12289,12 @@ var cust_DB=[
    "LCO ID": 38519,
    "Subscriber Name": "Rammohanarao",
    "Card No": "1706",
-   "Name": "P LAXMAN RAO",
-   "D No": "9 4 79/F",
-   "Area": "RAJEEV NAGAR COLONY",
-   "Cel No": "9951125265",
-   "OpeName": "BVSR",
-   "Due Date": "12-Jun-20",
+   "Name": "KOLLAPUDI MANIYAMMA",
+   "D No": "103",
+   "Area": "SRIRAMNAGAR COLONY",
+   "Cel No": "9381738934",
+   "OpeName": "PULI",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -12308,7 +12308,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -12322,8 +12322,8 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9618828217",
    "OpeName": "BVSR",
-   "Due Date": "31-May-20",
-   "Status": "Inactive"
+   "Due Date": "1-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21961655,
@@ -12336,8 +12336,8 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "8978175482",
    "OpeName": "BVR",
-   "Due Date": "20-Jun-20",
-   "Status": "active"
+   "Due Date": "21-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21978969,
@@ -12350,8 +12350,8 @@ var cust_DB=[
    "Area": "ST ANNS OPP",
    "Cel No": "7702390438",
    "OpeName": "PULI",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "2-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21979519,
@@ -12364,7 +12364,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR",
    "Cel No": "9704891948",
    "OpeName": "PULI",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -12378,7 +12378,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "7997576937",
    "OpeName": "PULI",
-   "Due Date": "10-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -12392,8 +12392,8 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "7036016405",
    "OpeName": "PULI",
-   "Due Date": "31-May-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21980270,
@@ -12406,7 +12406,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9052763277",
    "OpeName": "PULI",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -12420,7 +12420,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9701365364",
    "OpeName": "PULI",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -12434,7 +12434,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9603414169",
    "OpeName": "PULI",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -12448,7 +12448,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "7702323675",
    "OpeName": "PULI",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -12462,7 +12462,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "0",
    "OpeName": "PULI",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -12476,7 +12476,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9989414981",
    "OpeName": "PULI",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -12490,7 +12490,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9441864466",
    "OpeName": "BVSR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -12504,7 +12504,7 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "9959594847",
    "OpeName": "BVR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -12518,7 +12518,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "7730053902",
    "OpeName": "BVR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -12532,7 +12532,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "7702437289",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -12546,7 +12546,7 @@ var cust_DB=[
    "Area": "YSR NAGAR",
    "Cel No": "9603014245",
    "OpeName": "BVR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -12560,7 +12560,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9603246082",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "11-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -12574,7 +12574,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9491778079",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -12588,7 +12588,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "8501090206",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -12602,7 +12602,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "6300513102",
    "OpeName": "BVSR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -12616,7 +12616,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9666251155",
    "OpeName": "BVSR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -12630,7 +12630,7 @@ var cust_DB=[
    "Area": "RAJEEVNAGAR COLONY",
    "Cel No": "7780582799",
    "OpeName": "BVSR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -12644,7 +12644,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9963315369",
    "OpeName": "BVSR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -12658,7 +12658,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9440875449",
    "OpeName": "BVSR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -12672,7 +12672,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9701355626",
    "OpeName": "BVR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -12686,8 +12686,8 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "950433502",
    "OpeName": "BVR",
-   "Due Date": "29-Jun-20",
-   "Status": "active"
+   "Due Date": "30-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21965444,
@@ -12700,7 +12700,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9676203188",
    "OpeName": "BVR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -12714,7 +12714,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "7675084661",
    "OpeName": "BVR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -12728,7 +12728,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9398115376",
    "OpeName": "BVSR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -12742,7 +12742,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9951003001",
    "OpeName": "BVR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -12756,7 +12756,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "970750207",
    "OpeName": "BVR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -12770,7 +12770,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9676853631",
    "OpeName": "BVSR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -12784,7 +12784,7 @@ var cust_DB=[
    "Area": "GANDHI NAGAR",
    "Cel No": "9000851429",
    "OpeName": "BVR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -12798,7 +12798,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9010044132",
    "OpeName": "BVR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -12812,7 +12812,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9652986101",
    "OpeName": "BVSR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -12826,7 +12826,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "8333058710",
    "OpeName": "BVSR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -12840,7 +12840,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9652779326",
    "OpeName": "BVR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -12854,7 +12854,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "8309411669",
    "OpeName": "BVSR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -12868,7 +12868,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9502803940",
    "OpeName": "BVR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -12882,7 +12882,7 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "9959815038",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -12896,7 +12896,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9618126428",
    "OpeName": "BVR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -12910,7 +12910,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9866287342",
    "OpeName": "BVSR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -12924,7 +12924,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9603550451",
    "OpeName": "BVSR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -12938,7 +12938,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8522829939",
    "OpeName": "BVSR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -12952,7 +12952,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9121373746",
    "OpeName": "PULI",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -12966,7 +12966,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9052500227",
    "OpeName": "PULI",
-   "Due Date": "15-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -12980,7 +12980,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9640172449",
    "OpeName": "PULI",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -12994,8 +12994,8 @@ var cust_DB=[
    "Area": "HOUSING BORD",
    "Cel No": "9550847949",
    "OpeName": "PULI",
-   "Due Date": "9-Jun-20",
-   "Status": "active"
+   "Due Date": "10-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21980412,
@@ -13008,7 +13008,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9160683877",
    "OpeName": "BVSR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -13022,7 +13022,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "7702020785",
    "OpeName": "BVSR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -13036,7 +13036,7 @@ var cust_DB=[
    "Area": "ADHARSH NAGAR COLONY",
    "Cel No": "9492314083",
    "OpeName": "PULI",
-   "Due Date": "18-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -13050,7 +13050,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "8639787530",
    "OpeName": "BVSR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -13064,7 +13064,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9515582342",
    "OpeName": "PULI",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -13078,7 +13078,7 @@ var cust_DB=[
    "Area": "TSRJC",
    "Cel No": "7032542360",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -13092,8 +13092,8 @@ var cust_DB=[
    "Area": "TSRJC",
    "Cel No": "9494158241",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "21-Jun-20",
-   "Status": "active"
+   "Due Date": "22-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21980880,
@@ -13106,7 +13106,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9154917567",
    "OpeName": "BVSR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -13120,8 +13120,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8790032162",
    "OpeName": "BVSR",
-   "Due Date": "13-Jun-20",
-   "Status": "active"
+   "Due Date": "14-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 22738167,
@@ -13134,7 +13134,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "7075230588",
    "OpeName": "BVR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -13148,7 +13148,7 @@ var cust_DB=[
    "Area": "SANTHI NAGAR",
    "Cel No": "9395373997",
    "OpeName": "BVSR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -13162,7 +13162,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -13176,7 +13176,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "7702779743",
    "OpeName": "BVR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -13190,7 +13190,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9618943793",
    "OpeName": "BVR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -13204,7 +13204,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9676208095",
    "OpeName": "BVSR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -13218,8 +13218,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9398030425",
    "OpeName": "BVSR",
-   "Due Date": "31-May-20",
-   "Status": "Inactive"
+   "Due Date": "27-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21956753,
@@ -13232,7 +13232,7 @@ var cust_DB=[
    "Area": "SRI RAM NAGAR COLONY",
    "Cel No": "9951570573",
    "OpeName": "PULI",
-   "Due Date": "17-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -13246,7 +13246,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9866632679",
    "OpeName": "BVSR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -13260,8 +13260,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9949952846",
    "OpeName": "BVSR",
-   "Due Date": "13-Feb-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21957024,
@@ -13288,7 +13288,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9030924746",
    "OpeName": "BVSR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -13302,7 +13302,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9849629278",
    "OpeName": "BVSR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -13316,7 +13316,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9550046766",
    "OpeName": "BVSR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -13330,7 +13330,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9505922911",
    "OpeName": "BVSR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -13344,7 +13344,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8790402349",
    "OpeName": "BVSR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -13358,7 +13358,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9160178179",
    "OpeName": "BVSR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -13372,8 +13372,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9985340660",
    "OpeName": "BVR",
-   "Due Date": "14-May-20",
-   "Status": "Inactive"
+   "Due Date": "28-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21961487,
@@ -13386,7 +13386,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9603802992",
    "OpeName": "BVSR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -13400,7 +13400,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -13414,7 +13414,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9381578452",
    "OpeName": "BVR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -13425,10 +13425,10 @@ var cust_DB=[
    "Card No": "3292",
    "Name": "K DURGA",
    "D No": "19-2-46",
-   "Area": "ASR COLONY",
+   "Area": "AMC COLONY",
    "Cel No": "7680822504",
-   "OpeName": "BVR",
-   "Due Date": "23-Jun-20",
+   "OpeName": "RAMAKRISHNA",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -13442,8 +13442,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9550307266",
    "OpeName": "BVR",
-   "Due Date": "29-Jun-20",
-   "Status": "active"
+   "Due Date": "30-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21979189,
@@ -13456,7 +13456,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9963582945",
    "OpeName": "PULI",
-   "Due Date": "14-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -13470,7 +13470,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9951370804",
    "OpeName": "PULI",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -13484,7 +13484,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9133785378",
    "OpeName": "PULI",
-   "Due Date": "5-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -13498,7 +13498,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "0",
    "OpeName": "PULI",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -13512,8 +13512,8 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9188975847",
    "OpeName": "PULI",
-   "Due Date": "14-Jun-20",
-   "Status": "active"
+   "Due Date": "20-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21980536,
@@ -13526,7 +13526,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9676350035",
    "OpeName": "PULI",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -13540,7 +13540,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9966226552",
    "OpeName": "PULI",
-   "Due Date": "14-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -13554,7 +13554,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9550771051",
    "OpeName": "PULI",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -13568,7 +13568,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "7893381556",
    "OpeName": "PULI",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -13580,9 +13580,9 @@ var cust_DB=[
    "Name": "A KRISHNA",
    "D No": "19 2 253",
    "Area": "JAGADESH COLONY",
-   "Cel No": "9505686717",
+   "Cel No": "9959224420",
    "OpeName": "BVR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -13596,7 +13596,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9553846163",
    "OpeName": "BVR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -13610,7 +13610,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9666315316",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -13624,7 +13624,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "8309856349",
    "OpeName": "BVR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -13638,7 +13638,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9494323544",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -13652,8 +13652,8 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "7095194431",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "29-May-20",
-   "Status": "Inactive"
+   "Due Date": "7-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21997183,
@@ -13666,7 +13666,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9603280854",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -13680,7 +13680,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9985226897",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -13694,7 +13694,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "7680839733",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -13708,7 +13708,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9705841792",
    "OpeName": "BVSR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -13722,8 +13722,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "7989065304",
    "OpeName": "BVSR",
-   "Due Date": "15-Mar-20",
-   "Status": "Inactive"
+   "Due Date": "4-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 22050819,
@@ -13736,7 +13736,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9515419093",
    "OpeName": "BVSR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -13745,12 +13745,12 @@ var cust_DB=[
    "LCO ID": 38519,
    "Subscriber Name": "Rammohan Rao",
    "Card No": "#N/A",
-   "Name": "DASU",
-   "D No": "#N/A",
-   "Area": "SRIRAMNAGAR COLONY",
+   "Name": "G RAMANA",
+   "D No": "19 2 141.",
+   "Area": "JAGADESH COLONY",
    "Cel No": "9701915780",
-   "OpeName": "PULI",
-   "Due Date": "11-Jun-20",
+   "OpeName": "BVR",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -13764,8 +13764,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8096667669",
    "OpeName": "BVSR",
-   "Due Date": "8-Jun-20",
-   "Status": "active"
+   "Due Date": "9-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 22197279,
@@ -13778,7 +13778,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9966297397",
    "OpeName": "BVR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -13792,7 +13792,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9010530599",
    "OpeName": "PULI",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -13806,7 +13806,7 @@ var cust_DB=[
    "Area": "",
    "Cel No": "",
    "OpeName": "",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -13820,7 +13820,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "7036131880",
    "OpeName": "BVR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -13834,7 +13834,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9849450907",
    "OpeName": "BVR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -13848,7 +13848,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9010095181",
    "OpeName": "BVR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -13871,12 +13871,12 @@ var cust_DB=[
    "LCO ID": 38520,
    "Subscriber Name": "p sai babu",
    "Card No": "2765",
-   "Name": "S GANDHI",
+   "Name": "B SUBBARAO",
    "D No": "18-2-166/2",
-   "Area": "ASR COLONY",
-   "Cel No": "8977575667",
+   "Area": "RAJEEV NAGAR COLONY",
+   "Cel No": "9000261767",
    "OpeName": "BVR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -13904,7 +13904,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9908203561",
    "OpeName": "BVR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -13918,8 +13918,8 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "9553926201",
    "OpeName": "BVR",
-   "Due Date": "17-May-20",
-   "Status": "Inactive"
+   "Due Date": "13-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21966558,
@@ -13932,7 +13932,7 @@ var cust_DB=[
    "Area": "GANDHI NAGAR",
    "Cel No": "9398763180",
    "OpeName": "BVR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -13960,8 +13960,8 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "8341474905",
    "OpeName": "BVR",
-   "Due Date": "28-May-20",
-   "Status": "Inactive"
+   "Due Date": "12-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21966776,
@@ -13974,7 +13974,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9701609099",
    "OpeName": "BVR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -13988,8 +13988,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9492525164",
    "OpeName": "BVSR",
-   "Due Date": "24-Jun-20",
-   "Status": "active"
+   "Due Date": "25-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21966893,
@@ -14002,8 +14002,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9618688660",
    "OpeName": "BVR",
-   "Due Date": "15-May-20",
-   "Status": "Inactive"
+   "Due Date": "14-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21967100,
@@ -14016,7 +14016,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9441046970",
    "OpeName": "BVSR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -14030,7 +14030,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9502947033",
    "OpeName": "BVR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -14044,7 +14044,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9550729437",
    "OpeName": "BVSR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -14058,7 +14058,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9848768696",
    "OpeName": "BVSR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -14072,7 +14072,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "7337521767",
    "OpeName": "BVSR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -14086,8 +14086,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "7095666962",
    "OpeName": "BVSR",
-   "Due Date": "21-Jun-20",
-   "Status": "active"
+   "Due Date": "22-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21979061,
@@ -14100,7 +14100,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "6301664969",
    "OpeName": "PULI",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -14114,7 +14114,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9110326778",
    "OpeName": "BVR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -14128,7 +14128,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8978173883",
    "OpeName": "BVR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -14140,9 +14140,9 @@ var cust_DB=[
    "Name": "PASUPULETI SRINIVAS",
    "D No": "9-4-8/1",
    "Area": "RAJEEV NAGAR COLONY",
-   "Cel No": "9949072945",
+   "Cel No": "9381160591",
    "OpeName": "BVSR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -14156,7 +14156,7 @@ var cust_DB=[
    "Area": "JAGADEESH COLONY",
    "Cel No": "9666798645",
    "OpeName": "BVR",
-   "Due Date": "19-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -14170,7 +14170,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9908452449",
    "OpeName": "BVSR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -14184,7 +14184,7 @@ var cust_DB=[
    "Area": "SANTHI NAGAR",
    "Cel No": "8374904861",
    "OpeName": "BVSR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -14198,7 +14198,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9959118922",
    "OpeName": "BVSR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -14212,7 +14212,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9912448179",
    "OpeName": "BVR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -14226,7 +14226,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9100143055",
    "OpeName": "BVSR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -14240,7 +14240,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "7674957615",
    "OpeName": "BVSR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -14254,7 +14254,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9963610894",
    "OpeName": "BVSR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -14282,7 +14282,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "7093865688",
    "OpeName": "BVSR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -14296,7 +14296,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8919903555",
    "OpeName": "BVSR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -14310,7 +14310,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9177007490",
    "OpeName": "BVR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -14324,7 +14324,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9951198961",
    "OpeName": "BVSR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -14352,7 +14352,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9849708182",
    "OpeName": "BVSR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -14366,7 +14366,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9581514307",
    "OpeName": "BVSR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -14380,7 +14380,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "7386504025",
    "OpeName": "BVSR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -14394,7 +14394,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9908489089",
    "OpeName": "BVSR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -14408,7 +14408,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "7093608798",
    "OpeName": "BVSR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -14422,7 +14422,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9908871090",
    "OpeName": "BVR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -14436,7 +14436,7 @@ var cust_DB=[
    "Area": "0",
    "Cel No": "9866238560",
    "OpeName": "BVSR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -14450,7 +14450,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9702779992",
    "OpeName": "BVSR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -14464,7 +14464,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "8790221295",
    "OpeName": "BVSR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -14478,7 +14478,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9704567829",
    "OpeName": "BVSR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -14492,8 +14492,8 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "16-Apr-20",
-   "Status": "Inactive"
+   "Due Date": "3-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21961614,
@@ -14501,12 +14501,12 @@ var cust_DB=[
    "LCO ID": 38519,
    "Subscriber Name": "Anuradha",
    "Card No": "3297",
-   "Name": "T VIJAYA BHASKAR",
+   "Name": "CH VENKANNA",
    "D No": "19-1-44",
-   "Area": "LAMBADI COLONY",
-   "Cel No": "9848356905",
-   "OpeName": "BVR",
-   "Due Date": "13-Jun-20",
+   "Area": "SRI RAM NAGAR COLONY",
+   "Cel No": "8688443736",
+   "OpeName": "PULI",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -14520,7 +14520,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8978254253",
    "OpeName": "BVR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -14534,7 +14534,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9177694358",
    "OpeName": "BVR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -14543,13 +14543,13 @@ var cust_DB=[
    "LCO ID": 38519,
    "Subscriber Name": "Anuradha",
    "Card No": "2917",
-   "Name": "SK  PASHA",
+   "Name": "SK PASHA",
    "D No": "19 2 142",
    "Area": "ASR COLONY",
    "Cel No": "9912775050",
    "OpeName": "BVR",
-   "Due Date": "30-May-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21961748,
@@ -14562,7 +14562,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9912732733",
    "OpeName": "BVR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -14576,8 +14576,8 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9505525240",
    "OpeName": "PULI",
-   "Due Date": "27-Apr-20",
-   "Status": "Inactive"
+   "Due Date": "8-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21980911,
@@ -14590,7 +14590,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9701414085",
    "OpeName": "BVSR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -14600,12 +14600,12 @@ var cust_DB=[
    "Subscriber Name": "Rammohanarao",
    "Card No": "1852",
    "Name": "KUNJA GANGA RAJU",
-   "D No": "4-31",
+   "D No": "Apr-31",
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9866148604",
    "OpeName": "BVSR",
-   "Due Date": "19-May-20",
-   "Status": "Inactive"
+   "Due Date": "4-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21996521,
@@ -14618,7 +14618,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9515618663",
    "OpeName": "BVSR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -14632,7 +14632,7 @@ var cust_DB=[
    "Area": "VANABOTHULA CHERUVU",
    "Cel No": "9391957117",
    "OpeName": "BVSR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -14642,7 +14642,7 @@ var cust_DB=[
    "Subscriber Name": "p sai babu",
    "Card No": "0",
    "Name": "GUMMADI CHANDRAMMA",
-   "D No": "1-64",
+   "D No": "Jan-64",
    "Area": "MEDVAI",
    "Cel No": "7095753230",
    "OpeName": "KASULA",
@@ -14660,7 +14660,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9440580853",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -14674,7 +14674,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "8008269086",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "19-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -14688,7 +14688,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "7093443724",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -14702,7 +14702,7 @@ var cust_DB=[
    "Area": "YSR NAGAR",
    "Cel No": "8997757760",
    "OpeName": "BVR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -14716,8 +14716,8 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "8106494462",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "18-Jun-20",
-   "Status": "active"
+   "Due Date": "19-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21997239,
@@ -14730,7 +14730,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "0",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -14744,7 +14744,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9705098207",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -14758,8 +14758,8 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "7702305677",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "26-Jun-20",
-   "Status": "active"
+   "Due Date": "27-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21999839,
@@ -14772,7 +14772,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9951176249",
    "OpeName": "BVSR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -14786,7 +14786,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9912161089",
    "OpeName": "BVR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -14800,7 +14800,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9701355606",
    "OpeName": "BVR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -14814,7 +14814,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9704415529",
    "OpeName": "BVR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -14828,7 +14828,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9963248296",
    "OpeName": "BVR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -14842,7 +14842,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9912245628",
    "OpeName": "BVR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -14870,8 +14870,8 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9666061892",
    "OpeName": "BVR",
-   "Due Date": "15-Apr-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21965919,
@@ -14884,8 +14884,8 @@ var cust_DB=[
    "Area": "RAJEEVNAGAR COLONY",
    "Cel No": "7901224642",
    "OpeName": "BVSR",
-   "Due Date": "22-Jun-20",
-   "Status": "active"
+   "Due Date": "23-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21966048,
@@ -14898,7 +14898,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "",
    "OpeName": "BVR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -14912,7 +14912,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "8309991533",
    "OpeName": "BVR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -14926,7 +14926,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8978123020",
    "OpeName": "BVR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -14940,7 +14940,7 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "9494319143",
    "OpeName": "BVR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -14954,7 +14954,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9959815039",
    "OpeName": "BVSR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -14968,7 +14968,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9247462431",
    "OpeName": "BVR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -14982,7 +14982,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9030198169",
    "OpeName": "BVSR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -14996,7 +14996,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "7036990090",
    "OpeName": "BVR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -15010,7 +15010,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9666573626",
    "OpeName": "BVSR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -15024,7 +15024,7 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "8142813798",
    "OpeName": "BVR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -15038,8 +15038,8 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "6302007713",
    "OpeName": "BVSR",
-   "Due Date": "31-May-20",
-   "Status": "Inactive"
+   "Due Date": "2-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21967665,
@@ -15052,7 +15052,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9849356141",
    "OpeName": "BVSR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -15066,7 +15066,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9848370272",
    "OpeName": "PULI",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -15080,7 +15080,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9553074290",
    "OpeName": "PULI",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -15094,8 +15094,8 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9701889642",
    "OpeName": "PULI",
-   "Due Date": "16-Jun-20",
-   "Status": "active"
+   "Due Date": "22-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21979218,
@@ -15108,7 +15108,7 @@ var cust_DB=[
    "Area": "JAGADEESH COLONY",
    "Cel No": "8790910950",
    "OpeName": "BVR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -15122,7 +15122,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9676317925",
    "OpeName": "BVSR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -15136,8 +15136,8 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "0",
    "OpeName": "PULI",
-   "Due Date": "15-Jun-20",
-   "Status": "active"
+   "Due Date": "16-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21980298,
@@ -15150,7 +15150,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9866888246",
    "OpeName": "BVSR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -15164,7 +15164,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9573635312",
    "OpeName": "BVSR",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -15192,7 +15192,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "8555808834",
    "OpeName": "BVSR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -15220,7 +15220,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9553353284",
    "OpeName": "PULI",
-   "Due Date": "17-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -15234,7 +15234,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9912608591",
    "OpeName": "BVSR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -15248,7 +15248,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "7287943391",
    "OpeName": "BVR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -15262,8 +15262,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "7989008448",
    "OpeName": "BVSR",
-   "Due Date": "26-Jun-20",
-   "Status": "active"
+   "Due Date": "27-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21954796,
@@ -15276,7 +15276,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "6302715597",
    "OpeName": "BVR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -15304,8 +15304,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9440670284",
    "OpeName": "BVR",
-   "Due Date": "29-Mar-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21955408,
@@ -15318,7 +15318,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9849697789",
    "OpeName": "BVR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -15332,7 +15332,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9676853119",
    "OpeName": "BVR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -15346,7 +15346,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9705138195",
    "OpeName": "BVSR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -15360,7 +15360,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9951896597",
    "OpeName": "BVR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -15369,12 +15369,12 @@ var cust_DB=[
    "LCO ID": 38519,
    "Subscriber Name": "Rammohanarao",
    "Card No": "#N/A",
-   "Name": "KAVITHA ",
+   "Name": "KAVITHA",
    "D No": "#N/A",
-   "Area": "RAJEEV NAGAR COLONY ",
-   "Cel No": "#N/A",
+   "Area": "RAJEEV NAGAR COLONY",
+   "Cel No": "9392608655",
    "OpeName": "BVSR",
-   "Due Date": "19-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -15388,8 +15388,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9010640306",
    "OpeName": "BVR",
-   "Due Date": "19-Jun-20",
-   "Status": "active"
+   "Due Date": "20-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21958029,
@@ -15402,8 +15402,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "7702685265",
    "OpeName": "BVR",
-   "Due Date": "29-May-20",
-   "Status": "Inactive"
+   "Due Date": "14-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21958227,
@@ -15416,7 +15416,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9948888357",
    "OpeName": "BVSR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -15430,7 +15430,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8008072741",
    "OpeName": "BVR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -15444,7 +15444,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9059200029",
    "OpeName": "BVSR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -15458,7 +15458,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8522827889",
    "OpeName": "BVSR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -15472,8 +15472,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9949422727",
    "OpeName": "BVSR",
-   "Due Date": "26-May-20",
-   "Status": "Inactive"
+   "Due Date": "2-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21961020,
@@ -15486,7 +15486,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9652711524",
    "OpeName": "BVSR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -15500,7 +15500,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9391184260",
    "OpeName": "BVR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -15514,7 +15514,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "8309111535",
    "OpeName": "BVSR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -15528,7 +15528,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9666099322",
    "OpeName": "BVSR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -15542,7 +15542,7 @@ var cust_DB=[
    "Area": "SRI RAMNAGAR COLONY",
    "Cel No": "9985504146",
    "OpeName": "PULI",
-   "Due Date": "5-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -15556,7 +15556,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9100448942",
    "OpeName": "BVR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -15570,7 +15570,7 @@ var cust_DB=[
    "Area": "VANABOTHULA CHERUVU",
    "Cel No": "6305600704",
    "OpeName": "BVSR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -15580,11 +15580,11 @@ var cust_DB=[
    "Subscriber Name": "Rammohanarao",
    "Card No": "5858",
    "Name": "G SHIVA",
-   "D No": "6-34",
+   "D No": "Jun-34",
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9553364852",
    "OpeName": "PULI",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -15598,7 +15598,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9848177461",
    "OpeName": "PULI",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -15612,7 +15612,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9704734357",
    "OpeName": "PULI",
-   "Due Date": "23-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -15626,7 +15626,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9618901356",
    "OpeName": "BVR",
-   "Due Date": "19-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -15640,7 +15640,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9704265700",
    "OpeName": "PULI",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -15654,7 +15654,7 @@ var cust_DB=[
    "Area": "JAGADEESH COLONY",
    "Cel No": "9908349850",
    "OpeName": "BVR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -15668,7 +15668,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9553283408",
    "OpeName": "BVSR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -15696,7 +15696,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9502212006",
    "OpeName": "BVR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -15710,7 +15710,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9912455298",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -15724,7 +15724,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "7052438169",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "14-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -15738,7 +15738,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "0",
    "OpeName": "BVSR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -15752,7 +15752,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9573762561",
    "OpeName": "BVSR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -15762,11 +15762,11 @@ var cust_DB=[
    "Subscriber Name": "Rammohan Rao",
    "Card No": "0",
    "Name": "S SEETHA RAMARAO",
-   "D No": "6/54",
+   "D No": "Jun-54",
    "Area": "SRI RAM NAGAR",
    "Cel No": "9381508170",
    "OpeName": "PULI",
-   "Due Date": "19-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -15780,7 +15780,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9573085749",
    "OpeName": "BVR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -15794,7 +15794,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9603765586",
    "OpeName": "BVR",
-   "Due Date": "19-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -15808,7 +15808,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -15822,7 +15822,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9963928815",
    "OpeName": "BVSR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -15836,7 +15836,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9704407031",
    "OpeName": "BVR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -15850,7 +15850,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9912165784",
    "OpeName": "BVR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -15864,7 +15864,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9912363455",
    "OpeName": "BVSR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -15878,7 +15878,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9985599469",
    "OpeName": "BVR",
-   "Due Date": "26-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -15892,7 +15892,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9966994460",
    "OpeName": "BVSR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -15906,7 +15906,7 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "",
    "OpeName": "BVR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -15920,7 +15920,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9949364040",
    "OpeName": "BVSR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -15934,7 +15934,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9948430037",
    "OpeName": "BVSR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -15943,12 +15943,12 @@ var cust_DB=[
    "LCO ID": 38520,
    "Subscriber Name": "Rammohana Rao",
    "Card No": "3502",
-   "Name": "TUMMALAPLLI KONDAL RAO",
-   "D No": "18 1 173/1",
-   "Area": "ASR COLONY",
-   "Cel No": "9963666803",
+   "Name": "K DARKSHAYANI",
+   "D No": "19 2 150.",
+   "Area": "JAGADESH COLONY",
+   "Cel No": "8179364151",
    "OpeName": "BVR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -15976,8 +15976,8 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9573208815",
    "OpeName": "PULI",
-   "Due Date": "17-May-20",
-   "Status": "Inactive"
+   "Due Date": "6-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21979022,
@@ -15990,7 +15990,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9581880338",
    "OpeName": "PULI",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -16018,7 +16018,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9573376455",
    "OpeName": "PULI",
-   "Due Date": "14-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -16032,7 +16032,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9989663136",
    "OpeName": "PULI",
-   "Due Date": "22-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -16046,7 +16046,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9652328548",
    "OpeName": "PULI",
-   "Due Date": "14-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -16060,7 +16060,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9676526580",
    "OpeName": "PULI",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -16074,8 +16074,8 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9666280302",
    "OpeName": "PULI",
-   "Due Date": "14-Jun-20",
-   "Status": "active"
+   "Due Date": "12-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21980398,
@@ -16088,7 +16088,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -16102,7 +16102,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "7569176586",
    "OpeName": "BVSR",
-   "Due Date": "26-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -16116,7 +16116,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9912242777",
    "OpeName": "BVSR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -16130,7 +16130,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9908124732",
    "OpeName": "BVSR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -16158,7 +16158,7 @@ var cust_DB=[
    "Area": "LF SCHOOL BACK SIDE",
    "Cel No": "9000065817",
    "OpeName": "BVSR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -16172,7 +16172,7 @@ var cust_DB=[
    "Area": "LF SCHOOL BACK SIDE",
    "Cel No": "7981850411",
    "OpeName": "BVSR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -16186,7 +16186,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8106752016",
    "OpeName": "BVSR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -16200,7 +16200,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9704265429",
    "OpeName": "BVSR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -16214,7 +16214,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9542778149",
    "OpeName": "BVR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -16228,7 +16228,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9505137300",
    "OpeName": "BVR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -16270,7 +16270,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8688143303",
    "OpeName": "BVSR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -16284,7 +16284,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9951154411",
    "OpeName": "BVSR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -16298,7 +16298,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8985161405",
    "OpeName": "BVSR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -16312,7 +16312,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9866255492",
    "OpeName": "BVSR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -16326,7 +16326,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9490370905",
    "OpeName": "BVSR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -16340,7 +16340,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9966966442",
    "OpeName": "BVSR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -16354,7 +16354,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9989502084",
    "OpeName": "BVSR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -16368,7 +16368,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9848585243",
    "OpeName": "BVSR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -16382,7 +16382,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9493987697",
    "OpeName": "BVSR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -16396,8 +16396,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9702116170",
    "OpeName": "BVR",
-   "Due Date": "31-May-20",
-   "Status": "Inactive"
+   "Due Date": "1-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21961238,
@@ -16407,10 +16407,10 @@ var cust_DB=[
    "Card No": "1616",
    "Name": "B SUBBARAO",
    "D No": "9 4 44/1E",
-   "Area": "RAJEEV NAGAR COLONY ",
+   "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9000261767",
    "OpeName": "BVSR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -16424,7 +16424,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9666912944",
    "OpeName": "BVSR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -16438,8 +16438,8 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "8555801469",
    "OpeName": "BVSR",
-   "Due Date": "29-Jun-20",
-   "Status": "active"
+   "Due Date": "30-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21961558,
@@ -16452,8 +16452,8 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9550955665",
    "OpeName": "BVR",
-   "Due Date": "21-Jun-20",
-   "Status": "active"
+   "Due Date": "22-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21961603,
@@ -16480,7 +16480,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9666114656",
    "OpeName": "BVR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -16494,7 +16494,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "7794847367",
    "OpeName": "BVR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -16508,7 +16508,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9581718916",
    "OpeName": "BVR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -16522,8 +16522,8 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9515793772",
    "OpeName": "BVR",
-   "Due Date": "19-Jun-20",
-   "Status": "active"
+   "Due Date": "20-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21980152,
@@ -16536,7 +16536,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9912249953",
    "OpeName": "PULI",
-   "Due Date": "17-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -16550,7 +16550,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9908125266",
    "OpeName": "PULI",
-   "Due Date": "17-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -16564,7 +16564,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9000492596",
    "OpeName": "BVSR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -16578,7 +16578,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9010369987",
    "OpeName": "BVR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -16592,7 +16592,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9603429208",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -16606,7 +16606,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9490520886",
    "OpeName": "BVR",
-   "Due Date": "19-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -16634,7 +16634,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "7702597992",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -16648,7 +16648,7 @@ var cust_DB=[
    "Area": "VANABOTHULA CHERUVU",
    "Cel No": "8309168432",
    "OpeName": "BVSR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -16662,7 +16662,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9010855494",
    "OpeName": "BVSR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -16676,7 +16676,7 @@ var cust_DB=[
    "Area": "RICKSHAW COLONY",
    "Cel No": "6305746384",
    "OpeName": "BVR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -16690,8 +16690,8 @@ var cust_DB=[
    "Area": "SHANTHI NAGAR",
    "Cel No": "8333021663",
    "OpeName": "BVSR",
-   "Due Date": "15-Jun-20",
-   "Status": "active"
+   "Due Date": "16-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 22128754,
@@ -16704,7 +16704,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9949819181",
    "OpeName": "PULI",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -16718,7 +16718,7 @@ var cust_DB=[
    "Area": "ADHARSH NAGAR COLONY",
    "Cel No": "9676119442",
    "OpeName": "PULI",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -16732,7 +16732,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8179795319",
    "OpeName": "BVR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -16746,8 +16746,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "79900000000",
    "OpeName": "BVR",
-   "Due Date": "21-Jun-20",
-   "Status": "active"
+   "Due Date": "24-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21965370,
@@ -16774,7 +16774,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9121415885",
    "OpeName": "BVR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -16783,12 +16783,12 @@ var cust_DB=[
    "LCO ID": 38520,
    "Subscriber Name": "p sai babu",
    "Card No": "1529",
-   "Name": "M RAMADEVI",
+   "Name": "G.SRINIVAS RAO",
    "D No": "15953",
-   "Area": "MEDICAL COLONY",
-   "Cel No": "8096304384",
-   "OpeName": "BVSR",
-   "Due Date": "13-Jun-20",
+   "Area": "ADARSHNAGAR COLONY",
+   "Cel No": "9912489081",
+   "OpeName": "PULI",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -16816,7 +16816,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9247370871",
    "OpeName": "BVR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -16830,7 +16830,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9866992623",
    "OpeName": "BVR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -16858,7 +16858,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "7893050149",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -16872,7 +16872,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "7013094662",
    "OpeName": "BVR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -16886,7 +16886,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9676444078",
    "OpeName": "BVR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -16900,8 +16900,8 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "7659819663",
    "OpeName": "BVSR",
-   "Due Date": "15-Jun-20",
-   "Status": "active"
+   "Due Date": "16-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21966574,
@@ -16914,7 +16914,7 @@ var cust_DB=[
    "Area": "GANDHI NAGAR",
    "Cel No": "9866216520",
    "OpeName": "BVR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -16928,8 +16928,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9949689764",
    "OpeName": "BVSR",
-   "Due Date": "24-May-20",
-   "Status": "Inactive"
+   "Due Date": "11-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21966698,
@@ -16942,7 +16942,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "7893779270",
    "OpeName": "BVR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -16970,7 +16970,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9949218153",
    "OpeName": "BVSR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -16984,8 +16984,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9440727672",
    "OpeName": "BVSR",
-   "Due Date": "11-Jun-20",
-   "Status": "active"
+   "Due Date": "12-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21966937,
@@ -16998,7 +16998,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9502888018",
    "OpeName": "BVR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -17012,7 +17012,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "8897610740",
    "OpeName": "BVR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -17026,7 +17026,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "8740888414",
    "OpeName": "BVR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -17040,7 +17040,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9866743696",
    "OpeName": "BVR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -17054,7 +17054,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9949252897",
    "OpeName": "BVR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -17068,7 +17068,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "8897604764",
    "OpeName": "BVSR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -17082,8 +17082,8 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "0",
    "OpeName": "PULI",
-   "Due Date": "17-May-20",
-   "Status": "Inactive"
+   "Due Date": "10-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21979431,
@@ -17096,7 +17096,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9441836422",
    "OpeName": "PULI",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -17110,7 +17110,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9100761849",
    "OpeName": "PULI",
-   "Due Date": "19-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -17124,7 +17124,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "0",
    "OpeName": "PULI",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -17138,7 +17138,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "7901224644",
    "OpeName": "BVSR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -17152,7 +17152,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9849755325",
    "OpeName": "PULI",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -17166,7 +17166,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "7287050059",
    "OpeName": "BVR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -17180,7 +17180,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9948155435",
    "OpeName": "PULI",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -17194,8 +17194,8 @@ var cust_DB=[
    "Area": "0",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "25-May-20",
-   "Status": "Inactive"
+   "Due Date": "3-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21980550,
@@ -17208,7 +17208,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9705342650",
    "OpeName": "BVSR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -17236,7 +17236,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "7702949734",
    "OpeName": "BVSR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -17250,7 +17250,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9701408512",
    "OpeName": "BVSR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -17264,7 +17264,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9866471919",
    "OpeName": "BVSR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -17292,7 +17292,7 @@ var cust_DB=[
    "Area": "SANTHI NAGAR",
    "Cel No": "9492188741",
    "OpeName": "BVSR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -17306,7 +17306,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9000910133",
    "OpeName": "BVR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -17320,7 +17320,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9849777857",
    "OpeName": "BVSR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -17334,7 +17334,7 @@ var cust_DB=[
    "Area": "LF SCHOOL BACK SIDE",
    "Cel No": "9949756088",
    "OpeName": "BVSR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -17348,7 +17348,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9948650132",
    "OpeName": "BVSR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -17362,7 +17362,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "7075645678",
    "OpeName": "BVSR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -17376,7 +17376,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9553585743",
    "OpeName": "BVR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -17390,7 +17390,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9533330494",
    "OpeName": "BVR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -17404,7 +17404,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9849858563",
    "OpeName": "BVSR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -17418,7 +17418,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9030123469",
    "OpeName": "BVSR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -17446,7 +17446,7 @@ var cust_DB=[
    "Area": "GANDHI NAGAR",
    "Cel No": "9701250234",
    "OpeName": "BVR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -17460,8 +17460,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9618695071",
    "OpeName": "BVR",
-   "Due Date": "15-Jun-20",
-   "Status": "active"
+   "Due Date": "16-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21961339,
@@ -17474,7 +17474,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9440095827",
    "OpeName": "BVSR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -17488,7 +17488,7 @@ var cust_DB=[
    "Area": "JAGADEESH COLONY",
    "Cel No": "7901096990",
    "OpeName": "BVR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -17502,7 +17502,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "7816039128",
    "OpeName": "BVSR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -17516,7 +17516,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "8106257244",
    "OpeName": "BVSR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -17530,7 +17530,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "7680822504",
    "OpeName": "BVR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -17544,7 +17544,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9866865767",
    "OpeName": "BVR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -17558,7 +17558,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9866537424",
    "OpeName": "BVR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -17572,7 +17572,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9346898319",
    "OpeName": "BVSR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -17586,7 +17586,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "7981927183",
    "OpeName": "PULI",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -17600,7 +17600,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "8897330967",
    "OpeName": "PULI",
-   "Due Date": "19-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -17628,7 +17628,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "7981486822",
    "OpeName": "PULI",
-   "Due Date": "3-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -17642,7 +17642,7 @@ var cust_DB=[
    "Area": "SRI RAM NAGAR COLONY",
    "Cel No": "9014504134",
    "OpeName": "PULI",
-   "Due Date": "17-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -17656,7 +17656,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9866154850",
    "OpeName": "PULI",
-   "Due Date": "5-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -17670,7 +17670,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9704201041",
    "OpeName": "PULI",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -17684,7 +17684,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9963532892",
    "OpeName": "BVSR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -17698,7 +17698,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "7995230974",
    "OpeName": "BVSR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -17712,8 +17712,8 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "7386480319",
    "OpeName": "BVR",
-   "Due Date": "25-May-20",
-   "Status": "Inactive"
+   "Due Date": "5-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21996506,
@@ -17726,7 +17726,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -17740,7 +17740,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9182579975",
    "OpeName": "BVR",
-   "Due Date": "19-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -17754,7 +17754,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "961842603",
    "OpeName": "PULI",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -17768,7 +17768,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "0",
    "OpeName": "PULI",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -17782,7 +17782,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9912309295",
    "OpeName": "BVSR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -17824,7 +17824,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9989502534",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "21-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -17838,7 +17838,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "8374184864",
    "OpeName": "bvr",
-   "Due Date": "6-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -17866,7 +17866,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "6305864409",
    "OpeName": "BVR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -17880,7 +17880,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9705397655",
    "OpeName": "BVR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -17894,8 +17894,8 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9989304631",
    "OpeName": "BVR",
-   "Due Date": "18-May-20",
-   "Status": "Inactive"
+   "Due Date": "2-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21965604,
@@ -17908,7 +17908,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "7285991090",
    "OpeName": "BVR",
-   "Due Date": "24-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -17922,7 +17922,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9490424031",
    "OpeName": "BVR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -17936,7 +17936,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9346024787",
    "OpeName": "BVSR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -17950,7 +17950,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "8897884811",
    "OpeName": "BVSR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -17964,7 +17964,7 @@ var cust_DB=[
    "Area": "GANDHI NAGAR",
    "Cel No": "7032542245",
    "OpeName": "BVR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -17978,7 +17978,7 @@ var cust_DB=[
    "Area": "GANDHI NAGAR",
    "Cel No": "9010248001",
    "OpeName": "BVR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -17992,7 +17992,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9550250425",
    "OpeName": "BVR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -18006,7 +18006,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "6031189358",
    "OpeName": "BVR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -18020,7 +18020,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9493335553",
    "OpeName": "BVR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -18034,7 +18034,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -18048,7 +18048,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "7386852036",
    "OpeName": "BVR",
-   "Due Date": "24-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -18062,7 +18062,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9052571571",
    "OpeName": "BVR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -18076,7 +18076,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9676853495",
    "OpeName": "BVR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -18090,7 +18090,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9866549798",
    "OpeName": "BVR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -18118,8 +18118,8 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9515416378",
    "OpeName": "BVR",
-   "Due Date": "26-Jun-20",
-   "Status": "active"
+   "Due Date": "27-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21967347,
@@ -18132,7 +18132,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "8520829120",
    "OpeName": "BVR",
-   "Due Date": "19-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -18146,7 +18146,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9866460579",
    "OpeName": "BVSR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -18160,7 +18160,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9963315060",
    "OpeName": "BVSR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -18174,7 +18174,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9666168817",
    "OpeName": "PULI",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -18188,7 +18188,7 @@ var cust_DB=[
    "Area": "ST ANNS OPP",
    "Cel No": "8179925878",
    "OpeName": "PULI",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -18202,7 +18202,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "7829528223",
    "OpeName": "PULI",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -18216,7 +18216,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "8886866903",
    "OpeName": "PULI",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -18230,7 +18230,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "7093706073",
    "OpeName": "PULI",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -18244,7 +18244,7 @@ var cust_DB=[
    "Area": "SRINIVASA NAGAR",
    "Cel No": "9490476628",
    "OpeName": "puli",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -18258,8 +18258,8 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "8886891807",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21980255,
@@ -18272,8 +18272,8 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9705205441",
    "OpeName": "PULI",
-   "Due Date": "13-Jun-20",
-   "Status": "active"
+   "Due Date": "14-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21980441,
@@ -18286,7 +18286,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9160604487",
    "OpeName": "BVSR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -18314,7 +18314,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9381160591",
    "OpeName": "BVSR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -18328,7 +18328,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9848380096",
    "OpeName": "BVSR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -18356,7 +18356,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8008320847",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -18384,7 +18384,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9908089042",
    "OpeName": "BVR",
-   "Due Date": "19-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -18398,7 +18398,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8885965965",
    "OpeName": "BVR",
-   "Due Date": "19-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -18412,7 +18412,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8186806509",
    "OpeName": "BVR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -18426,7 +18426,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9948265459",
    "OpeName": "BVR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -18440,8 +18440,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9959314414",
    "OpeName": "BVSR",
-   "Due Date": "18-May-20",
-   "Status": "Inactive"
+   "Due Date": "7-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21956261,
@@ -18454,7 +18454,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9948794819",
    "OpeName": "BVR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -18468,8 +18468,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9866513192",
    "OpeName": "BVSR",
-   "Due Date": "27-May-20",
-   "Status": "Inactive"
+   "Due Date": "#N/A",
+   "Status": "#N/A"
  },
  {
    "Sms ID": 21956469,
@@ -18482,7 +18482,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9618372815",
    "OpeName": "BVR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -18496,8 +18496,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9133510570",
    "OpeName": "BVSR",
-   "Due Date": "23-Mar-20",
-   "Status": "Inactive"
+   "Due Date": "24-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21956713,
@@ -18510,7 +18510,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9396282269",
    "OpeName": "BVSR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -18524,7 +18524,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9441746368",
    "OpeName": "BVSR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -18538,7 +18538,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9948488635",
    "OpeName": "BVSR",
-   "Due Date": "26-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -18552,7 +18552,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9704619856",
    "OpeName": "BVSR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -18566,7 +18566,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8106598420",
    "OpeName": "BVR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -18580,7 +18580,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "6302011578",
    "OpeName": "BVSR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -18594,7 +18594,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9494196740",
    "OpeName": "BVSR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -18608,7 +18608,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "7730030092",
    "OpeName": "BVSR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -18622,7 +18622,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9849146396",
    "OpeName": "BVSR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -18636,7 +18636,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9866996541",
    "OpeName": "BVSR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -18650,7 +18650,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8179061006",
    "OpeName": "BVSR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -18664,7 +18664,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9490517286",
    "OpeName": "BVSR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -18678,7 +18678,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9949681039",
    "OpeName": "BVSR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -18692,8 +18692,8 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9381157919",
    "OpeName": "BVSR",
-   "Due Date": "22-Apr-20",
-   "Status": "Inactive"
+   "Due Date": "27-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21961121,
@@ -18706,7 +18706,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "7382856747",
    "OpeName": "BVR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -18720,8 +18720,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9642108895",
    "OpeName": "BVR",
-   "Due Date": "29-May-20",
-   "Status": "Inactive"
+   "Due Date": "15-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21961255,
@@ -18734,7 +18734,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9705195644",
    "OpeName": "BVR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -18748,7 +18748,7 @@ var cust_DB=[
    "Area": "YSR NAGAR",
    "Cel No": "7893778985",
    "OpeName": "BVR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -18762,7 +18762,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9502949171",
    "OpeName": "BVR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -18776,7 +18776,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "6305380565",
    "OpeName": "BVR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -18790,7 +18790,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9052896862",
    "OpeName": "BVR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -18804,7 +18804,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "8374270748",
    "OpeName": "BVR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -18818,8 +18818,8 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "7675077355",
    "OpeName": "BVR",
-   "Due Date": "30-Apr-20",
-   "Status": "Inactive"
+   "Due Date": "23-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21961636,
@@ -18832,8 +18832,8 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "20-Jun-20",
-   "Status": "active"
+   "Due Date": "21-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21980728,
@@ -18846,8 +18846,8 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "7995253343",
    "OpeName": "PULI",
-   "Due Date": "18-Jun-20",
-   "Status": "active"
+   "Due Date": "19-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21980943,
@@ -18860,7 +18860,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "7095022143",
    "OpeName": "BVSR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -18874,7 +18874,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "7032192868",
    "OpeName": "BVSR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -18888,7 +18888,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9985006225",
    "OpeName": "BVR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -18902,7 +18902,7 @@ var cust_DB=[
    "Area": "YSR NAGAR",
    "Cel No": "9533383576",
    "OpeName": "BVR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -18916,7 +18916,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9959747511",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -18930,7 +18930,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "7893779407",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -18972,7 +18972,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "7661052295",
    "OpeName": "BVR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -18986,7 +18986,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -19000,7 +19000,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "7093105224",
    "OpeName": "BVR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -19028,7 +19028,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9550729765",
    "OpeName": "BVR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -19042,7 +19042,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "24-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -19056,7 +19056,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9618626169",
    "OpeName": "BVSR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -19070,7 +19070,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9652719842",
    "OpeName": "BVR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -19084,7 +19084,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9177180004",
    "OpeName": "BVR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -19098,7 +19098,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "8466860680",
    "OpeName": "BVR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -19112,7 +19112,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9052739995",
    "OpeName": "BVR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -19126,7 +19126,7 @@ var cust_DB=[
    "Area": "",
    "Cel No": "",
    "OpeName": "",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -19140,7 +19140,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "8978782485",
    "OpeName": "BVR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -19154,7 +19154,7 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "9985754746",
    "OpeName": "BVR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -19168,8 +19168,8 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "8096931710",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "25-May-20",
-   "Status": "Inactive"
+   "Due Date": "4-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21979023,
@@ -19182,7 +19182,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "7989329579",
    "OpeName": "PULI",
-   "Due Date": "5-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -19196,8 +19196,8 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9676858592",
    "OpeName": "PULI",
-   "Due Date": "22-Mar-20",
-   "Status": "Inactive"
+   "Due Date": "8-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21979241,
@@ -19210,7 +19210,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9603841255",
    "OpeName": "PULI",
-   "Due Date": "15-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -19224,7 +19224,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9642281709",
    "OpeName": "PULI",
-   "Due Date": "21-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -19238,7 +19238,7 @@ var cust_DB=[
    "Area": "0",
    "Cel No": "7993166968",
    "OpeName": "PULI",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -19252,7 +19252,7 @@ var cust_DB=[
    "Area": "RICKSHAW COLONY",
    "Cel No": "7799189236",
    "OpeName": "BVR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -19266,7 +19266,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8179354239",
    "OpeName": "BVSR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -19280,7 +19280,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9959345578",
    "OpeName": "BVR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -19294,7 +19294,7 @@ var cust_DB=[
    "Area": "GANDHI NAGAR",
    "Cel No": "8498084454",
    "OpeName": "BVR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -19308,7 +19308,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8106060929",
    "OpeName": "BVR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -19322,7 +19322,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9390898288",
    "OpeName": "BVSR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -19331,12 +19331,12 @@ var cust_DB=[
    "LCO ID": 38519,
    "Subscriber Name": "Rammohanarao",
    "Card No": "1077",
-   "Name": "Totamalla Gurumurthy",
-   "D No": "9-1-94/7",
-   "Area": "MEDICAL COLONY",
-   "Cel No": "9603232528",
-   "OpeName": "BVSR",
-   "Due Date": "18-Jun-20",
+   "Name": "M SRINIVAS",
+   "D No": "18-2-154/1.",
+   "Area": "ASR COLONY",
+   "Cel No": "9705317834",
+   "OpeName": "BVR",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -19350,7 +19350,7 @@ var cust_DB=[
    "Area": "LF SCHOOL BACK SIDE",
    "Cel No": "8096359767",
    "OpeName": "BVSR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -19364,7 +19364,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9652711679",
    "OpeName": "BVR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -19378,7 +19378,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8978944104",
    "OpeName": "BVR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -19392,7 +19392,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9908268200",
    "OpeName": "BVR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -19406,7 +19406,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8817756185",
    "OpeName": "BVR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -19420,7 +19420,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9052969540",
    "OpeName": "BVSR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -19429,13 +19429,13 @@ var cust_DB=[
    "LCO ID": 38519,
    "Subscriber Name": "Rammohanarao",
    "Card No": "1256",
-   "Name": "M ARUNA",
-   "D No": "9 1 34/A",
-   "Area": "MEDICAL COLONY",
-   "Cel No": "9948120246",
-   "OpeName": "BVSR",
-   "Due Date": "30-May-20",
-   "Status": "Inactive"
+   "Name": "J APARNA",
+   "D No": "7-49.",
+   "Area": "SRI RAM NAGAR COLONY",
+   "Cel No": "9100736398",
+   "OpeName": "PULI",
+   "Due Date": "11-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21960218,
@@ -19448,8 +19448,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8340048515",
    "OpeName": "BVSR",
-   "Due Date": "24-May-20",
-   "Status": "Inactive"
+   "Due Date": "3-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21960404,
@@ -19462,7 +19462,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9618651463",
    "OpeName": "BVSR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -19490,7 +19490,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "6301332918",
    "OpeName": "BVSR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -19504,7 +19504,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "7760269459",
    "OpeName": "BVSR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -19518,7 +19518,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9441319888",
    "OpeName": "BVR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -19532,8 +19532,8 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "8919486369",
    "OpeName": "BVSR",
-   "Due Date": "30-May-20",
-   "Status": "Inactive"
+   "Due Date": "21-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21961498,
@@ -19546,7 +19546,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9618859317",
    "OpeName": "BVR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -19560,7 +19560,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9505485783",
    "OpeName": "BVR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -19588,7 +19588,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9493332657",
    "OpeName": "BVSR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -19602,7 +19602,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9866219299",
    "OpeName": "BVR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -19612,11 +19612,11 @@ var cust_DB=[
    "Subscriber Name": "Rammohanarao",
    "Card No": "5860",
    "Name": "B BABURAO",
-   "D No": "6-39",
+   "D No": "Jun-39",
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9951227044",
    "OpeName": "PULI",
-   "Due Date": "22-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -19630,8 +19630,8 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9989536445",
    "OpeName": "BVSR",
-   "Due Date": "15-Jun-20",
-   "Status": "active"
+   "Due Date": "16-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21996586,
@@ -19644,7 +19644,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9553154255",
    "OpeName": "BVR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -19658,7 +19658,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "8340047580",
    "OpeName": "BVR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -19672,7 +19672,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9640549697",
    "OpeName": "BVR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -19686,7 +19686,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "8799221296",
    "OpeName": "BVR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -19700,8 +19700,8 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9603141665",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "29-Jun-20",
-   "Status": "active"
+   "Due Date": "30-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21997360,
@@ -19714,7 +19714,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "8499043627",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -19728,7 +19728,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9100610863",
    "OpeName": "BVSR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -19756,7 +19756,7 @@ var cust_DB=[
    "Area": "RIKSHAW COLONY",
    "Cel No": "9948178553",
    "OpeName": "BVR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -19770,8 +19770,8 @@ var cust_DB=[
    "Area": "",
    "Cel No": "",
    "OpeName": "",
-   "Due Date": "31-May-20",
-   "Status": "Inactive"
+   "Due Date": "8-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 22050526,
@@ -19784,7 +19784,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "6371582447",
    "OpeName": "PULI",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -19798,7 +19798,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9963278569",
    "OpeName": "BVR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -19826,7 +19826,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9701121671",
    "OpeName": "BVR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -19840,7 +19840,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9390965397",
    "OpeName": "BVR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -19896,7 +19896,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9951351281",
    "OpeName": "BVR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -19910,7 +19910,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9505542979",
    "OpeName": "BVR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -19924,8 +19924,8 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "7670844787",
    "OpeName": "BVR",
-   "Due Date": "8-May-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21965742,
@@ -19952,7 +19952,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "8340861891",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -19966,7 +19966,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9705289641",
    "OpeName": "BVR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -19980,7 +19980,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9652335244",
    "OpeName": "BVR",
-   "Due Date": "27-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -19994,7 +19994,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "8688336858",
    "OpeName": "BVR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -20008,7 +20008,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9618165517",
    "OpeName": "BVSR",
-   "Due Date": "25-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -20022,7 +20022,7 @@ var cust_DB=[
    "Area": "GANDHI NAGAR",
    "Cel No": "9866285491",
    "OpeName": "BVR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -20036,7 +20036,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "29-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -20064,7 +20064,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9963654757",
    "OpeName": "BVR",
-   "Due Date": "19-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -20078,7 +20078,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9949658101",
    "OpeName": "BVR",
-   "Due Date": "19-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -20092,7 +20092,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9849830285",
    "OpeName": "BVR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -20106,7 +20106,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9866260646",
    "OpeName": "BVR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -20120,7 +20120,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9346274129",
    "OpeName": "BVR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -20134,7 +20134,7 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "9603803913",
    "OpeName": "BVR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -20148,8 +20148,8 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9642770024",
    "OpeName": "BVR",
-   "Due Date": "24-May-20",
-   "Status": "Inactive"
+   "Due Date": "8-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21967340,
@@ -20162,7 +20162,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "8179411185",
    "OpeName": "BVR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -20176,7 +20176,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9505138381",
    "OpeName": "BVSR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -20190,7 +20190,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9440507967",
    "OpeName": "PULI",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -20204,7 +20204,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9963654787",
    "OpeName": "PULI",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -20218,7 +20218,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9010503358",
    "OpeName": "PULI",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -20246,7 +20246,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9502824826",
    "OpeName": "PULI",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -20260,7 +20260,7 @@ var cust_DB=[
    "Area": "YSR NAGAR",
    "Cel No": "8919697100",
    "OpeName": "BVR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -20274,7 +20274,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9866422125",
    "OpeName": "BVSR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -20288,8 +20288,8 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "7799333255",
    "OpeName": "BVR",
-   "Due Date": "26-Jun-20",
-   "Status": "active"
+   "Due Date": "27-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21954642,
@@ -20302,7 +20302,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9603895789",
    "OpeName": "BVR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -20316,7 +20316,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "7032687224",
    "OpeName": "BVR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -20330,7 +20330,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9951227428",
    "OpeName": "BVR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -20344,8 +20344,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8184917585",
    "OpeName": "BVR",
-   "Due Date": "26-May-20",
-   "Status": "Inactive"
+   "Due Date": "1-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21954897,
@@ -20358,7 +20358,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9908741440",
    "OpeName": "BVSR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -20372,7 +20372,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -20386,7 +20386,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9515851374",
    "OpeName": "BVR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -20400,7 +20400,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9515851374",
    "OpeName": "BVR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -20414,7 +20414,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9908087691",
    "OpeName": "BVR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -20428,7 +20428,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8466911686",
    "OpeName": "BVR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -20442,7 +20442,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9177344711",
    "OpeName": "BVSR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -20456,7 +20456,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9550637068",
    "OpeName": "BVR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -20498,7 +20498,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9490472083",
    "OpeName": "BVSR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -20512,8 +20512,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9640409244",
    "OpeName": "BVSR",
-   "Due Date": "24-Apr-20",
-   "Status": "Inactive"
+   "Due Date": "19-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21958852,
@@ -20526,7 +20526,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9618122590",
    "OpeName": "PULI",
-   "Due Date": "27-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -20568,7 +20568,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9059641391",
    "OpeName": "BVR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -20582,7 +20582,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9441321613",
    "OpeName": "BVSR",
-   "Due Date": "19-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -20610,7 +20610,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9492308984",
    "OpeName": "BVR",
-   "Due Date": "19-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -20624,7 +20624,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9550636516",
    "OpeName": "BVR",
-   "Due Date": "19-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -20638,8 +20638,8 @@ var cust_DB=[
    "Area": "RAJEEVNAGAR COLONY",
    "Cel No": "9966289804",
    "OpeName": "BVSR",
-   "Due Date": "21-May-20",
-   "Status": "Inactive"
+   "Due Date": "5-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21961422,
@@ -20652,8 +20652,8 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9391252888",
    "OpeName": "BVSR",
-   "Due Date": "22-May-20",
-   "Status": "Inactive"
+   "Due Date": "1-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21961445,
@@ -20666,7 +20666,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9704449341",
    "OpeName": "BVR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -20694,7 +20694,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9985425393",
    "OpeName": "BVR",
-   "Due Date": "19-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -20708,7 +20708,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9866248972",
    "OpeName": "BVSR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -20722,7 +20722,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "7036535016",
    "OpeName": "PULI",
-   "Due Date": "2-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -20736,7 +20736,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "7702788835",
    "OpeName": "PULI",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -20750,8 +20750,8 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "8179273733",
    "OpeName": "PULI",
-   "Due Date": "23-May-20",
-   "Status": "Inactive"
+   "Due Date": "4-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21980813,
@@ -20764,7 +20764,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9676796109",
    "OpeName": "PULI",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -20778,7 +20778,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9542399053",
    "OpeName": "BVSR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -20792,8 +20792,8 @@ var cust_DB=[
    "Area": "PALAKENDRAM",
    "Cel No": "9912455397",
    "OpeName": "KASULA",
-   "Due Date": "22-Jan-20",
-   "Status": "Inactive"
+   "Due Date": "8-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21996956,
@@ -20806,7 +20806,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9948448273",
    "OpeName": "BVSR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -20820,7 +20820,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "0",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "19-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -20834,7 +20834,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9177483646",
    "OpeName": "BVSR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -20848,7 +20848,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9440779407",
    "OpeName": "BVR",
-   "Due Date": "19-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -20862,7 +20862,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "8978394589",
    "OpeName": "BVR",
-   "Due Date": "19-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -20876,7 +20876,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "8096077261",
    "OpeName": "BVR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -20890,7 +20890,7 @@ var cust_DB=[
    "Area": "YSR NAGAR",
    "Cel No": "9160648930",
    "OpeName": "BVR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -20904,7 +20904,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9000629289",
    "OpeName": "BVR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -20918,7 +20918,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9618162890",
    "OpeName": "BVR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -20932,7 +20932,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "8978756159",
    "OpeName": "BVR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -20946,8 +20946,8 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "7093552779",
    "OpeName": "BVSR",
-   "Due Date": "26-Jun-20",
-   "Status": "active"
+   "Due Date": "27-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21966809,
@@ -20960,8 +20960,8 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9959650924",
    "OpeName": "BVR",
-   "Due Date": "23-May-20",
-   "Status": "Inactive"
+   "Due Date": "14-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21966824,
@@ -20974,7 +20974,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9676742335",
    "OpeName": "BVR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -20988,7 +20988,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9553404701",
    "OpeName": "BVR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -21002,8 +21002,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9515391201",
    "OpeName": "BVSR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "6-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21966920,
@@ -21016,7 +21016,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9705482889",
    "OpeName": "BVSR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -21030,7 +21030,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "8074309989",
    "OpeName": "BVR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -21044,7 +21044,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9010094594",
    "OpeName": "BVR",
-   "Due Date": "19-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -21072,7 +21072,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9912404982",
    "OpeName": "BVR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -21086,7 +21086,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "0",
    "OpeName": "PULI",
-   "Due Date": "24-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -21100,8 +21100,8 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9381509139",
    "OpeName": "PULI",
-   "Due Date": "27-Jun-20",
-   "Status": "active"
+   "Due Date": "28-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21980446,
@@ -21114,7 +21114,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "6300183763",
    "OpeName": "BVSR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -21128,7 +21128,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9989463496",
    "OpeName": "BVR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -21142,8 +21142,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9182161247",
    "OpeName": "BVSR",
-   "Due Date": "27-May-20",
-   "Status": "Inactive"
+   "Due Date": "#N/A",
+   "Status": "#N/A"
  },
  {
    "Sms ID": 21980879,
@@ -21156,7 +21156,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9949259662",
    "OpeName": "PULI",
-   "Due Date": "23-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -21170,7 +21170,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9642950156",
    "OpeName": "BVR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -21184,8 +21184,8 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9491694281",
    "OpeName": "BVR",
-   "Due Date": "26-Jun-20",
-   "Status": "active"
+   "Due Date": "27-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21955822,
@@ -21198,7 +21198,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "7306808702",
    "OpeName": "BVR",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -21212,7 +21212,7 @@ var cust_DB=[
    "Area": "LF SCHOOL BACK SIDE",
    "Cel No": "9441321812",
    "OpeName": "BVSR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -21240,7 +21240,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9603334162",
    "OpeName": "BVSR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -21254,7 +21254,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9398524342",
    "OpeName": "BVSR",
-   "Due Date": "26-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -21268,7 +21268,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "7702320143",
    "OpeName": "BVSR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -21296,7 +21296,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9542832467",
    "OpeName": "BVSR",
-   "Due Date": "24-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -21310,8 +21310,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9652223176",
    "OpeName": "BVR",
-   "Due Date": "5-May-20",
-   "Status": "Inactive"
+   "Due Date": "22-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21961157,
@@ -21324,7 +21324,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "8520887101",
    "OpeName": "BVR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -21338,8 +21338,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "24-Jun-20",
-   "Status": "active"
+   "Due Date": "25-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21961325,
@@ -21352,8 +21352,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9704862793",
    "OpeName": "BVSR",
-   "Due Date": "7-May-20",
-   "Status": "Inactive"
+   "Due Date": "4-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21961444,
@@ -21380,7 +21380,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9642717187",
    "OpeName": "BVSR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -21394,8 +21394,8 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9951011910",
    "OpeName": "BVSR",
-   "Due Date": "23-Apr-20",
-   "Status": "Inactive"
+   "Due Date": "14-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21961729,
@@ -21408,7 +21408,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -21422,8 +21422,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9989099961",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "1-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21980363,
@@ -21436,7 +21436,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9573586048",
    "OpeName": "PULI",
-   "Due Date": "19-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -21450,7 +21450,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9866459158",
    "OpeName": "PULI",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -21464,7 +21464,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "8985129321",
    "OpeName": "BVSR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -21478,8 +21478,8 @@ var cust_DB=[
    "Area": "SRI RAMNAGAR COLONY",
    "Cel No": "9177661942",
    "OpeName": "PULI",
-   "Due Date": "29-Jun-20",
-   "Status": "active"
+   "Due Date": "30-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21981577,
@@ -21506,7 +21506,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "8374162050",
    "OpeName": "BVR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -21520,7 +21520,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9505505250",
    "OpeName": "BVR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -21534,7 +21534,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9963849895",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -21548,7 +21548,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9542672572",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -21576,7 +21576,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "7660007695",
    "OpeName": "BVR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -21590,7 +21590,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9441236286",
    "OpeName": "BVR",
-   "Due Date": "19-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -21604,7 +21604,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "6342666623",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "22-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -21618,7 +21618,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9912414119",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "25-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -21632,8 +21632,8 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9963121599",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21997208,
@@ -21646,7 +21646,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "0",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -21660,7 +21660,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9581819190",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -21674,7 +21674,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9849172893",
    "OpeName": "BVR",
-   "Due Date": "25-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -21688,7 +21688,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "8074680336",
    "OpeName": "BVSR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -21702,7 +21702,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9010157437",
    "OpeName": "BVSR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -21716,7 +21716,7 @@ var cust_DB=[
    "Area": "YSR NAGAR",
    "Cel No": "7569886988",
    "OpeName": "BVR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -21730,7 +21730,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9866813155",
    "OpeName": "BVSR",
-   "Due Date": "19-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -21744,7 +21744,7 @@ var cust_DB=[
    "Area": "JAGADEESH COLONY",
    "Cel No": "6305324504",
    "OpeName": "BVR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -21758,8 +21758,8 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "8096077261",
    "OpeName": "BVR",
-   "Due Date": "28-May-20",
-   "Status": "Inactive"
+   "Due Date": "3-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21965180,
@@ -21772,7 +21772,7 @@ var cust_DB=[
    "Area": "0",
    "Cel No": "9000952148",
    "OpeName": "BVR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -21786,7 +21786,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9966539392",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -21800,7 +21800,7 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "9010289742",
    "OpeName": "BVR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -21814,7 +21814,7 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "9912203036",
    "OpeName": "BVR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -21828,8 +21828,8 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9573201920",
    "OpeName": "BVSR",
-   "Due Date": "25-Jun-20",
-   "Status": "active"
+   "Due Date": "26-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21966118,
@@ -21842,7 +21842,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9963102726",
    "OpeName": "BVSR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -21856,7 +21856,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9676337315",
    "OpeName": "BVR",
-   "Due Date": "26-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -21870,7 +21870,7 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "9553926201",
    "OpeName": "BVR",
-   "Due Date": "19-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -21884,8 +21884,8 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "8374752863",
    "OpeName": "BVR",
-   "Due Date": "29-May-20",
-   "Status": "Inactive"
+   "Due Date": "#N/A",
+   "Status": "#N/A"
  },
  {
    "Sms ID": 21966292,
@@ -21898,7 +21898,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9908051505",
    "OpeName": "BVR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -21912,8 +21912,8 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "7095021709",
    "OpeName": "BVR",
-   "Due Date": "31-May-20",
-   "Status": "Inactive"
+   "Due Date": "5-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21966578,
@@ -21926,7 +21926,7 @@ var cust_DB=[
    "Area": "GANDHI NAGAR",
    "Cel No": "9966456595",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -21940,8 +21940,8 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "970305233",
    "OpeName": "BVR",
-   "Due Date": "14-Jun-20",
-   "Status": "active"
+   "Due Date": "15-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21966771,
@@ -21954,7 +21954,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9704265690",
    "OpeName": "BVR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -21968,7 +21968,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "0",
    "OpeName": "BVSR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -21982,8 +21982,8 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9908045902",
    "OpeName": "BVSR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21967009,
@@ -21996,7 +21996,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "7032617098",
    "OpeName": "BVR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -22010,7 +22010,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9553351114",
    "OpeName": "BVSR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -22023,8 +22023,8 @@ var cust_DB=[
    "D No": "9 1 77/3",
    "Area": "MEDICAL COLONY",
    "Cel No": "9493844835",
-   "OpeName": "BVSR ",
-   "Due Date": "15-Jun-20",
+   "OpeName": "BVSR",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -22038,7 +22038,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "6300283958",
    "OpeName": "BVR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -22052,7 +22052,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9701493040",
    "OpeName": "BVSR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -22066,7 +22066,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9959066413",
    "OpeName": "PULI",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -22080,7 +22080,7 @@ var cust_DB=[
    "Area": "ST ANNS OPP",
    "Cel No": "9032385016",
    "OpeName": "PULI",
-   "Due Date": "16-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -22094,7 +22094,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9701409570",
    "OpeName": "BVR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -22108,7 +22108,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "6305669362",
    "OpeName": "BVSR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -22122,7 +22122,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9704237183",
    "OpeName": "BVSR",
-   "Due Date": "19-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -22136,7 +22136,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9908154492",
    "OpeName": "BVSR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -22150,7 +22150,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9866560336",
    "OpeName": "BVSR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -22164,7 +22164,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9959063569",
    "OpeName": "BVSR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -22178,7 +22178,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9959589897",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -22192,7 +22192,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8374172508",
    "OpeName": "BVSR",
-   "Due Date": "25-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -22206,8 +22206,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9704120341",
    "OpeName": "BVR",
-   "Due Date": "20-May-20",
-   "Status": "Inactive"
+   "Due Date": "5-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21956788,
@@ -22220,7 +22220,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9603370667",
    "OpeName": "BVR",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -22234,7 +22234,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9866954614",
    "OpeName": "BVSR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -22248,7 +22248,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9705809708",
    "OpeName": "BVR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -22304,7 +22304,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "7993551542",
    "OpeName": "BVR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -22318,7 +22318,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8897103738",
    "OpeName": "BVR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -22332,7 +22332,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "8374622198",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "17-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -22346,7 +22346,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "",
    "OpeName": "BVR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -22360,7 +22360,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9515545078",
    "OpeName": "BVR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -22374,7 +22374,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9701395752",
    "OpeName": "BVR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -22388,8 +22388,8 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9618142841",
    "OpeName": "BVSR",
-   "Due Date": "21-May-20",
-   "Status": "Inactive"
+   "Due Date": "4-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21980829,
@@ -22402,7 +22402,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "0",
    "OpeName": "PULI",
-   "Due Date": "15-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -22416,7 +22416,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "8499998104",
    "OpeName": "BVSR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -22430,7 +22430,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "0",
    "OpeName": "BVSR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -22444,7 +22444,7 @@ var cust_DB=[
    "Area": "RAJEEVNAGAR COLONY",
    "Cel No": "9963068547",
    "OpeName": "BVSR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -22458,7 +22458,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9177927794",
    "OpeName": "BVR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -22472,7 +22472,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9701409644",
    "OpeName": "BVR",
-   "Due Date": "27-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -22486,7 +22486,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "8498862239",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "9-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -22500,7 +22500,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9642277857",
    "OpeName": "BVR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -22514,8 +22514,8 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9542973982",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "3-Apr-20",
-   "Status": "Inactive"
+   "Due Date": "27-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21997127,
@@ -22528,7 +22528,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9553457001",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "29-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -22542,7 +22542,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9014632442",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -22556,7 +22556,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9441695155",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "23-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -22570,7 +22570,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9490559703",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "24-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -22580,12 +22580,12 @@ var cust_DB=[
    "Subscriber Name": "P Sai Babu",
    "Card No": "0",
    "Name": "R SURI",
-   "D No": "5-79",
+   "D No": "May-79",
    "Area": "SRI RAMNAGAR COLONY",
    "Cel No": "8331990346",
    "OpeName": "PULI",
-   "Due Date": "1-Jun-20",
-   "Status": "active"
+   "Due Date": "2-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21997240,
@@ -22598,8 +22598,8 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9989479098",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "21-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21997247,
@@ -22612,7 +22612,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "8184981651",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "25-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -22626,7 +22626,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "7799676162",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -22640,7 +22640,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9491766246",
    "OpeName": "BVSR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -22668,7 +22668,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9010036477",
    "OpeName": "BVSR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -22682,7 +22682,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9441817579",
    "OpeName": "BVSR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -22710,7 +22710,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9701909795",
    "OpeName": "BVR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -22724,7 +22724,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9490958696",
    "OpeName": "BVR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -22738,7 +22738,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9177698250",
    "OpeName": "BVSR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -22752,7 +22752,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9908321523",
    "OpeName": "BVR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -22766,8 +22766,8 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9550729351",
    "OpeName": "BVR",
-   "Due Date": "26-May-20",
-   "Status": "Inactive"
+   "Due Date": "6-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21966838,
@@ -22780,7 +22780,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "8886892050",
    "OpeName": "BVSR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -22794,7 +22794,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9490833978",
    "OpeName": "BVSR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -22808,8 +22808,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9553437000",
    "OpeName": "BVSR",
-   "Due Date": "23-Apr-20",
-   "Status": "Inactive"
+   "Due Date": "26-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21966913,
@@ -22822,8 +22822,8 @@ var cust_DB=[
    "Area": "YSR NAGAR",
    "Cel No": "8008116137",
    "OpeName": "BVR",
-   "Due Date": "24-Jun-20",
-   "Status": "active"
+   "Due Date": "25-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21966928,
@@ -22836,7 +22836,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8374753421",
    "OpeName": "BVR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -22850,7 +22850,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9100696029",
    "OpeName": "BVR",
-   "Due Date": "19-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -22864,7 +22864,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9989778176",
    "OpeName": "BVSR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -22878,7 +22878,7 @@ var cust_DB=[
    "Area": "SRI RAM NAGAR COLONY",
    "Cel No": "9573206822",
    "OpeName": "PULI",
-   "Due Date": "1-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -22892,7 +22892,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9000851983",
    "OpeName": "BVR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -22906,7 +22906,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -22920,7 +22920,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9346121644",
    "OpeName": "BVR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -22934,8 +22934,8 @@ var cust_DB=[
    "Area": "rajeev nagar colony",
    "Cel No": "9133248447",
    "OpeName": "BVSR",
-   "Due Date": "23-May-20",
-   "Status": "Inactive"
+   "Due Date": "2-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21979043,
@@ -22948,7 +22948,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "0",
    "OpeName": "PULI",
-   "Due Date": "21-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -22962,7 +22962,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9908876865",
    "OpeName": "PULI",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -22990,7 +22990,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9182125291",
    "OpeName": "PULI",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -23004,7 +23004,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9666556026",
    "OpeName": "PULI",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -23032,7 +23032,7 @@ var cust_DB=[
    "Area": "TSRJC",
    "Cel No": "9989696044",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -23046,7 +23046,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9441746528",
    "OpeName": "BVSR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -23060,8 +23060,8 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9492501979",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
-   "Status": "active"
+   "Due Date": "2-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21956100,
@@ -23074,7 +23074,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9849376729",
    "OpeName": "BVSR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -23088,7 +23088,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "7288842047",
    "OpeName": "BVR",
-   "Due Date": "25-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -23102,7 +23102,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9959495635",
    "OpeName": "BVR",
-   "Due Date": "24-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -23116,8 +23116,8 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "9494514920",
    "OpeName": "BVR",
-   "Due Date": "28-Jun-20",
-   "Status": "active"
+   "Due Date": "29-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21960023,
@@ -23130,7 +23130,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9347969648",
    "OpeName": "BVSR",
-   "Due Date": "25-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -23144,7 +23144,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9440508293",
    "OpeName": "BVSR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -23158,7 +23158,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9705117544",
    "OpeName": "BVSR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -23172,7 +23172,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8790345403",
    "OpeName": "BVR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -23200,7 +23200,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9949696978",
    "OpeName": "BVSR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -23214,7 +23214,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9948679015",
    "OpeName": "BVSR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -23228,7 +23228,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9381948750",
    "OpeName": "BVR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -23256,8 +23256,8 @@ var cust_DB=[
    "Area": "SANTHI NAGAR",
    "Cel No": "8008085887",
    "OpeName": "BVSR",
-   "Due Date": "24-May-20",
-   "Status": "Inactive"
+   "Due Date": "4-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21961672,
@@ -23298,7 +23298,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9866312108",
    "OpeName": "BVR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -23312,7 +23312,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "7330977278",
    "OpeName": "BVR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -23326,8 +23326,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9866549918",
    "OpeName": "BVR",
-   "Due Date": "7-May-20",
-   "Status": "Inactive"
+   "Due Date": "16-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21961785,
@@ -23340,8 +23340,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "6281134302",
    "OpeName": "BVR",
-   "Due Date": "6-May-20",
-   "Status": "Inactive"
+   "Due Date": "22-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21979091,
@@ -23354,8 +23354,8 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "8008074689",
    "OpeName": "PULI",
-   "Due Date": "26-May-20",
-   "Status": "Inactive"
+   "Due Date": "22-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21979157,
@@ -23368,7 +23368,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "7993984644",
    "OpeName": "PULI",
-   "Due Date": "11-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -23382,8 +23382,8 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "6302162348",
    "OpeName": "PULI",
-   "Due Date": "24-May-20",
-   "Status": "Inactive"
+   "Due Date": "15-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21980190,
@@ -23406,11 +23406,11 @@ var cust_DB=[
    "Subscriber Name": "Rammohana Rao",
    "Card No": "5581",
    "Name": "B NAGAMANI",
-   "D No": "9-5-81\n  SECOND LINE",
+   "D No": "9-5-81\nSECOND LINE",
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9502667311",
    "OpeName": "PULI",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -23424,7 +23424,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "6305016471",
    "OpeName": "PULI",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -23438,8 +23438,8 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "8367213223",
    "OpeName": "PULI",
-   "Due Date": "26-Jun-20",
-   "Status": "active"
+   "Due Date": "27-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21980967,
@@ -23452,7 +23452,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9652711279",
    "OpeName": "BVSR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -23466,7 +23466,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9440669102",
    "OpeName": "BVR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -23480,7 +23480,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9866294391",
    "OpeName": "BVR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -23494,7 +23494,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "7729928770",
    "OpeName": "PULI",
-   "Due Date": "26-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -23508,7 +23508,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "7334286959",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "22-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -23522,7 +23522,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9177091072",
    "OpeName": "BVSR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -23536,7 +23536,7 @@ var cust_DB=[
    "Area": "#N/A",
    "Cel No": "8309687384",
    "OpeName": "#N/A",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -23550,8 +23550,8 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9000017559",
    "OpeName": "BVSR",
-   "Due Date": "22-Jun-20",
-   "Status": "active"
+   "Due Date": "23-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21965246,
@@ -23564,7 +23564,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "7673993903",
    "OpeName": "BVR",
-   "Due Date": "26-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -23578,7 +23578,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9912310978",
    "OpeName": "BVSR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -23592,7 +23592,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9703254726",
    "OpeName": "BVR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -23606,7 +23606,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "8374923011",
    "OpeName": "BVR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -23620,7 +23620,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9948023966",
    "OpeName": "BVR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -23634,8 +23634,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "6303926685",
    "OpeName": "BVR",
-   "Due Date": "24-Jun-20",
-   "Status": "active"
+   "Due Date": "25-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21966582,
@@ -23648,7 +23648,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9010246210",
    "OpeName": "BVR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -23662,7 +23662,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9581200311",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -23676,7 +23676,7 @@ var cust_DB=[
    "Area": "0",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -23690,7 +23690,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9963898236",
    "OpeName": "BVR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -23704,7 +23704,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9553586709",
    "OpeName": "BVSR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -23718,7 +23718,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9052839060",
    "OpeName": "BVR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -23732,7 +23732,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9948448291",
    "OpeName": "BVSR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -23746,7 +23746,7 @@ var cust_DB=[
    "Area": "JAGADEESH COLONY",
    "Cel No": "9949879010",
    "OpeName": "BVR",
-   "Due Date": "26-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -23760,7 +23760,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -23774,7 +23774,7 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "9550242682",
    "OpeName": "BVR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -23802,8 +23802,8 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9347005863",
    "OpeName": "PULI",
-   "Due Date": "29-Jun-20",
-   "Status": "active"
+   "Due Date": "30-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21967350,
@@ -23816,7 +23816,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9652627787",
    "OpeName": "BVR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -23830,7 +23830,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9652194341",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -23844,8 +23844,8 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9951341210",
    "OpeName": "PULI",
-   "Due Date": "5-Jun-20",
-   "Status": "active"
+   "Due Date": "6-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21979105,
@@ -23858,8 +23858,8 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9949241091",
    "OpeName": "PULI",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "1-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21979412,
@@ -23886,8 +23886,8 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9908148289",
    "OpeName": "PULI",
-   "Due Date": "24-Jun-20",
-   "Status": "active"
+   "Due Date": "25-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21979491,
@@ -23914,7 +23914,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9502904810",
    "OpeName": "PULI",
-   "Due Date": "11-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -23928,8 +23928,8 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9652323376",
    "OpeName": "BVR",
-   "Due Date": "26-May-20",
-   "Status": "Inactive"
+   "Due Date": "3-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21980625,
@@ -23956,7 +23956,7 @@ var cust_DB=[
    "Area": "0",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -23984,7 +23984,7 @@ var cust_DB=[
    "Area": "SRI RAMNAGAR COLONY",
    "Cel No": "8463935954",
    "OpeName": "PULI",
-   "Due Date": "24-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -24012,7 +24012,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "900314556",
    "OpeName": "BVR",
-   "Due Date": "24-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -24040,7 +24040,7 @@ var cust_DB=[
    "Area": "LF SCHOOL BACK SIDE",
    "Cel No": "7093060851",
    "OpeName": "BVSR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -24054,7 +24054,7 @@ var cust_DB=[
    "Area": "LF SCHOOL BACK SIDE",
    "Cel No": "9949949039",
    "OpeName": "BVSR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -24068,7 +24068,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9533812161",
    "OpeName": "BVSR",
-   "Due Date": "24-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -24082,7 +24082,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8897537338",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -24096,7 +24096,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9849629135",
    "OpeName": "BVSR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -24124,7 +24124,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9949241889",
    "OpeName": "BVSR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -24138,8 +24138,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9959429872",
    "OpeName": "BVSR",
-   "Due Date": "25-Apr-20",
-   "Status": "Inactive"
+   "Due Date": "24-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21961060,
@@ -24152,7 +24152,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9505771805",
    "OpeName": "BVSR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -24166,8 +24166,8 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9912999416",
    "OpeName": "PULI",
-   "Due Date": "26-Mar-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21980621,
@@ -24180,7 +24180,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9959549944",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -24194,7 +24194,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9949417355",
    "OpeName": "BVSR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -24208,7 +24208,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "960375257",
    "OpeName": "PULI",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -24222,7 +24222,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "7995755024",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -24236,7 +24236,7 @@ var cust_DB=[
    "Area": "YSR NAGAR",
    "Cel No": "9491399220",
    "OpeName": "BVR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -24250,7 +24250,7 @@ var cust_DB=[
    "Area": "YSR NAGAR",
    "Cel No": "7075211122",
    "OpeName": "BVR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -24264,8 +24264,8 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9701841426",
    "OpeName": "BVR",
-   "Due Date": "23-Jun-20",
-   "Status": "active"
+   "Due Date": "5-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21999728,
@@ -24278,8 +24278,8 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "8367443109",
    "OpeName": "BVSR",
-   "Due Date": "31-May-20",
-   "Status": "Inactive"
+   "Due Date": "3-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 22050825,
@@ -24292,8 +24292,8 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "22-Jun-20",
-   "Status": "active"
+   "Due Date": "23-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 22089463,
@@ -24306,7 +24306,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "8008146531",
    "OpeName": "BVSR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "17-Aug-20",
    "Status": "active"
  },
  {
@@ -24320,7 +24320,7 @@ var cust_DB=[
    "Area": "YSR NAGAR",
    "Cel No": "9603088617",
    "OpeName": "BVR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -24334,7 +24334,7 @@ var cust_DB=[
    "Area": "SUNDHARAIAH NAGAR",
    "Cel No": "9121060735",
    "OpeName": "BVSR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -24348,7 +24348,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9848302663",
    "OpeName": "BVR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -24362,8 +24362,8 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "8096106192",
    "OpeName": "BVR",
-   "Due Date": "31-May-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21965288,
@@ -24376,7 +24376,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9849902365",
    "OpeName": "BVR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -24390,8 +24390,8 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "8790717318",
    "OpeName": "BVR",
-   "Due Date": "25-May-20",
-   "Status": "Inactive"
+   "Due Date": "5-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21966100,
@@ -24404,7 +24404,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9502268318",
    "OpeName": "BVR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -24418,7 +24418,7 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "9959575460",
    "OpeName": "BVR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -24432,7 +24432,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9951625293",
    "OpeName": "BVR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -24446,7 +24446,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9490144080",
    "OpeName": "BVR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -24460,7 +24460,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "8374154052",
    "OpeName": "BVR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -24474,8 +24474,8 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "6304609020",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21967679,
@@ -24502,8 +24502,8 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9949532365",
    "OpeName": "PULI",
-   "Due Date": "20-Jun-20",
-   "Status": "active"
+   "Due Date": "21-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21979020,
@@ -24516,7 +24516,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9949931894",
    "OpeName": "PULI",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -24544,7 +24544,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "6302058438",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -24558,7 +24558,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "0",
    "OpeName": "PULI",
-   "Due Date": "25-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -24572,7 +24572,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "7095649182",
    "OpeName": "BVR",
-   "Due Date": "25-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -24600,8 +24600,8 @@ var cust_DB=[
    "Area": "ITDA",
    "Cel No": "9177702524",
    "OpeName": "BVSR",
-   "Due Date": "25-Jun-20",
-   "Status": "active"
+   "Due Date": "26-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21956334,
@@ -24614,7 +24614,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9553458879",
    "OpeName": "BVR",
-   "Due Date": "24-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -24628,7 +24628,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9908349918",
    "OpeName": "BVSR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -24642,7 +24642,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9701402789",
    "OpeName": "BVR",
-   "Due Date": "24-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -24656,8 +24656,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9290453597",
    "OpeName": "BVSR",
-   "Due Date": "23-May-20",
-   "Status": "Inactive"
+   "Due Date": "15-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21957169,
@@ -24670,7 +24670,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9652784474",
    "OpeName": "BVSR",
-   "Due Date": "24-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -24684,7 +24684,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9951843700",
    "OpeName": "BVSR",
-   "Due Date": "24-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -24698,8 +24698,8 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9676610315",
    "OpeName": "BVR",
-   "Due Date": "23-Jun-20",
-   "Status": "active"
+   "Due Date": "24-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21961214,
@@ -24707,12 +24707,12 @@ var cust_DB=[
    "LCO ID": 38519,
    "Subscriber Name": "Rammohana Rao",
    "Card No": "2848",
-   "Name": "IPPA SHANTHA",
-   "D No": "19 2 72",
+   "Name": "P RAMBABU",
+   "D No": "19 2 293.",
    "Area": "JAGADESH COLONY",
-   "Cel No": "9177449104",
+   "Cel No": "9676074845",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -24726,7 +24726,7 @@ var cust_DB=[
    "Area": "YSR NAGAR",
    "Cel No": "9676730746",
    "OpeName": "BVR",
-   "Due Date": "24-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -24740,7 +24740,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9542399010",
    "OpeName": "BVSR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -24754,7 +24754,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9553050073",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -24768,7 +24768,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "8008123356",
    "OpeName": "BVR",
-   "Due Date": "27-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -24782,7 +24782,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "7285990063",
    "OpeName": "BVR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -24796,7 +24796,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9290665461",
    "OpeName": "BVR",
-   "Due Date": "24-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -24810,7 +24810,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9704775212",
    "OpeName": "PULI",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -24824,8 +24824,8 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9440359147",
    "OpeName": "PULI",
-   "Due Date": "26-Jun-20",
-   "Status": "active"
+   "Due Date": "27-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21980254,
@@ -24838,7 +24838,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9666531413",
    "OpeName": "PULI",
-   "Due Date": "24-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -24852,7 +24852,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9666330113",
    "OpeName": "PULI",
-   "Due Date": "25-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -24866,8 +24866,8 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9573206822",
    "OpeName": "PULI",
-   "Due Date": "29-Apr-20",
-   "Status": "Inactive"
+   "Due Date": "27-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21980706,
@@ -24880,7 +24880,7 @@ var cust_DB=[
    "Area": "JAGADEESH COLONY",
    "Cel No": "9573537211",
    "OpeName": "BVR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -24894,7 +24894,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "7036684974",
    "OpeName": "BVSR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -24908,7 +24908,7 @@ var cust_DB=[
    "Area": "JAGADEESH COLONY",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -24922,7 +24922,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9381738934",
    "OpeName": "PULI",
-   "Due Date": "11-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -24936,7 +24936,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9618368848",
    "OpeName": "BVSR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -24950,7 +24950,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9603425236",
    "OpeName": "BVR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -24964,7 +24964,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9866485080",
    "OpeName": "BVR",
-   "Due Date": "25-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -24978,7 +24978,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "8008165808",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "25-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -24992,7 +24992,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9949889801",
    "OpeName": "BVR",
-   "Due Date": "24-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -25006,7 +25006,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9603269105",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "13-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -25020,7 +25020,7 @@ var cust_DB=[
    "Area": "VANABOTHULA CHERUVU",
    "Cel No": "9959844080",
    "OpeName": "BVSR",
-   "Due Date": "25-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -25034,7 +25034,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9866852246",
    "OpeName": "BVSR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -25048,7 +25048,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9652548780",
    "OpeName": "BVR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -25062,7 +25062,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9701815194",
    "OpeName": "BVSR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -25076,7 +25076,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "7901224657",
    "OpeName": "BVR",
-   "Due Date": "25-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -25090,7 +25090,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9848340031",
    "OpeName": "BVR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -25104,7 +25104,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9177699809",
    "OpeName": "BVR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -25118,7 +25118,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9701409570",
    "OpeName": "BVR",
-   "Due Date": "24-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -25132,7 +25132,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9652942529",
    "OpeName": "BVR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -25146,7 +25146,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9948221614",
    "OpeName": "BVR",
-   "Due Date": "24-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -25160,7 +25160,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9505429873",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -25174,7 +25174,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9948532477",
    "OpeName": "BVR",
-   "Due Date": "26-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -25188,8 +25188,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8179106948",
    "OpeName": "BVR",
-   "Due Date": "29-May-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21965635,
@@ -25202,8 +25202,8 @@ var cust_DB=[
    "Area": "#N/A",
    "Cel No": "8106307377",
    "OpeName": "#N/A",
-   "Due Date": "27-May-20",
-   "Status": "Inactive"
+   "Due Date": "#N/A",
+   "Status": "#N/A"
  },
  {
    "Sms ID": 21965915,
@@ -25216,7 +25216,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9642289487",
    "OpeName": "BVR",
-   "Due Date": "24-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -25258,8 +25258,8 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "8374900839",
    "OpeName": "BVR",
-   "Due Date": "26-May-20",
-   "Status": "Inactive"
+   "Due Date": "1-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21967249,
@@ -25272,8 +25272,8 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9776006648",
    "OpeName": "BVR",
-   "Due Date": "28-Jun-20",
-   "Status": "active"
+   "Due Date": "29-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21967676,
@@ -25300,7 +25300,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9989830932",
    "OpeName": "PULI",
-   "Due Date": "24-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -25314,7 +25314,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9704332324",
    "OpeName": "PULI",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -25328,7 +25328,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9640172449",
    "OpeName": "PULI",
-   "Due Date": "25-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -25342,7 +25342,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "8978661240",
    "OpeName": "PULI",
-   "Due Date": "1-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -25356,8 +25356,8 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9949157587",
    "OpeName": "PULI",
-   "Due Date": "29-Jun-20",
-   "Status": "active"
+   "Due Date": "#N/A",
+   "Status": "#N/A"
  },
  {
    "Sms ID": 21980262,
@@ -25370,7 +25370,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9963246099",
    "OpeName": "BVSR",
-   "Due Date": "25-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -25384,7 +25384,7 @@ var cust_DB=[
    "Area": "",
    "Cel No": "",
    "OpeName": "",
-   "Due Date": "16-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -25398,7 +25398,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9642445874",
    "OpeName": "BVR",
-   "Due Date": "25-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -25426,7 +25426,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9676119443",
    "OpeName": "PULI",
-   "Due Date": "25-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -25440,7 +25440,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9640045005",
    "OpeName": "BVSR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -25454,8 +25454,8 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9912165784",
    "OpeName": "BVR",
-   "Due Date": "26-May-20",
-   "Status": "Inactive"
+   "Due Date": "15-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21954749,
@@ -25468,7 +25468,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8499993779",
    "OpeName": "BVSR",
-   "Due Date": "25-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -25496,7 +25496,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "7382857065",
    "OpeName": "BVR",
-   "Due Date": "26-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -25510,7 +25510,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9052072144",
    "OpeName": "BVSR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -25524,7 +25524,7 @@ var cust_DB=[
    "Area": "LF SCHOOL BACK SIDE",
    "Cel No": "9705300120",
    "OpeName": "BVSR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -25538,8 +25538,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9133118640",
    "OpeName": "BVR",
-   "Due Date": "9-May-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21956324,
@@ -25552,7 +25552,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "7729059845",
    "OpeName": "BVSR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -25566,7 +25566,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9440841584",
    "OpeName": "BVSR",
-   "Due Date": "26-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -25580,7 +25580,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9059397971",
    "OpeName": "BVR",
-   "Due Date": "25-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -25594,7 +25594,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9133829398",
    "OpeName": "BVSR",
-   "Due Date": "27-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -25608,7 +25608,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9963920624",
    "OpeName": "BVSR",
-   "Due Date": "24-Jun-20",
+   "Due Date": "23-Aug-20",
    "Status": "active"
  },
  {
@@ -25622,7 +25622,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9849999276",
    "OpeName": "BVSR",
-   "Due Date": "29-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -25636,7 +25636,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8121476561",
    "OpeName": "BVSR",
-   "Due Date": "25-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -25650,7 +25650,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9581333866",
    "OpeName": "BVSR",
-   "Due Date": "25-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -25664,7 +25664,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "8978847532",
    "OpeName": "BVSR",
-   "Due Date": "25-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -25678,8 +25678,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "7013126220",
    "OpeName": "BVR",
-   "Due Date": "25-Jun-20",
-   "Status": "active"
+   "Due Date": "#N/A",
+   "Status": "#N/A"
  },
  {
    "Sms ID": 21961760,
@@ -25692,7 +25692,7 @@ var cust_DB=[
    "Area": "GANDHI NAGAR",
    "Cel No": "9392502844",
    "OpeName": "BVR",
-   "Due Date": "25-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -25706,7 +25706,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9885776174",
    "OpeName": "PULI",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -25720,8 +25720,8 @@ var cust_DB=[
    "Area": "SRINIVASA NAGAR",
    "Cel No": "9381467081",
    "OpeName": "PULI",
-   "Due Date": "31-May-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21980305,
@@ -25734,7 +25734,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9885757975",
    "OpeName": "PULI",
-   "Due Date": "24-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -25748,7 +25748,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "7093507022",
    "OpeName": "PULI",
-   "Due Date": "29-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -25762,7 +25762,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9010384268",
    "OpeName": "PULI",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -25790,7 +25790,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9440446658",
    "OpeName": "BVR",
-   "Due Date": "29-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -25804,7 +25804,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9705454313",
    "OpeName": "PULI",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -25818,7 +25818,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9652942382",
    "OpeName": "PULI",
-   "Due Date": "25-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -25846,8 +25846,8 @@ var cust_DB=[
    "Area": "YSR NAGAR",
    "Cel No": "9010395358",
    "OpeName": "BVR",
-   "Due Date": "20-May-20",
-   "Status": "Inactive"
+   "Due Date": "7-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21997083,
@@ -25860,7 +25860,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9912892471",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "25-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -25874,7 +25874,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9121465799",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "25-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -25888,7 +25888,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "7285990159",
    "OpeName": "BVSR",
-   "Due Date": "27-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -25902,7 +25902,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "7680077248",
    "OpeName": "BVR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -25916,7 +25916,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9866956877",
    "OpeName": "BVSR",
-   "Due Date": "26-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -25930,7 +25930,7 @@ var cust_DB=[
    "Area": "A S R COLONY",
    "Cel No": "9666225020",
    "OpeName": "BVR",
-   "Due Date": "25-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -25944,7 +25944,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9291422389",
    "OpeName": "BVSR",
-   "Due Date": "26-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -25958,7 +25958,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9505662451",
    "OpeName": "BVR",
-   "Due Date": "25-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -25972,7 +25972,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "8374191873",
    "OpeName": "BVR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -25986,7 +25986,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9963838081",
    "OpeName": "BVR",
-   "Due Date": "24-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -26000,8 +26000,8 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9581662878",
    "OpeName": "BVR",
-   "Due Date": "24-May-20",
-   "Status": "Inactive"
+   "Due Date": "10-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21965714,
@@ -26014,8 +26014,8 @@ var cust_DB=[
    "Area": "A S R COLONY",
    "Cel No": "9949679576",
    "OpeName": "BVR",
-   "Due Date": "28-May-20",
-   "Status": "Inactive"
+   "Due Date": "7-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21965868,
@@ -26028,7 +26028,7 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "9177024813",
    "OpeName": "BVR",
-   "Due Date": "29-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -26042,7 +26042,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9948299200",
    "OpeName": "BVSR",
-   "Due Date": "24-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -26056,7 +26056,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8106610693",
    "OpeName": "BVSR",
-   "Due Date": "25-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -26084,7 +26084,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9948174433",
    "OpeName": "BVR",
-   "Due Date": "26-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -26112,7 +26112,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9949401882",
    "OpeName": "BVR",
-   "Due Date": "25-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -26126,7 +26126,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9573070023",
    "OpeName": "BVR",
-   "Due Date": "19-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -26140,7 +26140,7 @@ var cust_DB=[
    "Area": "RICKSHAW COLONY",
    "Cel No": "9951185557",
    "OpeName": "BVR",
-   "Due Date": "24-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -26154,7 +26154,7 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -26168,7 +26168,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9866149114",
    "OpeName": "BVR",
-   "Due Date": "25-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -26182,7 +26182,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "7995157346",
    "OpeName": "PULI",
-   "Due Date": "25-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -26196,8 +26196,8 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9494041990",
    "OpeName": "PULI",
-   "Due Date": "29-May-20",
-   "Status": "Inactive"
+   "Due Date": "2-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21979073,
@@ -26210,7 +26210,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9951778943",
    "OpeName": "PULI",
-   "Due Date": "25-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -26224,7 +26224,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9848370272",
    "OpeName": "PULI",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -26238,8 +26238,8 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9949336754",
    "OpeName": "PULI",
-   "Due Date": "28-Jun-20",
-   "Status": "active"
+   "Due Date": "29-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21979560,
@@ -26252,8 +26252,8 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9701527819",
    "OpeName": "BVR",
-   "Due Date": "31-May-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21980185,
@@ -26266,7 +26266,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "6305065291",
    "OpeName": "PULI",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -26280,7 +26280,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9949408159",
    "OpeName": "PULI",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -26294,7 +26294,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9949253115",
    "OpeName": "BVSR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -26308,8 +26308,8 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "9989640173",
    "OpeName": "BVR",
-   "Due Date": "29-May-20",
-   "Status": "Inactive"
+   "Due Date": "1-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21980827,
@@ -26322,7 +26322,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9912157147",
    "OpeName": "BVSR",
-   "Due Date": "25-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -26336,7 +26336,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9963881960",
    "OpeName": "PULI",
-   "Due Date": "25-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -26346,11 +26346,11 @@ var cust_DB=[
    "Subscriber Name": "P Mohan",
    "Card No": "#N/A",
    "Name": "P.MOHAN",
-   "D No": "6-87",
+   "D No": "Jun-87",
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9441803051",
    "OpeName": "PULI",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -26364,7 +26364,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9652711725",
    "OpeName": "BVR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -26378,7 +26378,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9866793240",
    "OpeName": "BVSR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -26392,7 +26392,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "7981479562",
    "OpeName": "BVSR",
-   "Due Date": "26-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -26406,7 +26406,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "7382552772",
    "OpeName": "BVR",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -26420,7 +26420,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9248172465",
    "OpeName": "BVSR",
-   "Due Date": "26-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -26434,7 +26434,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8106308453",
    "OpeName": "BVSR",
-   "Due Date": "26-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -26448,7 +26448,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9949681559",
    "OpeName": "BVSR",
-   "Due Date": "26-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -26462,7 +26462,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "7780422613",
    "OpeName": "BVSR",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -26476,8 +26476,8 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9703121140",
    "OpeName": "BVSR",
-   "Due Date": "31-May-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21960980,
@@ -26485,13 +26485,13 @@ var cust_DB=[
    "LCO ID": 38519,
    "Subscriber Name": "Rammohanarao",
    "Card No": "1388",
-   "Name": "KONDA VIJAYALAKSHMI",
-   "D No": "9 1 80/A1",
-   "Area": "MEDICAL COLONY",
-   "Cel No": "9959575492",
-   "OpeName": "BVSR",
-   "Due Date": "7-May-20",
-   "Status": "Inactive"
+   "Name": "D VENKANNA",
+   "D No": "1-219.",
+   "Area": "SRIRAMNAGAR COLONY",
+   "Cel No": "9188975847",
+   "OpeName": "PULI",
+   "Due Date": "18-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21961089,
@@ -26504,8 +26504,8 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9985525698",
    "OpeName": "BVR",
-   "Due Date": "31-May-20",
-   "Status": "Inactive"
+   "Due Date": "2-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21961262,
@@ -26518,7 +26518,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9912108269",
    "OpeName": "BVSR",
-   "Due Date": "26-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -26532,7 +26532,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "8498849746",
    "OpeName": "BVSR",
-   "Due Date": "26-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -26546,7 +26546,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9959118214",
    "OpeName": "BVR",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -26560,8 +26560,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9959037466",
    "OpeName": "BVR",
-   "Due Date": "31-May-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21961740,
@@ -26574,7 +26574,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9705359543",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -26588,7 +26588,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9963981142",
    "OpeName": "PULI",
-   "Due Date": "30-Jun-20",
+   "Due Date": "30-Jul-20",
    "Status": "active"
  },
  {
@@ -26602,7 +26602,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9989244600",
    "OpeName": "PULI",
-   "Due Date": "26-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -26616,7 +26616,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9550225221",
    "OpeName": "PULI",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -26630,7 +26630,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9010068442",
    "OpeName": "BVSR",
-   "Due Date": "26-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -26644,8 +26644,8 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9052395140",
    "OpeName": "BVR",
-   "Due Date": "29-May-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21996754,
@@ -26658,7 +26658,7 @@ var cust_DB=[
    "Area": "YSR NAGAR",
    "Cel No": "9290495155",
    "OpeName": "BVR",
-   "Due Date": "26-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -26672,8 +26672,8 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9550140462",
    "OpeName": "BVR",
-   "Due Date": "8-Jun-20",
-   "Status": "active"
+   "Due Date": "9-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21996822,
@@ -26686,7 +26686,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9666315316",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "26-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -26700,7 +26700,7 @@ var cust_DB=[
    "Area": "YSR NAGAR",
    "Cel No": "9949723613",
    "OpeName": "BVR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -26714,7 +26714,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9177712209",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -26728,7 +26728,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9640627894",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "1-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -26756,7 +26756,7 @@ var cust_DB=[
    "Area": "ST.ANNS SCHOOL",
    "Cel No": "7337424090",
    "OpeName": "PULI",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -26770,7 +26770,7 @@ var cust_DB=[
    "Area": "TSRJC",
    "Cel No": "8790997892",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "26-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -26784,7 +26784,7 @@ var cust_DB=[
    "Area": "ADHARSH NAGAR COLONY",
    "Cel No": "9542378003",
    "OpeName": "PULI",
-   "Due Date": "26-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -26798,7 +26798,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9491540589",
    "OpeName": "BVR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -26812,7 +26812,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9652787371",
    "OpeName": "BVR",
-   "Due Date": "24-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -26840,7 +26840,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "8897499386",
    "OpeName": "BVR",
-   "Due Date": "26-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -26854,7 +26854,7 @@ var cust_DB=[
    "Area": "JAGADEESH COLONY",
    "Cel No": "9014240031",
    "OpeName": "BVR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -26868,7 +26868,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9866954625",
    "OpeName": "BVR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -26882,7 +26882,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9441700489",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -26910,7 +26910,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9618452848",
    "OpeName": "BVSR",
-   "Due Date": "26-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -26924,7 +26924,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9618154024",
    "OpeName": "BVR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -26938,7 +26938,7 @@ var cust_DB=[
    "Area": "GANDHI NAGAR",
    "Cel No": "7949222741",
    "OpeName": "BVR",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -26952,7 +26952,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9493120338",
    "OpeName": "BVR",
-   "Due Date": "27-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -26966,8 +26966,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9963111753",
    "OpeName": "BVR",
-   "Due Date": "28-Jun-20",
-   "Status": "active"
+   "Due Date": "29-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21967050,
@@ -26980,7 +26980,7 @@ var cust_DB=[
    "Area": "0",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -26994,7 +26994,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9652718659",
    "OpeName": "BVR",
-   "Due Date": "26-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -27008,8 +27008,8 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "8106514844",
    "OpeName": "PULI",
-   "Due Date": "28-May-20",
-   "Status": "Inactive"
+   "Due Date": "5-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21979078,
@@ -27022,7 +27022,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9000470757",
    "OpeName": "PULI",
-   "Due Date": "26-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -27036,7 +27036,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9640829161",
    "OpeName": "PULI",
-   "Due Date": "26-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -27050,7 +27050,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "6301657576",
    "OpeName": "PULI",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -27064,7 +27064,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9948897785",
    "OpeName": "PULI",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -27078,8 +27078,8 @@ var cust_DB=[
    "Area": "RAJEEVNAGAR COLONY",
    "Cel No": "9440256466",
    "OpeName": "BVSR",
-   "Due Date": "27-Jun-20",
-   "Status": "active"
+   "Due Date": "28-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21980289,
@@ -27092,7 +27092,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8919599394",
    "OpeName": "BVSR",
-   "Due Date": "24-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -27106,7 +27106,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9848591434",
    "OpeName": "BVR",
-   "Due Date": "30-Jun-20",
+   "Due Date": "30-Jul-20",
    "Status": "active"
  },
  {
@@ -27134,7 +27134,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9010655012",
    "OpeName": "PULI",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -27148,7 +27148,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9550584495",
    "OpeName": "BVSR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -27162,7 +27162,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9550998534",
    "OpeName": "BVR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "8-Aug-20",
    "Status": "active"
  },
  {
@@ -27176,7 +27176,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9441192562",
    "OpeName": "BVSR",
-   "Due Date": "26-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -27190,7 +27190,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9951235038",
    "OpeName": "BVR",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -27218,7 +27218,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9052704757",
    "OpeName": "BVSR",
-   "Due Date": "25-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -27232,7 +27232,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9963265051",
    "OpeName": "BVSR",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -27246,7 +27246,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9704647663",
    "OpeName": "BVR",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -27260,7 +27260,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9010149361",
    "OpeName": "BVSR",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -27274,7 +27274,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9502198104",
    "OpeName": "BVSR",
-   "Due Date": "27-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -27302,7 +27302,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9491403978",
    "OpeName": "BVSR",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -27316,7 +27316,7 @@ var cust_DB=[
    "Area": "JAGADEESH COLONY",
    "Cel No": "8790722294",
    "OpeName": "BVR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -27330,7 +27330,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9642844622",
    "OpeName": "BVSR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -27344,8 +27344,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9885339514",
    "OpeName": "BVSR",
-   "Due Date": "28-Jun-20",
-   "Status": "active"
+   "Due Date": "3-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21960909,
@@ -27358,8 +27358,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9030893313",
    "OpeName": "BVSR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "5-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21960941,
@@ -27372,7 +27372,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9848145995",
    "OpeName": "BVSR",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -27386,7 +27386,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "6302943594",
    "OpeName": "BVR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -27400,7 +27400,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9441084196",
    "OpeName": "BVSR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -27414,7 +27414,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9059794769",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -27428,8 +27428,8 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9573201920",
    "OpeName": "BVSR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "1-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21961531,
@@ -27442,7 +27442,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9553122182",
    "OpeName": "BVR",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -27456,7 +27456,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "7730047964",
    "OpeName": "BVR",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -27470,7 +27470,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9177099569",
    "OpeName": "BVR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -27484,8 +27484,8 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9908586366",
    "OpeName": "BVR",
-   "Due Date": "29-May-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21979027,
@@ -27498,7 +27498,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "8106598420",
    "OpeName": "PULI",
-   "Due Date": "26-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -27512,7 +27512,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "8008945060",
    "OpeName": "PULI",
-   "Due Date": "5-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -27526,8 +27526,8 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9848340249",
    "OpeName": "PULI",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21979533,
@@ -27540,7 +27540,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9951570573",
    "OpeName": "PULI",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -27554,7 +27554,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "8499095980",
    "OpeName": "PULI",
-   "Due Date": "12-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -27568,7 +27568,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "967677085",
    "OpeName": "PULI",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -27582,7 +27582,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9848380956",
    "OpeName": "BVSR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -27596,7 +27596,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9704974151",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -27610,7 +27610,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "7093779013",
    "OpeName": "BVR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -27620,11 +27620,11 @@ var cust_DB=[
    "Subscriber Name": "p sai babu",
    "Card No": "5805",
    "Name": "A PANDIYAMMA",
-   "D No": "5-74",
+   "D No": "May-74",
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9542663478",
    "OpeName": "PULI",
-   "Due Date": "29-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -27638,7 +27638,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9949228662",
    "OpeName": "BVR",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -27652,7 +27652,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9581634081",
    "OpeName": "BVSR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -27666,7 +27666,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "0",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -27680,7 +27680,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "7729075938",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "7-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -27694,7 +27694,7 @@ var cust_DB=[
    "Area": "JAGADEESH COLONY",
    "Cel No": "6301706344",
    "OpeName": "BVR",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -27708,7 +27708,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9866308400",
    "OpeName": "BVSR",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -27722,7 +27722,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "8074214687",
    "OpeName": "BVR",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -27736,7 +27736,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9849340862",
    "OpeName": "BVR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -27750,8 +27750,8 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "8897528708",
    "OpeName": "BVR",
-   "Due Date": "16-May-20",
-   "Status": "Inactive"
+   "Due Date": "8-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21965959,
@@ -27764,7 +27764,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "7032687712",
    "OpeName": "BVR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -27778,7 +27778,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9704688295",
    "OpeName": "BVR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -27792,7 +27792,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8885965965",
    "OpeName": "BVR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -27806,8 +27806,8 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "26-Apr-20",
-   "Status": "Inactive"
+   "Due Date": "19-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21966299,
@@ -27820,7 +27820,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9848208186",
    "OpeName": "BVSR",
-   "Due Date": "26-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -27834,7 +27834,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9866793596",
    "OpeName": "BVR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -27848,7 +27848,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "7680813377",
    "OpeName": "BVR",
-   "Due Date": "24-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -27862,7 +27862,7 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "9912151965",
    "OpeName": "BVR",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -27876,7 +27876,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -27890,7 +27890,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9704306129",
    "OpeName": "BVSR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -27904,7 +27904,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "7989078167",
    "OpeName": "BVSR",
-   "Due Date": "29-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -27918,7 +27918,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9948165080",
    "OpeName": "PULI",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -27932,7 +27932,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "7337353809",
    "OpeName": "PULI",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -27946,7 +27946,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9676858592",
    "OpeName": "PULI",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -27960,7 +27960,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9603329982",
    "OpeName": "PULI",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -27974,7 +27974,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "8497953833",
    "OpeName": "PULI",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -28002,8 +28002,8 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "8008586302",
    "OpeName": "PULI",
-   "Due Date": "29-May-20",
-   "Status": "Inactive"
+   "Due Date": "2-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21979584,
@@ -28030,8 +28030,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9441864427",
    "OpeName": "BVSR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "3-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 22771431,
@@ -28058,7 +28058,7 @@ var cust_DB=[
    "Area": "SANTHI NAGAR",
    "Cel No": "8977795779",
    "OpeName": "BVSR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -28072,7 +28072,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9441864427",
    "OpeName": "BVSR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -28086,7 +28086,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "7981355087",
    "OpeName": "BVSR",
-   "Due Date": "29-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -28100,7 +28100,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8978226846",
    "OpeName": "BVSR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "31-Jul-20",
    "Status": "active"
  },
  {
@@ -28114,7 +28114,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9848284268",
    "OpeName": "BVSR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -28128,7 +28128,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9440507051",
    "OpeName": "BVSR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -28142,7 +28142,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9848829604",
    "OpeName": "BVR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -28156,7 +28156,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "7569753761",
    "OpeName": "BVR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -28170,7 +28170,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9949283230",
    "OpeName": "BVSR",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -28184,7 +28184,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9493967883",
    "OpeName": "BVSR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -28198,7 +28198,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9948559552",
    "OpeName": "BVSR",
-   "Due Date": "29-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -28212,7 +28212,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9908962123",
    "OpeName": "BVSR",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -28226,8 +28226,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9010036477",
    "OpeName": "BVSR",
-   "Due Date": "4-Jun-20",
-   "Status": "active"
+   "Due Date": "5-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21958725,
@@ -28240,7 +28240,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8978792053",
    "OpeName": "BVSR",
-   "Due Date": "30-Jun-20",
+   "Due Date": "30-Jul-20",
    "Status": "active"
  },
  {
@@ -28254,7 +28254,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9948220641",
    "OpeName": "BVSR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -28268,7 +28268,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9493332799",
    "OpeName": "BVSR",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -28282,7 +28282,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "7382514898",
    "OpeName": "BVSR",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -28296,7 +28296,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9948589869",
    "OpeName": "BVSR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -28310,7 +28310,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "7386689292",
    "OpeName": "BVSR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -28319,13 +28319,13 @@ var cust_DB=[
    "LCO ID": 38519,
    "Subscriber Name": "Rammohanarao",
    "Card No": "5836",
-   "Name": "KOLLAPUDI MANIYAMMA",
+   "Name": "KOYYALA ANJIBABU",
    "D No": "103",
-   "Area": "SRIRAMNAGAR COLONY",
-   "Cel No": "9381738934",
-   "OpeName": "PULI",
-   "Due Date": "27-May-20",
-   "Status": "Inactive"
+   "Area": "MEDICAL COLONY",
+   "Cel No": "9505002392",
+   "OpeName": "BVSR",
+   "Due Date": "16-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21980413,
@@ -28338,7 +28338,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9985759801",
    "OpeName": "PULI",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -28352,7 +28352,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9491542830",
    "OpeName": "PULI",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -28366,8 +28366,8 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "8142393870",
    "OpeName": "PULI",
-   "Due Date": "3-May-20",
-   "Status": "Inactive"
+   "Due Date": "1-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21996693,
@@ -28380,7 +28380,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9966468289",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -28394,7 +28394,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9100569788",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -28408,7 +28408,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9492250910",
    "OpeName": "BVSR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -28422,7 +28422,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9491116644",
    "OpeName": "BVR",
-   "Due Date": "29-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -28436,7 +28436,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "7095988226",
    "OpeName": "BVSR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -28450,8 +28450,8 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9014547522",
    "OpeName": "BVSR",
-   "Due Date": "30-May-20",
-   "Status": "Inactive"
+   "Due Date": "11-Aug-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21965080,
@@ -28464,7 +28464,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9652714463",
    "OpeName": "BVR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -28473,12 +28473,12 @@ var cust_DB=[
    "LCO ID": 38520,
    "Subscriber Name": "Rammohanarao",
    "Card No": "3218",
-   "Name": "P NARASIMHA RAO",
-   "D No": "19 1 102",
-   "Area": "LAMBADI COLONY",
-   "Cel No": "9866346529",
-   "OpeName": "BVR",
-   "Due Date": "28-Jun-20",
+   "Name": "P SATYANARANA REDDY",
+   "D No": "43971",
+   "Area": "SRIRAMNAGAR COLONY",
+   "Cel No": "9618122590",
+   "OpeName": "PULI",
+   "Due Date": "27-Aug-20",
    "Status": "active"
  },
  {
@@ -28492,7 +28492,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9963838081",
    "OpeName": "BVR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -28506,7 +28506,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "7032330770",
    "OpeName": "BVR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -28520,7 +28520,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9704295054",
    "OpeName": "BVR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -28530,11 +28530,11 @@ var cust_DB=[
    "Subscriber Name": "P Sai Babu",
    "Card No": "1867",
    "Name": "B KISHAN",
-   "D No": "94 80/8",
+   "D No": "104",
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9703745300",
    "OpeName": "BVSR",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -28545,11 +28545,11 @@ var cust_DB=[
    "Card No": "1861",
    "Name": "SURAJ",
    "D No": "0",
-   "Area": "MP COLONY ",
+   "Area": "MP COLONY",
    "Cel No": "",
    "OpeName": "BVR",
-   "Due Date": "29-Jun-20",
-   "Status": "active"
+   "Due Date": "30-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21966840,
@@ -28562,7 +28562,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "0",
    "OpeName": "BVSR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -28576,7 +28576,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9052799647",
    "OpeName": "BVR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -28590,8 +28590,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9866106583",
    "OpeName": "BVSR",
-   "Due Date": "31-May-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21978936,
@@ -28604,7 +28604,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "8498084453",
    "OpeName": "PULI",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -28618,7 +28618,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9963111795",
    "OpeName": "PULI",
-   "Due Date": "26-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -28632,8 +28632,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9676074845",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "10-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21979629,
@@ -28646,7 +28646,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9666732162",
    "OpeName": "PULI",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -28660,7 +28660,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9866860353",
    "OpeName": "PULI",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -28674,7 +28674,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9542135620",
    "OpeName": "BVR",
-   "Due Date": "26-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -28688,7 +28688,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9492960141",
    "OpeName": "BVSR",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -28702,7 +28702,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "6301079448",
    "OpeName": "PULI",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -28716,7 +28716,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9885035185",
    "OpeName": "BVSR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -28730,7 +28730,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9949913724",
    "OpeName": "BVSR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -28744,7 +28744,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9248325201",
    "OpeName": "BVSR",
-   "Due Date": "29-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -28758,7 +28758,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9440095827",
    "OpeName": "BVSR",
-   "Due Date": "29-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -28772,7 +28772,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9441507135",
    "OpeName": "BVSR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -28786,7 +28786,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9963214161",
    "OpeName": "BVR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -28800,7 +28800,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9182502333",
    "OpeName": "BVR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -28814,7 +28814,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "7893064318",
    "OpeName": "BVSR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -28828,8 +28828,8 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "8008146531",
    "OpeName": "BVSR",
-   "Due Date": "23-May-20",
-   "Status": "Inactive"
+   "Due Date": "10-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21965569,
@@ -28842,7 +28842,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9618223569",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -28856,8 +28856,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9866818813",
    "OpeName": "BVSR",
-   "Due Date": "29-Jun-20",
-   "Status": "active"
+   "Due Date": "#N/A",
+   "Status": "#N/A"
  },
  {
    "Sms ID": 21979616,
@@ -28870,7 +28870,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9581801141",
    "OpeName": "PULI",
-   "Due Date": "29-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -28884,7 +28884,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9908101325",
    "OpeName": "BVSR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -28912,7 +28912,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9866813239",
    "OpeName": "PULI",
-   "Due Date": "29-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -28926,7 +28926,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "8897521668",
    "OpeName": "BVR",
-   "Due Date": "24-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -28935,13 +28935,13 @@ var cust_DB=[
    "LCO ID": 38520,
    "Subscriber Name": "P Sai Babu",
    "Card No": "1475",
-   "Name": "NAGA RAJU",
-   "D No": "9-4-1/3D",
-   "Area": "JAGADEESH COLONY",
-   "Cel No": "9133045079",
-   "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Name": "VUTUKURI SRINIVAS",
+   "D No": "9-4-1/3D.",
+   "Area": "MEDICAL COLONY",
+   "Cel No": "9849711125",
+   "OpeName": "BVSR",
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21954857,
@@ -28954,7 +28954,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9652909817",
    "OpeName": "BVSR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "31-Jul-20",
    "Status": "active"
  },
  {
@@ -28968,7 +28968,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9849574953",
    "OpeName": "PULI",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -28982,8 +28982,8 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "9-Jun-20",
-   "Status": "active"
+   "Due Date": "10-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21980576,
@@ -28996,8 +28996,8 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9505152220",
    "OpeName": "BVSR",
-   "Due Date": "25-May-20",
-   "Status": "Inactive"
+   "Due Date": "12-Aug-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21961530,
@@ -29010,7 +29010,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "8498958114",
    "OpeName": "BVSR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -29038,7 +29038,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9700064100",
    "OpeName": "PULI",
-   "Due Date": "19-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -29052,7 +29052,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9951121777",
    "OpeName": "BVSR",
-   "Due Date": "25-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -29066,7 +29066,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "7396360666",
    "OpeName": "BVSR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "30-Aug-20",
    "Status": "active"
  },
  {
@@ -29094,7 +29094,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "6304300974",
    "OpeName": "BVSR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -29136,7 +29136,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "8688515339",
    "OpeName": "BVR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -29150,7 +29150,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "7989065304",
    "OpeName": "BVSR",
-   "Due Date": "19-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -29164,7 +29164,7 @@ var cust_DB=[
    "Area": "SRI RAM NAGAR",
    "Cel No": "9908145428",
    "OpeName": "PULI",
-   "Due Date": "10-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -29178,8 +29178,8 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "7036912933",
    "OpeName": "BVSR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "3-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21957111,
@@ -29192,8 +29192,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "0",
    "OpeName": "BVSR",
-   "Due Date": "27-Jun-20",
-   "Status": "active"
+   "Due Date": "28-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 22513350,
@@ -29206,8 +29206,8 @@ var cust_DB=[
    "Area": "YSR NAGAR",
    "Cel No": "7989949173",
    "OpeName": "BVR",
-   "Due Date": "22-Apr-20",
-   "Status": "Inactive"
+   "Due Date": "1-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21956101,
@@ -29220,7 +29220,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9848776674",
    "OpeName": "BVR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "16-Jun-21",
    "Status": "active"
  },
  {
@@ -29234,7 +29234,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9866875050",
    "OpeName": "BVSR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -29262,7 +29262,7 @@ var cust_DB=[
    "Area": "",
    "Cel No": "",
    "OpeName": "",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -29275,7 +29275,7 @@ var cust_DB=[
    "D No": "0",
    "Area": "APRJC",
    "Cel No": "8309718381",
-   "OpeName": "RAMA KRISHNA ",
+   "OpeName": "RAMA KRISHNA",
    "Due Date": "3-Aug-20",
    "Status": "active"
  },
@@ -29318,7 +29318,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9390532494",
    "OpeName": "BVR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -29346,7 +29346,7 @@ var cust_DB=[
    "Area": "SANTHI NAGAR",
    "Cel No": "8522917549",
    "OpeName": "BVSR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -29360,8 +29360,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9177014576",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21956096,
@@ -29374,7 +29374,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "7032542582",
    "OpeName": "BVR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -29388,7 +29388,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9949253086",
    "OpeName": "BVR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -29402,8 +29402,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9652942783",
    "OpeName": "BVR",
-   "Due Date": "29-May-20",
-   "Status": "Inactive"
+   "Due Date": "1-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21956477,
@@ -29416,8 +29416,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9652123934",
    "OpeName": "BVR",
-   "Due Date": "16-Apr-20",
-   "Status": "Inactive"
+   "Due Date": "9-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21957135,
@@ -29430,7 +29430,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "7013953011",
    "OpeName": "bvsr",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -29444,7 +29444,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9550846339",
    "OpeName": "BVSR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -29458,7 +29458,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9849482858",
    "OpeName": "BVSR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -29472,7 +29472,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9247434555",
    "OpeName": "BVSR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -29486,7 +29486,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9573547496",
    "OpeName": "BVSR",
-   "Due Date": "25-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -29500,7 +29500,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9440727366",
    "OpeName": "BVSR",
-   "Due Date": "26-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -29514,7 +29514,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9949755928",
    "OpeName": "BVSR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -29528,7 +29528,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "6304484697",
    "OpeName": "BVR",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -29542,7 +29542,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9866510604",
    "OpeName": "BVSR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -29556,8 +29556,8 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9505446299",
    "OpeName": "BVR",
-   "Due Date": "28-Jun-20",
-   "Status": "active"
+   "Due Date": "29-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21961625,
@@ -29570,7 +29570,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "7793942769",
    "OpeName": "BVSR",
-   "Due Date": "26-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -29598,7 +29598,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "8142680852",
    "OpeName": "PULI",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -29612,7 +29612,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9160088620",
    "OpeName": "PULI",
-   "Due Date": "23-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -29626,8 +29626,8 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9666531413",
    "OpeName": "PULI",
-   "Due Date": "3-Apr-20",
-   "Status": "Inactive"
+   "Due Date": "24-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21980337,
@@ -29640,8 +29640,8 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9866549863",
    "OpeName": "PULI",
-   "Due Date": "10-Jun-20",
-   "Status": "active"
+   "Due Date": "11-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21980417,
@@ -29654,8 +29654,8 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9908367739",
    "OpeName": "PULI",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21980469,
@@ -29668,7 +29668,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "8106292649",
    "OpeName": "PULI",
-   "Due Date": "1-Jun-20",
+   "Due Date": "30-Jun-20",
    "Status": "active"
  },
  {
@@ -29682,8 +29682,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9052702840",
    "OpeName": "BVSR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21997120,
@@ -29696,7 +29696,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "8096068006",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "3-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -29710,7 +29710,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "8179216449",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "13-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -29724,7 +29724,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "7660841626",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -29752,7 +29752,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9441132602",
    "OpeName": "BVR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -29766,7 +29766,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9608125688",
    "OpeName": "BVR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -29780,8 +29780,8 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9618469403",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21965700,
@@ -29794,8 +29794,8 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9901409294",
    "OpeName": "BVR",
-   "Due Date": "29-Jun-20",
-   "Status": "active"
+   "Due Date": "30-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21965898,
@@ -29808,8 +29808,8 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9676412470",
    "OpeName": "BVR",
-   "Due Date": "27-May-20",
-   "Status": "Inactive"
+   "Due Date": "4-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21965993,
@@ -29822,7 +29822,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "8374203317",
    "OpeName": "BVR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -29836,7 +29836,7 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "9010369425",
    "OpeName": "BVR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -29850,7 +29850,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9502626093",
    "OpeName": "BVR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -29864,7 +29864,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "8247289688",
    "OpeName": "BVSR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -29892,8 +29892,8 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "8374390685",
    "OpeName": "BVR",
-   "Due Date": "29-Jun-20",
-   "Status": "active"
+   "Due Date": "#N/A",
+   "Status": "#N/A"
  },
  {
    "Sms ID": 21966628,
@@ -29906,7 +29906,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "7036649561",
    "OpeName": "BVR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -29920,7 +29920,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9959148851",
    "OpeName": "BVR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -29934,7 +29934,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9618609554",
    "OpeName": "BVR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -29948,8 +29948,8 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "9704250708",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21966994,
@@ -29962,8 +29962,8 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9391294649",
    "OpeName": "BVR",
-   "Due Date": "22-Jun-20",
-   "Status": "active"
+   "Due Date": "23-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21967001,
@@ -29976,7 +29976,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8106632892",
    "OpeName": "bvsr",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -29990,8 +29990,8 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9849337413",
    "OpeName": "BVR",
-   "Due Date": "5-Jun-20",
-   "Status": "active"
+   "Due Date": "25-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21967657,
@@ -30004,7 +30004,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "8247878116",
    "OpeName": "BVSR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "31-Jul-20",
    "Status": "active"
  },
  {
@@ -30018,8 +30018,8 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "8374299062",
    "OpeName": "PULI",
-   "Due Date": "31-May-20",
-   "Status": "Inactive"
+   "Due Date": "16-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21978952,
@@ -30032,7 +30032,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9951341210",
    "OpeName": "PULI",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -30046,8 +30046,8 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "8186043277",
    "OpeName": "PULI",
-   "Due Date": "23-Jun-20",
-   "Status": "active"
+   "Due Date": "28-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21979162,
@@ -30060,7 +30060,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9502503091",
    "OpeName": "PULI",
-   "Due Date": "9-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -30074,7 +30074,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9912032383",
    "OpeName": "PULI",
-   "Due Date": "26-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -30088,8 +30088,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9440368176",
    "OpeName": "BVSR",
-   "Due Date": "31-May-20",
-   "Status": "Inactive"
+   "Due Date": "15-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21980637,
@@ -30098,11 +30098,11 @@ var cust_DB=[
    "Subscriber Name": "P Sai Babu",
    "Card No": "0",
    "Name": "M RAMACHANDRA RAO",
-   "D No": "1/79",
+   "D No": "Jan-79",
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "8106302487",
    "OpeName": "puli",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -30130,7 +30130,7 @@ var cust_DB=[
    "Area": "PALAKENDRAM",
    "Cel No": "8374298263",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -30144,8 +30144,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "6301204754",
    "OpeName": "BVR",
-   "Due Date": "29-Jun-20",
-   "Status": "active"
+   "Due Date": "30-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21961059,
@@ -30158,7 +30158,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9014366363",
    "OpeName": "BVSR",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -30172,7 +30172,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9502116170",
    "OpeName": "BVR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -30186,7 +30186,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9494323544",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "4-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -30200,7 +30200,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9133407385",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "29-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -30214,7 +30214,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9848094306",
    "OpeName": "BVR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -30228,7 +30228,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "8519908262",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -30242,7 +30242,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "7337469734",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -30256,7 +30256,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "6300100597",
    "OpeName": "BVR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -30270,7 +30270,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9676643196",
    "OpeName": "PULI",
-   "Due Date": "20-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -30284,7 +30284,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "0",
    "OpeName": "PULI",
-   "Due Date": "1-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -30312,8 +30312,8 @@ var cust_DB=[
    "Area": "OFC OPP",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "16-Apr-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21997027,
@@ -30326,7 +30326,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9951167315",
    "OpeName": "BVR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -30340,7 +30340,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "7287943391",
    "OpeName": "BVR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -30354,8 +30354,8 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "7997757643",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "7-May-20",
-   "Status": "Inactive"
+   "Due Date": "2-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21965359,
@@ -30368,8 +30368,8 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "7386514261",
    "OpeName": "PULI",
-   "Due Date": "1-Apr-20",
-   "Status": "Inactive"
+   "Due Date": "22-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21965573,
@@ -30396,7 +30396,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9642717187",
    "OpeName": "BVSR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -30424,8 +30424,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9703161202",
    "OpeName": "BVR",
-   "Due Date": "7-Jun-20",
-   "Status": "active"
+   "Due Date": "8-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21956155,
@@ -30438,8 +30438,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8143344387",
    "OpeName": "BVSR",
-   "Due Date": "12-Mar-20",
-   "Status": "Inactive"
+   "Due Date": "20-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21957093,
@@ -30452,8 +30452,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9177357472",
    "OpeName": "BVR",
-   "Due Date": "21-May-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21961770,
@@ -30466,7 +30466,7 @@ var cust_DB=[
    "Area": "JAGADEESH COLONY",
    "Cel No": "6301120489",
    "OpeName": "BVR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -30476,11 +30476,11 @@ var cust_DB=[
    "Subscriber Name": "Rammohanarao",
    "Card No": "5790",
    "Name": "M PAVANI",
-   "D No": "5-57",
+   "D No": "May-57",
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9908585031",
    "OpeName": "PULI",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -30494,8 +30494,8 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "6381794731",
    "OpeName": "PULI",
-   "Due Date": "13-May-20",
-   "Status": "Inactive"
+   "Due Date": "13-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21996533,
@@ -30508,7 +30508,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9542588800",
    "OpeName": "BVR",
-   "Due Date": "19-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -30522,7 +30522,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "8099255749",
    "OpeName": "BVSR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -30536,8 +30536,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9493806960",
    "OpeName": "BVSR",
-   "Due Date": "18-Jun-20",
-   "Status": "active"
+   "Due Date": "19-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21956936,
@@ -30550,7 +30550,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9959495729",
    "OpeName": "BVR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -30564,7 +30564,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9490071966",
    "OpeName": "BVR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -30578,7 +30578,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9912551634",
    "OpeName": "BVR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -30592,7 +30592,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9676000496",
    "OpeName": "BVR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -30606,7 +30606,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9000851294",
    "OpeName": "BVR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "25-Oct-20",
    "Status": "active"
  },
  {
@@ -30620,8 +30620,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9440654607",
    "OpeName": "BVSR",
-   "Due Date": "12-Jun-20",
-   "Status": "active"
+   "Due Date": "13-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 22761718,
@@ -30662,8 +30662,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9676353770",
    "OpeName": "BVR",
-   "Due Date": "31-May-20",
-   "Status": "Inactive"
+   "Due Date": "2-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21980380,
@@ -30676,7 +30676,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "6309602858",
    "OpeName": "PULI",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -30704,7 +30704,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "7702715720",
    "OpeName": "BVR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -30718,7 +30718,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9951236540",
    "OpeName": "BVR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -30732,7 +30732,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9618594373",
    "OpeName": "BVR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -30746,7 +30746,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9394167497",
    "OpeName": "PULI",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -30760,7 +30760,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -30770,12 +30770,12 @@ var cust_DB=[
    "Subscriber Name": "P Sai Babu",
    "Card No": "0",
    "Name": "K VEERANNA",
-   "D No": "6-89",
+   "D No": "Jun-89",
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "7306011332",
    "OpeName": "PULI",
-   "Due Date": "27-May-20",
-   "Status": "Inactive"
+   "Due Date": "5-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21956102,
@@ -30802,8 +30802,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9963551502",
    "OpeName": "BVSR",
-   "Due Date": "23-May-20",
-   "Status": "Inactive"
+   "Due Date": "8-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21961462,
@@ -30816,7 +30816,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9505754891",
    "OpeName": "BVR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -30830,7 +30830,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9573020682",
    "OpeName": "PULI",
-   "Due Date": "5-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -30844,8 +30844,8 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9666316821",
    "OpeName": "BVR",
-   "Due Date": "26-Jun-20",
-   "Status": "active"
+   "Due Date": "27-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21966288,
@@ -30858,7 +30858,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9705131584",
    "OpeName": "BVSR",
-   "Due Date": "26-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -30872,8 +30872,8 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9989662269",
    "OpeName": "PULI",
-   "Due Date": "5-May-20",
-   "Status": "Inactive"
+   "Due Date": "26-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21979508,
@@ -30886,8 +30886,8 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9133405147",
    "OpeName": "PULI",
-   "Due Date": "18-Jun-20",
-   "Status": "active"
+   "Due Date": "19-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21980684,
@@ -30942,7 +30942,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "7093041229",
    "OpeName": "PULI",
-   "Due Date": "14-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -30956,7 +30956,7 @@ var cust_DB=[
    "Area": "JAGADEESH COLONY",
    "Cel No": "9581774882",
    "OpeName": "BVR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -30970,8 +30970,8 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "8978900288",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "1-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21979481,
@@ -30984,7 +30984,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "0",
    "OpeName": "PULI",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -31012,7 +31012,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9849485964",
    "OpeName": "BVR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -31026,7 +31026,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9652696418",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -31040,8 +31040,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9705499401",
    "OpeName": "BVR",
-   "Due Date": "28-Jun-20",
-   "Status": "active"
+   "Due Date": "29-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21967143,
@@ -31054,8 +31054,8 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9849509517",
    "OpeName": "BVSR",
-   "Due Date": "23-Jun-20",
-   "Status": "active"
+   "Due Date": "24-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 22403916,
@@ -31110,7 +31110,7 @@ var cust_DB=[
    "Area": "JAGADEESH COLONY",
    "Cel No": "9949563691",
    "OpeName": "BVR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -31124,7 +31124,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9542251625",
    "OpeName": "BVSR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "2-Aug-20",
    "Status": "active"
  },
  {
@@ -31138,7 +31138,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "6305122192",
    "OpeName": "BVR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -31166,7 +31166,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9949951643",
    "OpeName": "BVSR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -31180,7 +31180,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9701946261",
    "OpeName": "BVR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -31194,7 +31194,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8106751136",
    "OpeName": "BVSR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -31208,7 +31208,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "25-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -31222,7 +31222,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9550075343",
    "OpeName": "BVR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -31278,7 +31278,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9618162829",
    "OpeName": "BVSR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -31292,7 +31292,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8919220836",
    "OpeName": "BVSR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -31306,8 +31306,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8501979924",
    "OpeName": "BVR",
-   "Due Date": "29-Jun-20",
-   "Status": "active"
+   "Due Date": "30-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21956332,
@@ -31334,8 +31334,8 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "7660521901",
    "OpeName": "BVR",
-   "Due Date": "27-May-20",
-   "Status": "Inactive"
+   "Due Date": "#N/A",
+   "Status": "#N/A"
  },
  {
    "Sms ID": 22129572,
@@ -31362,7 +31362,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "7993903311",
    "OpeName": "BVR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -31376,8 +31376,8 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "9701840865",
    "OpeName": "BVR",
-   "Due Date": "20-Jun-20",
-   "Status": "active"
+   "Due Date": "21-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21966635,
@@ -31390,8 +31390,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "7993912383",
    "OpeName": "BVR",
-   "Due Date": "19-Jun-20",
-   "Status": "active"
+   "Due Date": "20-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21979370,
@@ -31432,7 +31432,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "7732077580",
    "OpeName": "PULI",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -31474,7 +31474,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9440449131",
    "OpeName": "BVR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -31488,7 +31488,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9866004699",
    "OpeName": "PULI",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -31502,7 +31502,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9502949139",
    "OpeName": "BVR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -31530,7 +31530,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -31558,7 +31558,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9550730050",
    "OpeName": "BVR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -31586,7 +31586,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9704008724",
    "OpeName": "PULI",
-   "Due Date": "14-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -31600,7 +31600,7 @@ var cust_DB=[
    "Area": "",
    "Cel No": "",
    "OpeName": "",
-   "Due Date": "8-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -31642,7 +31642,7 @@ var cust_DB=[
    "Area": "SRI RAM NAGAR",
    "Cel No": "7674819230",
    "OpeName": "PULI",
-   "Due Date": "18-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -31670,8 +31670,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8500163078",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "21-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21958849,
@@ -31698,8 +31698,8 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "7702646015",
    "OpeName": "PULI",
-   "Due Date": "2-May-20",
-   "Status": "Inactive"
+   "Due Date": "15-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21965077,
@@ -31726,8 +31726,8 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "7036332330",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "16-Apr-20",
-   "Status": "Inactive"
+   "Due Date": "15-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21979394,
@@ -31754,8 +31754,8 @@ var cust_DB=[
    "Area": "MEDICOL COLONY",
    "Cel No": "0",
    "OpeName": "BVSR",
-   "Due Date": "4-Jun-20",
-   "Status": "active"
+   "Due Date": "5-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21961557,
@@ -31810,8 +31810,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8008072741",
    "OpeName": "BVR",
-   "Due Date": "23-Jun-20",
-   "Status": "active"
+   "Due Date": "24-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21960241,
@@ -31824,7 +31824,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9441024578",
    "OpeName": "BVSR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -31838,7 +31838,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9676444078",
    "OpeName": "BVR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -31880,7 +31880,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "8341855196",
    "OpeName": "BVR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -31908,7 +31908,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9966286676",
    "OpeName": "BVSR",
-   "Due Date": "29-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -31964,8 +31964,8 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9160088620",
    "OpeName": "PULI",
-   "Due Date": "27-Apr-20",
-   "Status": "Inactive"
+   "Due Date": "26-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21996801,
@@ -31978,8 +31978,8 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9640769012",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "11-May-20",
-   "Status": "Inactive"
+   "Due Date": "12-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21958759,
@@ -32034,8 +32034,8 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "6303655309",
    "OpeName": "BVSR",
-   "Due Date": "29-Jun-20",
-   "Status": "active"
+   "Due Date": "30-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 22512744,
@@ -32104,7 +32104,7 @@ var cust_DB=[
    "Area": "A S R COLONY",
    "Cel No": "9908876828",
    "OpeName": "BVR",
-   "Due Date": "19-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -32118,8 +32118,8 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "6303747996",
    "OpeName": "BVR",
-   "Due Date": "13-Jun-20",
-   "Status": "active"
+   "Due Date": "14-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21980895,
@@ -32160,8 +32160,8 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "7893537367",
    "OpeName": "BVSR",
-   "Due Date": "29-Jun-20",
-   "Status": "active"
+   "Due Date": "#N/A",
+   "Status": "#N/A"
  },
  {
    "Sms ID": 21956581,
@@ -32216,7 +32216,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "6303493724",
    "OpeName": "BVSR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -32230,7 +32230,7 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "9652549071",
    "OpeName": "BVR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -32244,8 +32244,8 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "0",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "26-Nov-19",
-   "Status": "Inactive"
+   "Due Date": "28-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21965862,
@@ -32269,10 +32269,10 @@ var cust_DB=[
    "Card No": "5691",
    "Name": "GADDAM NAGAMANI",
    "D No": "252",
-   "Area": "ADARSHNAGAR COLONY",
+   "Area": "MEDICAL COLONY",
    "Cel No": "8186950185",
-   "OpeName": "PULI",
-   "Due Date": "21-Jun-20",
+   "OpeName": "BVSR",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -32286,7 +32286,7 @@ var cust_DB=[
    "Area": "ADHARSH NAGAR COLONY",
    "Cel No": "9573194741",
    "OpeName": "PULI",
-   "Due Date": "17-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -32300,7 +32300,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "7675037884",
    "OpeName": "BVSR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -32314,7 +32314,7 @@ var cust_DB=[
    "Area": "RIKSHAW COLONY",
    "Cel No": "9491088289",
    "OpeName": "BVR",
-   "Due Date": "19-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -32326,9 +32326,9 @@ var cust_DB=[
    "Name": "GUNJA TIRUPATHAMMA",
    "D No": "19-2-14/4",
    "Area": "JAGADESH COLONY",
-   "Cel No": "0",
+   "Cel No": "6300553938",
    "OpeName": "BVR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -32342,7 +32342,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9160736498",
    "OpeName": "BVR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -32356,8 +32356,8 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "7032330790",
    "OpeName": "BVR",
-   "Due Date": "21-Jun-20",
-   "Status": "active"
+   "Due Date": "22-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21956220,
@@ -32384,8 +32384,8 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "7702919067",
    "OpeName": "BVSR",
-   "Due Date": "23-Jun-20",
-   "Status": "active"
+   "Due Date": "24-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21980198,
@@ -32398,8 +32398,8 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "7095575134",
    "OpeName": "BVSR",
-   "Due Date": "13-Jun-20",
-   "Status": "active"
+   "Due Date": "14-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21980569,
@@ -32440,7 +32440,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9642097379",
    "OpeName": "PULI",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -32478,12 +32478,12 @@ var cust_DB=[
    "Subscriber Name": "Rammohana Rao",
    "Card No": "2546",
    "Name": "K SRINU",
-   "D No": "18 295/1",
+   "D No": "313",
    "Area": "ASR COLONY",
    "Cel No": "7675036775",
    "OpeName": "BVR",
-   "Due Date": "29-Jun-20",
-   "Status": "active"
+   "Due Date": "30-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21967064,
@@ -32510,8 +32510,8 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "6302934518",
    "OpeName": "BVSR",
-   "Due Date": "2-Jun-20",
-   "Status": "active"
+   "Due Date": "3-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21981591,
@@ -32566,7 +32566,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9951633568",
    "OpeName": "BVR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -32594,8 +32594,8 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "7093778513",
    "OpeName": "BVR",
-   "Due Date": "17-Jun-20",
-   "Status": "active"
+   "Due Date": "18-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21996878,
@@ -32636,7 +32636,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9963955873",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -32678,7 +32678,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9912631688",
    "OpeName": "BVR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -32692,8 +32692,8 @@ var cust_DB=[
    "Area": "SRINIVASA NAGAR",
    "Cel No": "9177280024",
    "OpeName": "PULI",
-   "Due Date": "12-Nov-19",
-   "Status": "Inactive"
+   "Due Date": "22-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21965106,
@@ -32706,8 +32706,8 @@ var cust_DB=[
    "Area": "GANDHI NAGAR",
    "Cel No": "9299004603",
    "OpeName": "BVR",
-   "Due Date": "18-Jun-20",
-   "Status": "active"
+   "Due Date": "19-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21967167,
@@ -32734,8 +32734,8 @@ var cust_DB=[
    "Area": "",
    "Cel No": "",
    "OpeName": "",
-   "Due Date": "24-May-20",
-   "Status": "Inactive"
+   "Due Date": "14-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21965435,
@@ -32790,8 +32790,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9959086804",
    "OpeName": "BVR",
-   "Due Date": "7-May-20",
-   "Status": "Inactive"
+   "Due Date": "25-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21961251,
@@ -32832,8 +32832,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9391454649",
    "OpeName": "BVSR",
-   "Due Date": "9-Nov-19",
-   "Status": "Inactive"
+   "Due Date": "6-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 22531772,
@@ -32870,11 +32870,11 @@ var cust_DB=[
    "Subscriber Name": "p sai babu",
    "Card No": "0",
    "Name": "CH ANUSHA",
-   "D No": "5/55",
+   "D No": "May-55",
    "Area": "SRI RAM NAGER",
    "Cel No": "8919894421",
    "OpeName": "PULI",
-   "Due Date": "26-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -32888,7 +32888,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "8790034400",
    "OpeName": "PULI",
-   "Due Date": "25-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -32902,7 +32902,7 @@ var cust_DB=[
    "Area": "VANABOTHULA CHERUVU",
    "Cel No": "9121030956",
    "OpeName": "BVSR",
-   "Due Date": "25-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -32930,7 +32930,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9000302033",
    "OpeName": "BVSR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -32944,7 +32944,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "6302744388",
    "OpeName": "BVR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -32958,8 +32958,8 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "8978201145",
    "OpeName": "BVR",
-   "Due Date": "18-Jun-20",
-   "Status": "active"
+   "Due Date": "19-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21979203,
@@ -32972,7 +32972,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9542347438",
    "OpeName": "PULI",
-   "Due Date": "12-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -33014,7 +33014,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "7901145595",
    "OpeName": "BVSR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -33056,8 +33056,8 @@ var cust_DB=[
    "Area": "SANTHI NAGAR",
    "Cel No": "9849553883",
    "OpeName": "BVSR",
-   "Due Date": "23-Apr-20",
-   "Status": "Inactive"
+   "Due Date": "27-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21979221,
@@ -33084,8 +33084,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "7981589567",
    "OpeName": "BVSR",
-   "Due Date": "30-Oct-19",
-   "Status": "Inactive"
+   "Due Date": "2-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21961200,
@@ -33112,8 +33112,8 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "8978175482",
    "OpeName": "BVR",
-   "Due Date": "15-Jun-20",
-   "Status": "active"
+   "Due Date": "16-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21980766,
@@ -33154,8 +33154,8 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "7658979202",
    "OpeName": "BVSR",
-   "Due Date": "14-Jun-20",
-   "Status": "active"
+   "Due Date": "#N/A",
+   "Status": "#N/A"
  },
  {
    "Sms ID": 21980595,
@@ -33182,7 +33182,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9550835622",
    "OpeName": "BVR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -33252,7 +33252,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "8790689699",
    "OpeName": "BVR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -33280,7 +33280,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "8186865853",
    "OpeName": "BVR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -33294,7 +33294,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9603608739",
    "OpeName": "PULI",
-   "Due Date": "12-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -33308,8 +33308,8 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "6281701106",
    "OpeName": "BVSR",
-   "Due Date": "7-Jun-20",
-   "Status": "active"
+   "Due Date": "8-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21979558,
@@ -33350,8 +33350,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "7997573856",
    "OpeName": "BVSR",
-   "Due Date": "13-Jun-20",
-   "Status": "active"
+   "Due Date": "14-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21996574,
@@ -33434,7 +33434,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9963686583",
    "OpeName": "BVSR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -33448,7 +33448,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9666702819",
    "OpeName": "BVSR",
-   "Due Date": "19-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -33462,8 +33462,8 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9550641095",
    "OpeName": "PULI",
-   "Due Date": "24-Feb-20",
-   "Status": "Inactive"
+   "Due Date": "21-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21961452,
@@ -33476,8 +33476,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "7730936747",
    "OpeName": "BVR",
-   "Due Date": "18-Oct-19",
-   "Status": "Inactive"
+   "Due Date": "22-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21997799,
@@ -33490,8 +33490,8 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9603555948",
    "OpeName": "BVR",
-   "Due Date": "29-Jun-20",
-   "Status": "active"
+   "Due Date": "30-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21956064,
@@ -33504,7 +33504,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8466999894",
    "OpeName": "BVR",
-   "Due Date": "24-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -33518,7 +33518,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGR COLONY",
    "Cel No": "9849172934",
    "OpeName": "BVSR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -33588,8 +33588,8 @@ var cust_DB=[
    "Area": "",
    "Cel No": "",
    "OpeName": "",
-   "Due Date": "22-Jun-20",
-   "Status": "active"
+   "Due Date": "23-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21954722,
@@ -33630,7 +33630,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9505455095",
    "OpeName": "BVR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -33644,7 +33644,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "6301664969",
    "OpeName": "PULI",
-   "Due Date": "20-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -33700,8 +33700,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "6303035525",
    "OpeName": "BVR",
-   "Due Date": "21-Jun-20",
-   "Status": "active"
+   "Due Date": "22-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21958693,
@@ -33728,8 +33728,8 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "98500000000",
    "OpeName": "BVR",
-   "Due Date": "11-Jun-20",
-   "Status": "active"
+   "Due Date": "12-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21999767,
@@ -33798,7 +33798,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9652986848",
    "OpeName": "BVSR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -33826,7 +33826,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "8142443465",
    "OpeName": "PULI",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -33840,7 +33840,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9550575821",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -33882,7 +33882,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "8142576838",
    "OpeName": "BVR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -33966,7 +33966,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9703681132",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -33990,7 +33990,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohan Rao",
    "Card No": "0",
    "Name": "VEMULA MALLIKARJUNA RAO",
-   "D No": "7-36",
+   "D No": "Jul-36",
    "Area": "SRI RAMNAGAR COLONY",
    "Cel No": "9951152828",
    "OpeName": "PULI",
@@ -34008,7 +34008,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9640802626",
    "OpeName": "PULI",
-   "Due Date": "1-Jun-20",
+   "Due Date": "1-Jul-20",
    "Status": "active"
  },
  {
@@ -34078,8 +34078,8 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9949477512",
    "OpeName": "BVSR",
-   "Due Date": "3-Jun-20",
-   "Status": "active"
+   "Due Date": "4-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21979587,
@@ -34088,7 +34088,7 @@ var cust_DB=[
    "Subscriber Name": "P Sai Babu",
    "Card No": "0",
    "Name": "S ANIL",
-   "D No": "5-77",
+   "D No": "May-77",
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "7901042575",
    "OpeName": "PULI",
@@ -34106,8 +34106,8 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9704118998",
    "OpeName": "BVR",
-   "Due Date": "15-May-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21979160,
@@ -34120,8 +34120,8 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "7093381241",
    "OpeName": "PULI",
-   "Due Date": "18-May-20",
-   "Status": "Inactive"
+   "Due Date": "2-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21981022,
@@ -34260,7 +34260,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8106273753",
    "OpeName": "BVSR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -34316,8 +34316,8 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "0",
    "OpeName": "PULI",
-   "Due Date": "19-Jun-20",
-   "Status": "active"
+   "Due Date": "20-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21980574,
@@ -34358,7 +34358,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9912734004",
    "OpeName": "BVSR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -34372,8 +34372,8 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9177042950",
    "OpeName": "PULI",
-   "Due Date": "12-Jan-20",
-   "Status": "Inactive"
+   "Due Date": "10-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21965130,
@@ -34568,8 +34568,8 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9100552774",
    "OpeName": "BVR",
-   "Due Date": "31-Jul-19",
-   "Status": "Inactive"
+   "Due Date": "8-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21965352,
@@ -34610,8 +34610,8 @@ var cust_DB=[
    "Area": "YSR NAGAR",
    "Cel No": "9000996646",
    "OpeName": "BVR",
-   "Due Date": "24-May-20",
-   "Status": "Inactive"
+   "Due Date": "13-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21967646,
@@ -34638,7 +34638,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9182584616",
    "OpeName": "BVR",
-   "Due Date": "29-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -34652,7 +34652,7 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "9912405024",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -34666,8 +34666,8 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "9908410561",
    "OpeName": "BVR",
-   "Due Date": "23-Jun-20",
-   "Status": "active"
+   "Due Date": "24-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21980639,
@@ -34694,7 +34694,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8465062044",
    "OpeName": "BVR",
-   "Due Date": "1-Jul-20",
+   "Due Date": "31-Jul-20",
    "Status": "active"
  },
  {
@@ -34708,8 +34708,8 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9701996205",
    "OpeName": "BVR",
-   "Due Date": "26-May-20",
-   "Status": "Inactive"
+   "Due Date": "9-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 22115741,
@@ -34764,7 +34764,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9052674508",
    "OpeName": "BVSR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -34792,7 +34792,7 @@ var cust_DB=[
    "Area": "SRI RAM NAGAR COLONY",
    "Cel No": "8688443736",
    "OpeName": "PULI",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -34862,8 +34862,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9908859339",
    "OpeName": "BVR",
-   "Due Date": "3-Apr-20",
-   "Status": "Inactive"
+   "Due Date": "3-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21979034,
@@ -34946,7 +34946,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9290453597",
    "OpeName": "BVSR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -34974,8 +34974,8 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9177042950",
    "OpeName": "PULI",
-   "Due Date": "22-Mar-20",
-   "Status": "Inactive"
+   "Due Date": "10-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21981031,
@@ -34988,8 +34988,8 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9177042950",
    "OpeName": "PULI",
-   "Due Date": "12-Jan-20",
-   "Status": "Inactive"
+   "Due Date": "10-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21966204,
@@ -35114,7 +35114,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9866293671",
    "OpeName": "PULI",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -35170,8 +35170,8 @@ var cust_DB=[
    "Area": "ADHARSH NAGAR COLONY",
    "Cel No": "80088157937",
    "OpeName": "PULI",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "13-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 22050442,
@@ -35240,7 +35240,7 @@ var cust_DB=[
    "Area": "GANDHI NAGAR",
    "Cel No": "9000851429",
    "OpeName": "BVR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -35310,7 +35310,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "7032412549",
    "OpeName": "BVR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -35432,11 +35432,11 @@ var cust_DB=[
    "Subscriber Name": "p sai babu",
    "Card No": "0",
    "Name": "S BALAJI",
-   "D No": "5-79",
+   "D No": "May-79",
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9676770093",
    "OpeName": "PULI",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -35506,7 +35506,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9652554240",
    "OpeName": "PULI",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -35758,7 +35758,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9908167613",
    "OpeName": "BVR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -36066,7 +36066,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "8186876517",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -36080,7 +36080,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "7382856699",
    "OpeName": "BVR",
-   "Due Date": "25-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -36094,7 +36094,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9951167766",
    "OpeName": "PULI",
-   "Due Date": "24-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -36192,7 +36192,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "8978462400",
    "OpeName": "BVSR",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -36664,7 +36664,7 @@ var cust_DB=[
    "Subscriber Name": "p sai babu",
    "Card No": "0",
    "Name": "KARAM VEERAMMA",
-   "D No": "1-33",
+   "D No": "Jan-33",
    "Area": "MEDVAI",
    "Cel No": "9705883123",
    "OpeName": "KASULA",
@@ -36678,7 +36678,7 @@ var cust_DB=[
    "Subscriber Name": "p sai babu",
    "Card No": "0",
    "Name": "DEVARABOINA ANAND",
-   "D No": "1-22/1",
+   "D No": "1/22/01",
    "Area": "MEDVAI",
    "Cel No": "9581699719",
    "OpeName": "KASULA",
@@ -36734,7 +36734,7 @@ var cust_DB=[
    "Subscriber Name": "P Sai Babu",
    "Card No": "0",
    "Name": "S SUSELA",
-   "D No": "1-17/2",
+   "D No": "1/17/02",
    "Area": "MEDVAI",
    "Cel No": "9951105424",
    "OpeName": "KASULA",
@@ -37480,7 +37480,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9701773505",
    "OpeName": "BVR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -37518,7 +37518,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohana Rao",
    "Card No": "9221",
    "Name": "P BALARAJU",
-   "D No": "5 149/10",
+   "D No": "19  9/10",
    "Area": "RAJEEV NAGAR SARAPAKA",
    "Cel No": "8790404819",
    "OpeName": "NAIDU1",
@@ -37560,7 +37560,7 @@ var cust_DB=[
    "Subscriber Name": "p sai babu",
    "Card No": "9154",
    "Name": "DANDUGULA RAMUDU",
-   "D No": "3 120/1",
+   "D No": "123",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9502904989",
    "OpeName": "NAIDU1",
@@ -37788,7 +37788,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "6305890228",
    "OpeName": "BVSR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -37802,8 +37802,8 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9700730240",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "27-May-20",
-   "Status": "Inactive"
+   "Due Date": "10-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21997180,
@@ -37956,8 +37956,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8374553681",
    "OpeName": "BVR",
-   "Due Date": "27-Mar-19",
-   "Status": "Inactive"
+   "Due Date": "2-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21956139,
@@ -38040,7 +38040,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "8897757155",
    "OpeName": "BVR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -38068,7 +38068,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9951236261",
    "OpeName": "BVR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -38222,8 +38222,8 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9618169640",
    "OpeName": "PULI",
-   "Due Date": "29-Jun-20",
-   "Status": "active"
+   "Due Date": "30-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21980479,
@@ -38260,7 +38260,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohana Rao",
    "Card No": "5948",
    "Name": "PBAIYAPPAREDDY",
-   "D No": "7-58",
+   "D No": "Jul-58",
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9908741301",
    "OpeName": "PULI",
@@ -38278,8 +38278,8 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9676812962",
    "OpeName": "PULI",
-   "Due Date": "23-Jun-20",
-   "Status": "active"
+   "Due Date": "24-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21980901,
@@ -38362,8 +38362,8 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9581022326",
    "OpeName": "BVR",
-   "Due Date": "3-Jun-20",
-   "Status": "active"
+   "Due Date": "4-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21996939,
@@ -38670,8 +38670,8 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "9603721442",
    "OpeName": "BVR",
-   "Due Date": "27-Mar-19",
-   "Status": "Inactive"
+   "Due Date": "5-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21965285,
@@ -38824,8 +38824,8 @@ var cust_DB=[
    "Area": "JAGADEESH COLONY",
    "Cel No": "9347893267",
    "OpeName": "BVR",
-   "Due Date": "29-Jun-20",
-   "Status": "active"
+   "Due Date": "30-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21965673,
@@ -38992,7 +38992,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9951743939",
    "OpeName": "bvr",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -39272,7 +39272,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9642419390",
    "OpeName": "BVSR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -39426,7 +39426,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9182700774",
    "OpeName": "BVSR",
-   "Due Date": "28-Jun-20",
+   "Due Date": "28-Jul-20",
    "Status": "active"
  },
  {
@@ -39510,8 +39510,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9949429211",
    "OpeName": "BVSR",
-   "Due Date": "17-Jun-20",
-   "Status": "active"
+   "Due Date": "18-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21957004,
@@ -39524,8 +39524,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9985237340",
    "OpeName": "BVR",
-   "Due Date": "28-Jun-20",
-   "Status": "active"
+   "Due Date": "29-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21957011,
@@ -39566,8 +39566,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9701482333",
    "OpeName": "BVSR",
-   "Due Date": "31-May-20",
-   "Status": "Inactive"
+   "Due Date": "19-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21958292,
@@ -39636,7 +39636,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9848346266",
    "OpeName": "BVSR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -39647,10 +39647,10 @@ var cust_DB=[
    "Card No": "#N/A",
    "Name": "SUJATHA",
    "D No": "#N/A",
-   "Area": "SRI RA NAGAR  COLONY",
+   "Area": "SRI RA NAGAR COLONY",
    "Cel No": "#N/A",
    "OpeName": "PULI",
-   "Due Date": "15-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -39720,7 +39720,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9652893472",
    "OpeName": "BVSR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "20-Jul-20",
    "Status": "active"
  },
  {
@@ -39902,7 +39902,7 @@ var cust_DB=[
    "Area": "",
    "Cel No": "",
    "OpeName": "",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -39958,8 +39958,8 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "8008925964",
    "OpeName": "BVR",
-   "Due Date": "28-May-20",
-   "Status": "Inactive"
+   "Due Date": "15-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21961769,
@@ -39986,8 +39986,8 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9291333272",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "1-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21961800,
@@ -40014,8 +40014,8 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "6300679323",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "21-Jun-20",
-   "Status": "active"
+   "Due Date": "22-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21979010,
@@ -40042,8 +40042,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9441836467",
    "OpeName": "BVSR",
-   "Due Date": "31-May-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21979219,
@@ -40280,8 +40280,8 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9949557289",
    "OpeName": "BVR",
-   "Due Date": "23-Feb-20",
-   "Status": "Inactive"
+   "Due Date": "15-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21965428,
@@ -40588,7 +40588,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9701409294",
    "OpeName": "BVR",
-   "Due Date": "24-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -40714,7 +40714,7 @@ var cust_DB=[
    "Area": "RIKSHAW COLONY",
    "Cel No": "8688571552",
    "OpeName": "BVR",
-   "Due Date": "11-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -40784,7 +40784,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9440185541",
    "OpeName": "BVR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -40952,7 +40952,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9121036058",
    "OpeName": "BVR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -40966,7 +40966,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9110793436",
    "OpeName": "BVR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -41022,7 +41022,7 @@ var cust_DB=[
    "Area": "",
    "Cel No": "",
    "OpeName": "",
-   "Due Date": "18-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -41120,8 +41120,8 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "7075791934",
    "OpeName": "BVR",
-   "Due Date": "22-May-20",
-   "Status": "Inactive"
+   "Due Date": "22-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21966721,
@@ -41316,7 +41316,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9951921635",
    "OpeName": "BVSR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -41344,7 +41344,7 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "9959815038",
    "OpeName": "BVR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -41358,7 +41358,7 @@ var cust_DB=[
    "Area": "JAGADEESH COLONY",
    "Cel No": "9000915022",
    "OpeName": "BVR",
-   "Due Date": "24-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -41386,8 +41386,8 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "7675060956",
    "OpeName": "BVR",
-   "Due Date": "23-Mar-19",
-   "Status": "Inactive"
+   "Due Date": "10-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21967316,
@@ -41428,8 +41428,8 @@ var cust_DB=[
    "Area": "RAJIVEE NAGAR COLONY",
    "Cel No": "9515545199",
    "OpeName": "BVSR",
-   "Due Date": "30-May-20",
-   "Status": "Inactive"
+   "Due Date": "21-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21967373,
@@ -41470,7 +41470,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9182977822",
    "OpeName": "BVSR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -41498,7 +41498,7 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "7893050019",
    "OpeName": "BVSR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -41512,7 +41512,7 @@ var cust_DB=[
    "Area": "0",
    "Cel No": "0",
    "OpeName": "BVR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -41550,7 +41550,7 @@ var cust_DB=[
    "Subscriber Name": "p sai babu",
    "Card No": "0",
    "Name": "KOMARAM VENKATALAXMI",
-   "D No": "1-37",
+   "D No": "Jan-37",
    "Area": "MEDVAI",
    "Cel No": "7095666313",
    "OpeName": "KASULA",
@@ -41582,7 +41582,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "8688422491",
    "OpeName": "BVR",
-   "Due Date": "19-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -41596,8 +41596,8 @@ var cust_DB=[
    "Area": "GANDHI NAGAR",
    "Cel No": "6301644918",
    "OpeName": "BVR",
-   "Due Date": "10-Jun-20",
-   "Status": "active"
+   "Due Date": "11-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21996846,
@@ -41666,8 +41666,8 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "7660903788",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "21-Mar-19",
-   "Status": "Inactive"
+   "Due Date": "26-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21997768,
@@ -42152,7 +42152,7 @@ var cust_DB=[
    "Subscriber Name": "p sai babu",
    "Card No": "9185",
    "Name": "M SANTHOSH KUMAR",
-   "D No": "3 54/1",
+   "D No": "57",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9618607414",
    "OpeName": "NAIDU1",
@@ -42208,7 +42208,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohana Rao",
    "Card No": "9222",
    "Name": "KASULA SUSANKUMAR",
-   "D No": "5 149/4",
+   "D No": "42 1/4",
    "Area": "RAJEEV NAGAR SARAPAKA",
    "Cel No": "9493318632",
    "OpeName": "NAIDU1",
@@ -42236,7 +42236,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohana Rao",
    "Card No": "9224",
    "Name": "N CHANDU",
-   "D No": "5 130/1",
+   "D No": "135",
    "Area": "RAJEEV NAGAR SARAPAKA",
    "Cel No": "8978123878",
    "OpeName": "NAIDU1",
@@ -42250,7 +42250,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohana Rao",
    "Card No": "9225",
    "Name": "K SRINIVAS",
-   "D No": "5 130/2",
+   "D No": "70",
    "Area": "RAJEEV NAGAR SARAPAKA",
    "Cel No": "8142138450",
    "OpeName": "NAIDU1",
@@ -42544,7 +42544,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohana Rao",
    "Card No": "9232",
    "Name": "MUDIGA LAKSHMINARAYANA",
-   "D No": "5 149/7",
+   "D No": "26 2/7",
    "Area": "RAJEEV NAGAR SARAPAKA",
    "Cel No": "9550838471",
    "OpeName": "NAIDU1",
@@ -43006,7 +43006,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohanarao",
    "Card No": "9392",
    "Name": "J LEELAVATHI",
-   "D No": "3 92/1",
+   "D No": "95",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "6304154342",
    "OpeName": "NAIDU1",
@@ -43020,7 +43020,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohanarao",
    "Card No": "9393",
    "Name": "Y RAVI",
-   "D No": "3 92/2",
+   "D No": "49",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9963523643",
    "OpeName": "NAIDU1",
@@ -43048,7 +43048,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohan Rao",
    "Card No": "9317",
    "Name": "M RAMESH",
-   "D No": "4 362/1",
+   "D No": "366",
    "Area": "VIJAYA NAGAR COLONY SARAPAKA",
    "Cel No": "9676259485",
    "OpeName": "NAIDU1",
@@ -43258,7 +43258,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohana Rao",
    "Card No": "9276",
    "Name": "ILLANGI SANJEEVRAO",
-   "D No": "4 149/29",
+   "D No": "9  4/29",
    "Area": "RAJEEV NAGAR SARAPAKA",
    "Cel No": "9550953973",
    "OpeName": "NAIDU1",
@@ -43272,7 +43272,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohana Rao",
    "Card No": "9277",
    "Name": "ILLANGI KUMAR",
-   "D No": "4 149/29",
+   "D No": "9  4/29",
    "Area": "RAJEEV NAGAR SARAPAKA",
    "Cel No": "9912304732",
    "OpeName": "NAIDU1",
@@ -43286,7 +43286,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohanarao",
    "Card No": "9399",
    "Name": "NAGULA SURESH",
-   "D No": "3 92/1",
+   "D No": "95",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "8886474614",
    "OpeName": "NAIDU1",
@@ -43328,7 +43328,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohana Rao",
    "Card No": "9279",
    "Name": "THOLEM LAXMAIAH",
-   "D No": "5 149/8",
+   "D No": "23 5/8",
    "Area": "RAJEEV NAGAR SARAPAKA",
    "Cel No": "8008315694",
    "OpeName": "NAIDU1",
@@ -43370,7 +43370,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohana Rao",
    "Card No": "9281",
    "Name": "KODI ISRAIL",
-   "D No": "3 172/1",
+   "D No": "175",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9676437504",
    "OpeName": "NAIDU1",
@@ -43692,7 +43692,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohanarao",
    "Card No": "9457",
    "Name": "SHAIK YUSUF",
-   "D No": "4 166/1",
+   "D No": "170",
    "Area": "RAJEEV NAGAR SARAPAKA",
    "Cel No": "9550190481",
    "OpeName": "NAIDU1",
@@ -43762,7 +43762,7 @@ var cust_DB=[
    "Subscriber Name": "p sai babu",
    "Card No": "9504",
    "Name": "LEKKALA SARALA",
-   "D No": "4 327/1",
+   "D No": "331",
    "Area": "RAJEEV NAGAR SARAPAKA",
    "Cel No": "9866087359",
    "OpeName": "NAIDU1",
@@ -43874,7 +43874,7 @@ var cust_DB=[
    "Subscriber Name": "p sai babu",
    "Card No": "9515",
    "Name": "PERALA SRINU",
-   "D No": "5 149/24",
+   "D No": "11  5/24",
    "Area": "RAJEEV NAGAR SARAPAKA",
    "Cel No": "9676866342",
    "OpeName": "NAIDU1",
@@ -43916,7 +43916,7 @@ var cust_DB=[
    "Subscriber Name": "p sai babu",
    "Card No": "9520",
    "Name": "BANOTH VEERANNA",
-   "D No": "5 92/8",
+   "D No": "16 1/2",
    "Area": "RAJEEV NAGAR SARAPAKA",
    "Cel No": "9989086037",
    "OpeName": "NAIDU1",
@@ -44210,7 +44210,7 @@ var cust_DB=[
    "Subscriber Name": "p sai babu",
    "Card No": "9536",
    "Name": "KOMARAM CHANDU",
-   "D No": "4 336/1",
+   "D No": "340",
    "Area": "RAJEEV NAGAR SARAPAKA",
    "Cel No": "6301185904",
    "OpeName": "NAIDU1",
@@ -44476,7 +44476,7 @@ var cust_DB=[
    "Subscriber Name": "p sai babu",
    "Card No": "9549",
    "Name": "BANOTH NAGESHWAR RAO",
-   "D No": "3 120/1",
+   "D No": "123",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9177641302",
    "OpeName": "NAIDU1",
@@ -44504,7 +44504,7 @@ var cust_DB=[
    "Subscriber Name": "p sai babu",
    "Card No": "9550",
    "Name": "GUGLOTH PANTHULU",
-   "D No": "3 26/5",
+   "D No": "8 1/5",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "8186815161",
    "OpeName": "NAIDU1",
@@ -45036,7 +45036,7 @@ var cust_DB=[
    "Subscriber Name": "p sai babu",
    "Card No": "0",
    "Name": "MEESALA PRASHANTHI",
-   "D No": "5-81",
+   "D No": "May-81",
    "Area": "GANDHINAGAR",
    "Cel No": "9640481586",
    "OpeName": "NAIDU1",
@@ -45400,7 +45400,7 @@ var cust_DB=[
    "Subscriber Name": "p sai babu",
    "Card No": "9716",
    "Name": "TAMBURA UMAMAHESWAR RAO",
-   "D No": "3-13/1",
+   "D No": "3/13/01",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9866105223",
    "OpeName": "NAIDU1",
@@ -45484,7 +45484,7 @@ var cust_DB=[
    "Subscriber Name": "p sai babu",
    "Card No": "9720",
    "Name": "NUNAVATH VIJAYA",
-   "D No": "3-85",
+   "D No": "Mar-85",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "8374334114",
    "OpeName": "NAIDU1",
@@ -46324,7 +46324,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohana Rao",
    "Card No": "9200",
    "Name": "S SWAMI",
-   "D No": "3 34/1",
+   "D No": "37",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9966540922",
    "OpeName": "NAIDU1",
@@ -46338,7 +46338,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohana Rao",
    "Card No": "9201",
    "Name": "B SIMHACHALAM",
-   "D No": "5 140/1",
+   "D No": "145",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9949253103",
    "OpeName": "NAIDU1",
@@ -46380,7 +46380,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohana Rao",
    "Card No": "9203",
    "Name": "J NAGESHWAR` RAO",
-   "D No": "5 134/1",
+   "D No": "139",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9553438618",
    "OpeName": "NAIDU1",
@@ -46450,7 +46450,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohana Rao",
    "Card No": "9206",
    "Name": "G DAS",
-   "D No": "5 148/1",
+   "D No": "153",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9704131537",
    "OpeName": "NAIDU1",
@@ -46576,7 +46576,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohan Rao",
    "Card No": "9015",
    "Name": "VALLAPU PRIYANKA",
-   "D No": "3 /3",
+   "D No": "3-Mar",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "8790221286",
    "OpeName": "NAIDU1",
@@ -46632,7 +46632,7 @@ var cust_DB=[
    "Subscriber Name": "p sai babu",
    "Card No": "9121",
    "Name": "S SRINIVAS",
-   "D No": "5 216/1",
+   "D No": "221",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9133433921",
    "OpeName": "NAIDU1",
@@ -46800,7 +46800,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohana Rao",
    "Card No": "9219",
    "Name": "S CHENCHAIAH",
-   "D No": "5 147/1",
+   "D No": "152",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "8008318741",
    "OpeName": "NAIDU1",
@@ -46842,7 +46842,7 @@ var cust_DB=[
    "Subscriber Name": "p sai babu",
    "Card No": "9130",
    "Name": "B JOHARLAL",
-   "D No": "3 106/1",
+   "D No": "109",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9963509598",
    "OpeName": "NAIDU1",
@@ -46870,7 +46870,7 @@ var cust_DB=[
    "Subscriber Name": "p sai babu",
    "Card No": "9131",
    "Name": "N CHANDRA SHEKAR",
-   "D No": "5 216/1",
+   "D No": "221",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9550106654",
    "OpeName": "NAIDU1",
@@ -46912,7 +46912,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohan Rao",
    "Card No": "9023",
    "Name": "CHETTUPALLI RAVIKUMAR",
-   "D No": "3 29/4",
+   "D No": "10 1/4",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9010305187",
    "OpeName": "NAIDU1",
@@ -46954,7 +46954,7 @@ var cust_DB=[
    "Subscriber Name": "p sai babu",
    "Card No": "9135",
    "Name": "B SHIVARAM CHAND",
-   "D No": "3 120/81",
+   "D No": "4 13/27",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9652134832",
    "OpeName": "NAIDU1",
@@ -46968,7 +46968,7 @@ var cust_DB=[
    "Subscriber Name": "p sai bbau",
    "Card No": "9136",
    "Name": "G HUSSAIN",
-   "D No": "3 121/2",
+   "D No": "63 1/2",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "8106632170",
    "OpeName": "NAIDU1",
@@ -47066,7 +47066,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohan Rao",
    "Card No": "9027",
    "Name": "BHUKYA RAMULU",
-   "D No": "3 26/1",
+   "D No": "29",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "7674801892",
    "OpeName": "NAIDU1",
@@ -47108,7 +47108,7 @@ var cust_DB=[
    "Subscriber Name": "Rammoahan Rao",
    "Card No": "9030",
    "Name": "BHUKYA BALARAJU",
-   "D No": "9 78/1",
+   "D No": "87",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9866277187",
    "OpeName": "NAIDU1",
@@ -47136,7 +47136,7 @@ var cust_DB=[
    "Subscriber Name": "Rammoahan Rao",
    "Card No": "9032",
    "Name": "GUGLOTH VEERANNA",
-   "D No": "2 139/1",
+   "D No": "141",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9701008976",
    "OpeName": "NAIDU1",
@@ -47150,7 +47150,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohan Rao",
    "Card No": "9033",
    "Name": "KOMMU SRINU",
-   "D No": "3 12/4",
+   "D No": "6",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "8179065567",
    "OpeName": "NAIDU1",
@@ -47164,7 +47164,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohan Rao",
    "Card No": "9034",
    "Name": "MULAGUNDLA MEGHANADAM",
-   "D No": "3 12/3",
+   "D No": "7",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9701073019",
    "OpeName": "NAIDU1",
@@ -47178,7 +47178,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohan Rao",
    "Card No": "9035",
    "Name": "MUPPALA LATHA",
-   "D No": "3 12/1",
+   "D No": "15",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "7095982773",
    "OpeName": "NAIDU1",
@@ -47192,7 +47192,7 @@ var cust_DB=[
    "Subscriber Name": "p sai babu",
    "Card No": "9161",
    "Name": "VARAPALLI KUMAR",
-   "D No": "5 204/1",
+   "D No": "209",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9515545296",
    "OpeName": "NAIDU1",
@@ -47262,7 +47262,7 @@ var cust_DB=[
    "Subscriber Name": "p sai bbau",
    "Card No": "9165",
    "Name": "BARMAVATH BANSILAL",
-   "D No": "3 130/1",
+   "D No": "133",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9701889039",
    "OpeName": "NAIDU1",
@@ -47458,7 +47458,7 @@ var cust_DB=[
    "Subscriber Name": "p sai babu",
    "Card No": "9176",
    "Name": "CHEERAPU CHORANJEEVI",
-   "D No": "3 174/1",
+   "D No": "177",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9949295895",
    "OpeName": "NAIDU1",
@@ -47486,7 +47486,7 @@ var cust_DB=[
    "Subscriber Name": "p sai babu",
    "Card No": "9177",
    "Name": "PEDAPETLA RAMARAO",
-   "D No": "3 177/4",
+   "D No": "47 1/4",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "7675008337",
    "OpeName": "NAIDU1",
@@ -47556,7 +47556,7 @@ var cust_DB=[
    "Subscriber Name": "p sai nbabu",
    "Card No": "9184",
    "Name": "TIRUMALAGIRI RAMALINGESHWAR RAO",
-   "D No": "3 54/1",
+   "D No": "57",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9010091532",
    "OpeName": "NAIDU1",
@@ -47626,7 +47626,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohan Rao",
    "Card No": "9048",
    "Name": "VANKODI KISHAN",
-   "D No": "3 110/1",
+   "D No": "113",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "837488517",
    "OpeName": "NAIDU1",
@@ -47696,7 +47696,7 @@ var cust_DB=[
    "Subscriber Name": "p sai babu",
    "Card No": "9193",
    "Name": "Y MADHAVA RAO",
-   "D No": "3 26/5",
+   "D No": "8 1/5",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9849857211",
    "OpeName": "NAIDU1",
@@ -47738,7 +47738,7 @@ var cust_DB=[
    "Subscriber Name": "p sai babu",
    "Card No": "9195",
    "Name": "P NAGIREDDY",
-   "D No": "3 43/2",
+   "D No": "24 1/2",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9701492836",
    "OpeName": "NAIDU1",
@@ -47766,7 +47766,7 @@ var cust_DB=[
    "Subscriber Name": "p sai babu",
    "Card No": "9196",
    "Name": "V SRINIVAS",
-   "D No": "3 29/1",
+   "D No": "32",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9573973361",
    "OpeName": "NAIDU1",
@@ -47794,7 +47794,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohan Rao",
    "Card No": "9052",
    "Name": "KANDALA NAGAMANI",
-   "D No": "3 92/6",
+   "D No": "18 1/3",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "8500892889",
    "OpeName": "NAIDU1",
@@ -48004,7 +48004,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohan Rao",
    "Card No": "9067",
    "Name": "NATAR BHUPATHI",
-   "D No": "3 39/1",
+   "D No": "42",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9849816293",
    "OpeName": "NAIDU1",
@@ -48060,7 +48060,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohan Rao",
    "Card No": "9072",
    "Name": "MENDE NAGALAKSHMI",
-   "D No": "3 43/1",
+   "D No": "46",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9849321503",
    "OpeName": "NAIDU1",
@@ -48102,7 +48102,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohan Rao",
    "Card No": "9076",
    "Name": "PATINA RAMBABU",
-   "D No": "3 37/1",
+   "D No": "40",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9949756129",
    "OpeName": "NAIDU1",
@@ -48172,7 +48172,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohan Rao",
    "Card No": "9080",
    "Name": "JEEVAGUNTA RAMU",
-   "D No": "3 37/3",
+   "D No": "15 1/3",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9550264407",
    "OpeName": "NAIDU1",
@@ -48452,7 +48452,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohan Rao",
    "Card No": "9100",
    "Name": "MARISETTI SRINIVAS",
-   "D No": "3-44",
+   "D No": "Mar-44",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9949282110",
    "OpeName": "NAIDU1",
@@ -48466,7 +48466,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohan Rao",
    "Card No": "9101",
    "Name": "VEMURI PRADEEP",
-   "D No": "3 199/1",
+   "D No": "202",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "8977080329",
    "OpeName": "NAIDU1",
@@ -48844,7 +48844,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohana Rao",
    "Card No": "9260",
    "Name": "B TRIMURTHULU",
-   "D No": "5 140/1",
+   "D No": "145",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9492244461",
    "OpeName": "NAIDU1",
@@ -48942,7 +48942,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohan Rao",
    "Card No": "9329",
    "Name": "V RAVI",
-   "D No": "4 381/1",
+   "D No": "385",
    "Area": "VIJAYA NAGAR COLONY SARAPAKA",
    "Cel No": "9949124672",
    "OpeName": "NAIDU1",
@@ -48984,7 +48984,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohanarao",
    "Card No": "9401",
    "Name": "NAG SURESH",
-   "D No": "5 49/5",
+   "D No": "14 4/5",
    "Area": "ODIYA CAMP SARAPAKA",
    "Cel No": "9866918951",
    "OpeName": "NAIDU1",
@@ -49180,7 +49180,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohanarao",
    "Card No": "9411",
    "Name": "PADMA KOWSALYA",
-   "D No": "5 48/2",
+   "D No": "29",
    "Area": "ODIYA CAMP SARAPAKA",
    "Cel No": "0",
    "OpeName": "NAIDU1",
@@ -49474,7 +49474,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohanarao",
    "Card No": "9426",
    "Name": "SIDDULA SRINIVASA RAO",
-   "D No": "5 7/1",
+   "D No": "12",
    "Area": "RAJEEV NAGAR SARAPAKA",
    "Cel No": "9618162658",
    "OpeName": "NAIDU1",
@@ -49544,7 +49544,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohanarao",
    "Card No": "9435",
    "Name": "M CHENNAIAH",
-   "D No": "5 8/2",
+   "D No": "9",
    "Area": "RAJEEV NAGAR SARAPAKA",
    "Cel No": "9573370963",
    "OpeName": "NAIDU1",
@@ -49558,7 +49558,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohanarao",
    "Card No": "9436",
    "Name": "D NAGESH",
-   "D No": "4 412/1",
+   "D No": "416",
    "Area": "VIJAYA NAGAR COLONY SARAPAKA",
    "Cel No": "9177181424",
    "OpeName": "NAIDU1",
@@ -49572,7 +49572,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohanarao",
    "Card No": "9439",
    "Name": "ANGOTH BABU",
-   "D No": "4 114/81",
+   "D No": "5 11/27",
    "Area": "VIJAYA NAGAR COLONY SARAPAKA",
    "Cel No": "9849858454",
    "OpeName": "NAIDU1",
@@ -49628,7 +49628,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohanarao",
    "Card No": "9461",
    "Name": "GADIDHA MOHANRAO",
-   "D No": "5 30/5",
+   "D No": "11",
    "Area": "RAJEEV NAGAR SARAPAKA",
    "Cel No": "9177031967",
    "OpeName": "NAIDU1",
@@ -49670,7 +49670,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohanarao",
    "Card No": "9464",
    "Name": "TIRUPATI RENUKA",
-   "D No": "5 30/3",
+   "D No": "15",
    "Area": "RAJEEV NAGAR SARAPAKA",
    "Cel No": "0",
    "OpeName": "NAIDU1",
@@ -49754,7 +49754,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohanarao",
    "Card No": "9471",
    "Name": "MOTHUKURI RAMBABU",
-   "D No": "5 30/6",
+   "D No": "10",
    "Area": "VIJAYA NAGAR COLONY SARAPAKA",
    "Cel No": "9676112046",
    "OpeName": "NAIDU1",
@@ -49852,7 +49852,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohanarao",
    "Card No": "9478",
    "Name": "LAKAVATH HARILAL",
-   "D No": "5 87/1",
+   "D No": "92",
    "Area": "RAJEEV NAGAR SARAPAKA",
    "Cel No": "9701745833",
    "OpeName": "NAIDU1",
@@ -49922,7 +49922,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohanarao",
    "Card No": "9483",
    "Name": "M SURESH",
-   "D No": "3 160/1",
+   "D No": "163",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9959945563",
    "OpeName": "NAIDU1",
@@ -49936,7 +49936,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohana Rao",
    "Card No": "9497",
    "Name": "P RAMAKRISHNA",
-   "D No": "3 147/1",
+   "D No": "150",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "8374960020",
    "OpeName": "NAIDU1",
@@ -50006,7 +50006,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohana Rao",
    "Card No": "9494",
    "Name": "M SANTHOSH KUMAR",
-   "D No": "3 160/1",
+   "D No": "163",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9505174810",
    "OpeName": "NAIDU1",
@@ -50090,7 +50090,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohana Rao",
    "Card No": "9036",
    "Name": "GEEDIGUNTA ESWARAMMA",
-   "D No": "3 12/1",
+   "D No": "15",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9100742354",
    "OpeName": "NAIDU1",
@@ -50118,7 +50118,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohan Rao",
    "Card No": "9044",
    "Name": "NANAM SRINIVASARAO",
-   "D No": "3 140/2",
+   "D No": "73",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9652136792",
    "OpeName": "NAIDU1",
@@ -50146,7 +50146,7 @@ var cust_DB=[
    "Subscriber Name": "p sai babu",
    "Card No": "9502",
    "Name": "DHARMAPURI KIRAN",
-   "D No": "4 327/1",
+   "D No": "331",
    "Area": "RAJEEV NAGAR SARAPAKA",
    "Cel No": "6302827245",
    "OpeName": "NAIDU1",
@@ -50174,7 +50174,7 @@ var cust_DB=[
    "Subscriber Name": "p sai babu",
    "Card No": "9505",
    "Name": "SINGADALA VENKANNA",
-   "D No": "4 327/2",
+   "D No": "167 1/2",
    "Area": "RAJEEV NAGAR SARAPAKA",
    "Cel No": "9652308575",
    "OpeName": "NAIDU1",
@@ -50188,7 +50188,7 @@ var cust_DB=[
    "Subscriber Name": "p sai babu",
    "Card No": "9512",
    "Name": "KOTLA SANJEEVARAO",
-   "D No": "5 149/105",
+   "D No": "6 13/31",
    "Area": "RAJEEV NAGAR SARAPAKA",
    "Cel No": "0",
    "OpeName": "NAIDU1",
@@ -50202,7 +50202,7 @@ var cust_DB=[
    "Subscriber Name": "p sai babu",
    "Card No": "9513",
    "Name": "SAMANDHULA RAMCHANDRU",
-   "D No": "4 320/1",
+   "D No": "324",
    "Area": "RAJEEV NAGAR SARAPAKA",
    "Cel No": "9618395536",
    "OpeName": "NAIDU1",
@@ -50356,7 +50356,7 @@ var cust_DB=[
    "Subscriber Name": "p sai babu",
    "Card No": "9529",
    "Name": "SHETTI RAJU",
-   "D No": "4 336/2",
+   "D No": "172",
    "Area": "RAJEEV NAGAR SARAPAKA",
    "Cel No": "9948592710",
    "OpeName": "NAIDU1",
@@ -50384,7 +50384,7 @@ var cust_DB=[
    "Subscriber Name": "p sai babu",
    "Card No": "9531",
    "Name": "GUGULOTH BHEEMA",
-   "D No": "4 287/2",
+   "D No": "147 1/2",
    "Area": "RAJEEV NAGAR SARAPAKA",
    "Cel No": "0",
    "OpeName": "NAIDU1",
@@ -50748,7 +50748,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohana Rao",
    "Card No": "9227",
    "Name": "K PRABHAKAR",
-   "D No": "5 126/1",
+   "D No": "131",
    "Area": "RAJEEV NAGAR SARAPAKA",
    "Cel No": "7997568964",
    "OpeName": "NAIDU1",
@@ -50762,7 +50762,7 @@ var cust_DB=[
    "Subscriber Name": "p sai babu",
    "Card No": "9150",
    "Name": "ALUGOLU NAGARAJU",
-   "D No": "3 213/2",
+   "D No": "109 1/2",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "8106639385",
    "OpeName": "NAIDU1",
@@ -50860,7 +50860,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohan Rao",
    "Card No": "9053",
    "Name": "PADAMUTHYAM RAMBABU",
-   "D No": "3 148/1",
+   "D No": "151",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9640869934",
    "OpeName": "NAIDU1",
@@ -50888,7 +50888,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohan Rao",
    "Card No": "9069",
    "Name": "MODUGU SRILAKSHMI",
-   "D No": "3 37/3",
+   "D No": "15 1/3",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9951652192",
    "OpeName": "NAIDU1",
@@ -50902,7 +50902,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohana Rao",
    "Card No": "9231",
    "Name": "B RAJENDAR REDDY",
-   "D No": "5 149/2",
+   "D No": "79 1/2",
    "Area": "RAJEEV NAGAR SARAPAKA",
    "Cel No": "7093114224",
    "OpeName": "NAIDU1",
@@ -50944,7 +50944,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohan Rao",
    "Card No": "9073",
    "Name": "ANGOTHU RAGHU",
-   "D No": "3 105/2",
+   "D No": "55 1/2",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9652711812",
    "OpeName": "NAIDU1",
@@ -50958,7 +50958,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohana Rao",
    "Card No": "9238",
    "Name": "K GANESH",
-   "D No": "5 126/2",
+   "D No": "68",
    "Area": "RAJEEV NAGAR SARAPAKA",
    "Cel No": "6304804346",
    "OpeName": "NAIDU1",
@@ -51098,7 +51098,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohan Rao",
    "Card No": "9114",
    "Name": "BODDU RAMESH",
-   "D No": "3 196/1",
+   "D No": "199",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9100890398",
    "OpeName": "NAIDU1",
@@ -51140,7 +51140,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohanarao",
    "Card No": "9353",
    "Name": "R JOHN",
-   "D No": "5 149/121",
+   "D No": "6  3/13",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "8897654110",
    "OpeName": "NAIDU1",
@@ -51336,7 +51336,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohan Rao",
    "Card No": "9313",
    "Name": "D VENKATA RAO",
-   "D No": "4 114/4",
+   "D No": "32 1/2",
    "Area": "VIJAYA NAGAR COLONY SARAPAKA",
    "Cel No": "9676419098",
    "OpeName": "NAIDU1",
@@ -51364,7 +51364,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohan Rao",
    "Card No": "9315",
    "Name": "P SURESH",
-   "D No": "4 364/1",
+   "D No": "368",
    "Area": "VIJAYA NAGAR COLONY SARAPAKA",
    "Cel No": "9490754453",
    "OpeName": "NAIDU1",
@@ -51700,7 +51700,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohana Rao",
    "Card No": "9500",
    "Name": "PUJARI PUNNAMMA",
-   "D No": "3 202/5",
+   "D No": "43 2/5",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9642144702",
    "OpeName": "NAIDU1",
@@ -51742,7 +51742,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohana Rao",
    "Card No": "9496",
    "Name": "ILAPONGU RAMAKRISHNA",
-   "D No": "5 21/2",
+   "D No": "15 1/2",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "0",
    "OpeName": "NAIDU1",
@@ -52362,7 +52362,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "9640039709",
    "OpeName": "PULI",
-   "Due Date": "19-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -52470,7 +52470,7 @@ var cust_DB=[
    "Subscriber Name": "p sai babu",
    "Card No": "0",
    "Name": "KOMARAM RAMANA",
-   "D No": "1-44",
+   "D No": "Jan-44",
    "Area": "MEDVAI",
    "Cel No": "9652609633",
    "OpeName": "KASULA",
@@ -52628,7 +52628,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9666136965",
    "OpeName": "PULI",
-   "Due Date": "8-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -52810,7 +52810,7 @@ var cust_DB=[
    "Area": "",
    "Cel No": "",
    "OpeName": "",
-   "Due Date": "7-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -52824,8 +52824,8 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "7675093819",
    "OpeName": "PULI",
-   "Due Date": "25-Jan-19",
-   "Status": "Inactive"
+   "Due Date": "15-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21979607,
@@ -52950,7 +52950,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9701492805",
    "OpeName": "BVR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -52964,7 +52964,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "9550510531",
    "OpeName": "BVR",
-   "Due Date": "29-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -52978,7 +52978,7 @@ var cust_DB=[
    "Area": "RAJU PETA",
    "Cel No": "6301761588",
    "OpeName": "BVR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -52992,7 +52992,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "7382345653",
    "OpeName": "BVSR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -53006,7 +53006,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "6304643707",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -53076,7 +53076,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9440863109",
    "OpeName": "BVR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -53202,7 +53202,7 @@ var cust_DB=[
    "Area": "JAGADEESH COLONY",
    "Cel No": "9908694316",
    "OpeName": "BVR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -53230,7 +53230,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9703772949",
    "OpeName": "BVR",
-   "Due Date": "24-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -53720,7 +53720,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9121478920",
    "OpeName": "BVR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -53734,7 +53734,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9010552978",
    "OpeName": "PULI",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -53748,7 +53748,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8790271617",
    "OpeName": "BVSR",
-   "Due Date": "3-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -53789,8 +53789,8 @@ var cust_DB=[
    "D No": "#N/A",
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9348333601",
-   "OpeName": "BVSR ",
-   "Due Date": "3-Jun-20",
+   "OpeName": "BVSR",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -53804,8 +53804,8 @@ var cust_DB=[
    "Area": "SUNDARAIAH NAGAR",
    "Cel No": "9505034826",
    "OpeName": "BVSR",
-   "Due Date": "25-May-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21967312,
@@ -53818,8 +53818,8 @@ var cust_DB=[
    "Area": "JAGADEESH COLONY",
    "Cel No": "7036878760",
    "OpeName": "BVR",
-   "Due Date": "26-May-20",
-   "Status": "Inactive"
+   "Due Date": "10-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21967319,
@@ -53845,8 +53845,8 @@ var cust_DB=[
    "D No": "19 2 9",
    "Area": "JAGADESH COLONY",
    "Cel No": "9603922367",
-   "OpeName": "BVR ",
-   "Due Date": "4-Jun-20",
+   "OpeName": "BVR",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -53902,8 +53902,8 @@ var cust_DB=[
    "Area": "JAGADEESH COLONY",
    "Cel No": "9603096977",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "31-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21966349,
@@ -53930,7 +53930,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "8500061986",
    "OpeName": "BVSR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -53944,7 +53944,7 @@ var cust_DB=[
    "Area": "JAGADEESH COLONY",
    "Cel No": "9346126977",
    "OpeName": "BVR",
-   "Due Date": "15-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -53958,7 +53958,7 @@ var cust_DB=[
    "Area": "",
    "Cel No": "",
    "OpeName": "",
-   "Due Date": "9-Jun-20",
+   "Due Date": "9-Jul-20",
    "Status": "active"
  },
  {
@@ -53972,7 +53972,7 @@ var cust_DB=[
    "Area": "JAGADESH COLONY",
    "Cel No": "7702390139",
    "OpeName": "BVR",
-   "Due Date": "13-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -53986,7 +53986,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9492960618",
    "OpeName": "BVSR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -54000,7 +54000,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "6302252638",
    "OpeName": "BVR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -54009,13 +54009,13 @@ var cust_DB=[
    "LCO ID": 38520,
    "Subscriber Name": "p sai babu",
    "Card No": "#N/A",
-   "Name": "0",
-   "D No": "0",
-   "Area": "0",
-   "Cel No": "0",
-   "OpeName": "0",
-   "Due Date": "10-May-20",
-   "Status": "Inactive"
+   "Name": "",
+   "D No": "",
+   "Area": "",
+   "Cel No": "",
+   "OpeName": "",
+   "Due Date": "26-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 21966396,
@@ -54028,7 +54028,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9704304773",
    "OpeName": "BVR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "7-Jul-20",
    "Status": "active"
  },
  {
@@ -54042,7 +54042,7 @@ var cust_DB=[
    "Area": "",
    "Cel No": "",
    "OpeName": "",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -54065,12 +54065,12 @@ var cust_DB=[
    "LCO ID": 38520,
    "Subscriber Name": "P Sai Babu",
    "Card No": "#N/A",
-   "Name": "",
-   "D No": "",
-   "Area": "",
-   "Cel No": "",
-   "OpeName": "",
-   "Due Date": "16-Jun-20",
+   "Name": "RUKMINI",
+   "D No": "45",
+   "Area": "SRIRAMNAGAR COLONY",
+   "Cel No": "9849606639",
+   "OpeName": "PULI",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -54108,7 +54108,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohana Rao",
    "Card No": "9255",
    "Name": "MEESAL PRASHANTHKUMAR",
-   "D No": "5 159/1",
+   "D No": "164",
    "Area": "GANDHI NAGAR SARAPAKA",
    "Cel No": "9640481586",
    "OpeName": "NAIDU1",
@@ -54122,7 +54122,7 @@ var cust_DB=[
    "Subscriber Name": "Rammohana Rao",
    "Card No": "9264",
    "Name": "GANDHI",
-   "D No": "4 136/1",
+   "D No": "140",
    "Area": "RAJEEV NAGAR SARAPAKA",
    "Cel No": "9959033125",
    "OpeName": "NAIDU1",
@@ -54210,7 +54210,7 @@ var cust_DB=[
    "Area": "JAGADEESH COLONY",
    "Cel No": "9177441126",
    "OpeName": "BVR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -54238,7 +54238,7 @@ var cust_DB=[
    "Area": "RAJEEV NAGAR COLONY",
    "Cel No": "9550266353",
    "OpeName": "BVSR",
-   "Due Date": "10-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -54252,8 +54252,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "7989633831",
    "OpeName": "BVSR",
-   "Due Date": "11-Jun-20",
-   "Status": "active"
+   "Due Date": "12-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 22815718,
@@ -54266,8 +54266,8 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "8374407331",
    "OpeName": "BVR",
-   "Due Date": "27-May-20",
-   "Status": "Inactive"
+   "Due Date": "28-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 22816736,
@@ -54280,8 +54280,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9704082811",
    "OpeName": "BVSR",
-   "Due Date": "26-May-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 22824149,
@@ -54289,12 +54289,12 @@ var cust_DB=[
    "LCO ID": 38520,
    "Subscriber Name": "CHINIGIRI RAJARAO",
    "Card No": "",
-   "Name": "R  BHASKARAO",
+   "Name": "R BHASKARAO",
    "D No": "19-2-88",
    "Area": "JAGADEESH COLONY",
    "Cel No": "9505673126",
    "OpeName": "BVR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -54308,7 +54308,7 @@ var cust_DB=[
    "Area": "",
    "Cel No": "",
    "OpeName": "",
-   "Due Date": "8-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -54322,8 +54322,8 @@ var cust_DB=[
    "Area": "",
    "Cel No": "",
    "OpeName": "",
-   "Due Date": "27-Jun-20",
-   "Status": "active"
+   "Due Date": "#N/A",
+   "Status": "#N/A"
  },
  {
    "Sms ID": null,
@@ -54336,7 +54336,7 @@ var cust_DB=[
    "Area": "RIKSHA COLONY",
    "Cel No": "9701050039",
    "OpeName": "BVR",
-   "Due Date": "22-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -54350,7 +54350,7 @@ var cust_DB=[
    "Area": "JAGADEESH COLONY",
    "Cel No": "9948944939",
    "OpeName": "BVR",
-   "Due Date": "24-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -54378,7 +54378,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9963946974",
    "OpeName": "BVSR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -54392,7 +54392,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "8008659971",
    "OpeName": "BVR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -54406,7 +54406,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "7658920158",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "8-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -54420,7 +54420,7 @@ var cust_DB=[
    "Area": "JAGADEESH COLONY",
    "Cel No": "7032617098",
    "OpeName": "BVR",
-   "Due Date": "12-Jun-20",
+   "Due Date": "13-Jul-20",
    "Status": "active"
  },
  {
@@ -54434,8 +54434,8 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "8940620141",
    "OpeName": "BVR",
-   "Due Date": "11-Jun-20",
-   "Status": "active"
+   "Due Date": "12-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 22852802,
@@ -54444,11 +54444,11 @@ var cust_DB=[
    "Subscriber Name": "CHALLA SAMMAIAH",
    "Card No": "",
    "Name": "CHALLA SAMMAIAH",
-   "D No": " ",
+   "D No": "",
    "Area": "SUNDARAIAH NAGAR COLONY",
    "Cel No": "",
    "OpeName": "BVSR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -54458,12 +54458,12 @@ var cust_DB=[
    "Subscriber Name": "K RAMA KRISHNA",
    "Card No": "",
    "Name": "K RAMA KRISHNA",
-   "D No": " ",
+   "D No": "",
    "Area": "AMC COLONY",
    "Cel No": "9912244229",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "25-May-20",
-   "Status": "Inactive"
+   "Due Date": "20-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 22853998,
@@ -54476,7 +54476,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "9849778087",
    "OpeName": "BVR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -54504,7 +54504,7 @@ var cust_DB=[
    "Area": "medical colony",
    "Cel No": "9182435792",
    "OpeName": "BVSR",
-   "Due Date": "18-Jun-20",
+   "Due Date": "18-Jul-20",
    "Status": "active"
  },
  {
@@ -54518,7 +54518,7 @@ var cust_DB=[
    "Area": "RAJIVEE NAGAR COLONY",
    "Cel No": "9010438634",
    "OpeName": "BVSR",
-   "Due Date": "19-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -54528,11 +54528,11 @@ var cust_DB=[
    "Subscriber Name": "P SURESH",
    "Card No": "",
    "Name": "P SURESH",
-   "D No": " ",
+   "D No": "",
    "Area": "SRI RAM NAGAR COLONY",
    "Cel No": "8185940067",
    "OpeName": "PULI",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -54546,7 +54546,7 @@ var cust_DB=[
    "Area": "MP COLONY",
    "Cel No": "8919058658",
    "OpeName": "BVR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -54560,7 +54560,7 @@ var cust_DB=[
    "Area": "SRIRAMNAGAR COLONY",
    "Cel No": "7673993910",
    "OpeName": "PULI",
-   "Due Date": "20-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -54574,7 +54574,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9642355451",
    "OpeName": "BVR",
-   "Due Date": "26-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -54586,10 +54586,10 @@ var cust_DB=[
    "Name": "K A RAMARAO",
    "D No": "",
    "Area": "",
-   "Cel No": "9392353258",
+   "Cel No": "9704776709",
    "OpeName": "BVSR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": 22882848,
@@ -54602,7 +54602,7 @@ var cust_DB=[
    "Area": "",
    "Cel No": "6300366766",
    "OpeName": "",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -54616,7 +54616,7 @@ var cust_DB=[
    "Area": "",
    "Cel No": "",
    "OpeName": "",
-   "Due Date": "2-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -54644,7 +54644,7 @@ var cust_DB=[
    "Area": "",
    "Cel No": "",
    "OpeName": "BVR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -54658,7 +54658,7 @@ var cust_DB=[
    "Area": "",
    "Cel No": "",
    "OpeName": "BVR",
-   "Due Date": "20-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -54672,7 +54672,7 @@ var cust_DB=[
    "Area": "",
    "Cel No": "",
    "OpeName": "PULI",
-   "Due Date": "21-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -54686,7 +54686,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "7605464336",
    "OpeName": "BVR",
-   "Due Date": "23-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -54700,7 +54700,7 @@ var cust_DB=[
    "Area": "",
    "Cel No": "",
    "OpeName": "",
-   "Due Date": "24-Jun-20",
+   "Due Date": "25-Jul-20",
    "Status": "active"
  },
  {
@@ -54714,8 +54714,8 @@ var cust_DB=[
    "Area": "",
    "Cel No": "",
    "OpeName": "",
-   "Due Date": "29-Jun-20",
-   "Status": "active"
+   "Due Date": "30-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": null,
@@ -54728,8 +54728,8 @@ var cust_DB=[
    "Area": "",
    "Cel No": "",
    "OpeName": "",
-   "Due Date": "26-Jun-20",
-   "Status": "active"
+   "Due Date": "27-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": null,
@@ -54756,7 +54756,7 @@ var cust_DB=[
    "Area": "",
    "Cel No": "",
    "OpeName": "",
-   "Due Date": "27-Jun-20",
+   "Due Date": "27-Jul-20",
    "Status": "active"
  },
  {
@@ -54770,7 +54770,7 @@ var cust_DB=[
    "Area": "",
    "Cel No": "",
    "OpeName": "",
-   "Due Date": "29-Jun-20",
+   "Due Date": "29-Jul-20",
    "Status": "active"
  },
  {
@@ -54784,7 +54784,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9642296916",
    "OpeName": "PULI",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -54798,7 +54798,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9989531852",
    "OpeName": "BVR",
-   "Due Date": "2-Jun-20",
+   "Due Date": "2-Jul-20",
    "Status": "active"
  },
  {
@@ -54812,7 +54812,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "7995368194",
    "OpeName": "BVR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -54823,11 +54823,11 @@ var cust_DB=[
    "Card No": "",
    "Name": "K CHINNABABU",
    "D No": "18-2-23",
-   "Area": "ASR COLONY ",
+   "Area": "ASR COLONY",
    "Cel No": "9666061896",
    "OpeName": "BVR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  },
  {
    "Sms ID": null,
@@ -54840,8 +54840,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "7993292312",
    "OpeName": "BVSR",
-   "Due Date": "1-Jun-20",
-   "Status": "Inactive"
+   "Due Date": "2-Jul-20",
+   "Status": "active"
  },
  {
    "Sms ID": 22964207,
@@ -54854,7 +54854,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "",
    "OpeName": "PULI",
-   "Due Date": "2-Jun-20",
+   "Due Date": "4-Jul-20",
    "Status": "active"
  },
  {
@@ -54865,10 +54865,10 @@ var cust_DB=[
    "Card No": "",
    "Name": "G RAMAKRISHNA",
    "D No": "19-4-51",
-   "Area": "MEDICAL COLONY ",
+   "Area": "MEDICAL COLONY",
    "Cel No": "7780636461",
    "OpeName": "BVSR",
-   "Due Date": "4-Jun-20",
+   "Due Date": "3-Jul-20",
    "Status": "active"
  },
  {
@@ -54877,12 +54877,12 @@ var cust_DB=[
    "LCO ID": 38520,
    "Subscriber Name": "CH UMAMAHESWARA RAO",
    "Card No": "",
-   "Name": "CH UMAMAHESWAR RAO ",
+   "Name": "CH UMAMAHESWAR RAO",
    "D No": "19-2-252",
    "Area": "JAGADEESH COLONY",
    "Cel No": "9346450330",
    "OpeName": "BVR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -54893,10 +54893,10 @@ var cust_DB=[
    "Card No": "",
    "Name": "S LAXMI",
    "D No": "19-2-259",
-   "Area": "JAGADEESH COLONY ",
+   "Area": "JAGADEESH COLONY",
    "Cel No": "8688881784",
    "OpeName": "BVR",
-   "Due Date": "5-Jun-20",
+   "Due Date": "5-Jul-20",
    "Status": "active"
  },
  {
@@ -54910,7 +54910,7 @@ var cust_DB=[
    "Area": "RIKSHAWCOLONY",
    "Cel No": "9550075343",
    "OpeName": "BVR",
-   "Due Date": "6-Jun-20",
+   "Due Date": "6-Jul-20",
    "Status": "active"
  },
  {
@@ -54924,8 +54924,8 @@ var cust_DB=[
    "Area": "JAGADEESH COLONY",
    "Cel No": "6305981517",
    "OpeName": "BVR",
-   "Due Date": "6-Jun-20",
-   "Status": "active"
+   "Due Date": "7-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 22969559,
@@ -54935,10 +54935,10 @@ var cust_DB=[
    "Card No": "",
    "Name": "K BUJJI",
    "D No": "19-1-56",
-   "Area": "LAMBADI COLONY ",
+   "Area": "LAMBADI COLONY",
    "Cel No": "",
    "OpeName": "BVR",
-   "Due Date": "7-Jun-20",
+   "Due Date": "8-Jul-20",
    "Status": "active"
  },
  {
@@ -54949,10 +54949,10 @@ var cust_DB=[
    "Card No": "",
    "Name": "S JAMES",
    "D No": "18-2-183",
-   "Area": "ASR COLONY ",
+   "Area": "ASR COLONY",
    "Cel No": "7660821901",
    "OpeName": "BVR",
-   "Due Date": "8-Jun-20",
+   "Due Date": "19-Jul-20",
    "Status": "active"
  },
  {
@@ -54966,7 +54966,7 @@ var cust_DB=[
    "Area": "ADARSHNAGAR COLONY",
    "Cel No": "9642026131",
    "OpeName": "PULI",
-   "Due Date": "9-Jun-20",
+   "Due Date": "10-Jul-20",
    "Status": "active"
  },
  {
@@ -54976,11 +54976,11 @@ var cust_DB=[
    "Subscriber Name": "J APARNA",
    "Card No": "",
    "Name": "J APARNA",
-   "D No": "7-49",
+   "D No": "Jul-49",
    "Area": "SRI RAM NAGAR COLONY",
    "Cel No": "9100736398",
-   "OpeName": "PULI ",
-   "Due Date": "11-Jun-20",
+   "OpeName": "PULI",
+   "Due Date": "11-Jul-20",
    "Status": "active"
  },
  {
@@ -54994,7 +54994,7 @@ var cust_DB=[
    "Area": "",
    "Cel No": "",
    "OpeName": "",
-   "Due Date": "12-Jun-20",
+   "Due Date": "12-Jul-20",
    "Status": "active"
  },
  {
@@ -55008,7 +55008,7 @@ var cust_DB=[
    "Area": "RIKSHWA COLONY",
    "Cel No": "9908949685",
    "OpeName": "BVR",
-   "Due Date": "14-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -55022,7 +55022,7 @@ var cust_DB=[
    "Area": "",
    "Cel No": "",
    "OpeName": "",
-   "Due Date": "14-Jun-20",
+   "Due Date": "14-Jul-20",
    "Status": "active"
  },
  {
@@ -55036,7 +55036,7 @@ var cust_DB=[
    "Area": "",
    "Cel No": "",
    "OpeName": "",
-   "Due Date": "14-Jun-20",
+   "Due Date": "15-Jul-20",
    "Status": "active"
  },
  {
@@ -55050,8 +55050,8 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9346355527",
    "OpeName": "BVSR",
-   "Due Date": "16-Jun-20",
-   "Status": "active"
+   "Due Date": "17-Jun-20",
+   "Status": "Inactive"
  },
  {
    "Sms ID": 21961599,
@@ -55064,7 +55064,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9182161247",
    "OpeName": "BVSR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -55078,7 +55078,7 @@ var cust_DB=[
    "Area": "LAMBADI COLONY",
    "Cel No": "9346052036",
    "OpeName": "BVR",
-   "Due Date": "16-Jun-20",
+   "Due Date": "16-Jul-20",
    "Status": "active"
  },
  {
@@ -55092,7 +55092,7 @@ var cust_DB=[
    "Area": "VANABOTHULA CHERUVU",
    "Cel No": "9177457571",
    "OpeName": "BVSR",
-   "Due Date": "17-Jun-20",
+   "Due Date": "17-Jul-20",
    "Status": "active"
  },
  {
@@ -55106,7 +55106,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9493467413",
    "OpeName": "BVSR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "22-Jul-20",
    "Status": "active"
  },
  {
@@ -55120,7 +55120,7 @@ var cust_DB=[
    "Area": "JAGADEESH COLONY",
    "Cel No": "9949788561",
    "OpeName": "BVR",
-   "Due Date": "21-Jun-20",
+   "Due Date": "21-Jul-20",
    "Status": "active"
  },
  {
@@ -55134,7 +55134,7 @@ var cust_DB=[
    "Area": "AMC COLONY",
    "Cel No": "9652828859",
    "OpeName": "RAMA KRISHNA",
-   "Due Date": "21-Jun-20",
+   "Due Date": "23-Jul-20",
    "Status": "active"
  },
  {
@@ -55148,7 +55148,7 @@ var cust_DB=[
    "Area": "MEDICAL COLONY",
    "Cel No": "9866513192",
    "OpeName": "BVSR",
-   "Due Date": "24-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -55162,7 +55162,7 @@ var cust_DB=[
    "Area": "ASR COLONY",
    "Cel No": "6301890275",
    "OpeName": "BVR",
-   "Due Date": "24-Jun-20",
+   "Due Date": "24-Jul-20",
    "Status": "active"
  },
  {
@@ -55176,7 +55176,7 @@ var cust_DB=[
    "Area": "AMC COLONY\n",
    "Cel No": "9949818575",
    "OpeName": "",
-   "Due Date": "26-Jun-20",
+   "Due Date": "26-Jul-20",
    "Status": "active"
  },
  {
@@ -55190,8 +55190,540 @@ var cust_DB=[
    "Area": "",
    "Cel No": "",
    "OpeName": "",
-   "Due Date": "27-May-20",
+   "Due Date": "25-Jun-20",
    "Status": "Inactive"
+ },
+ {
+   "Sms ID": 21965152,
+   "VC No": 2516311401,
+   "LCO ID": 38520,
+   "Subscriber Name": "Adinarayana",
+   "Card No": "",
+   "Name": "P ADHI NARAYANA",
+   "D No": "19 5 46.",
+   "Area": "JAGADESH COLONY",
+   "Cel No": "9515213397",
+   "OpeName": "BVR",
+   "Due Date": "15-Jul-20",
+   "Status": "active"
+ },
+ {
+   "Sms ID": 22996922,
+   "VC No": 2560071591,
+   "LCO ID": 38520,
+   "Subscriber Name": "Totamalla Gurumurthy",
+   "Card No": "",
+   "Name": "Totamalla Gurumurthy",
+   "D No": "9-1-94/7.",
+   "Area": "MEDICAL COLONY",
+   "Cel No": "9603232528",
+   "OpeName": "BVSR",
+   "Due Date": "30-Jun-20",
+   "Status": "active"
+ },
+ {
+   "Sms ID": 22998373,
+   "VC No": 2560071627,
+   "LCO ID": 38520,
+   "Subscriber Name": "GRAJESWARI",
+   "Card No": "",
+   "Name": "G.RAJESWARI",
+   "D No": "18-1-32/8D.",
+   "Area": "YSR NAGAR",
+   "Cel No": "9949600654",
+   "OpeName": "BVR",
+   "Due Date": "1-Jul-20",
+   "Status": "active"
+ },
+ {
+   "Sms ID": 22998908,
+   "VC No": 2560071601,
+   "LCO ID": 38520,
+   "Subscriber Name": "T MOUNIKA",
+   "Card No": "",
+   "Name": "T MOUNIKA",
+   "D No": "19 4 23.",
+   "Area": "SRIRAMNAGAR COLONY",
+   "Cel No": "7989302138",
+   "OpeName": "PULI",
+   "Due Date": "1-Jul-20",
+   "Status": "active"
+ },
+ {
+   "Sms ID": 22998931,
+   "VC No": 2560071616,
+   "LCO ID": 38520,
+   "Subscriber Name": "K Verranna",
+   "Card No": "",
+   "Name": "K Verranna",
+   "D No": "",
+   "Area": "",
+   "Cel No": "",
+   "OpeName": "PULI",
+   "Due Date": "1-Jul-20",
+   "Status": "active"
+ },
+ {
+   "Sms ID": 22999774,
+   "VC No": 2560071600,
+   "LCO ID": 38520,
+   "Subscriber Name": "PAPPU VENU GOPAL",
+   "Card No": "",
+   "Name": "PAPPU VENU GOPAL",
+   "D No": "9-1-1/12/5A.",
+   "Area": "MEDICAL COLONY",
+   "Cel No": "9885339514",
+   "OpeName": "BVSR",
+   "Due Date": "2-Jul-20",
+   "Status": "active"
+ },
+ {
+   "Sms ID": 22999776,
+   "VC No": 2560071582,
+   "LCO ID": 38520,
+   "Subscriber Name": "K GANGADHAR",
+   "Card No": "",
+   "Name": "KILARI GANGADHAR",
+   "D No": "9-1-168/15.",
+   "Area": "MEDICAL COLONY",
+   "Cel No": "7793944019",
+   "OpeName": "BVSR",
+   "Due Date": "2-Jul-20",
+   "Status": "active"
+ },
+ {
+   "Sms ID": 23002464,
+   "VC No": 2561185182,
+   "LCO ID": 38519,
+   "Subscriber Name": "Thotamalla Vijay",
+   "Card No": "",
+   "Name": "Thotamalla Vijay",
+   "D No": "",
+   "Area": "",
+   "Cel No": "",
+   "OpeName": "",
+   "Due Date": "3-Jul-20",
+   "Status": "active"
+ },
+ {
+   "Sms ID": 21961582,
+   "VC No": 2516298212,
+   "LCO ID": 38519,
+   "Subscriber Name": "S JEEVA",
+   "Card No": "",
+   "Name": "S JEEVA",
+   "D No": "",
+   "Area": "",
+   "Cel No": "",
+   "OpeName": "",
+   "Due Date": "6-Jul-20",
+   "Status": "active"
+ },
+ {
+   "Sms ID": 21980588,
+   "VC No": 2516312005,
+   "LCO ID": 38520,
+   "Subscriber Name": "D REVATHI",
+   "Card No": "",
+   "Name": "D REVATHI",
+   "D No": "",
+   "Area": "",
+   "Cel No": "",
+   "OpeName": "",
+   "Due Date": "6-Jul-20",
+   "Status": "active"
+ },
+ {
+   "Sms ID": 23009074,
+   "VC No": 2561185143,
+   "LCO ID": 38519,
+   "Subscriber Name": "Chandu S",
+   "Card No": "",
+   "Name": "Chandu S",
+   "D No": "",
+   "Area": "",
+   "Cel No": "",
+   "OpeName": "PULI",
+   "Due Date": "7-Jul-20",
+   "Status": "active"
+ },
+ {
+   "Sms ID": 23010610,
+   "VC No": 2560079812,
+   "LCO ID": 38520,
+   "Subscriber Name": "SSHESAGIRI RAO",
+   "Card No": "",
+   "Name": "SSHESAGIRI RAO",
+   "D No": "",
+   "Area": "",
+   "Cel No": "",
+   "OpeName": "BVSR",
+   "Due Date": "8-Jul-20",
+   "Status": "active"
+ },
+ {
+   "Sms ID": 21966687,
+   "VC No": 2516307521,
+   "LCO ID": 38520,
+   "Subscriber Name": "KORUMURI JAYADEEP",
+   "Card No": "",
+   "Name": "KORUMURI JAYADEEP",
+   "D No": "",
+   "Area": "",
+   "Cel No": "",
+   "OpeName": "PULI",
+   "Due Date": "11-Jul-20",
+   "Status": "active"
+ },
+ {
+   "Sms ID": 23015606,
+   "VC No": 2560079737,
+   "LCO ID": 38520,
+   "Subscriber Name": "DASU",
+   "Card No": "",
+   "Name": "DASU",
+   "D No": "",
+   "Area": "",
+   "Cel No": "",
+   "OpeName": "",
+   "Due Date": "11-Jul-20",
+   "Status": "active"
+ },
+ {
+   "Sms ID": 23015722,
+   "VC No": 2560079766,
+   "LCO ID": 38520,
+   "Subscriber Name": "Tarachand B",
+   "Card No": "",
+   "Name": "Tarachand B",
+   "D No": "",
+   "Area": "",
+   "Cel No": "",
+   "OpeName": "BVSR",
+   "Due Date": "11-Jul-20",
+   "Status": "active"
+ },
+ {
+   "Sms ID": 23016698,
+   "VC No": 2560079743,
+   "LCO ID": 38520,
+   "Subscriber Name": "Eeswar Madapa",
+   "Card No": "",
+   "Name": "Eeswar Madapa",
+   "D No": "",
+   "Area": "",
+   "Cel No": "",
+   "OpeName": "BVSR",
+   "Due Date": "11-Jul-20",
+   "Status": "active"
+ },
+ {
+   "Sms ID": 23017517,
+   "VC No": 2560079775,
+   "LCO ID": 38520,
+   "Subscriber Name": "BRAMESH",
+   "Card No": "",
+   "Name": "BRAMESH",
+   "D No": "",
+   "Area": "",
+   "Cel No": "",
+   "OpeName": "BVR",
+   "Due Date": "12-Jul-20",
+   "Status": "active"
+ },
+ {
+   "Sms ID": 23017731,
+   "VC No": 2560079802,
+   "LCO ID": 38520,
+   "Subscriber Name": "T KONDALA RAO",
+   "Card No": "",
+   "Name": "T KONDALA RAO",
+   "D No": "",
+   "Area": "",
+   "Cel No": "",
+   "OpeName": "BVR",
+   "Due Date": "12-Jul-20",
+   "Status": "active"
+ },
+ {
+   "Sms ID": 23019142,
+   "VC No": 2561185305,
+   "LCO ID": 38519,
+   "Subscriber Name": "Rathna Rahu",
+   "Card No": "",
+   "Name": "Rathna Rahu",
+   "D No": "",
+   "Area": "",
+   "Cel No": "",
+   "OpeName": "BVR",
+   "Due Date": "13-Jul-20",
+   "Status": "active"
+ },
+ {
+   "Sms ID": 23021771,
+   "VC No": 2561185302,
+   "LCO ID": 38519,
+   "Subscriber Name": "RayapudiSarijini",
+   "Card No": "",
+   "Name": "RayapudiSarijini",
+   "D No": "",
+   "Area": "",
+   "Cel No": "",
+   "OpeName": "BVR",
+   "Due Date": "15-Jul-20",
+   "Status": "active"
+ },
+ {
+   "Sms ID": 23022713,
+   "VC No": 2561185291,
+   "LCO ID": 38520,
+   "Subscriber Name": "B JOSEPH",
+   "Card No": "",
+   "Name": "B JOSEPH",
+   "D No": "",
+   "Area": "",
+   "Cel No": "",
+   "OpeName": "BVR",
+   "Due Date": "15-Jul-20",
+   "Status": "active"
+ },
+ {
+   "Sms ID": 23024151,
+   "VC No": 2561185306,
+   "LCO ID": 38520,
+   "Subscriber Name": "V VARALAXMI",
+   "Card No": "",
+   "Name": "V VARALAXMI",
+   "D No": "",
+   "Area": "",
+   "Cel No": "",
+   "OpeName": "BVR",
+   "Due Date": "16-Jul-20",
+   "Status": "active"
+ },
+ {
+   "Sms ID": 23024227,
+   "VC No": 2561185248,
+   "LCO ID": 38520,
+   "Subscriber Name": "R CHITTI BABU",
+   "Card No": "",
+   "Name": "R CHITTI BABU",
+   "D No": "",
+   "Area": "",
+   "Cel No": "",
+   "OpeName": "BVSR",
+   "Due Date": "16-Jul-20",
+   "Status": "active"
+ },
+ {
+   "Sms ID": 23025688,
+   "VC No": 2561185266,
+   "LCO ID": 38520,
+   "Subscriber Name": "MDSAMEENA",
+   "Card No": "",
+   "Name": "MDSAMEENA",
+   "D No": "",
+   "Area": "",
+   "Cel No": "",
+   "OpeName": "BVR",
+   "Due Date": "17-Jul-20",
+   "Status": "active"
+ },
+ {
+   "Sms ID": 23027536,
+   "VC No": 2561185300,
+   "LCO ID": 38519,
+   "Subscriber Name": "J ANASURYA",
+   "Card No": "",
+   "Name": "J ANASURYA",
+   "D No": "",
+   "Area": "",
+   "Cel No": "",
+   "OpeName": "BVR",
+   "Due Date": "18-Jul-20",
+   "Status": "active"
+ },
+ {
+   "Sms ID": 23028126,
+   "VC No": 2561185321,
+   "LCO ID": 38519,
+   "Subscriber Name": "K ALIVELU",
+   "Card No": "",
+   "Name": "K ALIVELU",
+   "D No": "",
+   "Area": "",
+   "Cel No": "",
+   "OpeName": "",
+   "Due Date": "18-Jul-20",
+   "Status": "active"
+ },
+ {
+   "Sms ID": 21965635,
+   "VC No": 2516298359,
+   "LCO ID": 38520,
+   "Subscriber Name": "VENKATESWAR RAO",
+   "Card No": "",
+   "Name": "VENKATESWAR RAO",
+   "D No": "",
+   "Area": "",
+   "Cel No": "",
+   "OpeName": "puli",
+   "Due Date": "18-Jul-20",
+   "Status": "active"
+ },
+ {
+   "Sms ID": 21954731,
+   "VC No": 2516304240,
+   "LCO ID": 38519,
+   "Subscriber Name": "Madapa Eshwar",
+   "Card No": "",
+   "Name": "Madapa Eshwar",
+   "D No": "",
+   "Area": "",
+   "Cel No": "",
+   "OpeName": "",
+   "Due Date": "21-Jul-20",
+   "Status": "active"
+ },
+ {
+   "Sms ID": 21960216,
+   "VC No": 2516312148,
+   "LCO ID": 38519,
+   "Subscriber Name": "Rammohanarao",
+   "Card No": "",
+   "Name": "Rammohanarao",
+   "D No": "",
+   "Area": "",
+   "Cel No": "",
+   "OpeName": "",
+   "Due Date": "21-Jul-20",
+   "Status": "active"
+ },
+ {
+   "Sms ID": 21961750,
+   "VC No": 2516314571,
+   "LCO ID": 38519,
+   "Subscriber Name": "G NARAYANAMMA",
+   "Card No": "",
+   "Name": "G NARAYANAMMA",
+   "D No": "",
+   "Area": "",
+   "Cel No": "",
+   "OpeName": "",
+   "Due Date": "21-Jul-20",
+   "Status": "active"
+ },
+ {
+   "Sms ID": 21956327,
+   "VC No": 2516310879,
+   "LCO ID": 38519,
+   "Subscriber Name": "S VARALAXMI",
+   "Card No": "",
+   "Name": "B VASU",
+   "D No": "19 5 45/4.",
+   "Area": "JAGADESH COLONY",
+   "Cel No": "79933226160",
+   "OpeName": "BVR",
+   "Due Date": "23-Jul-20",
+   "Status": "active"
+ },
+ {
+   "Sms ID": 23037102,
+   "VC No": 2561185225,
+   "LCO ID": 38520,
+   "Subscriber Name": "Udaya Raju P",
+   "Card No": "",
+   "Name": "Udaya Raju P",
+   "D No": "",
+   "Area": "",
+   "Cel No": "",
+   "OpeName": "BVSR",
+   "Due Date": "23-Jul-20",
+   "Status": "active"
+ },
+ {
+   "Sms ID": 21966262,
+   "VC No": 2516290317,
+   "LCO ID": 38520,
+   "Subscriber Name": "KAPULA LAXMAN",
+   "Card No": "",
+   "Name": "N RANGAYYA",
+   "D No": "19 2 207.",
+   "Area": "JAGADESH COLONY",
+   "Cel No": "6303926685",
+   "OpeName": "BVR",
+   "Due Date": "24-Jul-20",
+   "Status": "active"
+ },
+ {
+   "Sms ID": 23043619,
+   "VC No": 2560080855,
+   "LCO ID": 38519,
+   "Subscriber Name": "Swaroopa K",
+   "Card No": "",
+   "Name": "Swaroopa K",
+   "D No": "",
+   "Area": "",
+   "Cel No": "",
+   "OpeName": "",
+   "Due Date": "27-Jul-20",
+   "Status": "active"
+ },
+ {
+   "Sms ID": 23044594,
+   "VC No": 2560079811,
+   "LCO ID": 38520,
+   "Subscriber Name": "Y RAVI TEJA",
+   "Card No": "",
+   "Name": "Y RAVI TEJA",
+   "D No": "",
+   "Area": "",
+   "Cel No": "",
+   "OpeName": "",
+   "Due Date": "27-Jul-20",
+   "Status": "active"
+ },
+ {
+   "Sms ID": 23045905,
+   "VC No": 2560080896,
+   "LCO ID": 38519,
+   "Subscriber Name": "B SATYANARAYANA",
+   "Card No": "",
+   "Name": "B SATYANARAYANA",
+   "D No": "",
+   "Area": "",
+   "Cel No": "",
+   "OpeName": "",
+   "Due Date": "28-Jul-20",
+   "Status": "active"
+ },
+ {
+   "Sms ID": 23045938,
+   "VC No": 2561185287,
+   "LCO ID": 38520,
+   "Subscriber Name": "P PRABHAKAR",
+   "Card No": "",
+   "Name": "P PRABHAKAR",
+   "D No": "",
+   "Area": "",
+   "Cel No": "",
+   "OpeName": "",
+   "Due Date": "28-Jul-20",
+   "Status": "active"
+ },
+ {
+   "Sms ID": 22996922,
+   "VC No": 2560071591,
+   "LCO ID": 38520,
+   "Subscriber Name": "Totamalla Gurumurthy",
+   "Card No": "",
+   "Name": "Totamalla Gurumurthy",
+   "D No": "9-1-94/7.",
+   "Area": "MEDICAL COLONY",
+   "Cel No": "9603232528",
+   "OpeName": "BVSR",
+   "Due Date": "30-Jun-20",
+   "Status": "active"
  }
 ]
 
