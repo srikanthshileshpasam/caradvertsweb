@@ -121764,7 +121764,7 @@ function customerSearch(){
 
 for (var x in cust_DB){
   if (cust_DB[x]["VC No"]==vcid){
-  sms = cust_DB[x]["Sms ID"];
+  sms = cust_DB[x]["SMS ID"];
   lco = cust_DB[x]["LCO ID"];
   customer = cust_DB[x]["Subscriber Name"];
   status = cust_DB[x]["Status"];
