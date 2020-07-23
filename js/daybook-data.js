@@ -11,6 +11,12 @@ var cust_DB=[
      "Phone": 123456789,
      "Area": "xyz"
     },
+    {
+     "Name": "lmn",
+     "Code": 456,
+     "Phone": 123456789,
+     "Area": "zzz"
+    },
  ]
 
 
@@ -137,7 +143,7 @@ var agent_DB=[
  }
 ]
 
-var cust_name, cust_code, cust_phone, cust_area;
+var cust_name, cust_code, cust_phone, cust_area, area;
 
 
 function customerSearch(){
@@ -151,33 +157,50 @@ for (var x in cust_DB){
   if (cust_DB[x]["Code"]==cust_id){
   cust_name = cust_DB[x]["Name"];
   cust_phone = cust_DB[x]["Phone"];
+  area = cust_DB[x]["Area"];
   }
 }
     if (cust_name==null){
         alert("Collection ID not found!");
         return false;
       }
-    else {
-      document.getElementById("c_vc").innerHTML = vcid;
-      document.getElementById("c_name").innerHTML = customer;
-      document.getElementById("c_phone").innerHTML = phone;
-      document.getElementById("d_d").innerHTML = due_date;
+    else if (coll_type=="coll"){
+      document.getElementById("c_id").innerHTML = cust_id;
+      document.getElementById("c_name").innerHTML = cust_name;
+      document.getElementById("c_phone").innerHTML = cust_phone;
+      document.getElementById("c_area").innerHTML = area;
+        
+        
 
       var y = document.getElementById("toggleDIV");
   		if (y.style.display === "none") {
     		y.style.display = "block";
   	}
-      return [sms, vcid, lco, customer, status, area, card, phone, cell, due_date, last_paid];
+      return [cust_name, cust_phone, area];
+    }
+    else if (coll_type=="exp"){
+      document.getElementById("c_id").innerHTML = cust_id;
+      document.getElementById("c_name").innerHTML = cust_name;
+      document.getElementById("c_phone").innerHTML = cust_phone;
+      document.getElementById("c_area").innerHTML = area;
+        
+        
+
+      var y = document.getElementById("toggleDIV3");
+  		if (y.style.display === "none") {
+    		y.style.display = "block";
+  	}
+      return [cust_name, cust_phone, area];  
     }
     }
 
 
-    function agentAuth() {
-      var rec_no = document.getElementById('rec_no').value;
-      var pkg = document.getElementById('pkg').value;
+    function collAgentAuth() {
+      var start_bill = document.getElementById('start_bill').value;
+      var end_bill = document.getElementById('end_bill').value;
       var amt = document.getElementById('amt').value;
-      var agent=document.getElementById('password-3').value;
-      var months=document.getElementById('months').value;
+      var agent=document.getElementById('coll_pwd').value;
+      var pay_method=document.getElementById('pay_method').value;
 
           for (var x in agent_DB){
             if (agent_DB[x]["FIELD2"]==agent) {
@@ -186,20 +209,59 @@ for (var x in cust_DB){
           }
 
           {
-            if (rec_no==null || rec_no==''){
-              alert("Enter Receipt Number!");
+            if (start_bill==null || start_bill==''){
+              alert("Enter Starting Bill Number!");
               return false;
             }
-            else if (pkg==null || pkg==''){
-              alert("Enter Customer Package!");
+            else if (end_bill==null || end_bill==''){
+              alert("Enter Last Bill Number!");
               return false;
             }
             else if (amt==null || amt==''){
-              alert("Enter Amount Paid!");
+              alert("Enter Amount Received!");
               return false;
             }
-            else if (months==null || months==''){
-              alert("Enter Number of Months Paid!");
+            else if (pay_method==null || pay_method==''){
+              alert("Select Payment Method!");
+              return false;
+            }
+
+          else if (agent_found==null){
+              alert("Invalid PIN!");
+              return false;
+            }
+          else {
+            var z = document.getElementById("toggleDIV2");
+      			if (z.style.display === "none") {
+        			z.style.display = "block";
+      	}
+              return agent_found;
+            }}
+    }
+
+function expAgentAuth() {
+      var exp_code = document.getElementById('exp_code').value;
+      var exp_des = document.getElementById('exp_des').value;
+      var exp_paid = document.getElementById('exp_paid').value;
+      var agent=document.getElementById('exp_pwd').value;
+
+          for (var x in agent_DB){
+            if (agent_DB[x]["FIELD2"]==agent) {
+              var agent_found=agent_DB[x]["FIELD1"];
+            }
+          }
+
+          {
+            if (exp_code==null || exp_code==''){
+              alert("Enter Expense Code!");
+              return false;
+            }
+            else if (exp_des==null || exp_des==''){
+              alert("Enter Expense Description!");
+              return false;
+            }
+            else if (exp_paid==null || exp_paid==''){
+              alert("Enter Amount Paid!");
               return false;
             }
 

@@ -37,31 +37,27 @@
 				</div>
                
                 <div class="wrap-input100 bg1 rs1-wrap-input100 validate-input">
-                <span class="label-input100">Select Area Code<br><br></span>
-                <input type="radio" id="area" name="area" value="BCM">
-                <label for="BCM">BCM</label><br><br>
-                <input type="radio" id="area" name="area" value="BCM-2">
-                <label for="BCM-2">BCM-2</label><br><br>
-                <input type="radio" id="area" name="area" value="BNG">
-                <label for="BNG">BNG</label><br><br>
-                <input type="radio" id="area" name="area" value="DMG">
-                <label for="DMG">DMG</label><br><br>
-                <input type="radio" id="area" name="area" value="MDR">
-                <label for="MDR">MDR</label><br><br>
-                <input type="radio" id="area" name="area" value="SPL">
-                <label for="SPL">SPL</label><br><br>
-                <input type="radio" id="area" name="area" value="TLD">
-                <label for="TLD">TLD</label><br><br>
-                <input type="radio" id="area" name="area" value="TVR">
-                <label for="TVR">TVR</label><br>
+                    <label for="area"><span class="label-input100">Select Area Code<br><br></span></label>
+                    <select id="area" name="area">
+                      <option value=""></option>
+                      <option value="bcm">BCM</option>
+                      <option value="bcm-2">BCM-2</option>
+                      <option value="bng">BNG</option>
+                      <option value="dmg">DMG</option>
+                      <option value="mdr">MDR</option>
+                      <option value="spl">SPL</option>
+                      <option value="tld">TLD</option>
+                      <option value="tvr">TVR</option>
+                    </select>
                 </div>
                 
                 <div class="wrap-input100 bg1 rs1-wrap-input100 validate-input">
-                <span class="label-input100">Select Collection or Expense<br><br></span>
-                <input type="radio" id="type" name="type" value="coll">
-                <label for="coll">Collection</label><br><br>
-                <input type="radio" id="type" name="type" value="exp">
-                <label for="exp">Expense</label><br>
+                    <label for="area"><span class="label-input100">Select Collection or Expense<br><br></span></label>
+                    <select id="type" name="type">
+                      <option value=""></option>
+                      <option value="coll">Collection</option>
+                      <option value="exp">Expense</option>
+                    </select>
                 </div>
                 
 			<div class="container-contact100-form-btn space">
@@ -75,22 +71,20 @@
 
 		<div id="toggleDIV">
 
-<!--
 			<div class="wrap-contact100">
 				<span id="customer_details">
 								<ul class="label-input100">
-									<p>Customer VC -</p>
-									<li id="c_vc" class="input100"></li>
+									<p>Collection Point ID -</p>
+									<li id="c_id" class="input100"></li>
 									<p>Customer Name -</p>
 									<li id="c_name" class="input100"></li>
 									<p>Customer Phone -</p>
 									<li id="c_phone" class="input100"></li>
-									<p>Due Date -</p>
-									<li id="d_d" class="input100"></li>
+									<p>Area -</p>
+									<li id="c_area" class="input100"></li>
 								</ul>
 				</span>
 		</div>
--->
 
 		<div class="wrap-input100 rs1-wrap-input100 validate-input bg1" data-validate="Please Type Starting Bill Number">
 			<span class="label-input100">Bill Start Number *</span>
@@ -102,29 +96,16 @@
 			<input id="end_bill" class="input100" type="number" name="end" placeholder="Enter Ending Bill Number" required>
 		</div>
 
-<!--
-		<div class="wrap-input100 validate-input bg1 rs1-wrap-input100">
-			<span class="label-input100">Package *</span>
-			<input id="pkg" class="input100" name="package" placeholder="Customer package choice" placeholder="Enter Amount Paid" required>
-		</div>
--->
-
 		<div class="wrap-input100 validate-input bg1 rs1-wrap-input100" data-validate = "Enter Amount Received">
 			<span class="label-input100">Amount *</span>
 			<input id="amt" class="input100" type="text" maxlength="4" name="amount" placeholder="Enter Amount Received " required>
 		</div>
 
-<!--
-		<div class="wrap-input100 validate-input bg1 rs1-wrap-input100" data-validate = "Enter Number of months">
-			<span class="label-input100">Number of months *</span>
-			<input id="months" class="input100" type="text" maxlength="2" name="months" placeholder="Enter Number of Months " required>
-		</div>
--->
         <div class="wrap-input100 bg1 rs1-wrap-input100 validate-input">
                 <span class="label-input100">Select Payment Method<br><br></span>
-                <input type="radio" id="cash" name="payment" value="cash">
+                <input type="radio" id="pay_method" name="payment" value="cash">
                 <label for="cash">Cash</label><br><br>
-                <input type="radio" id="online" name="payment" value="online">
+                <input type="radio" id="pay_method" name="payment" value="online">
                 <label for="online">Online</label><br>
         </div>
 
@@ -135,20 +116,68 @@
 
 		<div class="wrap-input100 validate-input bg1 rs1-wrap-input100" data-validate = "Enter PIN to submit">
 			<span class="label-input100">PIN *</span>
-			<input class="input100" type="number" id="password-3" pattern="[0-9]*" name="agent_name" placeholder="Enter Your PIN " required>
+			<input class="input100" type="number" id="coll_pwd" pattern="[0-9]*" name="coll_pwd" placeholder="Enter Your PIN " required>
 		</div>
 
 		<div class="container-contact100-form-btn-auth">
 						<button class="contact100-form-btn">
 							<span>
-								<a onclick="agentAuth()">Authenticate PIN</a>
+								<a onclick="collAgentAuth()">Authenticate PIN</a>
 								<i aria-hidden="true"></i>
 							</span>
 						</button>
 		</div>
             
 	</div>
-		<div id="toggleDIV2">
+
+		<div id="toggleDIV3">
+            
+            <div class="wrap-contact100">
+				<span id="customer_details">
+								<ul class="label-input100">
+									<p>Collection Point ID -</p>
+									<li id="c_id" class="input100"></li>
+									<p>Customer Name -</p>
+									<li id="c_name" class="input100"></li>
+									<p>Customer Phone -</p>
+									<li id="c_phone" class="input100"></li>
+									<p>Area -</p>
+									<li id="c_area" class="input100"></li>
+								</ul>
+				</span>
+		</div>
+            
+            <div class="wrap-input100 rs1-wrap-input100 validate-input bg1" data-validate="Please Type Expense Code">
+			<span class="label-input100">Expenditure Code *</span>
+			<input id="exp_code" class="input100" type="number" name="exp_code" placeholder="Enter Expense Code" required>
+		    </div>
+            
+            <div class="wrap-input100 rs1-wrap-input100 validate-input bg1" data-validate="Please Type Expense Description">
+			<span class="label-input100">Expenditure Description *</span>
+			<input id="exp_des" class="input100" type="text" name="exp_des" placeholder="Enter Expense Description" required>
+		    </div>
+            
+            <div class="wrap-input100 rs1-wrap-input100 validate-input bg1" data-validate="To whom is the expense paid to?">
+			<span class="label-input100">Expense Paid To *</span>
+			<input id="exp_paid" class="input100" type="number" name="exp_paid" placeholder="Enter To Whom The Expense Is Paid To" required>
+		    </div>
+            
+            <div class="wrap-input100 validate-input bg1 rs1-wrap-input100" data-validate = "Enter PIN to submit">
+			<span class="label-input100">PIN *</span>
+			<input class="input100" type="number" id="exp_pwd" pattern="[0-9]*" name="exp_pwd" placeholder="Enter Your PIN " required>
+		</div>
+
+		<div class="container-contact100-form-btn-auth">
+						<button class="contact100-form-btn">
+							<span>
+								<a onclick="expAgentAuth()">Authenticate PIN</a>
+								<i aria-hidden="true"></i>
+							</span>
+						</button>
+		</div>
+		</div>
+                
+        <div id="toggleDIV2">
 					<div class="container-contact100-form-btn-sub">
 					<button class="contact100-form-btn">
 						<span>
@@ -157,37 +186,6 @@
 					</span>
 				</button>
 				</div>
-		</div>
-
-		<div id="toggleDIV3">
-            <div class="wrap-input100 rs1-wrap-input100 validate-input bg1" data-validate="Please Type Expense Code">
-			<span class="label-input100">Expenditure Code *</span>
-			<input id="exp_code" class="input100" type="number" name="expense_code" placeholder="Enter Expense Code" required>
-		    </div>
-            
-            <div class="wrap-input100 rs1-wrap-input100 validate-input bg1" data-validate="Please Type Expense Description">
-			<span class="label-input100">Expenditure Description *</span>
-			<input id="exp_des" class="input100" type="number" name="expense_des" placeholder="Enter Expense Description" required>
-		    </div>
-            
-            <div class="wrap-input100 rs1-wrap-input100 validate-input bg1" data-validate="To whom is the expense paid to?">
-			<span class="label-input100">Expense Paid To *</span>
-			<input id="exp_paid" class="input100" type="number" name="expense_paid" placeholder="Enter To Whom The Expense Is Paid To" required>
-		    </div>
-            
-            <div class="wrap-input100 validate-input bg1 rs1-wrap-input100" data-validate = "Enter PIN to submit">
-			<span class="label-input100">PIN *</span>
-			<input class="input100" type="number" id="password-3" pattern="[0-9]*" name="agent_name" placeholder="Enter Your PIN " required>
-		</div>
-
-		<div class="container-contact100-form-btn-auth">
-						<button class="contact100-form-btn">
-							<span>
-								<a onclick="agentAuth()">Authenticate PIN</a>
-								<i aria-hidden="true"></i>
-							</span>
-						</button>
-		</div>
 		</div>
 			</form>
 		</div>
