@@ -179,10 +179,10 @@ for (var x in cust_DB){
       return [cust_name, cust_phone, area];
     }
     else if (coll_type=="exp"){
-      document.getElementById("c_id").innerHTML = cust_id;
-      document.getElementById("c_name").innerHTML = cust_name;
-      document.getElementById("c_phone").innerHTML = cust_phone;
-      document.getElementById("c_area").innerHTML = area;
+      document.getElementById("e_id").innerHTML = cust_id;
+      document.getElementById("e_name").innerHTML = cust_name;
+      document.getElementById("e_phone").innerHTML = cust_phone;
+      document.getElementById("e_area").innerHTML = area;
         
         
 

@@ -38,7 +38,7 @@
                
                 <div class="wrap-input100 bg1 rs1-wrap-input100 validate-input">
                     <label for="area"><span class="label-input100">Select Area Code<br><br></span></label>
-                    <select id="area" name="area">
+                    <select id="area" name="area" required>
                       <option value=""></option>
                       <option value="bcm">BCM</option>
                       <option value="bcm-2">BCM-2</option>
@@ -53,7 +53,7 @@
                 
                 <div class="wrap-input100 bg1 rs1-wrap-input100 validate-input">
                     <label for="area"><span class="label-input100">Select Collection or Expense<br><br></span></label>
-                    <select id="type" name="type">
+                    <select id="type" name="type" required>
                       <option value=""></option>
                       <option value="coll">Collection</option>
                       <option value="exp">Expense</option>
@@ -100,14 +100,15 @@
 			<span class="label-input100">Amount *</span>
 			<input id="amt" class="input100" type="text" maxlength="4" name="amount" placeholder="Enter Amount Received " required>
 		</div>
-
-        <div class="wrap-input100 bg1 rs1-wrap-input100 validate-input">
-                <span class="label-input100">Select Payment Method<br><br></span>
-                <input type="radio" id="pay_method" name="payment" value="cash">
-                <label for="cash">Cash</label><br><br>
-                <input type="radio" id="pay_method" name="payment" value="online">
-                <label for="online">Online</label><br>
-        </div>
+            
+            <div class="wrap-input100 bg1 rs1-wrap-input100 validate-input">
+                    <label for="pay_method"><span class="label-input100">Select Payment Method<br><br></span></label>
+                    <select id="pay_method" name="pay_method">
+                      <option value=""></option>
+                      <option value="cash">Cash</option>
+                      <option value="online">Online</option>
+                    </select>
+                </div>
 
 		<div class="wrap-input100 bg0 rs1-alert-validate">
 			<span class="label-input100">Remarks</span>
@@ -136,13 +137,13 @@
 				<span id="customer_details">
 								<ul class="label-input100">
 									<p>Collection Point ID -</p>
-									<li id="c_id" class="input100"></li>
+									<li id="e_id" class="input100"></li>
 									<p>Customer Name -</p>
-									<li id="c_name" class="input100"></li>
+									<li id="e_name" class="input100"></li>
 									<p>Customer Phone -</p>
-									<li id="c_phone" class="input100"></li>
+									<li id="e_phone" class="input100"></li>
 									<p>Area -</p>
-									<li id="c_area" class="input100"></li>
+									<li id="e_area" class="input100"></li>
 								</ul>
 				</span>
 		</div>
