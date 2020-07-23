@@ -288,10 +288,10 @@ var cust_area = document.getElementById('area').value;
 var type = document.getElementById('type').value;
 
 if (type=="coll"){
-    var agent = collAgentAuth();
+    var coll_agent = collAgentAuth();
 }
 else if (type=="exp"){
-    var agent = expAgentAuth();
+    var exp_agent = expAgentAuth();
 }
     
 var start_bill = document.getElementById('start_bill').value;
@@ -309,7 +309,7 @@ var exp_pwd=document.getElementById('exp_pwd').value;
 var $form = $('#data-entry'),
     url = 'https://script.google.com/macros/s/AKfycbx41sJid8NfbWwhCT1JHOJxePLFTKeQWwiG5YRcezJhQwNxuO4I/exec'
     
-var array = {'Collection ID':coll_id, 'Area':cust_area, 'Type':type, 'Start Bill':start_bill, 'End Bill':end_bill, 'Bill Quantity':quantity, 'Amount':amt, 'Payment Method':pay_method, 'Collection Remarks':coll_rem, 'Pin':exp_code, 'Agent':agent, 'Expense Code':exp_code, 'Expense Description':exp_des, 'Expense Remarks':exp_rem, 'Pin':exp_pwd, 'Agent':agent};
+var array = {'Collection ID':coll_id, 'Collection ID Name':cust_name, 'Area':cust_area, 'Type':type, 'Start Bill':start_bill, 'End Bill':end_bill, 'Bill Quantity':'quantity', 'Amount':amt, 'Payment Method':pay_method, 'Collection Remarks':coll_rem, 'Agent':coll_agent, 'Expense Code':exp_code, 'Expense Description':exp_des, 'Amount paid to':exp_paid, 'Expense Remarks':exp_rem, 'Agent':exp_agent};
    
 console.log(array);
 
