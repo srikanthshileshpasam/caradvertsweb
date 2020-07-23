@@ -33,28 +33,34 @@
                 
 				<div class="wrap-input100 bg1 rs1-wrap-input100 validate-input" data-validate = "Enter Collection Point Name/Number">
 					<span class="label-input100">Collection Point ID</span>
-					<input class="input100" type="text" maxlength="11" name="vc_no" id="vc_no" placeholder="Enter Collection Point Name/Num" required>
+					<input class="input100" type="text" maxlength="11" name="coll_id" id="coll_id" placeholder="Enter Collection Point Name/Num" required>
 				</div>
                
                 <div class="wrap-input100 bg1 rs1-wrap-input100 validate-input">
                 <span class="label-input100">Select Area Code<br><br></span>
-                <input type="radio" id="BCM" name="area" value="BCM">
+                <input type="radio" id="area" name="area" value="BCM">
                 <label for="BCM">BCM</label><br><br>
-                <input type="radio" id="BCM-2" name="area" value="BCM-2">
+                <input type="radio" id="area" name="area" value="BCM-2">
                 <label for="BCM-2">BCM-2</label><br><br>
-                <input type="radio" id="BNG" name="area" value="BNG">
+                <input type="radio" id="area" name="area" value="BNG">
                 <label for="BNG">BNG</label><br><br>
-                <input type="radio" id="MDR" name="area" value="MDR">
+                <input type="radio" id="area" name="area" value="DMG">
+                <label for="DMG">DMG</label><br><br>
+                <input type="radio" id="area" name="area" value="MDR">
                 <label for="MDR">MDR</label><br><br>
-                <input type="radio" id="SPL-TLD" name="area" value="SPL-TLD">
-                <label for="SPL-TLD">SPL-TLD</label><br>
+                <input type="radio" id="area" name="area" value="SPL">
+                <label for="SPL">SPL</label><br><br>
+                <input type="radio" id="area" name="area" value="TLD">
+                <label for="TLD">TLD</label><br><br>
+                <input type="radio" id="area" name="area" value="TVR">
+                <label for="TVR">TVR</label><br>
                 </div>
                 
                 <div class="wrap-input100 bg1 rs1-wrap-input100 validate-input">
                 <span class="label-input100">Select Collection or Expense<br><br></span>
-                <input type="radio" id="coll" name="type" value="coll">
+                <input type="radio" id="type" name="type" value="coll">
                 <label for="coll">Collection</label><br><br>
-                <input type="radio" id="exp" name="type" value="exp">
+                <input type="radio" id="type" name="type" value="exp">
                 <label for="exp">Expense</label><br>
                 </div>
                 
@@ -88,12 +94,12 @@
 
 		<div class="wrap-input100 rs1-wrap-input100 validate-input bg1" data-validate="Please Type Starting Bill Number">
 			<span class="label-input100">Bill Start Number *</span>
-			<input id="rec_no" class="input100" type="number" name="receipt" placeholder="Enter Starting Bill Number" required>
+			<input id="start_bill" class="input100" type="number" name="start" placeholder="Enter Starting Bill Number" required>
 		</div>
             
         <div class="wrap-input100 rs1-wrap-input100 validate-input bg1" data-validate="Please Type Ending Bill Number">
 			<span class="label-input100">Last Bill Number *</span>
-			<input id="rec_no" class="input100" type="number" name="receipt" placeholder="Enter Ending Bill Number" required>
+			<input id="end_bill" class="input100" type="number" name="end" placeholder="Enter Ending Bill Number" required>
 		</div>
 
 <!--
@@ -156,17 +162,17 @@
 		<div id="toggleDIV3">
             <div class="wrap-input100 rs1-wrap-input100 validate-input bg1" data-validate="Please Type Expense Code">
 			<span class="label-input100">Expenditure Code *</span>
-			<input id="rec_no" class="input100" type="number" name="receipt" placeholder="Enter Expense Code" required>
+			<input id="exp_code" class="input100" type="number" name="expense_code" placeholder="Enter Expense Code" required>
 		    </div>
             
             <div class="wrap-input100 rs1-wrap-input100 validate-input bg1" data-validate="Please Type Expense Description">
 			<span class="label-input100">Expenditure Description *</span>
-			<input id="rec_no" class="input100" type="number" name="receipt" placeholder="Enter Expense Description" required>
+			<input id="exp_des" class="input100" type="number" name="expense_des" placeholder="Enter Expense Description" required>
 		    </div>
             
             <div class="wrap-input100 rs1-wrap-input100 validate-input bg1" data-validate="To whom is the expense paid to?">
 			<span class="label-input100">Expense Paid To *</span>
-			<input id="rec_no" class="input100" type="number" name="receipt" placeholder="Enter To Whom The Expense Is Paid To" required>
+			<input id="exp_paid" class="input100" type="number" name="expense_paid" placeholder="Enter To Whom The Expense Is Paid To" required>
 		    </div>
             
             <div class="wrap-input100 validate-input bg1 rs1-wrap-input100" data-validate = "Enter PIN to submit">
@@ -190,7 +196,7 @@
 <!--===============================================================================================-->
 	<script src="vendor/jquery/jquery-3.2.1.min.js"></script>
 
-	<script type="text/javascript" src="js/c-data.js"></script>
+	<script type="text/javascript" src="js/daybook-data.js"></script>
 
 </body>
 </html>

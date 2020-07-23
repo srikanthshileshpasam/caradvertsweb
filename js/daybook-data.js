@@ -4,36 +4,157 @@ window.onload = function() {
   document.getElementById('toggleDIV3').style.display = 'none';
 };
 
-var cust_DB=
+var cust_DB=[
+    {
+     "Name": "abc",
+     "Code": 123,
+     "Phone": 123456789,
+     "Area": "xyz"
+    },
+ ]
 
 
-var agent_DB=
+var agent_DB=[
+ {
+   "FIELD1": "Agent1",
+   "FIELD2": 1001
+ },
+ {
+   "FIELD1": "Agent2",
+   "FIELD2": 1002
+ },
+ {
+   "FIELD1": "Agent3",
+   "FIELD2": 1003
+ },
+ {
+   "FIELD1": "Agent4",
+   "FIELD2": 1004
+ },
+ {
+   "FIELD1": "Agent5",
+   "FIELD2": 1005
+ },
+ {
+   "FIELD1": "Agent6",
+   "FIELD2": 1006
+ },
+ {
+   "FIELD1": "Agent7",
+   "FIELD2": 1007
+ },
+ {
+   "FIELD1": "Agent8",
+   "FIELD2": 1008
+ },
+ {
+   "FIELD1": "Agent9",
+   "FIELD2": 1009
+ },
+ {
+   "FIELD1": "Agent10",
+   "FIELD2": 1010
+ },
+ {
+   "FIELD1": "Agent11",
+   "FIELD2": 1011
+ },
+ {
+   "FIELD1": "Agent12",
+   "FIELD2": 1012
+ },
+ {
+   "FIELD1": "Agent13",
+   "FIELD2": 1013
+ },
+ {
+   "FIELD1": "Agent14",
+   "FIELD2": 1014
+ },
+ {
+   "FIELD1": "Agent15",
+   "FIELD2": 1015
+ },
+ {
+   "FIELD1": "Agent16",
+   "FIELD2": 1016
+ },
+ {
+   "FIELD1": "Agent17",
+   "FIELD2": 1017
+ },
+ {
+   "FIELD1": "Agent18",
+   "FIELD2": 1018
+ },
+ {
+   "FIELD1": "Agent19",
+   "FIELD2": 1019
+ },
+ {
+   "FIELD1": "Agent20",
+   "FIELD2": 1020
+ },
+ {
+   "FIELD1": "Agent21",
+   "FIELD2": 1021
+ },
+ {
+   "FIELD1": "Agent22",
+   "FIELD2": 1022
+ },
+ {
+   "FIELD1": "Agent23",
+   "FIELD2": 1023
+ },
+ {
+   "FIELD1": "Agent24",
+   "FIELD2": 1024
+ },
+ {
+   "FIELD1": "Agent25",
+   "FIELD2": 1025
+ },
+ {
+   "FIELD1": "Agent26",
+   "FIELD2": 1026
+ },
+ {
+   "FIELD1": "Agent27",
+   "FIELD2": 1027
+ },
+ {
+   "FIELD1": "Agent28",
+   "FIELD2": 1028
+ },
+ {
+   "FIELD1": "Agent29",
+   "FIELD2": 1029
+ },
+ {
+   "FIELD1": "Agent30",
+   "FIELD2": 1030
+ }
+]
 
-var customer, due_date, phone, sms, lco, status, area, card, cell, last_paid;
+var cust_name, cust_code, cust_phone, cust_area;
 
 
 function customerSearch(){
 
-  var vcid=document.getElementById('vc_no').value;
+  var cust_id=document.getElementById('coll_id').value;
+      cust_area=document.getElementById('area').value;
+  var coll_type=document.getElementById('type').value;
 
 
 for (var x in cust_DB){
-  if (cust_DB[x]["VC No"]==vcid){
-  sms = cust_DB[x]["Sms ID"];
-  lco = cust_DB[x]["LCO ID"];
-  customer = cust_DB[x]["Subscriber Name"];
-  status = cust_DB[x]["Status"];
-  area = cust_DB[x]["Zone"];
-  card = cust_DB[x]["Card No"];
-  phone = cust_DB[x]["Cel"];
-  cell = cust_DB[x]["Cel2"];
-  due_date = cust_DB[x]["Due Date"];
-  last_paid = cust_DB[x]["Last Paid Date"];
-
+  if (cust_DB[x]["Code"]==cust_id){
+  cust_name = cust_DB[x]["Name"];
+  cust_phone = cust_DB[x]["Phone"];
   }
 }
-    if (customer==null){
-        alert("Customer not found!");
+    if (cust_name==null){
+        alert("Collection ID not found!");
         return false;
       }
     else {
