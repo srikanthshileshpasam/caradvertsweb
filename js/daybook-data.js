@@ -283,24 +283,35 @@ function onclickFunction(){
 
 customerSearch();
 
-var vc = document.getElementById('vc_no').value;
-var rec_no = document.getElementById('rec_no').value;
-var pkg = document.getElementById('pkg').value;
-var amt = document.getElementById('amt').value;
-var rem = document.getElementById('rem').value;
-var pwd = document.getElementById('password-3').value;
-var months=document.getElementById('months').value;
+var coll_id = document.getElementById('coll_id').value;
+var cust_area = document.getElementById('area').value;
+var type = document.getElementById('type').value;
 
-var agent = agentAuth();
+if (type=="coll"){
+    var agent = collAgentAuth();
+}
+else if (type=="exp"){
+    var agent = expAgentAuth();
+}
+    
+var start_bill = document.getElementById('start_bill').value;
+var end_bill = document.getElementById('end_bill').value;
+var amt = document.getElementById('amt').value;
+var pay_method=document.getElementById('pay_method').value;
+var coll_rem=document.getElementById('coll_rem').value;
+var coll_pwd=document.getElementById('coll_pwd').value;
+var exp_code=document.getElementById('exp_code').value;
+var exp_des=document.getElementById('exp_des').value;
+var exp_paid=document.getElementById('exp_paid').value;
+var exp_rem=document.getElementById('exp_rem').value;
+var exp_pwd=document.getElementById('exp_pwd').value;
 
 var $form = $('#data-entry'),
-    url = 'https://script.google.com/macros/s/AKfycbwFpUW5uoNhR1tuXOO5J8b8cYPPCtMrMUrV0gpsDaVrYF7uJWY/exec',
-    mult_url = 'https://script.google.com/macros/s/AKfycbw_pxucjS1zkPhExh4FMdtPt1ZQOn-XmpNtJrhMpj7_q5lHif8/exec'
-var array = {'SMS ID':sms, 'VC No':vc, 'LCO ID':lco, 'Subscriber Name':customer, 'Status':status, 'Area':area, 'Card No':card, 'Name':customer, 'Cel1':phone, 'Cel2':cell, 'Due Date':due_date, 'Last Paid':last_paid, 'Remarks':rem, 'Receipt No':rec_no, 'Package':pkg, 'Amount':amt, 'Agent':agent, 'PIN':pwd, 'Months':months};
-var mult_array = {'City Code':'MDR', 'SMS ID':sms, 'VC No':vc, 'LCO ID':lco, 'Subscriber Name':customer, 'Status':status, 'Area':area, 'Card No':card, 'Name':customer, 'Cel1':phone, 'Cel2':cell, 'Due Date':due_date, 'Last Paid':last_paid, 'Remarks':rem, 'Receipt No':rec_no, 'Package':pkg, 'Amount':amt, 'Agent':agent, 'PIN':pwd, 'Months':months};
+    url = 'https://script.google.com/macros/s/AKfycbx41sJid8NfbWwhCT1JHOJxePLFTKeQWwiG5YRcezJhQwNxuO4I/exec'
+    
+var array = {'Collection ID':coll_id, 'Area':cust_area, 'Type':type, 'Start Bill':start_bill, 'End Bill':end_bill, 'Bill Quantity':quantity, 'Amount':amt, 'Payment Method':pay_method, 'Collection Remarks':coll_rem, 'Pin':exp_code, 'Agent':agent, 'Expense Code':exp_code, 'Expense Description':exp_des, 'Expense Remarks':exp_rem, 'Pin':exp_pwd, 'Agent':agent};
    
 console.log(array);
-console.log(mult_array);
 
     var jqxhr = $.ajax({
       url: url,
@@ -308,13 +319,6 @@ console.log(mult_array);
       dataType: "json",
       data: array
        })
-    var mult_jqxhr = $.ajax({
-      url: mult_url,
-      method: "GET",
-      dataType: "json",
-      data: mult_array
-       })
        alert('Submitted Successfully!');
        location.reload();
-
 }
