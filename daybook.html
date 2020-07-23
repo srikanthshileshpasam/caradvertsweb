@@ -95,6 +95,11 @@
 			<span class="label-input100">Last Bill Number *</span>
 			<input id="end_bill" class="input100" type="number" name="end" placeholder="Enter Ending Bill Number" required>
 		</div>
+            
+        <div class="wrap-input100 rs1-wrap-input100 validate-input bg1" data-validate="Number of Bills">
+			<span class="label-input100">Total Number of Bills</span>
+			<input id="quant_bill" class="input100" type="number" name="quant_bill" placeholder="Number of total bills">
+		</div>
 
 		<div class="wrap-input100 validate-input bg1 rs1-wrap-input100" data-validate = "Enter Amount Received">
 			<span class="label-input100">Amount *</span>
@@ -201,6 +206,22 @@
 	<script src="vendor/jquery/jquery-3.2.1.min.js"></script>
 
 	<script type="text/javascript" src="js/daybook-data.js"></script>
+    
+    <script>
+    $(document).ready(function() {
+    if($("#data-entry").length){
+        $( "#start_bill" ).keyup(function() {
+            $.sub();          
+        }); 
+        $( "#end_bill" ).keyup(function() {
+            $.sub();          
+        }); 
+     }   
+        $.sub = function(){
+            $("#quant_bill").val(parseInt($("#end_bill").val()) - parseInt($("#start_bill").val()) + 1);
+        } 
+});
+        </script>
 
 </body>
 </html>
