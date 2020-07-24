@@ -2,6 +2,7 @@ window.onload = function() {
   document.getElementById('toggleDIV').style.display = 'none';
   document.getElementById('toggleDIV2').style.display = 'none';
   document.getElementById('toggleDIV3').style.display = 'none';
+  document.getElementById('toggleDIV4').style.display = 'none';
 };
 
 var cust_DB=[
@@ -19,6 +20,11 @@ var cust_DB=[
      "Name": "NAGENDRAN",
      "Code": 6281144622,
      "Area": "SPL"
+    },
+    {
+     "Name": "Developer",
+     "Code": 123,
+     "Area": "SPL-TLD"
     },
  ]
 
@@ -424,7 +430,7 @@ var transaction_DB=[
     "Coll Point": "SM",
     "Rec No": 601,
     "Bill Date": "01-Jul-20",
-    "Recd Amt": "Free",
+    "Recd Amt": 0,
     "Location": "SPL-TLD"
   },
   {
@@ -1138,7 +1144,7 @@ var transaction_DB=[
     "Coll Point": "Mrs Padma",
     "Rec No": 2070,
     "Bill Date": "01-Jul-20",
-    "Recd Amt": "Ooo",
+    "Recd Amt": 0,
     "Location": "MDR"
   },
   {
@@ -2153,7 +2159,7 @@ var transaction_DB=[
     "Coll Point": "Office",
     "Rec No": 18122,
     "Bill Date": "01-Jul-20",
-    "Recd Amt": "Free",
+    "Recd Amt": 0,
     "Location": "BCM-2"
   },
   {
@@ -3238,7 +3244,7 @@ var transaction_DB=[
     "Coll Point": "Office",
     "Rec No": 16600,
     "Bill Date": "01-Jul-20",
-    "Recd Amt": "Free",
+    "Recd Amt": 0,
     "Location": "BCM-2"
   },
   {
@@ -5170,7 +5176,7 @@ var transaction_DB=[
     "Coll Point": "DWARAKA",
     "Rec No": 9372,
     "Bill Date": "02-Jul-20",
-    "Recd Amt": "last",
+    "Recd Amt": 0,
     "Location": "SPL-TLD"
   },
   {
@@ -9468,7 +9474,7 @@ var transaction_DB=[
     "Coll Point": "Office",
     "Rec No": 18147,
     "Bill Date": "03-Jul-20",
-    "Recd Amt": "Free",
+    "Recd Amt": 0,
     "Location": "BCM-2"
   },
   {
@@ -15894,7 +15900,7 @@ var transaction_DB=[
     "Coll Point": "CH RANJITH KUMAR",
     "Rec No": 7572,
     "Bill Date": "06-Jul-20",
-    "Recd Amt": "Dc",
+    "Recd Amt": 0,
     "Location": "BCM"
   },
   {
@@ -17245,7 +17251,7 @@ var transaction_DB=[
     "Coll Point": "Office",
     "Rec No": 18168,
     "Bill Date": "06-Jul-20",
-    "Recd Amt": "Free",
+    "Recd Amt": 0,
     "Location": "BCM-2"
   },
   {
@@ -21956,7 +21962,7 @@ var transaction_DB=[
     "Coll Point": "Office",
     "Rec No": 18170,
     "Bill Date": "08-Jul-20",
-    "Recd Amt": "Free",
+    "Recd Amt": 0,
     "Location": "BCM-2"
   },
   {
@@ -24917,7 +24923,7 @@ var transaction_DB=[
     "Coll Point": "PSRK",
     "Rec No": 282,
     "Bill Date": "09-Jul-20",
-    "Recd Amt": "Free",
+    "Recd Amt": 0,
     "Location": "SPL-TLD"
   },
   {
@@ -25687,7 +25693,7 @@ var transaction_DB=[
     "Coll Point": "Office",
     "Rec No": 18180,
     "Bill Date": "09-Jul-20",
-    "Recd Amt": "Free",
+    "Recd Amt": 0,
     "Location": "BCM-2"
   },
   {
@@ -30139,7 +30145,7 @@ var transaction_DB=[
     "Coll Point": "Thirupathi Rao TMPL",
     "Rec No": 43698,
     "Bill Date": "11-Jul-20",
-    "Recd Amt": "FREE",
+    "Recd Amt": 0,
     "Location": "BNG"
   },
   {
@@ -35473,7 +35479,7 @@ var transaction_DB=[
     "Coll Point": "Mrs Padma",
     "Rec No": 3618,
     "Bill Date": "14-Jul-20",
-    "Recd Amt": "Ooo",
+    "Recd Amt": 0,
     "Location": "MDR"
   },
   {
@@ -39827,7 +39833,7 @@ var transaction_DB=[
     "Coll Point": "AKULA RAMU",
     "Rec No": 7481,
     "Bill Date": "15-Jul-20",
-    "Recd Amt": "FREE",
+    "Recd Amt": 0,
     "Location": "BCM"
   },
   {
@@ -39883,7 +39889,7 @@ var transaction_DB=[
     "Coll Point": "PSRK",
     "Rec No": 0,
     "Bill Date": "15-Jul-20",
-    "Recd Amt": "Free",
+    "Recd Amt": 0,
     "Location": "BNG"
   },
   {
@@ -44895,7 +44901,7 @@ var transaction_DB=[
     "Coll Point": "Ushasri BNGM",
     "Rec No": 46196,
     "Bill Date": "18-Jul-20",
-    "Recd Amt": "Free",
+    "Recd Amt": 0,
     "Location": "BNG"
   },
   {
@@ -47646,7 +47652,7 @@ var transaction_DB=[
     "Coll Point": "Office",
     "Rec No": 19508,
     "Bill Date": "19-Jul-20",
-    "Recd Amt": "Free",
+    "Recd Amt": 0,
     "Location": "BCM-2"
   },
   {
@@ -60054,7 +60060,6 @@ var cust_name, area;
 function customerSearch(){
 
   var cust_id=document.getElementById('coll_id').value;
-//      cust_area=document.getElementById('area').value;
   var coll_type=document.getElementById('type').value;
 
 
@@ -60071,21 +60076,17 @@ for (var x in cust_DB){
     else if (coll_type=="coll"){
       document.getElementById("c_id").innerHTML = cust_id;
       document.getElementById("c_name").innerHTML = cust_name;
-//      document.getElementById("c_phone").innerHTML = cust_phone;
       document.getElementById("c_area").innerHTML = area;
-
-
 
       var y = document.getElementById("toggleDIV");
   		if (y.style.display === "none") {
     		y.style.display = "block";
-  	}
+  	}   
       return [cust_name, area];
     }
     else if (coll_type=="exp"){
       document.getElementById("e_id").innerHTML = cust_id;
       document.getElementById("e_name").innerHTML = cust_name;
-//      document.getElementById("e_phone").innerHTML = cust_phone;
       document.getElementById("e_area").innerHTML = area;
 
 
@@ -60097,6 +60098,53 @@ for (var x in cust_DB){
       return [cust_name, area];
     }
     }
+
+function billSearch() {
+    
+    var cust_id=document.getElementById('coll_id').value;
+    var start_bill = document.getElementById('start_bill').value;
+    start_bill = parseInt(start_bill);
+    var end_bill = document.getElementById('end_bill').value;
+    end_bill = parseInt(end_bill);
+    var sum_array = 0;
+    var bill_count = 0;
+    
+    if (start_bill > end_bill){
+              alert("Invalid Bill Number Range!");
+              return false;
+            }
+    
+    for (var x in cust_DB){
+  if (cust_DB[x]["Code"]==cust_id){
+  cust_name = cust_DB[x]["Name"];
+  area = cust_DB[x]["Area"];
+  }
+}    
+    
+    while (start_bill <= end_bill){
+        for (var y in transaction_DB){
+            if ((transaction_DB[y]["Location"]==area) && (transaction_DB[y]["Rec No"]==start_bill)){
+                sum_array = transaction_DB[y]["Recd Amt"] + sum_array;
+                bill_count = bill_count +1;
+            }
+        }
+        start_bill = start_bill + 1;
+    }
+    
+    if (bill_count > 0){
+    document.getElementById("due").innerHTML = sum_array;
+    document.getElementById("bills").innerHTML = bill_count;
+    var z = document.getElementById("toggleDIV4");
+    if (z.style.display === "none") {
+    z.style.display = "block";
+  	 }
+    return sum_array;
+}
+    else {
+        alert("No bills found in this range!");
+        return false;
+    }
+}
 
 
     function collAgentAuth() {
@@ -60183,9 +60231,9 @@ function expAgentAuth() {
 function onclickFunction(){
 
 customerSearch();
+var sum_array = billSearch();
 
 var coll_id = document.getElementById('coll_id').value;
-//var cust_area = document.getElementById('area').value;
 var type = document.getElementById('type').value;
 
 if (type=="coll"){
@@ -60212,7 +60260,7 @@ var exp_pwd=document.getElementById('exp_pwd').value;
 var $form = $('#data-entry'),
     url = 'https://script.google.com/macros/s/AKfycbx41sJid8NfbWwhCT1JHOJxePLFTKeQWwiG5YRcezJhQwNxuO4I/exec'
 
-var array = {'Collection ID':coll_id, 'Collection ID Name':cust_name, 'Area':area, 'Type':type, 'Start Bill':start_bill, 'End Bill':end_bill, 'Bill Quantity':quant_bill, 'Amount':amt, 'Payment Method':pay_method, 'Collection Remarks':coll_rem, 'Expense Code':exp_code, 'Voucher Number':voucher, 'Expense Description':exp_des, 'Amount paid':exp_paid, 'Expense Remarks':exp_rem, 'Agent':agent};
+var array = {'Collection ID':coll_id, 'Collection ID Name':cust_name, 'Area':area, 'Type':type, 'Start Bill':start_bill, 'End Bill':end_bill, 'Bill Quantity':quant_bill, 'Due Amount Shown':sum_array, 'Due Amount Collected':amt, 'Payment Method':pay_method, 'Collection Remarks':coll_rem, 'Expense Code':exp_code, 'Voucher Number':voucher, 'Expense Description':exp_des, 'Amount paid':exp_paid, 'Expense Remarks':exp_rem, 'Agent':agent};
 
 console.log(array);
 
