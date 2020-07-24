@@ -24,7 +24,7 @@ var cust_DB=[
     {
      "Name": "Developer",
      "Code": 123,
-     "Area": "SPL-TLD"
+     "Area": "xyz"
     },
  ]
 
