@@ -8,19 +8,16 @@ var cust_DB=[
     {
      "Name": "PSRK",
      "Code": 9176655120,
-     "Phone": 9176655120,
      "Area": "TVR"
     },
     {
      "Name": "UMA",
      "Code": 8500315929,
-     "Phone": 8500315929,
      "Area": "BNG"
     },
     {
      "Name": "NAGENDRAN",
      "Code": 6281144622,
-     "Phone": 6281144622,
      "Area": "SPL"
     },
  ]
@@ -45,20 +42,19 @@ var agent_DB=[
  }
 ]
 
-var cust_name, cust_code, cust_phone, cust_area, area;
+var cust_name, cust_code, area;
 
 
 function customerSearch(){
 
   var cust_id=document.getElementById('coll_id').value;
-      cust_area=document.getElementById('area').value;
+//      cust_area=document.getElementById('area').value;
   var coll_type=document.getElementById('type').value;
 
 
 for (var x in cust_DB){
   if (cust_DB[x]["Code"]==cust_id){
   cust_name = cust_DB[x]["Name"];
-  cust_phone = cust_DB[x]["Phone"];
   area = cust_DB[x]["Area"];
   }
 }
@@ -69,7 +65,7 @@ for (var x in cust_DB){
     else if (coll_type=="coll"){
       document.getElementById("c_id").innerHTML = cust_id;
       document.getElementById("c_name").innerHTML = cust_name;
-      document.getElementById("c_phone").innerHTML = cust_phone;
+//      document.getElementById("c_phone").innerHTML = cust_phone;
       document.getElementById("c_area").innerHTML = area;
 
 
@@ -78,12 +74,12 @@ for (var x in cust_DB){
   		if (y.style.display === "none") {
     		y.style.display = "block";
   	}
-      return [cust_name, cust_phone, area];
+      return [cust_name, area];
     }
     else if (coll_type=="exp"){
       document.getElementById("e_id").innerHTML = cust_id;
       document.getElementById("e_name").innerHTML = cust_name;
-      document.getElementById("e_phone").innerHTML = cust_phone;
+//      document.getElementById("e_phone").innerHTML = cust_phone;
       document.getElementById("e_area").innerHTML = area;
 
 
@@ -92,7 +88,7 @@ for (var x in cust_DB){
   		if (y.style.display === "none") {
     		y.style.display = "block";
   	}
-      return [cust_name, cust_phone, area];
+      return [cust_name, area];
     }
     }
 
