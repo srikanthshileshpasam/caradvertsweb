@@ -40,112 +40,8 @@ var agent_DB=[
    "FIELD2": 5715
  },
  {
-   "FIELD1": "Agent4",
-   "FIELD2": 1004
- },
- {
-   "FIELD1": "Agent5",
-   "FIELD2": 1005
- },
- {
-   "FIELD1": "Agent6",
-   "FIELD2": 1006
- },
- {
-   "FIELD1": "Agent7",
-   "FIELD2": 1007
- },
- {
-   "FIELD1": "Agent8",
-   "FIELD2": 1008
- },
- {
-   "FIELD1": "Agent9",
-   "FIELD2": 1009
- },
- {
-   "FIELD1": "Agent10",
-   "FIELD2": 1010
- },
- {
-   "FIELD1": "Agent11",
-   "FIELD2": 1011
- },
- {
-   "FIELD1": "Agent12",
-   "FIELD2": 1012
- },
- {
-   "FIELD1": "Agent13",
-   "FIELD2": 1013
- },
- {
-   "FIELD1": "Agent14",
-   "FIELD2": 1014
- },
- {
-   "FIELD1": "Agent15",
-   "FIELD2": 1015
- },
- {
-   "FIELD1": "Agent16",
-   "FIELD2": 1016
- },
- {
-   "FIELD1": "Agent17",
-   "FIELD2": 1017
- },
- {
-   "FIELD1": "Agent18",
-   "FIELD2": 1018
- },
- {
-   "FIELD1": "Agent19",
-   "FIELD2": 1019
- },
- {
-   "FIELD1": "Agent20",
-   "FIELD2": 1020
- },
- {
-   "FIELD1": "Agent21",
-   "FIELD2": 1021
- },
- {
-   "FIELD1": "Agent22",
-   "FIELD2": 1022
- },
- {
-   "FIELD1": "Agent23",
-   "FIELD2": 1023
- },
- {
-   "FIELD1": "Agent24",
-   "FIELD2": 1024
- },
- {
-   "FIELD1": "Agent25",
-   "FIELD2": 1025
- },
- {
-   "FIELD1": "Agent26",
-   "FIELD2": 1026
- },
- {
-   "FIELD1": "Agent27",
-   "FIELD2": 1027
- },
- {
-   "FIELD1": "Agent28",
-   "FIELD2": 1028
- },
- {
-   "FIELD1": "Agent29",
-   "FIELD2": 1029
- },
- {
-   "FIELD1": "Agent30",
-   "FIELD2": 1030
+   "FIELD1": "UMA",
+   "FIELD2": 4444
  }
 ]
 
@@ -175,8 +71,8 @@ for (var x in cust_DB){
       document.getElementById("c_name").innerHTML = cust_name;
       document.getElementById("c_phone").innerHTML = cust_phone;
       document.getElementById("c_area").innerHTML = area;
-        
-        
+
+
 
       var y = document.getElementById("toggleDIV");
   		if (y.style.display === "none") {
@@ -189,14 +85,14 @@ for (var x in cust_DB){
       document.getElementById("e_name").innerHTML = cust_name;
       document.getElementById("e_phone").innerHTML = cust_phone;
       document.getElementById("e_area").innerHTML = area;
-        
-        
+
+
 
       var y = document.getElementById("toggleDIV3");
   		if (y.style.display === "none") {
     		y.style.display = "block";
   	}
-      return [cust_name, cust_phone, area];  
+      return [cust_name, cust_phone, area];
     }
     }
 
@@ -299,7 +195,7 @@ if (type=="coll"){
 else if (type=="exp"){
     var agent = expAgentAuth();
 }
-    
+
 var start_bill = document.getElementById('start_bill').value;
 var end_bill = document.getElementById('end_bill').value;
 var quant_bill = document.getElementById('quant_bill').value;
@@ -315,9 +211,9 @@ var exp_pwd=document.getElementById('exp_pwd').value;
 
 var $form = $('#data-entry'),
     url = 'https://script.google.com/macros/s/AKfycbx41sJid8NfbWwhCT1JHOJxePLFTKeQWwiG5YRcezJhQwNxuO4I/exec'
-    
+
 var array = {'Collection ID':coll_id, 'Collection ID Name':cust_name, 'Area':cust_area, 'Type':type, 'Start Bill':start_bill, 'End Bill':end_bill, 'Bill Quantity':quant_bill, 'Amount':amt, 'Payment Method':pay_method, 'Collection Remarks':coll_rem, 'Agent':agent, 'Expense Code':exp_code, 'Expense Description':exp_des, 'Amount paid to':exp_paid, 'Expense Remarks':exp_rem, 'Agent':agent};
-   
+
 console.log(array);
 
     var jqxhr = $.ajax({
