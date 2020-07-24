@@ -8,7 +8,7 @@ var cust_DB=[
     {
      "Name": "PSRK",
      "Code": 9176655120,
-     "Area": "TVR"
+     "Area": "BCM"
     },
     {
      "Name": "UMA",
