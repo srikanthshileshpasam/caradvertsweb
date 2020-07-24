@@ -22,7 +22,6 @@ var cust_DB=[
     },
  ]
 
-
 var agent_DB=[
  {
    "FIELD1": "KSRK",
@@ -42,7 +41,7 @@ var agent_DB=[
  }
 ]
 
-var collection_DB=[
+var transaction_DB=[
   {
     "Coll Point": "NTR",
     "Rec No": 9578,
@@ -60049,7 +60048,7 @@ var collection_DB=[
   }
 ]
 
-var cust_name, cust_code, area;
+var cust_name, area;
 
 
 function customerSearch(){
