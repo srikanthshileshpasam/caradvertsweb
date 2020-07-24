@@ -206,7 +206,7 @@ var exp_pwd=document.getElementById('exp_pwd').value;
 var $form = $('#data-entry'),
     url = 'https://script.google.com/macros/s/AKfycbx41sJid8NfbWwhCT1JHOJxePLFTKeQWwiG5YRcezJhQwNxuO4I/exec'
 
-var array = {'Collection ID':coll_id, 'Collection ID Name':cust_name, 'Area':cust_area, 'Type':type, 'Start Bill':start_bill, 'End Bill':end_bill, 'Bill Quantity':quant_bill, 'Amount':amt, 'Payment Method':pay_method, 'Collection Remarks':coll_rem, 'Expense Code':exp_code, 'Voucher Number':voucher, 'Expense Description':exp_des, 'Amount paid':exp_paid, 'Expense Remarks':exp_rem, 'Agent':agent};
+var array = {'Collection ID':coll_id, 'Collection ID Name':cust_name, 'Area':area, 'Type':type, 'Start Bill':start_bill, 'End Bill':end_bill, 'Bill Quantity':quant_bill, 'Amount':amt, 'Payment Method':pay_method, 'Collection Remarks':coll_rem, 'Expense Code':exp_code, 'Voucher Number':voucher, 'Expense Description':exp_des, 'Amount paid':exp_paid, 'Expense Remarks':exp_rem, 'Agent':agent};
 
 console.log(array);
 
