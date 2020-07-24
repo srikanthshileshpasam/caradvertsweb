@@ -7,13 +7,13 @@ window.onload = function() {
 var cust_DB=[
     {
      "Name": "PSRK",
-     "Code": 123,
+     "Code": 9176655120,
      "Phone": 9176655120,
      "Area": "TVR"
     },
     {
      "Name": "KSRK",
-     "Code": 456,
+     "Code": 9391255120,
      "Phone": 9391255120,
      "Area": "BNG"
     },
