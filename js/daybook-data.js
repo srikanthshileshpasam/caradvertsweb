@@ -12,10 +12,16 @@ var cust_DB=[
      "Area": "TVR"
     },
     {
-     "Name": "KSRK",
-     "Code": 9391255120,
-     "Phone": 9391255120,
+     "Name": "UMA",
+     "Code": 8500315929,
+     "Phone": 8500315929,
      "Area": "BNG"
+    },
+    {
+     "Name": "NAGENDRAN",
+     "Code": 6281144622,
+     "Phone": 6281144622,
+     "Area": "SPL"
     },
  ]
 
@@ -27,11 +33,11 @@ var agent_DB=[
  },
  {
    "FIELD1": "PSRK",
-   "FIELD2": 9876
+   "FIELD2": 2045
  },
  {
-   "FIELD1": "Agent3",
-   "FIELD2": 1003
+   "FIELD1": "NANI",
+   "FIELD2": 5715
  },
  {
    "FIELD1": "Agent4",
