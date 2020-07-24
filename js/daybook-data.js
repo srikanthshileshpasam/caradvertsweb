@@ -6,28 +6,28 @@ window.onload = function() {
 
 var cust_DB=[
     {
-     "Name": "abc",
+     "Name": "PSRK",
      "Code": 123,
-     "Phone": 123456789,
-     "Area": "xyz"
+     "Phone": 9176655120,
+     "Area": "TVR"
     },
     {
-     "Name": "lmn",
+     "Name": "KSRK",
      "Code": 456,
-     "Phone": 123456789,
-     "Area": "zzz"
+     "Phone": 9391255120,
+     "Area": "BNG"
     },
  ]
 
 
 var agent_DB=[
  {
-   "FIELD1": "Agent1",
-   "FIELD2": 1001
+   "FIELD1": "KSRK",
+   "FIELD2": 1234
  },
  {
-   "FIELD1": "Agent2",
-   "FIELD2": 1002
+   "FIELD1": "PSRK",
+   "FIELD2": 9876
  },
  {
    "FIELD1": "Agent3",
