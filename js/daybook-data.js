@@ -22,9 +22,9 @@ var cust_DB=[
      "Area": "SPL"
     },
     {
-     "Name": "Dev",
+     "Name": "Developer",
      "Code": 123,
-     "Area": "MDR"
+     "Area": "SPL-TLD"
     },
  ]
 
