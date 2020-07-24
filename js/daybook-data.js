@@ -179,7 +179,7 @@ function onclickFunction(){
 customerSearch();
 
 var coll_id = document.getElementById('coll_id').value;
-var cust_area = document.getElementById('area').value;
+//var cust_area = document.getElementById('area').value;
 var type = document.getElementById('type').value;
 
 if (type=="coll"){
