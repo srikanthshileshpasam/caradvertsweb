@@ -143,6 +143,7 @@ for (var x in cust_DB){
 
 function expAgentAuth() {
       var exp_code = document.getElementById('exp_code').value;
+      var voucher = document.getElementById('voucher').value;
       var exp_des = document.getElementById('exp_des').value;
       var exp_paid = document.getElementById('exp_paid').value;
       var agent=document.getElementById('exp_pwd').value;
@@ -156,10 +157,6 @@ function expAgentAuth() {
           {
             if (exp_code==null || exp_code==''){
               alert("Enter Expense Code!");
-              return false;
-            }
-            else if (exp_des==null || exp_des==''){
-              alert("Enter Expense Description!");
               return false;
             }
             else if (exp_paid==null || exp_paid==''){
@@ -204,6 +201,7 @@ var pay_method=document.getElementById('pay_method').value;
 var coll_rem=document.getElementById('coll_rem').value;
 var coll_pwd=document.getElementById('coll_pwd').value;
 var exp_code=document.getElementById('exp_code').value;
+var voucher = document.getElementById('voucher').value;
 var exp_des=document.getElementById('exp_des').value;
 var exp_paid=document.getElementById('exp_paid').value;
 var exp_rem=document.getElementById('exp_rem').value;
@@ -212,7 +210,7 @@ var exp_pwd=document.getElementById('exp_pwd').value;
 var $form = $('#data-entry'),
     url = 'https://script.google.com/macros/s/AKfycbx41sJid8NfbWwhCT1JHOJxePLFTKeQWwiG5YRcezJhQwNxuO4I/exec'
 
-var array = {'Collection ID':coll_id, 'Collection ID Name':cust_name, 'Area':cust_area, 'Type':type, 'Start Bill':start_bill, 'End Bill':end_bill, 'Bill Quantity':quant_bill, 'Amount':amt, 'Payment Method':pay_method, 'Collection Remarks':coll_rem, 'Agent':agent, 'Expense Code':exp_code, 'Expense Description':exp_des, 'Amount paid to':exp_paid, 'Expense Remarks':exp_rem, 'Agent':agent};
+var array = {'Collection ID':coll_id, 'Collection ID Name':cust_name, 'Area':cust_area, 'Type':type, 'Start Bill':start_bill, 'End Bill':end_bill, 'Bill Quantity':quant_bill, 'Amount':amt, 'Payment Method':pay_method, 'Collection Remarks':coll_rem, 'Expense Code':exp_code, 'Voucher Number':voucher, 'Expense Description':exp_des, 'Amount paid':exp_paid, 'Expense Remarks':exp_rem, 'Agent':agent};
 
 console.log(array);
 
