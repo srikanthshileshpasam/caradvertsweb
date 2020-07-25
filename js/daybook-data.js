@@ -349,6 +349,10 @@ var cust_DB=[
 ]
 
 var agent_DB=[
+  {
+     "FIELD1": "Bandi Thulasi Rao",
+     "FIELD2": 1522
+  },
  {
    "FIELD1": "KSRK",
    "FIELD2": 1234
@@ -60379,7 +60383,7 @@ var cust_name, area;
 var quant_bill = document.getElementById('quant_bill').value;
 
 function customerSearch(){
-    
+
     var cust_id=document.getElementById('coll_id').value;
     var coll_type=document.getElementById('type').value;
 
@@ -60389,12 +60393,12 @@ function customerSearch(){
       area = cust_DB[x]["Area"];
       }
     }
-    
+
     if (cust_name==null){
         alert("Collection ID not found!");
         return false;
       }
-    
+
     else if (coll_type=="coll"){
       document.getElementById("c_id").innerHTML = cust_id;
       document.getElementById("c_name").innerHTML = cust_name;
@@ -60405,7 +60409,7 @@ function customerSearch(){
     		y.style.display = "block";
   	}
     }
-    
+
     else if (coll_type=="exp"){
       document.getElementById("e_id").innerHTML = cust_id;
       document.getElementById("e_name").innerHTML = cust_name;
@@ -60416,13 +60420,13 @@ function customerSearch(){
     		y.style.display = "block";
   	}
     }
-    
+
     return [cust_name, area, cust_id, coll_type];
     }
 
 
 function billSearch() {
-    
+
     var start_bill = document.getElementById('start_bill').value;
     var end_bill = document.getElementById('end_bill').value;
     var loc = customerSearch();
@@ -60430,15 +60434,15 @@ function billSearch() {
     var sum_array = 0;
     var bill_count = 0;
     var i = start_bill;
-    
+
     i = parseInt(i);
     end_bill = parseInt(end_bill);
-    
+
     if (i > end_bill){
               alert("Invalid Bill Number Range!");
               return false;
-            }  
-    
+            }
+
     while (i <= end_bill){
         for (var y in transaction_DB){
             if ((transaction_DB[y]["Location"]==loc) && (transaction_DB[y]["Rec No"]==i)){
@@ -60448,13 +60452,13 @@ function billSearch() {
         }
         i = i + 1;
     }
-    
+
     if (bill_count > 0){
         document.getElementById("due").innerHTML = sum_array;
         document.getElementById("bills").innerHTML = bill_count;
-        
+
         var z = document.getElementById("toggleDIV4");
-        
+
         if (z.style.display === "none") {
             z.style.display = "block";
   	         }
@@ -60468,18 +60472,18 @@ function billSearch() {
 
 
 function agentAuth(){
-    
+
     var agent_found;
     var coll_agent=document.getElementById('coll_pwd').value;
     var exp_agent=document.getElementById('exp_pwd').value;
 
-    
+
     for (var x in agent_DB){
         if (agent_DB[x]["FIELD2"]==coll_agent || agent_DB[x]["FIELD2"]==exp_agent) {
             agent_found=agent_DB[x]["FIELD1"];
         }
     }
-    
+
     if (agent_found==null){
         alert("Invalid PIN!");
         return false;
@@ -60495,7 +60499,7 @@ function agentAuth(){
 
 
 function onclickFunction(){
-    
+
     var amt = document.getElementById('amt').value;
     var pay_method=document.getElementById('pay_method').value;
     var coll_rem=document.getElementById('coll_rem').value;
@@ -60504,15 +60508,15 @@ function onclickFunction(){
     var exp_des = document.getElementById('exp_des').value;
     var exp_paid = document.getElementById('exp_paid').value;
     var exp_rem=document.getElementById('exp_rem').value;
-    
+
     if (amt == '' && exp_paid == ''){
         alert("Enter Amount!");
         return false;
     }
-    
+
     var cust_data = customerSearch();
     var bill_data;
-    
+
     if (cust_data[3]=="coll"){
         bill_data = billSearch();
     }
@@ -60523,14 +60527,14 @@ function onclickFunction(){
         alert("Enter Expense Code!")
         return false;
     }
-    
+
     var agent_data = agentAuth();
-        
+
     var $form = $('#data-entry'),
     url = 'https://script.google.com/macros/s/AKfycbx41sJid8NfbWwhCT1JHOJxePLFTKeQWwiG5YRcezJhQwNxuO4I/exec'
 
     var array = {'Collection ID':cust_data[2], 'Collection ID Name':cust_data[0], 'Area':cust_data[1], 'Type':cust_data[3], 'Start Bill':bill_data[0], 'End Bill':bill_data[1], 'Bill Quantity':bill_data[2], 'Due Amount Shown':bill_data[3], 'Due Amount Collected':amt, 'Payment Method':pay_method, 'Collection Remarks':coll_rem, 'Expense Code':exp_code, 'Voucher Number':voucher, 'Expense Description':exp_des, 'Amount paid':exp_paid, 'Expense Remarks':exp_rem, 'Agent':agent_data};
-    
+
     var jqxhr = $.ajax({
       url: url,
       method: "GET",
