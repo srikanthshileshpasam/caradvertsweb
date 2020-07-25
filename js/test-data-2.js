@@ -6,347 +6,27 @@ window.onload = function() {
 };
 
 var cust_DB=[
- {
-   "Name": "AKULA RAMU",
-   "Code": 9866189456,
-   "Area": "BCM"
- },
- {
-   "Name": "ASLAM",
-   "Code": 8667208715,
-   "Area": "DGM"
- },
- {
-   "Name": "CH RANJITH KUMAR",
-   "Code": 9652635115,
-   "Area": "BCM"
- },
- {
-   "Name": "CH TRIVENI",
-   "Code": 7013394179,
-   "Area": "BCM"
- },
- {
-   "Name": "Chanti Kiran",
-   "Code": 9866628201,
-   "Area": "MDR"
- },
- {
-   "Name": "D Kishore",
-   "Code": 7093967318,
-   "Area": "MDR"
- },
- {
-   "Name": "D Lakshman Rao MDPD",
-   "Code": 9182127649,
-   "Area": "BNG"
- },
- {
-   "Name": "D R K Shope",
-   "Code": 8978215041,
-   "Area": "MDR"
- },
- {
-   "Name": "DWARAKA",
-   "Code": 9963066834,
-   "Area": "SPL-TLD"
- },
- {
-   "Name": "G Lakshman Rao RCBR",
-   "Code": 9963959936,
-   "Area": "BNG"
- },
- {
-   "Name": "Gopi Kirana",
-   "Code": 9100709228,
-   "Area": "MDR"
- },
- {
-   "Name": "Heritage Milk",
-   "Code": 9494597915,
-   "Area": "MDR"
- },
- {
-   "Name": "HMN",
-   "Code": 8500736236,
-   "Area": "SPL-TLD"
- },
- {
-   "Name": "KKP",
-   "Code": 9885298187,
-   "Area": "SPL-TLD"
- },
- {
-   "Name": "KRISHNA REDDY",
-   "Code": 9963111404,
-   "Area": "DGM"
- },
- {
-   "Name": "Krishnareddy",
-   "Code": 9640268082,
-   "Area": "MDR"
- },
- {
-   "Name": "KUMAR",
-   "Code": 9441422817,
-   "Area": "DGM"
- },
- {
-   "Name": "LATHA",
-   "Code": 9989828481,
-   "Area": "DGM"
- },
- {
-   "Name": "LAXMANARAO",
-   "Code": 8919298506,
-   "Area": "DGM"
- },
- {
-   "Name": "M SIVAJI",
-   "Code": 9701445520,
-   "Area": "BCM"
- },
- {
-   "Name": "MEESAVA RAVINDRA",
-   "Code": 9553885259,
-   "Area": "BCM"
- },
- {
-   "Name": "Mrs Padma",
-   "Code": 9966183130,
-   "Area": "MDR"
- },
- {
-   "Name": "MTR",
-   "Code": 9666440009,
-   "Area": "MDR"
- },
- {
-   "Name": "Nagahari",
-   "Code": 9948818218,
-   "Area": "MDR"
- },
- {
-   "Name": "NAGENDRAN",
-   "Code": 9705681858,
-   "Area": "BCM-2"
- },
- {
-   "Name": "NAGESWARAO",
-   "Code": 7981287733,
-   "Area": "BCM"
- },
- {
-   "Name": "NANI",
-   "Code": 6281144622,
-   "Area": "SPL-TLD"
- },
- {
-   "Name": "NARESH",
-   "Code": 9949578128,
-   "Area": "BCM"
- },
- {
-   "Name": "NAVEEN",
-   "Code": 9553123342,
-   "Area": "BCM-2"
- },
- {
-   "Name": "NR",
-   "Code": 9989035147,
-   "Area": "SPL-TLD"
- },
- {
-   "Name": "NTR",
-   "Code": 9989558567,
-   "Area": "SPL-TLD"
- },
- {
-   "Name": "P LAXMI NARAYANA",
-   "Code": 9951102996,
-   "Area": "BCM"
- },
- {
-   "Name": "P VENKATESWARAO",
-   "Code": 6303392225,
-   "Area": "BCM"
- },
- {
-   "Name": "Padma Medicals",
-   "Code": 8639896207,
-   "Area": "MDR"
- },
- {
-   "Name": "Prabanjan Medical",
-   "Code": 7981124088,
-   "Area": "MDR"
- },
- {
-   "Name": "Prasad",
-   "Code": 9951967054,
-   "Area": "MDR"
- },
- {
-   "Name": "PSRK",
-   "Code": 9176655120,
-   "Area": "ALL"
- },
- {
-   "Name": "Radhakrishna Kirana",
-   "Code": 9666335522,
-   "Area": "MDR"
- },
- {
-   "Name": "RAMBABU",
-   "Code": 9603493844,
-   "Area": "DGM"
- },
- {
-   "Name": "RAMESH",
-   "Code": 9705383174,
-   "Area": "DGM"
- },
- {
-   "Name": "Ramesh Kirana",
-   "Code": 9848616814,
-   "Area": "MDR"
- },
- {
-   "Name": "RANI",
-   "Code": 9010640306,
-   "Area": "BCM-2"
- },
- {
-   "Name": "RD",
-   "Code": 9182663076,
-   "Area": "SPL-TLD"
- },
- {
-   "Name": "Rohit Kirana",
-   "Code": 9949426612,
-   "Area": "MDR"
- },
- {
-   "Name": "Roja Kirana",
-   "Code": 9398513527,
-   "Area": "MDR"
- },
- {
-   "Name": "S RAMAKRISHNA",
-   "Code": 9705458381,
-   "Area": "BCM"
- },
- {
-   "Name": "SAMPATH",
-   "Code": 9505077625,
-   "Area": "DGM"
- },
- {
-   "Name": "SEETHAIAH",
-   "Code": 9666738956,
-   "Area": "SPL-TLD"
- },
- {
-   "Name": "Shabber",
-   "Code": 9848626478,
-   "Area": "MDR"
- },
- {
-   "Name": "SINDHU",
-   "Code": 9912077640,
-   "Area": "DGM"
- },
- {
-   "Name": "SM",
-   "Code": 9394345151,
-   "Area": "SPL-TLD"
- },
- {
-   "Name": "SPL Off",
-   "Code": 9177717457,
-   "Area": "SPL-TLD"
- },
- {
-   "Name": "SRINU",
-   "Code": 9666781242,
-   "Area": "DGM"
- },
- {
-   "Name": "Subhani",
-   "Code": 7680837852,
-   "Area": "BNG"
- },
- {
-   "Name": "sunandini Milk",
-   "Code": 9959490485,
-   "Area": "MDR"
- },
- {
-   "Name": "SUNIL",
-   "Code": 9866633629,
-   "Area": "DGM"
- },
- {
-   "Name": "SURI",
-   "Code": 9666491750,
-   "Area": "SPL-TLD"
- },
- {
-   "Name": "T PANI KUMAR",
-   "Code": 9652712027,
-   "Area": "BCM"
- },
- {
-   "Name": "T RAJESH",
-   "Code": 9949436750,
-   "Area": "BCM"
- },
- {
-   "Name": "Thallada",
-   "Code": 9704136727,
-   "Area": "SPL-TLD"
- },
- {
-   "Name": "Thirupathi Rao TMPL",
-   "Code": 9963385181,
-   "Area": "BNG"
- },
- {
-   "Name": "Ushasri BNGM",
-   "Code": 7569022502,
-   "Area": "BNG"
- },
- {
-   "Name": "VAMSHI",
-   "Code": 9959086753,
-   "Area": "DGM"
- },
- {
-   "Name": "Vasu on line",
-   "Code": 9948484719,
-   "Area": "MDR"
- },
- {
-   "Name": "Venkat",
-   "Code": 8897437434,
-   "Area": "MDR"
- },
- {
-   "Name": "Venkateswrao",
-   "Code": 8520099096,
-   "Area": "MDR"
- },
- {
-   "Name": "Vijaya Dairy",
-   "Code": 9948592578,
-   "Area": "MDR"
- },
- {
-   "Name": "VV",
-   "Code": 9059636668,
-   "Area": "SPL-TLD"
- }
-]
+    {
+     "Name": "PSRK",
+     "Code": 9176655120,
+     "Area": "BCM"
+    },
+    {
+     "Name": "UMA",
+     "Code": 8500315929,
+     "Area": "BNG"
+    },
+    {
+     "Name": "NAGENDRAN",
+     "Code": 6281144622,
+     "Area": "SPL"
+    },
+    {
+     "Name": "Developer",
+     "Code": 123,
+     "Area": "xyz"
+    },
+ ]
 
 var agent_DB=[
  {
@@ -368,6 +48,29 @@ var agent_DB=[
 ]
 
 var transaction_DB=[
+    {
+    "Coll Point": "NTR",
+    "Rec No": 100,
+    "Bill Date": "01-Jul-20",
+    "Recd Amt": 300,
+    "Location": "xyz"
+  },
+  {
+    "Coll Point": "SURI",
+    "Rec No": 101,
+    "Bill Date": "01-Jul-20",
+    "Recd Amt": 300,
+    "Location": "xyz"
+  },
+  {
+    "Coll Point": "Venkateswrao",
+    "Rec No": 102,
+    "Bill Date": "01-Jul-20",
+    "Recd Amt": 300,
+    "Location": "xyz"
+  },
+    
+    
   {
     "Coll Point": "NTR",
     "Rec No": 9578,
