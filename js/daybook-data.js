@@ -39,7 +39,7 @@ var cust_DB=[
  {
    "Name": "D Lakshman Rao MDPD",
    "Code": 9182127649,
-   "Area": "BNGM"
+   "Area": "BNG"
  },
  {
    "Name": "D R K Shope",
@@ -54,7 +54,7 @@ var cust_DB=[
  {
    "Name": "G Lakshman Rao RCBR",
    "Code": 9963959936,
-   "Area": "BNGM"
+   "Area": "BNG"
  },
  {
    "Name": "Gopi Kirana",
@@ -274,7 +274,7 @@ var cust_DB=[
  {
    "Name": "Subhani",
    "Code": 7680837852,
-   "Area": "BNGM"
+   "Area": "BNG"
  },
  {
    "Name": "sunandini Milk",
@@ -309,12 +309,12 @@ var cust_DB=[
  {
    "Name": "Thirupathi Rao TMPL",
    "Code": 9963385181,
-   "Area": "BNGM"
+   "Area": "BNG"
  },
  {
    "Name": "Ushasri BNGM",
    "Code": 7569022502,
-   "Area": "BNGM"
+   "Area": "BNG"
  },
  {
    "Name": "VAMSHI",
