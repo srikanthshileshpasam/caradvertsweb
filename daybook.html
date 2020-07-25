@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 	<!-- Global site tag (gtag.js) - Google Analytics -->
+
 		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-152404059-1"></script>
 		<script>
 		  		window.dataLayer = window.dataLayer || [];
@@ -10,6 +11,7 @@
 
 		  		gtag('config', 'UA-152404059-1');
 		</script>
+
 
 	<title>Siti - Day Book Entry Form</title>
 	<meta charset="UTF-8">
@@ -98,7 +100,7 @@
             
         <div class="wrap-input100 rs1-wrap-input100 validate-input bg1" data-validate="Number of Bills">
 			<span class="label-input100">Total Number of Bills</span>
-			<input id="quant_bill" class="input100" type="number" name="quant_bill" placeholder="Number of total bills">
+			<input id="quant_bill" class="input100" type="number" name="quant_bill" placeholder="Number of total bills" readonly='readonly'>
 		</div>
             
             <div class="container-contact100-form-btn space">
@@ -150,7 +152,7 @@
 		<div class="container-contact100-form-btn-auth">
 						<button class="contact100-form-btn">
 							<span>
-								<a onclick="collAgentAuth()">Authenticate PIN</a>
+								<a onclick="agentAuth()">Authenticate PIN</a>
 								<i aria-hidden="true"></i>
 							</span>
 						</button>
@@ -206,7 +208,7 @@
 		<div class="container-contact100-form-btn-auth">
 						<button class="contact100-form-btn">
 							<span>
-								<a onclick="expAgentAuth()">Authenticate PIN</a>
+								<a onclick="agentAuth()">Authenticate PIN</a>
 								<i aria-hidden="true"></i>
 							</span>
 						</button>

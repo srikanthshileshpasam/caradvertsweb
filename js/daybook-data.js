@@ -60376,23 +60376,25 @@ var transaction_DB=[
 
 var cust_name, area;
 
+var quant_bill = document.getElementById('quant_bill').value;
 
 function customerSearch(){
+    
+    var cust_id=document.getElementById('coll_id').value;
+    var coll_type=document.getElementById('type').value;
 
-  var cust_id=document.getElementById('coll_id').value;
-  var coll_type=document.getElementById('type').value;
-
-
-for (var x in cust_DB){
-  if (cust_DB[x]["Code"]==cust_id){
-  cust_name = cust_DB[x]["Name"];
-  area = cust_DB[x]["Area"];
-  }
-}
+    for (var x in cust_DB){
+      if (cust_DB[x]["Code"]==cust_id){
+      cust_name = cust_DB[x]["Name"];
+      area = cust_DB[x]["Area"];
+      }
+    }
+    
     if (cust_name==null){
         alert("Collection ID not found!");
         return false;
       }
+    
     else if (coll_type=="coll"){
       document.getElementById("c_id").innerHTML = cust_id;
       document.getElementById("c_name").innerHTML = cust_name;
@@ -60402,64 +60404,62 @@ for (var x in cust_DB){
   		if (y.style.display === "none") {
     		y.style.display = "block";
   	}
-      return [cust_name, area];
     }
+    
     else if (coll_type=="exp"){
       document.getElementById("e_id").innerHTML = cust_id;
       document.getElementById("e_name").innerHTML = cust_name;
       document.getElementById("e_area").innerHTML = area;
 
-
-
       var y = document.getElementById("toggleDIV3");
   		if (y.style.display === "none") {
     		y.style.display = "block";
   	}
-      return [cust_name, area];
     }
+    
+    return [cust_name, area, cust_id, coll_type];
     }
+
 
 function billSearch() {
-
-    var cust_id=document.getElementById('coll_id').value;
+    
     var start_bill = document.getElementById('start_bill').value;
-    start_bill = parseInt(start_bill);
     var end_bill = document.getElementById('end_bill').value;
-    end_bill = parseInt(end_bill);
+    var loc = customerSearch();
+    loc=loc[1];
     var sum_array = 0;
     var bill_count = 0;
-
-    if (start_bill > end_bill){
+    var i = start_bill;
+    
+    i = parseInt(i);
+    end_bill = parseInt(end_bill);
+    
+    if (i > end_bill){
               alert("Invalid Bill Number Range!");
               return false;
-            }
-
-    for (var x in cust_DB){
-  if (cust_DB[x]["Code"]==cust_id){
-  cust_name = cust_DB[x]["Name"];
-  area = cust_DB[x]["Area"];
-  }
-}
-
-    while (start_bill <= end_bill){
+            }  
+    
+    while (i <= end_bill){
         for (var y in transaction_DB){
-            if ((transaction_DB[y]["Location"]==area) && (transaction_DB[y]["Rec No"]==start_bill)){
+            if ((transaction_DB[y]["Location"]==loc) && (transaction_DB[y]["Rec No"]==i)){
                 sum_array = transaction_DB[y]["Recd Amt"] + sum_array;
                 bill_count = bill_count +1;
             }
         }
-        start_bill = start_bill + 1;
+        i = i + 1;
     }
-
+    
     if (bill_count > 0){
-    document.getElementById("due").innerHTML = sum_array;
-    document.getElementById("bills").innerHTML = bill_count;
-    var z = document.getElementById("toggleDIV4");
-    if (z.style.display === "none") {
-    z.style.display = "block";
-  	 }
-    return sum_array;
-}
+        document.getElementById("due").innerHTML = sum_array;
+        document.getElementById("bills").innerHTML = bill_count;
+        
+        var z = document.getElementById("toggleDIV4");
+        
+        if (z.style.display === "none") {
+            z.style.display = "block";
+  	         }
+    return [start_bill, end_bill, bill_count, sum_array];
+    }
     else {
         alert("No bills found in this range!");
         return false;
@@ -60467,123 +60467,70 @@ function billSearch() {
 }
 
 
-    function collAgentAuth() {
-      var start_bill = document.getElementById('start_bill').value;
-      var end_bill = document.getElementById('end_bill').value;
-      var amt = document.getElementById('amt').value;
-      var agent=document.getElementById('coll_pwd').value;
-      var pay_method=document.getElementById('pay_method').value;
+function agentAuth(){
+    
+    var agent_found;
+    var coll_agent=document.getElementById('coll_pwd').value;
+    var exp_agent=document.getElementById('exp_pwd').value;
 
-          for (var x in agent_DB){
-            if (agent_DB[x]["FIELD2"]==agent) {
-              var agent_found=agent_DB[x]["FIELD1"];
-            }
-          }
-
-          {
-            if (start_bill==null || start_bill==''){
-              alert("Enter Starting Bill Number!");
-              return false;
-            }
-            else if (end_bill==null || end_bill==''){
-              alert("Enter Last Bill Number!");
-              return false;
-            }
-            else if (amt==null || amt==''){
-              alert("Enter Amount Received!");
-              return false;
-            }
-            else if (pay_method==null || pay_method==''){
-              alert("Select Payment Method!");
-              return false;
-            }
-
-          else if (agent_found==null){
-              alert("Invalid PIN!");
-              return false;
-            }
-          else {
-            var z = document.getElementById("toggleDIV2");
-      			if (z.style.display === "none") {
-        			z.style.display = "block";
-      	}
-              return agent_found;
-            }}
+    
+    for (var x in agent_DB){
+        if (agent_DB[x]["FIELD2"]==coll_agent || agent_DB[x]["FIELD2"]==exp_agent) {
+            agent_found=agent_DB[x]["FIELD1"];
+        }
     }
-
-function expAgentAuth() {
-      var exp_code = document.getElementById('exp_code').value;
-      var voucher = document.getElementById('voucher').value;
-      var exp_des = document.getElementById('exp_des').value;
-      var exp_paid = document.getElementById('exp_paid').value;
-      var agent=document.getElementById('exp_pwd').value;
-
-          for (var x in agent_DB){
-            if (agent_DB[x]["FIELD2"]==agent) {
-              var agent_found=agent_DB[x]["FIELD1"];
-            }
-          }
-
-          {
-            if (exp_code==null || exp_code==''){
-              alert("Enter Expense Code!");
-              return false;
-            }
-            else if (exp_paid==null || exp_paid==''){
-              alert("Enter Amount Paid!");
-              return false;
-            }
-
-          else if (agent_found==null){
-              alert("Invalid PIN!");
-              return false;
-            }
-          else {
-            var z = document.getElementById("toggleDIV2");
-      			if (z.style.display === "none") {
-        			z.style.display = "block";
-      	}
-              return agent_found;
-            }}
+    
+    if (agent_found==null){
+        alert("Invalid PIN!");
+        return false;
     }
+    else {
+        var z = document.getElementById("toggleDIV2");
+        if (z.style.display === "none") {
+            z.style.display = "block";
+      	}
+        return agent_found;
+    }
+}
 
 
 function onclickFunction(){
-
-customerSearch();
-var sum_array = billSearch();
-
-var coll_id = document.getElementById('coll_id').value;
-var type = document.getElementById('type').value;
-
-if (type=="coll"){
-    var agent = collAgentAuth();
-}
-else if (type=="exp"){
-    var agent = expAgentAuth();
-}
-
-var start_bill = document.getElementById('start_bill').value;
-var end_bill = document.getElementById('end_bill').value;
-var quant_bill = document.getElementById('quant_bill').value;
-var amt = document.getElementById('amt').value;
-var pay_method=document.getElementById('pay_method').value;
-var coll_rem=document.getElementById('coll_rem').value;
-var coll_pwd=document.getElementById('coll_pwd').value;
-var exp_code=document.getElementById('exp_code').value;
-var voucher = document.getElementById('voucher').value;
-var exp_des=document.getElementById('exp_des').value;
-var exp_paid=document.getElementById('exp_paid').value;
-var exp_rem=document.getElementById('exp_rem').value;
-var exp_pwd=document.getElementById('exp_pwd').value;
-
-var $form = $('#data-entry'),
+    
+    var amt = document.getElementById('amt').value;
+    var pay_method=document.getElementById('pay_method').value;
+    var coll_rem=document.getElementById('coll_rem').value;
+    var exp_code = document.getElementById('exp_code').value;
+    var voucher = document.getElementById('voucher').value;
+    var exp_des = document.getElementById('exp_des').value;
+    var exp_paid = document.getElementById('exp_paid').value;
+    var exp_rem=document.getElementById('exp_rem').value;
+    
+    if (amt == '' && exp_paid == ''){
+        alert("Enter Amount!");
+        return false;
+    }
+    
+    var cust_data = customerSearch();
+    var bill_data;
+    
+    if (cust_data[3]=="coll"){
+        bill_data = billSearch();
+    }
+    else if(exp_code != ''){
+        bill_data = [null];
+    }
+    else{
+        alert("Enter Expense Code!")
+        return false;
+    }
+    
+    var agent_data = agentAuth();
+        
+    var $form = $('#data-entry'),
     url = 'https://script.google.com/macros/s/AKfycbx41sJid8NfbWwhCT1JHOJxePLFTKeQWwiG5YRcezJhQwNxuO4I/exec'
 
-var array = {'Collection ID':coll_id, 'Collection ID Name':cust_name, 'Area':area, 'Type':type, 'Start Bill':start_bill, 'End Bill':end_bill, 'Bill Quantity':quant_bill, 'Due Amount Shown':sum_array, 'Due Amount Collected':amt, 'Payment Method':pay_method, 'Collection Remarks':coll_rem, 'Expense Code':exp_code, 'Voucher Number':voucher, 'Expense Description':exp_des, 'Amount paid':exp_paid, 'Expense Remarks':exp_rem, 'Agent':agent};
-
-console.log(array);
-
+    var array = {'Collection ID':cust_data[2], 'Collection ID Name':cust_data[0], 'Area':cust_data[1], 'Type':cust_data[3], 'Start Bill':bill_data[0], 'End Bill':bill_data[1], 'Bill Quantity':bill_data[2], 'Due Amount Shown':bill_data[3], 'Due Amount Collected':amt, 'Payment Method':pay_method, 'Collection Remarks':coll_rem, 'Expense Code':exp_code, 'Voucher Number':voucher, 'Expense Description':exp_des, 'Amount paid':exp_paid, 'Expense Remarks':exp_rem, 'Agent':agent_data};
+    
     var jqxhr = $.ajax({
       url: url,
       method: "GET",
