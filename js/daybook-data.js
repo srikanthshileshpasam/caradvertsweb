@@ -73529,7 +73529,7 @@ var transaction_DB=[
  },
  {
    "Coll Point": "Nagahari",
-   "Rec No": "54099",
+   "Rec No": "5409",
    "Bill Date": "30-Jul-20",
    "Recd Amt": 300,
    "Location": "MDR"
