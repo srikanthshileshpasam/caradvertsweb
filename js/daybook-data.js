@@ -122,7 +122,7 @@ var cust_DB=[
    "Area": "MDR"
  },
  {
-   "Name": "Nagahari",
+   "Name": "Nagachari",
    "Code": 9948818218,
    "Area": "MDR"
  },
@@ -1547,7 +1547,7 @@ var transaction_DB=[
    "Location": "MDR"
  },
  {
-   "Coll Point": "Nagahari",
+   "Coll Point": "Nagachari",
    "Rec No": 5419,
    "Bill Date": "01-Aug-20",
    "Recd Amt": 260,
@@ -1575,7 +1575,7 @@ var transaction_DB=[
    "Location": "MDR"
  },
  {
-   "Coll Point": "Nagahari",
+   "Coll Point": "Nagachari",
    "Rec No": 5420,
    "Bill Date": "01-Aug-20",
    "Recd Amt": 300,
@@ -1652,7 +1652,7 @@ var transaction_DB=[
    "Location": "BCM"
  },
  {
-   "Coll Point": "Nagahari",
+   "Coll Point": "Nagachari",
    "Rec No": 5421,
    "Bill Date": "01-Aug-20",
    "Recd Amt": 300,
@@ -2072,7 +2072,7 @@ var transaction_DB=[
    "Location": "SPL-TLD"
  },
  {
-   "Coll Point": "Nagahari",
+   "Coll Point": "Nagachari",
    "Rec No": 5422,
    "Bill Date": "01-Aug-20",
    "Recd Amt": 300,
@@ -2177,7 +2177,7 @@ var transaction_DB=[
    "Location": "BCM-2"
  },
  {
-   "Coll Point": "Nagahari",
+   "Coll Point": "Nagachari",
    "Rec No": 5423,
    "Bill Date": "01-Aug-20",
    "Recd Amt": 300,
@@ -2702,7 +2702,7 @@ var transaction_DB=[
    "Location": "SPL-TLD"
  },
  {
-   "Coll Point": "Nagahari",
+   "Coll Point": "Nagachari",
    "Rec No": 5424,
    "Bill Date": "01-Aug-20",
    "Recd Amt": 300,
@@ -3199,7 +3199,7 @@ var transaction_DB=[
    "Location": "SPL-TLD"
  },
  {
-   "Coll Point": "Nagahari",
+   "Coll Point": "Nagachari",
    "Rec No": 5425,
    "Bill Date": "01-Aug-20",
    "Recd Amt": 280,
@@ -3486,7 +3486,7 @@ var transaction_DB=[
    "Location": "SPL-TLD"
  },
  {
-   "Coll Point": "Nagahari",
+   "Coll Point": "Nagachari",
    "Rec No": 5426,
    "Bill Date": "01-Aug-20",
    "Recd Amt": 300,
