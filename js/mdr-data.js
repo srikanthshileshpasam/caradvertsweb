@@ -55796,17 +55796,6 @@ var cust_DB=[
    "Cel 1": "",
    "Due Date": "08-Dec-18",
    "Status": "Inactive"
- },
- {
-   "Sms ID": null,
-   "VC No": 9999999999,
-   "LCO ID": null,
-   "Zone": "",
-   "Card No": "",
-   "Name": "",
-   "Cel 1": "",
-   "Due Date": "",
-   "Status": ""
  }
 ]
 
