@@ -10362,6 +10362,18 @@ var cust_DB=[
    "Status": "Inactive"
  },
  {
+   "Sms ID": null,
+   "VC No": "9999999999",
+   "LCO ID": 58915,
+   "Subscriber Name": "Spare / Migrate Box",
+   "Area": "XXXX",
+   "Card No": "",
+   "Name": "Spare / Migrate Box",
+   "Cel 1": null,
+   "Due Date": "",
+   "Status": ""
+ },
+ {
    "Sms ID": 13249482,
    "VC No": "01769182514",
    "LCO ID": 58915,
