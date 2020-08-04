@@ -36,7 +36,18 @@ var cust_DB=[
    "Name": "Ramu N",
    "Cel 1": "9959118122",
    "Due Date": "",
-   "Status": "N/C"
+   "Status": ""
+ },
+ {
+   "Sms ID": null,
+   "VC No": 9999999999,
+   "LCO ID": null,
+   "Zone": "",
+   "Card No": "",
+   "Name": "Spare / Migrate Box",
+   "Cel 1": "",
+   "Due Date": "",
+   "Status": ""
  },
  {
    "Sms ID": 10919198,
