@@ -17,6 +17,11 @@ var cust_DB=[
    "Area": "DGM"
  },
  {
+   "Name": "Seetharamaya",
+   "Code": 8019602187,
+   "Area": "MDR"
+ },
+ {
    "Name": "Baburao",
    "Code": 9059141159,
    "Area": "MDR"
