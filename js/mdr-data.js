@@ -28,6 +28,17 @@ var cust_DB=[
    "Status": "active"
  },
  {
+   "Sms ID": null,
+   "VC No": 1765881518,
+   "LCO ID": 45556,
+   "Zone": "3",
+   "Card No": "",
+   "Name": "Ramu N",
+   "Cel 1": "9959118122",
+   "Due Date": "",
+   "Status": "N/C"
+ },
+ {
    "Sms ID": 10919198,
    "VC No": 1767131841,
    "LCO ID": 43845,
