@@ -17,21 +17,6 @@ var cust_DB=[
    "Area": "DGM"
  },
  {
-   "Name": "Seetharamaya",
-   "Code": 8019602187,
-   "Area": "MDR"
- },
- {
-   "Name": "Baburao",
-   "Code": 9059141159,
-   "Area": "MDR"
- },
- {
-   "Name": "Rakesh",
-   "Code": 9700633932,
-   "Area": "MDR"
- },
- {
    "Name": "CH RANJITH KUMAR",
    "Code": 9652635115,
    "Area": "BCM"
@@ -54,7 +39,7 @@ var cust_DB=[
  {
    "Name": "D Lakshman Rao MDPD",
    "Code": 9182127649,
-   "Area": "BNGM"
+   "Area": "BNG"
  },
  {
    "Name": "D R K Shope",
@@ -69,7 +54,7 @@ var cust_DB=[
  {
    "Name": "G Lakshman Rao RCBR",
    "Code": 9963959936,
-   "Area": "BNGM"
+   "Area": "BNG"
  },
  {
    "Name": "Gopi Kirana",
@@ -289,7 +274,7 @@ var cust_DB=[
  {
    "Name": "Subhani",
    "Code": 7680837852,
-   "Area": "BNGM"
+   "Area": "BNG"
  },
  {
    "Name": "sunandini Milk",
@@ -324,12 +309,12 @@ var cust_DB=[
  {
    "Name": "Thirupathi Rao TMPL",
    "Code": 9963385181,
-   "Area": "BNGM"
+   "Area": "BNG"
  },
  {
    "Name": "Ushasri BNGM",
    "Code": 7569022502,
-   "Area": "BNGM"
+   "Area": "BNG"
  },
  {
    "Name": "VAMSHI",
@@ -364,21 +349,21 @@ var cust_DB=[
 ]
 
 var agent_DB=[
+  {
+     "FIELD1": "Bandi Thulasi Rao",
+     "FIELD2": 1522
+  },
  {
    "FIELD1": "SATHISH",
    "FIELD2": 2802
  },
  {
+   "FIELD1": "SARVESWARAO KANNAM",
+   "FIELD2": 5943
+ },
+ {
    "FIELD1": "PSRK",
    "FIELD2": 2045
- },
- {
-   "FIELD1": "Mrs.Padma",
-   "FIELD2": 2512
- },
- {
-   "FIELD1": "MTR",
-   "FIELD2": 9999
  },
  {
    "FIELD1": "NANI",
