@@ -10410,10 +10410,6 @@ var agent_DB=[
  "FIELD2": 3456
 },
 {
- "FIELD1": "Subhani",
- "FIELD2": 7867
-},
-{
  "FIELD1": "Google Pay",
  "FIELD2": 9999
 },
