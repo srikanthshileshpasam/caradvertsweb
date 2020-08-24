@@ -55928,6 +55928,2694 @@ var transaction_DB=[
    "Location": "BCM-2"
  },
  {
+   "Coll Point": "NTR",
+   "Rec No": 2801,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "PRADEEP",
+   "Rec No": 685,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "Office",
+   "Rec No": 1603,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "Office",
+   "Rec No": 1912,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "G Lakshman Rao RCBR",
+   "Rec No": 43062,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BNG"
+ },
+ {
+   "Coll Point": "Office",
+   "Rec No": 1911,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "Office",
+   "Rec No": 1914,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 400,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "Office",
+   "Rec No": 1915,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "RD",
+   "Rec No": 5622,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 410,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "DWARAKA",
+   "Rec No": 5112,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 182,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "Roja Kirana",
+   "Rec No": 6728,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "SEETHAIAH",
+   "Rec No": 3964,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "P LAXMI NARAYANA",
+   "Rec No": 1104,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "Roja Kirana",
+   "Rec No": 6729,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "P LAXMI NARAYANA",
+   "Rec No": 1105,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "P LAXMI NARAYANA",
+   "Rec No": 1106,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "RANI",
+   "Rec No": 2205,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "Prasad",
+   "Rec No": 6088,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "Prasad",
+   "Rec No": 6089,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 263,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "RANI",
+   "Rec No": 2206,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "Baburao",
+   "Rec No": 5371,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "SUNIL",
+   "Rec No": 4036,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "DMG"
+ },
+ {
+   "Coll Point": "SUNIL",
+   "Rec No": 4037,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "DMG"
+ },
+ {
+   "Coll Point": "NAGENDRAN",
+   "Rec No": 1595,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "NAGENDRAN",
+   "Rec No": 1596,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "RANI",
+   "Rec No": 2207,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "SURI",
+   "Rec No": 3406,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "Baburao",
+   "Rec No": 5372,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 350,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "NAGENDRAN",
+   "Rec No": 1597,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 360,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "SURI",
+   "Rec No": 3409,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 230,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "NTR",
+   "Rec No": 2802,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "SURI",
+   "Rec No": 3410,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "RANI",
+   "Rec No": 2210,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "SUNIL",
+   "Rec No": 4038,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 200,
+   "Location": "DMG"
+ },
+ {
+   "Coll Point": "Nagchari",
+   "Rec No": 6286,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "SUNIL",
+   "Rec No": 4039,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "DMG"
+ },
+ {
+   "Coll Point": "Nagchari",
+   "Rec No": 6287,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "HMN",
+   "Rec No": 2069,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 230,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "NAGENDRAN",
+   "Rec No": 1598,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "DWARAKA",
+   "Rec No": 5113,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "SEETHAIAH",
+   "Rec No": 3965,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 640,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "NTR",
+   "Rec No": 2803,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "RANI",
+   "Rec No": 2209,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "RANI",
+   "Rec No": 2211,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "RANI",
+   "Rec No": 2212,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "RANI",
+   "Rec No": 2208,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 325,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "Prasad",
+   "Rec No": 6090,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "Baburao",
+   "Rec No": 5370,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 182,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "Ushasri BNGM",
+   "Rec No": 42692,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 225,
+   "Location": "BNG"
+ },
+ {
+   "Coll Point": "NAGENDRAN",
+   "Rec No": 1599,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "RANI",
+   "Rec No": 2213,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "NARESH",
+   "Rec No": 1902,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "NAGESWARAO",
+   "Rec No": 3256,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "NARESH",
+   "Rec No": 1903,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "SM",
+   "Rec No": 1072,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "NAGENDRAN",
+   "Rec No": 1600,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "NANI",
+   "Rec No": 7432,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "NARESH",
+   "Rec No": 1904,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "Vijaya Dairy",
+   "Rec No": 7301,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "NARESH",
+   "Rec No": 1905,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "Office",
+   "Rec No": 1897,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "T RAJESH",
+   "Rec No": 344,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "NR",
+   "Rec No": 1714,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "SUNIL",
+   "Rec No": 4040,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "DMG"
+ },
+ {
+   "Coll Point": "NR",
+   "Rec No": 1715,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "T RAJESH",
+   "Rec No": 359,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "HMN",
+   "Rec No": 2070,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "Office",
+   "Rec No": 1899,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "Ushasri BNGM",
+   "Rec No": 42693,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BNG"
+ },
+ {
+   "Coll Point": "T RAJESH",
+   "Rec No": 358,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "Shabber",
+   "Rec No": 5660,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 252,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "Rakesh",
+   "Rec No": 5025,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "T RAJESH",
+   "Rec No": 357,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "NARESH",
+   "Rec No": 1906,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "T RAJESH",
+   "Rec No": 356,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "Shabber",
+   "Rec No": 5661,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 205,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "NARESH",
+   "Rec No": 1909,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "T RAJESH",
+   "Rec No": 354,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 290,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "T RAJESH",
+   "Rec No": 353,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "NARESH",
+   "Rec No": 1910,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "T RAJESH",
+   "Rec No": 352,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 200,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "T RAJESH",
+   "Rec No": 351,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "RAMBABU",
+   "Rec No": 2972,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "DMG"
+ },
+ {
+   "Coll Point": "NARESH",
+   "Rec No": 1911,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "RAMBABU",
+   "Rec No": 2973,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "DMG"
+ },
+ {
+   "Coll Point": "NAGENDRAN",
+   "Rec No": 2101,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 260,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "KRISHNA REDDY",
+   "Rec No": 1404,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 129,
+   "Location": "DMG"
+ },
+ {
+   "Coll Point": "KRISHNA REDDY",
+   "Rec No": 1404,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 129,
+   "Location": "DMG"
+ },
+ {
+   "Coll Point": "T RAJESH",
+   "Rec No": 360,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "T RAJESH",
+   "Rec No": 361,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "NARESH",
+   "Rec No": 1912,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "KRISHNA REDDY",
+   "Rec No": 1404,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 152,
+   "Location": "DMG"
+ },
+ {
+   "Coll Point": "Prabanjan Medical",
+   "Rec No": 6851,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "Heritage Milk",
+   "Rec No": 6419,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "Thirupathi Rao TMPL",
+   "Rec No": 43348,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BNG"
+ },
+ {
+   "Coll Point": "P LAXMI NARAYANA",
+   "Rec No": 1108,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "KRISHNA REDDY",
+   "Rec No": 1404,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 152,
+   "Location": "DMG"
+ },
+ {
+   "Coll Point": "Thirupathi Rao TMPL",
+   "Rec No": 43349,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BNG"
+ },
+ {
+   "Coll Point": "Padma Medicals",
+   "Rec No": 4878,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "NAGENDRAN",
+   "Rec No": 2102,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "Ravindhra Reddy",
+   "Rec No": 7008,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 182,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "Padma Medicals",
+   "Rec No": 4879,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "Padma Medicals",
+   "Rec No": 4880,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 205,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "Nagchari",
+   "Rec No": 6288,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "NAGENDRAN",
+   "Rec No": 2103,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 260,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "SURI",
+   "Rec No": 3412,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "NAGENDRAN",
+   "Rec No": 2104,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "Ushasri BNGM",
+   "Rec No": 42694,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BNG"
+ },
+ {
+   "Coll Point": "SEETHAIAH",
+   "Rec No": 3966,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "Nagchari",
+   "Rec No": 6289,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "Ravindhra Reddy",
+   "Rec No": 2009,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "SM",
+   "Rec No": 1073,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "NAGENDRAN",
+   "Rec No": 2105,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "KRISHNA REDDY",
+   "Rec No": 1404,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 129,
+   "Location": "DMG"
+ },
+ {
+   "Coll Point": "KRISHNA REDDY",
+   "Rec No": 1404,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 152,
+   "Location": "DMG"
+ },
+ {
+   "Coll Point": "SM",
+   "Rec No": 1074,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "Gopi Kirana",
+   "Rec No": 5240,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 280,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "KUMAR",
+   "Rec No": 4337,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "DMG"
+ },
+ {
+   "Coll Point": "PRADEEP",
+   "Rec No": 686,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "Vasu on line",
+   "Rec No": 6912,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "PRADEEP",
+   "Rec No": 687,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "Baburao",
+   "Rec No": 5373,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "SRINU",
+   "Rec No": 5095,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "DMG"
+ },
+ {
+   "Coll Point": "Ushasri BNGM",
+   "Rec No": 42695,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "BNG"
+ },
+ {
+   "Coll Point": "SRINU",
+   "Rec No": 5096,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "DMG"
+ },
+ {
+   "Coll Point": "D Kishore",
+   "Rec No": 7122,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "Office",
+   "Rec No": 1898,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "SURI",
+   "Rec No": 3415,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "NARESH",
+   "Rec No": 1913,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "Baburao",
+   "Rec No": 5374,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "SPL Off",
+   "Rec No": 7436,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "Office",
+   "Rec No": 1900,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "Nagchari",
+   "Rec No": 6290,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "Nagchari",
+   "Rec No": 6291,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "Mrs Padma",
+   "Rec No": 6392,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 0,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "NAGENDRAN",
+   "Rec No": 2106,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 230,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "T RAJESH",
+   "Rec No": 362,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "SEETHAIAH",
+   "Rec No": 3967,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 1080,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "NARESH",
+   "Rec No": 1914,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 230,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "NAGESWARAO",
+   "Rec No": 3258,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "sunandini Milk",
+   "Rec No": 7207,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 290,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "RANI",
+   "Rec No": 2214,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 315,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "Thallada",
+   "Rec No": 2058,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "Thallada",
+   "Rec No": 2059,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 230,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "Thallada",
+   "Rec No": 2060,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 225,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "RANI",
+   "Rec No": 2215,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 200,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "RANI",
+   "Rec No": 2216,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "RANI",
+   "Rec No": 2217,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "Nagchari",
+   "Rec No": 6292,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "RANI",
+   "Rec No": 2218,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "RANI",
+   "Rec No": 2219,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "NAGENDRAN",
+   "Rec No": 2107,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "Baburao",
+   "Rec No": 5375,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "RANI",
+   "Rec No": 2220,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "NAGENDRAN",
+   "Rec No": 2108,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "G Lakshman Rao RCBR",
+   "Rec No": 43063,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BNG"
+ },
+ {
+   "Coll Point": "RANI",
+   "Rec No": 2221,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "RANI",
+   "Rec No": 2222,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "NAGENDRAN",
+   "Rec No": 2109,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 370,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "SPL Off",
+   "Rec No": 7439,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "RANI",
+   "Rec No": 2223,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "Thirupathi Rao TMPL",
+   "Rec No": 43350,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 200,
+   "Location": "BNG"
+ },
+ {
+   "Coll Point": "RANI",
+   "Rec No": 2224,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "RANI",
+   "Rec No": 2225,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 225,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "Ushasri BNGM",
+   "Rec No": 42696,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BNG"
+ },
+ {
+   "Coll Point": "Prabanjan Medical",
+   "Rec No": 6852,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 233,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "DWARAKA",
+   "Rec No": 5114,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 153,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "T RAJESH",
+   "Rec No": 363,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "D Kishore",
+   "Rec No": 7116,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "Mrs Padma",
+   "Rec No": 6393,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 280,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "Ushasri BNGM",
+   "Rec No": 42697,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BNG"
+ },
+ {
+   "Coll Point": "AKULA RAMU",
+   "Rec No": 3578,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "NARESH",
+   "Rec No": 1915,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "AKULA RAMU",
+   "Rec No": 3579,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "AKULA RAMU",
+   "Rec No": 3580,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "NARESH",
+   "Rec No": 1916,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "Nagchari",
+   "Rec No": 6293,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 216,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "VV",
+   "Rec No": 4314,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "AKULA RAMU",
+   "Rec No": 3581,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "AKULA RAMU",
+   "Rec No": 3582,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "Office",
+   "Rec No": 1731,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "AKULA RAMU",
+   "Rec No": 3583,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "AKULA RAMU",
+   "Rec No": 3584,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "SURI",
+   "Rec No": 3416,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "AKULA RAMU",
+   "Rec No": 3585,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "Venkat",
+   "Rec No": 7401,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "Venkat",
+   "Rec No": 7402,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 230,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "Office",
+   "Rec No": 1732,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "Prabanjan Medical",
+   "Rec No": 6853,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "NARESH",
+   "Rec No": 1917,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "NAGENDRAN",
+   "Rec No": 2110,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "Vijaya Dairy",
+   "Rec No": 7302,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "SPL Off",
+   "Rec No": 7433,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "SUNIL",
+   "Rec No": 4041,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "DMG"
+ },
+ {
+   "Coll Point": "HMN",
+   "Rec No": 2071,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "SPL Off",
+   "Rec No": 7434,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "SPL Off",
+   "Rec No": 7435,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "NTR",
+   "Rec No": 2804,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "NAGESWARAO",
+   "Rec No": 3259,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "NAGESWARAO",
+   "Rec No": 3260,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "SPL Off",
+   "Rec No": 7437,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "T RAJESH",
+   "Rec No": 364,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "T RAJESH",
+   "Rec No": 365,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "T RAJESH",
+   "Rec No": 366,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "SPL Off",
+   "Rec No": 7440,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "Office",
+   "Rec No": 1733,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 225,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "NAGENDRAN",
+   "Rec No": 2111,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "SPL Off",
+   "Rec No": 7411,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "SPL Off",
+   "Rec No": 7442,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "T RAJESH",
+   "Rec No": 367,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 200,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "NTR",
+   "Rec No": 2805,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 205,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "Nagchari",
+   "Rec No": 6294,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 252,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "Nagchari",
+   "Rec No": 6295,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "SEETHAIAH",
+   "Rec No": 3968,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "SM",
+   "Rec No": 1075,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 160,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "NAGENDRAN",
+   "Rec No": 2112,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 260,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "SM",
+   "Rec No": 1076,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 230,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "HMN",
+   "Rec No": 2072,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "SM",
+   "Rec No": 1077,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 180,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "SPL Off",
+   "Rec No": 7443,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "RANI",
+   "Rec No": 2226,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "SPL Off",
+   "Rec No": 7444,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 640,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "Venkat",
+   "Rec No": 7403,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 230,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "RD",
+   "Rec No": 5623,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "SPL Off",
+   "Rec No": 7445,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "Prabanjan Medical",
+   "Rec No": 6854,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 252,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "RD",
+   "Rec No": 5624,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "Bandi Thulasi Rao",
+   "Rec No": 46267,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BNG"
+ },
+ {
+   "Coll Point": "Bandi Thulasi Rao",
+   "Rec No": 46269,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BNG"
+ },
+ {
+   "Coll Point": "Bandi Thulasi Rao",
+   "Rec No": 46269,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BNG"
+ },
+ {
+   "Coll Point": "T RAJESH",
+   "Rec No": 368,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "T RAJESH",
+   "Rec No": 369,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "SURI",
+   "Rec No": 3413,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 260,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "SPL Off",
+   "Rec No": 8185,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 0,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "Nagchari",
+   "Rec No": 6296,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "SM",
+   "Rec No": 1078,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "SURI",
+   "Rec No": 3400,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "SEETHAIAH",
+   "Rec No": 3969,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "SUNIL",
+   "Rec No": 4042,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "DMG"
+ },
+ {
+   "Coll Point": "Venkat",
+   "Rec No": 7404,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 230,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "SM",
+   "Rec No": 1079,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "Bandi Thulasi Rao",
+   "Rec No": 45433,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BNG"
+ },
+ {
+   "Coll Point": "DWARAKA",
+   "Rec No": 5115,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "DWARAKA",
+   "Rec No": 5116,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "SM",
+   "Rec No": 1080,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "NARESH",
+   "Rec No": 1918,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "NARESH",
+   "Rec No": 1919,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "NTR",
+   "Rec No": 2806,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "NARESH",
+   "Rec No": 1920,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "Mrs Padma",
+   "Rec No": 6394,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 0,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "D R K Shope",
+   "Rec No": 7501,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "SAMPATH",
+   "Rec No": 438,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "DMG"
+ },
+ {
+   "Coll Point": "D R K Shope",
+   "Rec No": 7502,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 260,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "SAMPATH",
+   "Rec No": 439,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "DMG"
+ },
+ {
+   "Coll Point": "Thallada",
+   "Rec No": 2061,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 210,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "D R K Shope",
+   "Rec No": 7503,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "Mrs Padma",
+   "Rec No": 6395,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 0,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "SPL Off",
+   "Rec No": 7446,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "T RAJESH",
+   "Rec No": 370,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "SPL Off",
+   "Rec No": 7447,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "NARESH",
+   "Rec No": 1921,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "T RAJESH",
+   "Rec No": 371,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "SPL Off",
+   "Rec No": 7448,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 210,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "Nagchari",
+   "Rec No": 6297,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 223,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "Nagchari",
+   "Rec No": 6298,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "Roja Kirana",
+   "Rec No": 6730,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "SPL Off",
+   "Rec No": 7449,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "SPL Off",
+   "Rec No": 7450,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "T RAJESH",
+   "Rec No": 372,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "SAMPATH",
+   "Rec No": 440,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "DMG"
+ },
+ {
+   "Coll Point": "NARESH",
+   "Rec No": 1922,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "NARESH",
+   "Rec No": 1,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "SEETHAIAH",
+   "Rec No": 3970,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 220,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "Thirupathi Rao TMPL",
+   "Rec No": 43351,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BNG"
+ },
+ {
+   "Coll Point": "DWARAKA",
+   "Rec No": 5117,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 266,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "T RAJESH",
+   "Rec No": 373,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "T RAJESH",
+   "Rec No": 374,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "SEETHAIAH",
+   "Rec No": 3971,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "SPL Off",
+   "Rec No": 7438,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "SEETHAIAH",
+   "Rec No": 3972,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "SINDHU",
+   "Rec No": 2193,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "DMG"
+ },
+ {
+   "Coll Point": "AKULA RAMU",
+   "Rec No": 3586,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "AKULA RAMU",
+   "Rec No": 3587,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "Nagchari",
+   "Rec No": 6300,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 200,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "AKULA RAMU",
+   "Rec No": 3588,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "Thallada",
+   "Rec No": 2062,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "NAGENDRAN",
+   "Rec No": 2113,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "SPL Off",
+   "Rec No": 7451,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "SPL Off",
+   "Rec No": 7452,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "SEETHAIAH",
+   "Rec No": 3973,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "Vijaya Dairy",
+   "Rec No": 7303,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "RANI",
+   "Rec No": 2227,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "Seetharamaya",
+   "Rec No": 3390,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 280,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "RANI",
+   "Rec No": 2228,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "Thallada",
+   "Rec No": 2063,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 350,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "Venkat",
+   "Rec No": 7405,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 600,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "Ushasri BNGM",
+   "Rec No": 42698,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 200,
+   "Location": "BNG"
+ },
+ {
+   "Coll Point": "G Lakshman Rao RCBR",
+   "Rec No": 43064,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BNG"
+ },
+ {
+   "Coll Point": "SM",
+   "Rec No": 1081,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "Baburao",
+   "Rec No": 5376,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "RANI",
+   "Rec No": 2229,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "RANI",
+   "Rec No": 2230,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "NTR",
+   "Rec No": 2807,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "SM",
+   "Rec No": 1082,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "SPL Off",
+   "Rec No": 7453,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "RAMBABU",
+   "Rec No": 2974,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "DMG"
+ },
+ {
+   "Coll Point": "T RAJESH",
+   "Rec No": 375,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "T RAJESH",
+   "Rec No": 355,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "AKULA RAMU",
+   "Rec No": 3577,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "T PANI KUMAR",
+   "Rec No": 123,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "T PANI KUMAR",
+   "Rec No": 124,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "T PANI KUMAR",
+   "Rec No": 216,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 150,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "T PANI KUMAR",
+   "Rec No": 217,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "M SIVAJI",
+   "Rec No": 3913,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 290,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "Bandi Thulasi Rao",
+   "Rec No": 45434,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BNG"
+ },
+ {
+   "Coll Point": "SINDHU",
+   "Rec No": 2194,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "DMG"
+ },
+ {
+   "Coll Point": "T RAJESH",
+   "Rec No": 376,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "SPL Off",
+   "Rec No": 7454,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "T RAJESH",
+   "Rec No": 377,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "Nagchari",
+   "Rec No": 6299,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 252,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "Office",
+   "Rec No": 1734,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 400,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "Thallada",
+   "Rec No": 2064,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 450,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "RANI",
+   "Rec No": 2231,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "D Kishore",
+   "Rec No": 7123,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 500,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "RANI",
+   "Rec No": 2232,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "NAVEEN",
+   "Rec No": 2012,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "Office",
+   "Rec No": 1607,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "RANI",
+   "Rec No": 2233,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "SEETHAIAH",
+   "Rec No": 3974,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "NAGENDRAN",
+   "Rec No": 2114,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "LATHA",
+   "Rec No": 3701,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "DMG"
+ },
+ {
+   "Coll Point": "M SIVAJI",
+   "Rec No": 3914,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "Thallada",
+   "Rec No": 2065,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 225,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "Prasad",
+   "Rec No": 6077,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 290,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "Roja Kirana",
+   "Rec No": 6731,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 280,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "NAVEEN",
+   "Rec No": 2013,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "NR",
+   "Rec No": 1716,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "NAGENDRAN",
+   "Rec No": 2115,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "MEESAVA RAVINDRA",
+   "Rec No": 462,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "NAVEEN",
+   "Rec No": 2014,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "Thallada",
+   "Rec No": 2066,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 225,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "sunandini Milk",
+   "Rec No": 7208,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 290,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "SEETHAIAH",
+   "Rec No": 3975,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 260,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "Prasad",
+   "Rec No": 6091,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "Office",
+   "Rec No": 1735,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "Krishnareddy",
+   "Rec No": 4987,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 280,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "RANI",
+   "Rec No": 2234,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "Krishnareddy",
+   "Rec No": 4988,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "Krishnareddy",
+   "Rec No": 4989,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "RAMESH",
+   "Rec No": 2372,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "DMG"
+ },
+ {
+   "Coll Point": "Vijaya Dairy",
+   "Rec No": 7304,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "Office",
+   "Rec No": 1749,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 0,
+   "Location": "BCM-2"
+ },
+ {
+   "Coll Point": "SPL Off",
+   "Rec No": 7455,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 420,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "SUNIL",
+   "Rec No": 4043,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "DMG"
+ },
+ {
+   "Coll Point": "Prabanjan Medical",
+   "Rec No": 6855,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "Prabanjan Medical",
+   "Rec No": 6856,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "Nagchari",
+   "Rec No": 7601,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 600,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "NR",
+   "Rec No": 1717,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "M SIVAJI",
+   "Rec No": 3915,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "Thallada",
+   "Rec No": 2067,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "Shabber",
+   "Rec No": 5662,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 205,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "KKP",
+   "Rec No": 6095,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 230,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "P LAXMI NARAYANA",
+   "Rec No": 1108,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "P LAXMI NARAYANA",
+   "Rec No": 1109,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "P LAXMI NARAYANA",
+   "Rec No": 1110,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "KRISHNA REDDY",
+   "Rec No": 1404,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 152,
+   "Location": "DMG"
+ },
+ {
+   "Coll Point": "Prabanjan Medical",
+   "Rec No": 3891,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 500,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "NARESH",
+   "Rec No": 1924,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "SPL Off",
+   "Rec No": 7456,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "NARESH",
+   "Rec No": 1925,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "Padma Medicals",
+   "Rec No": 4881,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "SAMPATH",
+   "Rec No": 441,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "DMG"
+ },
+ {
+   "Coll Point": "P LAXMI NARAYANA",
+   "Rec No": 1111,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "SAMPATH",
+   "Rec No": 442,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "DMG"
+ },
+ {
+   "Coll Point": "SAMPATH",
+   "Rec No": 443,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "DMG"
+ },
+ {
+   "Coll Point": "KRISHNA REDDY",
+   "Rec No": 1404,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 152,
+   "Location": "DMG"
+ },
+ {
+   "Coll Point": "NTR",
+   "Rec No": 2808,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "SEETHAIAH",
+   "Rec No": 3976,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "NTR",
+   "Rec No": 2815,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "P LAXMI NARAYANA",
+   "Rec No": 1112,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "CH RANJITH KUMAR",
+   "Rec No": 5913,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "BCM"
+ },
+ {
+   "Coll Point": "Shabber",
+   "Rec No": 5663,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "MDR"
+ },
+ {
+   "Coll Point": "SURI",
+   "Rec No": 3417,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 320,
+   "Location": "SPL-TLD"
+ },
+ {
+   "Coll Point": "SUNIL",
+   "Rec No": 4044,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "DMG"
+ },
+ {
    "Coll Point": "Muthireddy 32723",
    "Rec No": 53222,
    "Bill Date": "01-Aug-20",
@@ -78500,6 +81188,909 @@ var transaction_DB=[
    "Rec No": 2411,
    "Bill Date": "23-Aug-20",
    "Recd Amt": 200,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "venkatakrishna 32723",
+   "Rec No": 51483,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "venkatakrishna 32723",
+   "Rec No": 51484,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 0,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "Muthireddy 32723",
+   "Rec No": 52316,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-vasavi",
+   "Rec No": 3615,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "Muthireddy 32723",
+   "Rec No": 52317,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-subbarao",
+   "Rec No": 4151,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-siva",
+   "Rec No": 49911,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-vutukuru ramarao",
+   "Rec No": 3755,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-anuradha",
+   "Rec No": 4133,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-stalinreddy",
+   "Rec No": 54102,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 230,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-vanamagopalrao",
+   "Rec No": 3465,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "Prasad B Staff",
+   "Rec No": 4217,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "Prasad B Staff",
+   "Rec No": 4218,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-golla satyanarayana",
+   "Rec No": 36127,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-golla satyanarayana",
+   "Rec No": 36128,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-golla satyanarayana",
+   "Rec No": 36129,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-nagesh",
+   "Rec No": 1935,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-nagesh",
+   "Rec No": 1936,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "VRath 58103",
+   "Rec No": 33473,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 0,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "Raju 58885",
+   "Rec No": 39758,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "VRath 58103",
+   "Rec No": 33474,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 0,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "Prasad B Staff",
+   "Rec No": 4035,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-miriyala venkateswarao",
+   "Rec No": 31444,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "Raju 58885",
+   "Rec No": 39759,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "Raju 58885",
+   "Rec No": 39760,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-anjaneya",
+   "Rec No": 3861,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-anjaneya",
+   "Rec No": 3859,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-anjaneya",
+   "Rec No": 3863,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "Raju 58885",
+   "Rec No": 39761,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "Prasad B Staff",
+   "Rec No": 4219,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 1650,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "Raju 58885",
+   "Rec No": 39762,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-vanamagopalrao",
+   "Rec No": 3466,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "anjali",
+   "Rec No": 50599,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 0,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-golla satyanarayana",
+   "Rec No": 36130,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-anjaneya",
+   "Rec No": 3860,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-anjaneya",
+   "Rec No": 3862,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-ansar",
+   "Rec No": 49689,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-ansar",
+   "Rec No": 49690,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "anjali",
+   "Rec No": 50600,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "MVR 58064",
+   "Rec No": 4734,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "Raju 58885",
+   "Rec No": 39763,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "CP-VINAY-VMB",
+   "Rec No": 31632,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-challa srinu",
+   "Rec No": 2714,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-nagesh",
+   "Rec No": 1937,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "anjali",
+   "Rec No": 50601,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 200,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "CP-VINAY-VMB",
+   "Rec No": 31633,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 260,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "anjali",
+   "Rec No": 50602,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "Prasad B Staff",
+   "Rec No": 4220,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-golla satyanarayana",
+   "Rec No": 36131,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-golla satyanarayana",
+   "Rec No": 36132,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-mareswarao",
+   "Rec No": 38887,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "satish 58104",
+   "Rec No": 49790,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-vemula srinivasarao",
+   "Rec No": 33573,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-vemula srinivasarao",
+   "Rec No": 33574,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-vemula srinivasarao",
+   "Rec No": 33575,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "Raju 58885",
+   "Rec No": 39765,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 230,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-krishnamurthy",
+   "Rec No": 2501,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "Raju 58885",
+   "Rec No": 39766,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 0,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-vemula srinivasarao",
+   "Rec No": 33576,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-nagesh",
+   "Rec No": 1938,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "MVR 58064",
+   "Rec No": 4735,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "G Koteswara Rao",
+   "Rec No": 13218,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "G Koteswara Rao",
+   "Rec No": 13217,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 200,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "VRath 58103",
+   "Rec No": 33475,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 500,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-anuradha",
+   "Rec No": 4134,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-vemula srinivasarao",
+   "Rec No": 33577,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "Hussen 58073",
+   "Rec No": 2412,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "Hussen 58073",
+   "Rec No": 2413,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "satish 58104",
+   "Rec No": 49789,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-vani",
+   "Rec No": 26550,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-golla satyanarayana",
+   "Rec No": 36126,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 260,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-mareswarao",
+   "Rec No": 38888,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 400,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-anjaneya",
+   "Rec No": 3864,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-anuradha",
+   "Rec No": 4135,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "Raju 58885",
+   "Rec No": 39767,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "Raju 58885",
+   "Rec No": 39768,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 180,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "Muthireddy 32723",
+   "Rec No": 52318,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 350,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-kola tirupathirao",
+   "Rec No": 49500,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-anjaneya",
+   "Rec No": 3865,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 310,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "VRath 58103",
+   "Rec No": 33476,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 260,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "CP rajabali 58064",
+   "Rec No": 4633,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-siva",
+   "Rec No": 49912,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-vemula srinivasarao",
+   "Rec No": 33579,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-vemula srinivasarao",
+   "Rec No": 33580,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "anjali",
+   "Rec No": 50603,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 200,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-lakshmi",
+   "Rec No": 4036,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 0,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-lakshmi",
+   "Rec No": 3038,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "Prasad B Staff",
+   "Rec No": 4221,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "Prasad B Staff",
+   "Rec No": 4222,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-vani",
+   "Rec No": 26552,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-vani",
+   "Rec No": 26553,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-anuradha",
+   "Rec No": 4136,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-vani",
+   "Rec No": 26551,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "satish 58104",
+   "Rec No": 49791,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-Ramprasad",
+   "Rec No": 3267,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "satish 58104",
+   "Rec No": 49792,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-golla satyanarayana",
+   "Rec No": 36133,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "G Koteswara Rao",
+   "Rec No": 13219,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 200,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-golla satyanarayana",
+   "Rec No": 36134,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "satish 58104",
+   "Rec No": 47465,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 0,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "satish 58104",
+   "Rec No": 49793,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-golla satyanarayana",
+   "Rec No": 36135,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-miriyala venkateswarao",
+   "Rec No": 31445,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "MSrinu 58072",
+   "Rec No": 4037,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 500,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "Penugonda Jamalaiah",
+   "Rec No": 49016,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-siva",
+   "Rec No": 49913,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-rayala venkateswarlu",
+   "Rec No": 3830,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-subani",
+   "Rec No": 49243,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 200,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "anjali",
+   "Rec No": 50604,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-vanamagopalrao",
+   "Rec No": 3467,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "Raju 58885",
+   "Rec No": 39770,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-Ramprasad",
+   "Rec No": 3268,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "anjali",
+   "Rec No": 50605,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-vanamagopalrao",
+   "Rec No": 3468,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "Raju 58885",
+   "Rec No": 39764,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-Ramprasad",
+   "Rec No": 3269,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-subbarao",
+   "Rec No": 4153,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 600,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "satish 58104",
+   "Rec No": 49792,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-subbarao",
+   "Rec No": 4154,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-talluri satyanarayana",
+   "Rec No": 1631,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-siva",
+   "Rec No": 49915,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "satish 58104",
+   "Rec No": 49795,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "MVR 58064",
+   "Rec No": 4736,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "anjali",
+   "Rec No": 50606,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 0,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-vasavi",
+   "Rec No": 3617,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "cp-siva",
+   "Rec No": 49916,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 250,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "anjali",
+   "Rec No": 47465,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 0,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "Prasad B Staff",
+   "Rec No": 4223,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
+   "Location": "TVR"
+ },
+ {
+   "Coll Point": "CP rajabali 58064",
+   "Rec No": 4634,
+   "Bill Date": "24-Aug-20",
+   "Recd Amt": 300,
    "Location": "TVR"
  }
 ]
