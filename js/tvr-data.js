@@ -112554,6 +112554,54 @@ for (var x in cust_DB){
       document.getElementById("c_name").innerHTML = customer;
       document.getElementById("c_phone").innerHTML = phone;
       document.getElementById("d_d").innerHTML = due_date;
+        
+        var currentTime = new Date();
+        var currentOffset = currentTime.getTimezoneOffset();
+        var ISTOffset = 330;
+        var today = new Date(currentTime.getTime() + (ISTOffset + currentOffset)*60000);
+        var one_day=1000*60*60*24;
+        var parts =due_date.split('-');
+        if(parts[1]=='Jan' || parts[1]=='JAN'|| parts[1]=='January'){
+            parts[1] = 01;
+        } else if(parts[1]=='Feb' || parts[1]=='FEB'|| parts[1]=='February'){
+            parts[1] = 02;
+        } else if(parts[1]=='Mar' || parts[1]=='MAR'|| parts[1]=='March'){
+            parts[1] = 03;
+        }else if(parts[1]=='Apr' || parts[1]=='APR'|| parts[1]=='April'){
+            parts[1] = 04;
+        }else if(parts[1]=='May' || parts[1]=='MAY'){
+            parts[1] = 05;
+        }else if(parts[1]=='Jun' || parts[1]=='JUN'|| parts[1]=='June'){
+            parts[1] = 06;
+        }else if(parts[1]=='Jul' || parts[1]=='JUL'|| parts[1]=='July'){
+            parts[1] = 07;
+        }else if(parts[1]=='Aug' || parts[1]=='AUG'|| parts[1]=='August'){
+            parts[1] = 08;
+        }else if(parts[1]=='Sep' || parts[1]=='SEP'|| parts[1]=='September'){
+            parts[1] = 09;
+        }else if(parts[1]=='Oct' || parts[1]=='OCT'|| parts[1]=='October'){
+            parts[1] = 10;
+        }else if(parts[1]=='Nov' || parts[1]=='NOV'|| parts[1]=='November'){
+            parts[1] = 11;
+        }else if(parts[1]=='Dec' || parts[1]=='DEC'|| parts[1]=='December'){
+            parts[1] = 12;
+        }else{
+            parts[1] = 0;
+        }
+        if(parts[2]==20){
+            parts[2]=2020;
+        }else if(parts[2]==21){
+            parts[2]=2021;
+        }else if(parts[2]==19){
+            parts[2]==2019;
+        }
+        var conv_date = new Date(parts[2]+'/'+parts[1]+'/'+parts[0]);
+
+        var date1_ms = conv_date.getTime();
+        var date2_ms = today.getTime();
+        var difference_ms = date1_ms - date2_ms;
+        days_left = Math.round(difference_ms/one_day); 
+      document.getElementById("d_l").innerHTML = days_left;
 
       var y = document.getElementById("toggleDIV");
   		if (y.style.display === "none") {
