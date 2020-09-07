@@ -7,7 +7,7 @@ window.onload = function() {
 var cust_DB=[
  {
    "Sms ID": "13484471",
-   "VC NO": "1769419865",
+   "VC No": "1769419865",
    "LCO ID": 39627,
    "CARD NO": "6",
    "NAME": "DASARI JAYAPRADHA",
@@ -18,7 +18,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12990364",
-   "VC NO": "1768383992",
+   "VC No": "1768383992",
    "LCO ID": 39627,
    "CARD NO": "10",
    "NAME": "DASARI BUCHAIAH",
@@ -29,7 +29,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16572231",
-   "VC NO": "1331699199",
+   "VC No": "1331699199",
    "LCO ID": 39627,
    "CARD NO": "15",
    "NAME": "KATIBOINA VENKATESWARAO",
@@ -40,7 +40,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16963264",
-   "VC NO": "1331723731",
+   "VC No": "1331723731",
    "LCO ID": 39627,
    "CARD NO": "16",
    "NAME": "RASALA SRINIVASARAO",
@@ -51,7 +51,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15901557",
-   "VC NO": "1769574456",
+   "VC No": "1769574456",
    "LCO ID": 39627,
    "CARD NO": "17",
    "NAME": "MALLELA SATHYANARAYNA",
@@ -62,7 +62,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16963293",
-   "VC NO": "1331723732",
+   "VC No": "1331723732",
    "LCO ID": 39627,
    "CARD NO": "19",
    "NAME": "KANDHULA SRINU",
@@ -73,7 +73,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22157029",
-   "VC NO": "1760445273",
+   "VC No": "1760445273",
    "LCO ID": 39627,
    "CARD NO": "29",
    "NAME": "PULUSU DURGA",
@@ -84,7 +84,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13485084",
-   "VC NO": "1769095097",
+   "VC No": "1769095097",
    "LCO ID": 39627,
    "CARD NO": "30",
    "NAME": "BANDARI VEERA BADRAM",
@@ -95,7 +95,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12989379",
-   "VC NO": "1768385323",
+   "VC No": "1768385323",
    "LCO ID": 39627,
    "CARD NO": "32",
    "NAME": "BANDARU RAMBABU",
@@ -106,7 +106,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13066354",
-   "VC NO": "1769250931",
+   "VC No": "1769250931",
    "LCO ID": 39627,
    "CARD NO": "34",
    "NAME": "KANDHULA GOPALA RAO",
@@ -117,7 +117,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "10479403",
-   "VC NO": "1766197708",
+   "VC No": "1766197708",
    "LCO ID": 39627,
    "CARD NO": "35",
    "NAME": "KANDHULA NAGESWARAO",
@@ -128,7 +128,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20263096",
-   "VC NO": "2516028182",
+   "VC No": "2516028182",
    "LCO ID": 39627,
    "CARD NO": "39",
    "NAME": "BETHI LAKSHMAIAH",
@@ -139,7 +139,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15421285",
-   "VC NO": "1331057753",
+   "VC No": "1331057753",
    "LCO ID": 39627,
    "CARD NO": "45.A",
    "NAME": "BURRAM SRINIVAS RAO",
@@ -150,7 +150,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16112177",
-   "VC NO": "1331669620",
+   "VC No": "1331669620",
    "LCO ID": 39627,
    "CARD NO": "49",
    "NAME": "KuRSAM VENKATA NARSAMMA",
@@ -161,7 +161,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13995563",
-   "VC NO": "1769187349",
+   "VC No": "1769187349",
    "LCO ID": 39627,
    "CARD NO": "49.A",
    "NAME": "PENUBALLI SAMEENA",
@@ -172,7 +172,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15901525",
-   "VC NO": "1331502956",
+   "VC No": "1331502956",
    "LCO ID": 39627,
    "CARD NO": "52",
    "NAME": "PEDHIBOINA KRISHNA",
@@ -183,7 +183,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16963134",
-   "VC NO": "1331723726",
+   "VC No": "1331723726",
    "LCO ID": 39627,
    "CARD NO": "53",
    "NAME": "NAKKA KRISHNARJUNA",
@@ -194,7 +194,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16963151",
-   "VC NO": "1331723727",
+   "VC No": "1331723727",
    "LCO ID": 39627,
    "CARD NO": "56",
    "NAME": "NAKKA MAHESH",
@@ -205,7 +205,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13066209",
-   "VC NO": "1769251086",
+   "VC No": "1769251086",
    "LCO ID": 39627,
    "CARD NO": "72",
    "NAME": "PUSAM KRISHNARJUNARAO",
@@ -216,7 +216,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13546629",
-   "VC NO": "1769495248",
+   "VC No": "1769495248",
    "LCO ID": 39627,
    "CARD NO": "77",
    "NAME": "UMMINENI NAGESWARAO",
@@ -227,7 +227,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13167971",
-   "VC NO": "1769251174",
+   "VC No": "1769251174",
    "LCO ID": 39627,
    "CARD NO": "79",
    "NAME": "DEGALA VENKATARAJU",
@@ -238,7 +238,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15443385",
-   "VC NO": "1330118542",
+   "VC No": "1330118542",
    "LCO ID": 39627,
    "CARD NO": "80",
    "NAME": "DEGALA RAMAKRISHNA",
@@ -249,7 +249,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13546749",
-   "VC NO": "1769495396",
+   "VC No": "1769495396",
    "LCO ID": 39627,
    "CARD NO": "82",
    "NAME": "SUDIPAKA NAGA RAJU-RAMULU",
@@ -260,7 +260,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15901543",
-   "VC NO": "1331502959",
+   "VC No": "1331502959",
    "LCO ID": 39627,
    "CARD NO": "94",
    "NAME": "DEGALA MURALI",
@@ -271,7 +271,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13478544",
-   "VC NO": "1769495326",
+   "VC No": "1769495326",
    "LCO ID": 39627,
    "CARD NO": "108.A",
    "NAME": "BETHI MANGAYA",
@@ -282,7 +282,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13250813",
-   "VC NO": "1768910093",
+   "VC No": "1768910093",
    "LCO ID": 39627,
    "CARD NO": "109",
    "NAME": "BETHE RAMAKRISHNA",
@@ -293,7 +293,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15901549",
-   "VC NO": "1331502960",
+   "VC No": "1331502960",
    "LCO ID": 39627,
    "CARD NO": "111/A",
    "NAME": "CHANDRU BALA KRISHNA",
@@ -304,7 +304,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16840966",
-   "VC NO": "1331697881",
+   "VC No": "1331697881",
    "LCO ID": 39627,
    "CARD NO": "115",
    "NAME": "BETHI VENKATESWARAO",
@@ -315,7 +315,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13327209",
-   "VC NO": "1768910256",
+   "VC No": "1768910256",
    "LCO ID": 39627,
    "CARD NO": "117",
    "NAME": "SARALANKA RAMBABU",
@@ -326,7 +326,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16963115",
-   "VC NO": "1331723725",
+   "VC No": "1331723725",
    "LCO ID": 39627,
    "CARD NO": "119",
    "NAME": "MALLELA RAVI",
@@ -337,7 +337,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16963076",
-   "VC NO": "1331723724",
+   "VC No": "1331723724",
    "LCO ID": 39627,
    "CARD NO": "119.A",
    "NAME": "MALLELA MALLIKARJUN",
@@ -348,7 +348,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15900788",
-   "VC NO": "1331502955",
+   "VC No": "1331502955",
    "LCO ID": 39627,
    "CARD NO": "119.C",
    "NAME": "Beemaraju Rajamma",
@@ -359,7 +359,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13542099",
-   "VC NO": "1769494977",
+   "VC No": "1769494977",
    "LCO ID": 39627,
    "CARD NO": "122",
    "NAME": "MADIVI SURESH",
@@ -370,7 +370,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16827186",
-   "VC NO": "1331723704",
+   "VC No": "1331723704",
    "LCO ID": 39627,
    "CARD NO": "123",
    "NAME": "PENUBALLI KOTESH",
@@ -381,7 +381,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15443397",
-   "VC NO": "1330118534",
+   "VC No": "1330118534",
    "LCO ID": 39627,
    "CARD NO": "124.A",
    "NAME": "PENUBALLY SURAIAH",
@@ -392,7 +392,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15900782",
-   "VC NO": "1331502954",
+   "VC No": "1331502954",
    "LCO ID": 39627,
    "CARD NO": "125",
    "NAME": "KURSAM DARMARAJU",
@@ -403,7 +403,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13327190",
-   "VC NO": "1768910254",
+   "VC No": "1768910254",
    "LCO ID": 39627,
    "CARD NO": "126",
    "NAME": "PENUBALLI RAMAKRISHNA",
@@ -414,7 +414,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16827181",
-   "VC NO": "1331723705",
+   "VC No": "1331723705",
    "LCO ID": 39627,
    "CARD NO": "127",
    "NAME": "PENUBALLI VENKATESH",
@@ -425,7 +425,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13252322",
-   "VC NO": "1768910381",
+   "VC No": "1768910381",
    "LCO ID": 39627,
    "CARD NO": "129",
    "NAME": "PENUBALLI MADHRARAJU",
@@ -436,7 +436,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16112180",
-   "VC NO": "1331669618",
+   "VC No": "1331669618",
    "LCO ID": 39627,
    "CARD NO": "130",
    "NAME": "PENUBALLI DURGA(VENKATESH)",
@@ -447,7 +447,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13066429",
-   "VC NO": "1769250918",
+   "VC No": "1769250918",
    "LCO ID": 39627,
    "CARD NO": "132",
    "NAME": "PENUBALLI THIRUPATHI RAO",
@@ -458,7 +458,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13251504",
-   "VC NO": "1768910015",
+   "VC No": "1768910015",
    "LCO ID": 39627,
    "CARD NO": "136",
    "NAME": "VARSHA BALAKRISHNA",
@@ -469,7 +469,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16112192",
-   "VC NO": "1331669616",
+   "VC No": "1331669616",
    "LCO ID": 39627,
    "CARD NO": "141",
    "NAME": "SURISETTI SATHYANARAYANA-SURESH",
@@ -480,7 +480,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16572283",
-   "VC NO": "1331699196",
+   "VC No": "1331699196",
    "LCO ID": 39627,
    "CARD NO": "145.A",
    "NAME": "THOTA RAMARAO",
@@ -491,7 +491,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12990280",
-   "VC NO": "1768384005",
+   "VC No": "1768384005",
    "LCO ID": 39627,
    "CARD NO": "147",
    "NAME": "DARAPANENI RAMESH",
@@ -502,7 +502,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15421362",
-   "VC NO": "1331057744",
+   "VC No": "1331057744",
    "LCO ID": 39627,
    "CARD NO": "152",
    "NAME": "DASIPELLI SHANKARAIAH",
@@ -513,7 +513,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13066373",
-   "VC NO": "1769250922",
+   "VC No": "1769250922",
    "LCO ID": 39627,
    "CARD NO": "153",
    "NAME": "DASIPELLI VENKATESWARLU",
@@ -524,7 +524,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13034447",
-   "VC NO": "1769251045",
+   "VC No": "1769251045",
    "LCO ID": 39627,
    "CARD NO": "154",
    "NAME": "DASIPELLI PICHAIAH",
@@ -535,7 +535,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16112172",
-   "VC NO": "1331669622",
+   "VC No": "1331669622",
    "LCO ID": 39627,
    "CARD NO": "155",
    "NAME": "DASIPELLI MOHAN RAO",
@@ -546,7 +546,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13066172",
-   "VC NO": "1769251081",
+   "VC No": "1769251081",
    "LCO ID": 39627,
    "CARD NO": "160.A",
    "NAME": "SUDIPAKA VENKATESWARLU",
@@ -557,7 +557,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16572255",
-   "VC NO": "1331699200",
+   "VC No": "1331699200",
    "LCO ID": 39627,
    "CARD NO": "160.B",
    "NAME": "Pulusu Rambabu",
@@ -568,7 +568,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21692228",
-   "VC NO": "2520440415",
+   "VC No": "2520440415",
    "LCO ID": 39627,
    "CARD NO": "160.C",
    "NAME": "BURAM PULLARAO",
@@ -579,7 +579,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20473481",
-   "VC NO": "2516018449",
+   "VC No": "2516018449",
    "LCO ID": 39627,
    "CARD NO": "160.D",
    "NAME": "Marri Kittu",
@@ -590,7 +590,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16572326",
-   "VC NO": "1331699198",
+   "VC No": "1331699198",
    "LCO ID": 39627,
    "CARD NO": "318",
    "NAME": "LANKAPALLI KURRAIAH",
@@ -601,7 +601,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21440312",
-   "VC NO": "2520426648",
+   "VC No": "2520426648",
    "LCO ID": 39627,
    "CARD NO": "320",
    "NAME": "KATIBOINA PEDHA VENKATESH",
@@ -612,7 +612,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16827217",
-   "VC NO": "1331723710",
+   "VC No": "1331723710",
    "LCO ID": 39627,
    "CARD NO": "320.A",
    "NAME": "KATIBOINA CHINNA (VENKATESWARLLU)",
@@ -623,7 +623,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15901530",
-   "VC NO": "1331502957",
+   "VC No": "1331502957",
    "LCO ID": 39627,
    "CARD NO": "323",
    "NAME": "KATIBOINA SUNITHA",
@@ -634,7 +634,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16840947",
-   "VC NO": "1331697879",
+   "VC No": "1331697879",
    "LCO ID": 39627,
    "CARD NO": "326",
    "NAME": "KATIBOINA NARASAIAH",
@@ -645,7 +645,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16840881",
-   "VC NO": "1331697875",
+   "VC No": "1331697875",
    "LCO ID": 39627,
    "CARD NO": "328.A",
    "NAME": "KATIBOINA VENKAT",
@@ -656,7 +656,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16827204",
-   "VC NO": "1331723712",
+   "VC No": "1331723712",
    "LCO ID": 39627,
    "CARD NO": "330",
    "NAME": "KATIBOINA ASHOK- RAGESWARI",
@@ -667,7 +667,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "10479406",
-   "VC NO": "1766197712",
+   "VC No": "1766197712",
    "LCO ID": 39627,
    "CARD NO": "346",
    "NAME": "KATIBOINA PEDHA SATHYANARAYANA",
@@ -678,7 +678,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20592724",
-   "VC NO": "2520437026",
+   "VC No": "2520437026",
    "LCO ID": 39627,
    "CARD NO": "347",
    "NAME": "LANKAPALLI NARASIMAHA RAO",
@@ -689,7 +689,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "10733050",
-   "VC NO": "1766265746",
+   "VC No": "1766265746",
    "LCO ID": 39627,
    "CARD NO": "348",
    "NAME": "PENA BOINA SATHAYANARAYANA",
@@ -700,7 +700,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16841005",
-   "VC NO": "1331697883",
+   "VC No": "1331697883",
    "LCO ID": 39627,
    "CARD NO": "349",
    "NAME": "LANKAPALLI VENKATESWARAO",
@@ -711,7 +711,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496253",
-   "VC NO": "1769420054",
+   "VC No": "1769420054",
    "LCO ID": 39627,
    "CARD NO": "349.A",
    "NAME": "NUKALA NAGESH",
@@ -722,7 +722,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13252282",
-   "VC NO": "1768910405",
+   "VC No": "1768910405",
    "LCO ID": 39627,
    "CARD NO": "351",
    "NAME": "LANKAPALLI YAKKAMMA",
@@ -733,7 +733,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21639486",
-   "VC NO": "2520410202",
+   "VC No": "2520410202",
    "LCO ID": 39627,
    "CARD NO": "352",
    "NAME": "LANKAPALLI VEERAIAH",
@@ -744,7 +744,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15468818",
-   "VC NO": "1330784526",
+   "VC No": "1330784526",
    "LCO ID": 39627,
    "CARD NO": "354",
    "NAME": "LANKAPALLI RAMANAIAH",
@@ -755,7 +755,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15443405",
-   "VC NO": "1330118543",
+   "VC No": "1330118543",
    "LCO ID": 39627,
    "CARD NO": "357",
    "NAME": "KATABOINA SARVESHVARAO",
@@ -766,7 +766,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13547734",
-   "VC NO": "1769495375",
+   "VC No": "1769495375",
    "LCO ID": 39627,
    "CARD NO": "360",
    "NAME": "PULUSU NAGESWARAO",
@@ -777,7 +777,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12536107",
-   "VC NO": "1768481774",
+   "VC No": "1768481774",
    "LCO ID": 39627,
    "CARD NO": "363",
    "NAME": "VADDE VEERAIAH",
@@ -788,7 +788,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16112187",
-   "VC NO": "1331669617",
+   "VC No": "1331669617",
    "LCO ID": 39627,
    "CARD NO": "364",
    "NAME": "VADDE VENKATA RAMANAIAH",
@@ -799,7 +799,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13539892",
-   "VC NO": "1769148439",
+   "VC No": "1769148439",
    "LCO ID": 39627,
    "CARD NO": "365",
    "NAME": "KATIBOINA KORRI VEERAIAH",
@@ -810,7 +810,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15421307",
-   "VC NO": "1331057750",
+   "VC No": "1331057750",
    "LCO ID": 39627,
    "CARD NO": "366.A",
    "NAME": "BARLA DEVAIAH",
@@ -821,7 +821,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16827209",
-   "VC NO": "1331723711",
+   "VC No": "1331723711",
    "LCO ID": 39627,
    "CARD NO": "367",
    "NAME": "KATIBOINA SAMPATH",
@@ -832,7 +832,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16840955",
-   "VC NO": "1331697880",
+   "VC No": "1331697880",
    "LCO ID": 39627,
    "CARD NO": "370",
    "NAME": "VADDE SEETHARAVAMMA-NAGABHUSHANAM",
@@ -843,7 +843,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20263108",
-   "VC NO": "2516028179",
+   "VC No": "2516028179",
    "LCO ID": 39627,
    "CARD NO": "372",
    "NAME": "LANKAPALLI NARESH",
@@ -854,7 +854,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "11915091",
-   "VC NO": "1767621719",
+   "VC No": "1767621719",
    "LCO ID": 39627,
    "CARD NO": "375",
    "NAME": "LANAKAPALLI SRINIVAS",
@@ -865,7 +865,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13546953",
-   "VC NO": "1769495394",
+   "VC No": "1769495394",
    "LCO ID": 39627,
    "CARD NO": "375.A",
    "NAME": "LANKAPALLI DHANAMMA",
@@ -876,7 +876,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16949257",
-   "VC NO": "1331683064",
+   "VC No": "1331683064",
    "LCO ID": 39627,
    "CARD NO": "375.B",
    "NAME": "GOLLAPALLI SATYASHIVAHARIKRISHNA",
@@ -887,7 +887,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13087005",
-   "VC NO": "1769148760",
+   "VC No": "1769148760",
    "LCO ID": 39627,
    "CARD NO": "376",
    "NAME": "PINNABOINA VEERABHADRA SWAMY",
@@ -898,7 +898,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "14930865",
-   "VC NO": "1330299595",
+   "VC No": "1330299595",
    "LCO ID": 39627,
    "CARD NO": "379",
    "NAME": "DEGAL VENKATESWARLU-VENKATANARSAMMA",
@@ -909,7 +909,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13445118",
-   "VC NO": "1769494971",
+   "VC No": "1769494971",
    "LCO ID": 39627,
    "CARD NO": "381",
    "NAME": "MADHETI RAMU",
@@ -920,7 +920,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15443381",
-   "VC NO": "1330118535",
+   "VC No": "1330118535",
    "LCO ID": 39627,
    "CARD NO": "386",
    "NAME": "PIRAMALLA SARASWATHI",
@@ -931,7 +931,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15421293",
-   "VC NO": "1331057752",
+   "VC No": "1331057752",
    "LCO ID": 39627,
    "CARD NO": "396",
    "NAME": "KOTA KOTESWARAO",
@@ -942,7 +942,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15421299",
-   "VC NO": "1331057751",
+   "VC No": "1331057751",
    "LCO ID": 39627,
    "CARD NO": "399",
    "NAME": "DEGALA CHITTIBABU",
@@ -953,7 +953,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15901537",
-   "VC NO": "1331502958",
+   "VC No": "1331502958",
    "LCO ID": 39627,
    "CARD NO": "400",
    "NAME": "DEGALA SRIRAMU",
@@ -964,7 +964,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15901415",
-   "VC NO": "1331501674",
+   "VC No": "1331501674",
    "LCO ID": 39627,
    "CARD NO": "403",
    "NAME": "BATLA CHALAPATHI(RAVI KUMAR)",
@@ -975,7 +975,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16769659",
-   "VC NO": "1331699460",
+   "VC No": "1331699460",
    "LCO ID": 39627,
    "CARD NO": "404",
    "NAME": "UPPERALA VEERAIAH",
@@ -986,7 +986,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16827191",
-   "VC NO": "1331723713",
+   "VC No": "1331723713",
    "LCO ID": 39627,
    "CARD NO": "405",
    "NAME": "PACHINELAM BHADRAKELI",
@@ -997,7 +997,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16572060",
-   "VC NO": "1331699202",
+   "VC No": "1331699202",
    "LCO ID": 39627,
    "CARD NO": "406",
    "NAME": "AKULA PULLARAO",
@@ -1008,7 +1008,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16572174",
-   "VC NO": "1331699201",
+   "VC No": "1331699201",
    "LCO ID": 39627,
    "CARD NO": "407",
    "NAME": "REDDYBOINA SUBADHRA",
@@ -1019,7 +1019,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16963329",
-   "VC NO": "1331723733",
+   "VC No": "1331723733",
    "LCO ID": 39627,
    "CARD NO": "409",
    "NAME": "VASAM YEERAIAH",
@@ -1030,7 +1030,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "17077903",
-   "VC NO": "1331699548",
+   "VC No": "1331699548",
    "LCO ID": 39627,
    "CARD NO": "410",
    "NAME": "VASAM RAJU",
@@ -1041,7 +1041,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "14040311",
-   "VC NO": "1769186016",
+   "VC No": "1769186016",
    "LCO ID": 39627,
    "CARD NO": "411",
    "NAME": "KUNJA JOGAIAH",
@@ -1052,7 +1052,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13167887",
-   "VC NO": "1769148689",
+   "VC No": "1769148689",
    "LCO ID": 39627,
    "CARD NO": "417",
    "NAME": "MATTA ADINARAYANA",
@@ -1063,7 +1063,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13468429",
-   "VC NO": "1769495266",
+   "VC No": "1769495266",
    "LCO ID": 39627,
    "CARD NO": "422",
    "NAME": "GAMPALA BHADRAIAH",
@@ -1074,7 +1074,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13542748",
-   "VC NO": "1769494635",
+   "VC No": "1769494635",
    "LCO ID": 39627,
    "CARD NO": "430",
    "NAME": "THATI RAMESH",
@@ -1085,7 +1085,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13089330",
-   "VC NO": "1769249853",
+   "VC No": "1769249853",
    "LCO ID": 39627,
    "CARD NO": "432.A",
    "NAME": "SUNNAM VENKATESH",
@@ -1096,7 +1096,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "17077850",
-   "VC NO": "1331699553",
+   "VC No": "1331699553",
    "LCO ID": 39627,
    "CARD NO": "433",
    "NAME": "MADAKAM VENKATAMMA",
@@ -1107,7 +1107,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "10752693",
-   "VC NO": "1766264617",
+   "VC No": "1766264617",
    "LCO ID": 39627,
    "CARD NO": "433.A",
    "NAME": "VASAM MUTHAYA",
@@ -1118,7 +1118,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21691306",
-   "VC NO": "2520440477",
+   "VC No": "2520440477",
    "LCO ID": 39627,
    "CARD NO": "436",
    "NAME": "MOTHI VEERAIAH",
@@ -1129,7 +1129,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13542014",
-   "VC NO": "1769494982",
+   "VC No": "1769494982",
    "LCO ID": 39627,
    "CARD NO": "443",
    "NAME": "PUJARI SURESH- VEERAIAH",
@@ -1140,7 +1140,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16572206",
-   "VC NO": "1331699203",
+   "VC No": "1331699203",
    "LCO ID": 39627,
    "CARD NO": "444",
    "NAME": "MUDHRAGADDA GOPI KRISHNA",
@@ -1151,7 +1151,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13252464",
-   "VC NO": "1768910387",
+   "VC No": "1768910387",
    "LCO ID": 39627,
    "CARD NO": "267",
    "NAME": "GUNDE SAVITHRI",
@@ -1162,7 +1162,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16112178",
-   "VC NO": "1331669619",
+   "VC No": "1331669619",
    "LCO ID": 39627,
    "CARD NO": "269",
    "NAME": "GUNDE SATHYANARAYANA",
@@ -1173,7 +1173,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13736497",
-   "VC NO": "1769597096",
+   "VC No": "1769597096",
    "LCO ID": 39627,
    "CARD NO": "269.A",
    "NAME": "PUNNEM GANGARAJU",
@@ -1184,7 +1184,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13548180",
-   "VC NO": "1769495169",
+   "VC No": "1769495169",
    "LCO ID": 39627,
    "CARD NO": "270",
    "NAME": "MEDIAM JAYAMMA",
@@ -1195,7 +1195,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13086412",
-   "VC NO": "1769148603",
+   "VC No": "1769148603",
    "LCO ID": 39627,
    "CARD NO": "273",
    "NAME": "KANGALA RAMAKRISHNA",
@@ -1206,7 +1206,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13900666",
-   "VC NO": "1769494404",
+   "VC No": "1769494404",
    "LCO ID": 39627,
    "CARD NO": "275",
    "NAME": "PUNEM SEETHAMMA",
@@ -1217,7 +1217,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "11906851",
-   "VC NO": "1767412702",
+   "VC No": "1767412702",
    "LCO ID": 39627,
    "CARD NO": "276",
    "NAME": "PUNEM CHINNA SEETHAMMA-MUTHAIAH",
@@ -1228,7 +1228,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501821",
-   "VC NO": "1769333448",
+   "VC No": "1769333448",
    "LCO ID": 39627,
    "CARD NO": "276.A",
    "NAME": "PAYAM SHEKAR",
@@ -1239,7 +1239,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13250803",
-   "VC NO": "1768910092",
+   "VC No": "1768910092",
    "LCO ID": 39627,
    "CARD NO": "278",
    "NAME": "PUNEM SATHYAM",
@@ -1250,7 +1250,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "1769148759",
+   "VC No": "1769148759",
    "LCO ID": 39627,
    "CARD NO": "279",
    "NAME": "PUNNEM NARASIMHARAO",
@@ -1261,7 +1261,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13995537",
-   "VC NO": "1769187350",
+   "VC No": "1769187350",
    "LCO ID": 39627,
    "CARD NO": "280",
    "NAME": "PUNEM LAXMAIAH",
@@ -1272,7 +1272,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13546720",
-   "VC NO": "1769495392",
+   "VC No": "1769495392",
    "LCO ID": 39627,
    "CARD NO": "280.A",
    "NAME": "PUNEM ADILAXMI",
@@ -1283,7 +1283,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16769618",
-   "VC NO": "1331699463",
+   "VC No": "1331699463",
    "LCO ID": 39627,
    "CARD NO": "282",
    "NAME": "PUNEM SOMARAJU",
@@ -1294,7 +1294,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16531232",
-   "VC NO": "1331698700",
+   "VC No": "1331698700",
    "LCO ID": 39627,
    "CARD NO": "283",
    "NAME": "PUNEM NAGA SHEKAR-YERRAIAH",
@@ -1305,7 +1305,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20376137",
-   "VC NO": "2516177016",
+   "VC No": "2516177016",
    "LCO ID": 39627,
    "CARD NO": "284",
    "NAME": "MIDIAM BABU",
@@ -1316,7 +1316,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "17147976",
-   "VC NO": "1331698832",
+   "VC No": "1331698832",
    "LCO ID": 39627,
    "CARD NO": "285",
    "NAME": "MEDIAM VEERAIAH",
@@ -1327,7 +1327,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13490828",
-   "VC NO": "1768910137",
+   "VC No": "1768910137",
    "LCO ID": 39627,
    "CARD NO": "286",
    "NAME": "KURAM CHINNAKKA",
@@ -1338,7 +1338,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13250060",
-   "VC NO": "1769183876",
+   "VC No": "1769183876",
    "LCO ID": 39627,
    "CARD NO": "288",
    "NAME": "KANGALA RAVI",
@@ -1349,7 +1349,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20840948",
-   "VC NO": "2520426402",
+   "VC No": "2520426402",
    "LCO ID": 39627,
    "CARD NO": "288.a",
    "NAME": "MEDYAM RAMUBABU",
@@ -1360,7 +1360,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13167848",
-   "VC NO": "1769148692",
+   "VC No": "1769148692",
    "LCO ID": 39627,
    "CARD NO": "289",
    "NAME": "KURSAM VENU",
@@ -1371,7 +1371,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20592652",
-   "VC NO": "2520437015",
+   "VC No": "2520437015",
    "LCO ID": 39627,
    "CARD NO": "290",
    "NAME": "KANGALA SATHEMMA",
@@ -1382,7 +1382,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16727295",
-   "VC NO": "1331699277",
+   "VC No": "1331699277",
    "LCO ID": 39627,
    "CARD NO": "293",
    "NAME": "KURSA SAMBASIVARAO- NARAYANA",
@@ -1393,7 +1393,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16531278",
-   "VC NO": "1331698696",
+   "VC No": "1331698696",
    "LCO ID": 39627,
    "CARD NO": "296",
    "NAME": "BUDHULA JANARADHAN",
@@ -1404,7 +1404,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16531624",
-   "VC NO": "1331698695",
+   "VC No": "1331698695",
    "LCO ID": 39627,
    "CARD NO": "296.A",
    "NAME": "TELLAM DEVI",
@@ -1415,7 +1415,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16963190",
-   "VC NO": "1331723729",
+   "VC No": "1331723729",
    "LCO ID": 39627,
    "CARD NO": "297",
    "NAME": "SODE BHADRAIAH",
@@ -1426,7 +1426,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16531391",
-   "VC NO": "1331698694",
+   "VC No": "1331698694",
    "LCO ID": 39627,
    "CARD NO": "297.A",
    "NAME": "SODE SAVITRI",
@@ -1437,7 +1437,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16531304",
-   "VC NO": "1331698697",
+   "VC No": "1331698697",
    "LCO ID": 39627,
    "CARD NO": "298",
    "NAME": "SODE SRI RAMULU",
@@ -1448,7 +1448,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16572375",
-   "VC NO": "1331699195",
+   "VC No": "1331699195",
    "LCO ID": 39627,
    "CARD NO": "299",
    "NAME": "SODE LAKSHMAIAH",
@@ -1459,7 +1459,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16840929",
-   "VC NO": "1331697877",
+   "VC No": "1331697877",
    "LCO ID": 39627,
    "CARD NO": "300",
    "NAME": "KORSA SATHYAM",
@@ -1470,7 +1470,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21258265",
-   "VC NO": "2520433126",
+   "VC No": "2520433126",
    "LCO ID": 39627,
    "CARD NO": "300.A",
    "NAME": "TELLAM ARJUN",
@@ -1481,7 +1481,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16531079",
-   "VC NO": "1331698701",
+   "VC No": "1331698701",
    "LCO ID": 39627,
    "CARD NO": "301",
    "NAME": "THELLAM NARASIMHA RAO",
@@ -1492,7 +1492,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16840903",
-   "VC NO": "1331697876",
+   "VC No": "1331697876",
    "LCO ID": 39627,
    "CARD NO": "304",
    "NAME": "VARSHIKA CHITEMMA",
@@ -1503,7 +1503,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496697",
-   "VC NO": "1769333920",
+   "VC No": "1769333920",
    "LCO ID": 39627,
    "CARD NO": "305",
    "NAME": "GUNDE BABU",
@@ -1514,7 +1514,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16727333",
-   "VC NO": "1331699281",
+   "VC No": "1331699281",
    "LCO ID": 39627,
    "CARD NO": "305.A",
    "NAME": "GUNDI THIRAPATHAMMA",
@@ -1525,7 +1525,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16572355",
-   "VC NO": "1331699194",
+   "VC No": "1331699194",
    "LCO ID": 39627,
    "CARD NO": "306",
    "NAME": "GUNDE SATHAYAM-SARPANCH",
@@ -1536,7 +1536,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "17077926",
-   "VC NO": "1331699544",
+   "VC No": "1331699544",
    "LCO ID": 39627,
    "CARD NO": "307",
    "NAME": "GUNDE KRISHNA",
@@ -1547,7 +1547,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16840941",
-   "VC NO": "1331697878",
+   "VC No": "1331697878",
    "LCO ID": 39627,
    "CARD NO": "308",
    "NAME": "GUNDE CHILAKAMMA",
@@ -1558,7 +1558,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16727303",
-   "VC NO": "1331699278",
+   "VC No": "1331699278",
    "LCO ID": 39627,
    "CARD NO": "309",
    "NAME": "GUNDE VEERAIAH",
@@ -1569,7 +1569,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20346078",
-   "VC NO": "2516084980",
+   "VC No": "2516084980",
    "LCO ID": 39627,
    "CARD NO": "311",
    "NAME": "GUNDE SRIKANTH(CHELAPATHI)",
@@ -1580,7 +1580,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16531159",
-   "VC NO": "1331698703",
+   "VC No": "1331698703",
    "LCO ID": 39627,
    "CARD NO": "311.A",
    "NAME": "TELLAM RAMANA",
@@ -1591,7 +1591,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "17077823",
-   "VC NO": "1331699552",
+   "VC No": "1331699552",
    "LCO ID": 39627,
    "CARD NO": "312",
    "NAME": "KURSA VENKAIAH-RAMAKRISHNA",
@@ -1602,7 +1602,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16531120",
-   "VC NO": "1331698702",
+   "VC No": "1331698702",
    "LCO ID": 39627,
    "CARD NO": "312.A",
    "NAME": "GAMPA LAXMI",
@@ -1613,7 +1613,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13087152",
-   "VC NO": "1769251053",
+   "VC No": "1769251053",
    "LCO ID": 39627,
    "CARD NO": "314",
    "NAME": "KORSA NARSIMHARAO",
@@ -1624,7 +1624,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16727345",
-   "VC NO": "1331699282",
+   "VC No": "1331699282",
    "LCO ID": 39627,
    "CARD NO": "161",
    "NAME": "SODE LAXMI",
@@ -1635,7 +1635,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20279253",
-   "VC NO": "2516028124",
+   "VC No": "2516028124",
    "LCO ID": 39627,
    "CARD NO": "161.A",
    "NAME": "KODURI MURALI",
@@ -1646,7 +1646,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13546774",
-   "VC NO": "1769495390",
+   "VC No": "1769495390",
    "LCO ID": 39627,
    "CARD NO": "162",
    "NAME": "MURRAM VEERABHADRAIAH",
@@ -1657,7 +1657,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13164290",
-   "VC NO": "1769148967",
+   "VC No": "1769148967",
    "LCO ID": 39627,
    "CARD NO": "164.A",
    "NAME": "INDRAVARAPU KAMALAKAR",
@@ -1668,7 +1668,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13195281",
-   "VC NO": "1768915595",
+   "VC No": "1768915595",
    "LCO ID": 39627,
    "CARD NO": "167",
    "NAME": "MURRAM RAJULU",
@@ -1679,7 +1679,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16727284",
-   "VC NO": "1331699276",
+   "VC No": "1331699276",
    "LCO ID": 39627,
    "CARD NO": "168",
    "NAME": "UKE BABURAO",
@@ -1690,7 +1690,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16727239",
-   "VC NO": "1331699274",
+   "VC No": "1331699274",
    "LCO ID": 39627,
    "CARD NO": "168.A",
    "NAME": "GUNDI YERRAIAH",
@@ -1701,7 +1701,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16727266",
-   "VC NO": "1331699275",
+   "VC No": "1331699275",
    "LCO ID": 39627,
    "CARD NO": "171",
    "NAME": "MURRAM KANNAIAH",
@@ -1712,7 +1712,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16727325",
-   "VC NO": "1331699280",
+   "VC No": "1331699280",
    "LCO ID": 39627,
    "CARD NO": "171.A",
    "NAME": "MURRAM SRI RAMULU",
@@ -1723,7 +1723,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16727317",
-   "VC NO": "1331699279",
+   "VC No": "1331699279",
    "LCO ID": 39627,
    "CARD NO": "177",
    "NAME": "MURRAM RAMBABU(VIJAYA)",
@@ -1734,7 +1734,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20376141",
-   "VC NO": "2516177034",
+   "VC No": "2516177034",
    "LCO ID": 39627,
    "CARD NO": "178",
    "NAME": "SOYAM JOGAMMA",
@@ -1745,7 +1745,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13327308",
-   "VC NO": "1768910250",
+   "VC No": "1768910250",
    "LCO ID": 39627,
    "CARD NO": "187",
    "NAME": "SEESAM ARJUN",
@@ -1756,7 +1756,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13284153",
-   "VC NO": "1769249473",
+   "VC No": "1769249473",
    "LCO ID": 39627,
    "CARD NO": "188",
    "NAME": "SEESAM VENKATESH-sunitha",
@@ -1767,7 +1767,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13546604",
-   "VC NO": "1769495247",
+   "VC No": "1769495247",
    "LCO ID": 39627,
    "CARD NO": "191",
    "NAME": "PODIAM YERRAIAH",
@@ -1778,7 +1778,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16572467",
-   "VC NO": "1331699030",
+   "VC No": "1331699030",
    "LCO ID": 39627,
    "CARD NO": "192",
    "NAME": "SEEAM SHARADA",
@@ -1789,7 +1789,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16572434",
-   "VC NO": "1331699029",
+   "VC No": "1331699029",
    "LCO ID": 39627,
    "CARD NO": "193",
    "NAME": "SEESAM VENKATESH",
@@ -1800,7 +1800,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16769708",
-   "VC NO": "1331699457",
+   "VC No": "1331699457",
    "LCO ID": 39627,
    "CARD NO": "194",
    "NAME": "KAKA NAGESH",
@@ -1811,7 +1811,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16572493",
-   "VC NO": "1331699031",
+   "VC No": "1331699031",
    "LCO ID": 39627,
    "CARD NO": "196",
    "NAME": "KAKA RATHAMMA (MUTHAIAH)",
@@ -1822,7 +1822,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "14930874",
-   "VC NO": "1330299597",
+   "VC No": "1330299597",
    "LCO ID": 39627,
    "CARD NO": "197",
    "NAME": "SEESAM RAMUDU",
@@ -1833,7 +1833,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13033238",
-   "VC NO": "1769148826",
+   "VC No": "1769148826",
    "LCO ID": 39627,
    "CARD NO": "198",
    "NAME": "SEEAM NEELAMAIAH",
@@ -1844,7 +1844,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "17077970",
-   "VC NO": "1331699546",
+   "VC No": "1331699546",
    "LCO ID": 39627,
    "CARD NO": "199",
    "NAME": "KANITHI BABURAO(ARUNA)",
@@ -1855,7 +1855,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20131394",
-   "VC NO": "2516151214",
+   "VC No": "2516151214",
    "LCO ID": 39627,
    "CARD NO": "200",
    "NAME": "TELLAM BABURAO",
@@ -1866,7 +1866,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16727355",
-   "VC NO": "1331699283",
+   "VC No": "1331699283",
    "LCO ID": 39627,
    "CARD NO": "200.A",
    "NAME": "MURRAM VAKATARAMANA",
@@ -1877,7 +1877,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13546765",
-   "VC NO": "1769495389",
+   "VC No": "1769495389",
    "LCO ID": 39627,
    "CARD NO": "203",
    "NAME": "MADAKAM LAXMAIAH",
@@ -1888,7 +1888,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16572530",
-   "VC NO": "1331699032",
+   "VC No": "1331699032",
    "LCO ID": 39627,
    "CARD NO": "205",
    "NAME": "MURRAM YESU MANI",
@@ -1899,7 +1899,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "17077946",
-   "VC NO": "1331699545",
+   "VC No": "1331699545",
    "LCO ID": 39627,
    "CARD NO": "206",
    "NAME": "KANITHI SWARUPA",
@@ -1910,7 +1910,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13327175",
-   "VC NO": "1768910252",
+   "VC No": "1768910252",
    "LCO ID": 39627,
    "CARD NO": "207",
    "NAME": "TURRAM RAMBABU",
@@ -1921,7 +1921,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16112196",
-   "VC NO": "1331669615",
+   "VC No": "1331669615",
    "LCO ID": 39627,
    "CARD NO": "214",
    "NAME": "CHICHADI SRIRAMURTI",
@@ -1932,7 +1932,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "17077737",
-   "VC NO": "1331699550",
+   "VC No": "1331699550",
    "LCO ID": 39627,
    "CARD NO": "214.A",
    "NAME": "THURRAM RADHAKRISHNA",
@@ -1943,7 +1943,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15443443",
-   "VC NO": "1330118536",
+   "VC No": "1330118536",
    "LCO ID": 39627,
    "CARD NO": "215",
    "NAME": "KANITHI VENKAIAH-RAMESH",
@@ -1954,7 +1954,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16572586",
-   "VC NO": "1331699033",
+   "VC No": "1331699033",
    "LCO ID": 39627,
    "CARD NO": "217",
    "NAME": "SAGGIBOIAYANA VENKATESH",
@@ -1965,7 +1965,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16769734",
-   "VC NO": "1331699455",
+   "VC No": "1331699455",
    "LCO ID": 39627,
    "CARD NO": "217.B",
    "NAME": "PODIAM SEETHA",
@@ -1976,7 +1976,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16572555",
-   "VC NO": "1331699024",
+   "VC No": "1331699024",
    "LCO ID": 39627,
    "CARD NO": "219",
    "NAME": "PRANALA SRINIVAS",
@@ -1987,7 +1987,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16769693",
-   "VC NO": "1331699458",
+   "VC No": "1331699458",
    "LCO ID": 39627,
    "CARD NO": "219.B",
    "NAME": "KANITI ANNAPURNA(BHEEMAIAH)",
@@ -1998,7 +1998,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16572694",
-   "VC NO": "1331699028",
+   "VC No": "1331699028",
    "LCO ID": 39627,
    "CARD NO": "220.A",
    "NAME": "SOYAM VEERAMMA",
@@ -2009,7 +2009,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "19984024",
-   "VC NO": "2515924771",
+   "VC No": "2515924771",
    "LCO ID": 39627,
    "CARD NO": "220.c",
    "NAME": "MIDIYAM LAXMI",
@@ -2020,7 +2020,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13251550",
-   "VC NO": "1768910011",
+   "VC No": "1768910011",
    "LCO ID": 39627,
    "CARD NO": "221",
    "NAME": "UKE RAMESH",
@@ -2031,7 +2031,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15443447",
-   "VC NO": "1330118537",
+   "VC No": "1330118537",
    "LCO ID": 39627,
    "CARD NO": "223",
    "NAME": "MURRAM NAGARJUN",
@@ -2042,7 +2042,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16572673",
-   "VC NO": "1331699027",
+   "VC No": "1331699027",
    "LCO ID": 39627,
    "CARD NO": "224",
    "NAME": "SUNNAM BADHRAIAH",
@@ -2053,7 +2053,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13542795",
-   "VC NO": "1769494628",
+   "VC No": "1769494628",
    "LCO ID": 39627,
    "CARD NO": "224.A",
    "NAME": "UK RAVI",
@@ -2064,7 +2064,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "14930880",
-   "VC NO": "1330299596",
+   "VC No": "1330299596",
    "LCO ID": 39627,
    "CARD NO": "225",
    "NAME": "MURRAM CHANTI",
@@ -2075,7 +2075,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "11906856",
-   "VC NO": "1767412703",
+   "VC No": "1767412703",
    "LCO ID": 39627,
    "CARD NO": "226",
    "NAME": "KAKA VENKATESH",
@@ -2086,7 +2086,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16112203",
-   "VC NO": "1331669614",
+   "VC No": "1331669614",
    "LCO ID": 39627,
    "CARD NO": "227",
    "NAME": "MURRAM ANNAPURNA",
@@ -2097,7 +2097,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15900732",
-   "VC NO": "1331358581",
+   "VC No": "1331358581",
    "LCO ID": 39627,
    "CARD NO": "227.A",
    "NAME": "KAAKA LAXMAIHA (14.9.18",
@@ -2108,7 +2108,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15421347",
-   "VC NO": "1331057746",
+   "VC No": "1331057746",
    "LCO ID": 39627,
    "CARD NO": "231",
    "NAME": "MURRAM SAMMAIAH",
@@ -2119,7 +2119,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16112168",
-   "VC NO": "1331669623",
+   "VC No": "1331669623",
    "LCO ID": 39627,
    "CARD NO": "232",
    "NAME": "MURRAM MUTHAIAH",
@@ -2130,7 +2130,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15900796",
-   "VC NO": "1331358575",
+   "VC No": "1331358575",
    "LCO ID": 39627,
    "CARD NO": "243",
    "NAME": "TURRAM VEERABADHRAM",
@@ -2141,7 +2141,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "17077804",
-   "VC NO": "1331699551",
+   "VC No": "1331699551",
    "LCO ID": 39627,
    "CARD NO": "243.A",
    "NAME": "KARAM RADHA",
@@ -2152,7 +2152,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20131405",
-   "VC NO": "2516151272",
+   "VC No": "2516151272",
    "LCO ID": 39627,
    "CARD NO": "243.B",
    "NAME": "ALAMANDLA GOPI",
@@ -2163,7 +2163,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16572631",
-   "VC NO": "1331699026",
+   "VC No": "1331699026",
    "LCO ID": 39627,
    "CARD NO": "244",
    "NAME": "UKE NAGAMANI",
@@ -2174,7 +2174,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15421325",
-   "VC NO": "1331057747",
+   "VC No": "1331057747",
    "LCO ID": 39627,
    "CARD NO": "249",
    "NAME": "KURSAM THIRUPATHAMMA",
@@ -2185,7 +2185,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12989530",
-   "VC NO": "1768385318",
+   "VC No": "1768385318",
    "LCO ID": 39627,
    "CARD NO": "251",
    "NAME": "MARAMAM RATHAMMA",
@@ -2196,7 +2196,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13008945",
-   "VC NO": "1768385097",
+   "VC No": "1768385097",
    "LCO ID": 39627,
    "CARD NO": "252",
    "NAME": "BANDA NAGAIAH-BUCHAMMA",
@@ -2207,7 +2207,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16572616",
-   "VC NO": "1331699025",
+   "VC No": "1331699025",
    "LCO ID": 39627,
    "CARD NO": "253",
    "NAME": "PAYAM MALLURAMMA",
@@ -2218,7 +2218,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13899018",
-   "VC NO": "1769494393",
+   "VC No": "1769494393",
    "LCO ID": 39627,
    "CARD NO": "256",
    "NAME": "SOYAM ADINARAYANA",
@@ -2229,7 +2229,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15421315",
-   "VC NO": "1331057749",
+   "VC No": "1331057749",
    "LCO ID": 39627,
    "CARD NO": "259",
    "NAME": "MADAKAM CHILAKAMMA-SRIRAMULU",
@@ -2240,7 +2240,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20019604",
-   "VC NO": "2515890229",
+   "VC No": "2515890229",
    "LCO ID": 39627,
    "CARD NO": "260",
    "NAME": "SOYAM LAXMAIAH",
@@ -2251,7 +2251,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "11906377",
-   "VC NO": "1767412704",
+   "VC No": "1767412704",
    "LCO ID": 39627,
    "CARD NO": "264",
    "NAME": "MADIVI CHANDHRAIAH",
@@ -2262,7 +2262,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12535285",
-   "VC NO": "1768481782",
+   "VC No": "1768481782",
    "LCO ID": 39627,
    "CARD NO": "265",
    "NAME": "MADAKAM BEEMAIAH",
@@ -2273,7 +2273,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22158680",
-   "VC NO": "2520426752",
+   "VC No": "2520426752",
    "LCO ID": 39627,
    "CARD NO": "266",
    "NAME": "SEESAL LAXMI",
@@ -2284,7 +2284,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16827170",
-   "VC NO": "1331723708",
+   "VC No": "1331723708",
    "LCO ID": 39627,
    "CARD NO": "447",
    "NAME": "ITHAMRAJU MOHAN RAO",
@@ -2295,7 +2295,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "10479234",
-   "VC NO": "1766197870",
+   "VC No": "1766197870",
    "LCO ID": 39627,
    "CARD NO": "448",
    "NAME": "HIDHRAJ NAGESWARAO",
@@ -2306,7 +2306,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15901564",
-   "VC NO": "1331502963",
+   "VC No": "1331502963",
    "LCO ID": 39627,
    "CARD NO": "449",
    "NAME": "CHIRUTHARI MOHAN RAO",
@@ -2317,7 +2317,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13167819",
-   "VC NO": "1769251316",
+   "VC No": "1769251316",
    "LCO ID": 39627,
    "CARD NO": "450",
    "NAME": "KOMMU VENKATESWARAO",
@@ -2328,7 +2328,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13247717",
-   "VC NO": "1769130911",
+   "VC No": "1769130911",
    "LCO ID": 39627,
    "CARD NO": "450.A",
    "NAME": "KOMMU RAMANAIAH",
@@ -2339,7 +2339,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "0",
+   "VC No": "0",
    "LCO ID": 39627,
    "CARD NO": "452",
    "NAME": "THOTA PEDHA VENKATESWARLU",
@@ -2350,7 +2350,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "17147842",
-   "VC NO": "1331698826",
+   "VC No": "1331698826",
    "LCO ID": 39627,
    "CARD NO": "453",
    "NAME": "THOTA SATHAYANARAYANA",
@@ -2361,7 +2361,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15443473",
-   "VC NO": "1330118538",
+   "VC No": "1330118538",
    "LCO ID": 39627,
    "CARD NO": "454",
    "NAME": "THOTA NARSAIAH",
@@ -2372,7 +2372,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16769676",
-   "VC NO": "1331699459",
+   "VC No": "1331699459",
    "LCO ID": 39627,
    "CARD NO": "457",
    "NAME": "THOTA NARASIMHA RAO",
@@ -2383,7 +2383,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12535922",
-   "VC NO": "1768481770",
+   "VC No": "1768481770",
    "LCO ID": 39627,
    "CARD NO": "457.A",
    "NAME": "THOTA NARESH (NODE)",
@@ -2394,7 +2394,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "14063295",
-   "VC NO": "1769187264",
+   "VC No": "1769187264",
    "LCO ID": 39627,
    "CARD NO": "460",
    "NAME": "THANTHRAPALLA VENKATESWARAO",
@@ -2405,7 +2405,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16769742",
-   "VC NO": "1331699454",
+   "VC No": "1331699454",
    "LCO ID": 39627,
    "CARD NO": "462",
    "NAME": "THOTA SATHYANARAYANA(ITC)",
@@ -2416,7 +2416,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15443412",
-   "VC NO": "1330118539",
+   "VC No": "1330118539",
    "LCO ID": 39627,
    "CARD NO": "463",
    "NAME": "THAMTHARAPALLI MADHU",
@@ -2427,7 +2427,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16827133",
-   "VC NO": "1331723707",
+   "VC No": "1331723707",
    "LCO ID": 39627,
    "CARD NO": "464",
    "NAME": "THAMTHARAPALLI RAVI",
@@ -2438,7 +2438,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13032649",
-   "VC NO": "1769148741",
+   "VC No": "1769148741",
    "LCO ID": 39627,
    "CARD NO": "467",
    "NAME": "ITHAM RAJU BADRAIAH",
@@ -2449,7 +2449,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13086438",
-   "VC NO": "1769148605",
+   "VC No": "1769148605",
    "LCO ID": 39627,
    "CARD NO": "472",
    "NAME": "BILLA RAMASWAMY",
@@ -2460,7 +2460,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15901443",
-   "VC NO": "1331501680",
+   "VC No": "1331501680",
    "LCO ID": 39627,
    "CARD NO": "477",
    "NAME": "KOMMU RAMA KRISHNA",
@@ -2471,7 +2471,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16827161",
-   "VC NO": "1331723709",
+   "VC No": "1331723709",
    "LCO ID": 39627,
    "CARD NO": "478",
    "NAME": "KOMMU RAMBABU",
@@ -2482,7 +2482,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15421356",
-   "VC NO": "1331057745",
+   "VC No": "1331057745",
    "LCO ID": 39627,
    "CARD NO": "479",
    "NAME": "NIMMAGADDA JOGESWARAO",
@@ -2493,7 +2493,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13546675",
-   "VC NO": "1769495250",
+   "VC No": "1769495250",
    "LCO ID": 39627,
    "CARD NO": "481",
    "NAME": "KOMMARASI KOMARAIAH",
@@ -2504,7 +2504,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16827150",
-   "VC NO": "1331723706",
+   "VC No": "1331723706",
    "LCO ID": 39627,
    "CARD NO": "482",
    "NAME": "POGAKU ANASURYA",
@@ -2515,7 +2515,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "10478957",
-   "VC NO": "1766198131",
+   "VC No": "1766198131",
    "LCO ID": 39627,
    "CARD NO": "483",
    "NAME": "THOTA (china venkateswaru)",
@@ -2526,7 +2526,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "2520423052",
+   "VC No": "2520423052",
    "LCO ID": 39627,
    "CARD NO": "484",
    "NAME": "PUSAM PRASAD",
@@ -2537,7 +2537,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21655816",
-   "VC NO": "2520426250",
+   "VC No": "2520426250",
    "LCO ID": 39627,
    "CARD NO": "485",
    "NAME": "KOMMU VINAY",
@@ -2548,7 +2548,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15167917",
-   "VC NO": "1766482270",
+   "VC No": "1766482270",
    "LCO ID": 39627,
    "CARD NO": "1",
    "NAME": "B RAMAKRISHNA REDDY",
@@ -2559,7 +2559,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "11917914",
-   "VC NO": "1767201886",
+   "VC No": "1767201886",
    "LCO ID": 39627,
    "CARD NO": "2",
    "NAME": "M RAMI REDDY",
@@ -2570,7 +2570,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20224415",
-   "VC NO": "2516187857",
+   "VC No": "2516187857",
    "LCO ID": 39627,
    "CARD NO": "3",
    "NAME": "DUGGIRALA SRINIVASA REDDY",
@@ -2581,7 +2581,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "11917839",
-   "VC NO": "1767201884",
+   "VC No": "1767201884",
    "LCO ID": 39627,
    "CARD NO": "4",
    "NAME": "DUGGIRALA CHANDRASHAKER REDDY",
@@ -2592,7 +2592,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13471158",
-   "VC NO": "1769100029",
+   "VC No": "1769100029",
    "LCO ID": 39627,
    "CARD NO": "5",
    "NAME": "BAVANAM VENKATKRISHNA REDDY",
@@ -2603,7 +2603,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15521117",
-   "VC NO": "1330986458",
+   "VC No": "1330986458",
    "LCO ID": 39627,
    "CARD NO": "6",
    "NAME": "BAVANAM SAMBI REDDY",
@@ -2614,7 +2614,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16113708",
-   "VC NO": "1331543706",
+   "VC No": "1331543706",
    "LCO ID": 39627,
    "CARD NO": "7",
    "NAME": "BAVANAM KARUNAKAR REDY",
@@ -2625,7 +2625,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "10898353",
-   "VC NO": "1767152959",
+   "VC No": "1767152959",
    "LCO ID": 39627,
    "CARD NO": "8",
    "NAME": "GOPIREDDY VENKATA REDDY",
@@ -2636,7 +2636,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13899647",
-   "VC NO": "1769494410",
+   "VC No": "1769494410",
    "LCO ID": 39627,
    "CARD NO": "9",
    "NAME": "ANNEM NAGI REDDY",
@@ -2647,7 +2647,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13195397",
-   "VC NO": "1768915564",
+   "VC No": "1768915564",
    "LCO ID": 39627,
    "CARD NO": "10",
    "NAME": "NANNA VIJAIY KUMAR",
@@ -2658,7 +2658,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21667601",
-   "VC NO": "2520427115",
+   "VC No": "2520427115",
    "LCO ID": 39627,
    "CARD NO": "11",
    "NAME": "MARELLA RAMI REDDY",
@@ -2669,7 +2669,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16113712",
-   "VC NO": "1331543707",
+   "VC No": "1331543707",
    "LCO ID": 39627,
    "CARD NO": "12",
    "NAME": "NOMULA RAMI REDDY",
@@ -2680,7 +2680,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "0WORNG NUM",
+   "VC No": "0WORNG NUM",
    "LCO ID": 39627,
    "CARD NO": "13",
    "NAME": "ANNEM NAGI REDDY",
@@ -2691,7 +2691,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13247317",
-   "VC NO": "1769130881",
+   "VC No": "1769130881",
    "LCO ID": 39627,
    "CARD NO": "14",
    "NAME": "MANDHAPATI SHAKER REDDY",
@@ -2702,7 +2702,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16113742",
-   "VC NO": "1331543708",
+   "VC No": "1331543708",
    "LCO ID": 39627,
    "CARD NO": "15",
    "NAME": "ANUMULA SHASU REDDY",
@@ -2713,7 +2713,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16113731",
-   "VC NO": "1331543712",
+   "VC No": "1331543712",
    "LCO ID": 39627,
    "CARD NO": "16",
    "NAME": "ANUMULA SATYANARAYANA REDDY",
@@ -2724,7 +2724,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16111903",
-   "VC NO": "1331356886",
+   "VC No": "1331356886",
    "LCO ID": 39627,
    "CARD NO": "17",
    "NAME": "ANUMULA VENKATESWRA REDDY",
@@ -2735,7 +2735,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "11917917",
-   "VC NO": "1767201885",
+   "VC No": "1767201885",
    "LCO ID": 39627,
    "CARD NO": "18",
    "NAME": "KANDULA NAAGIREDDY",
@@ -2746,7 +2746,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13485561",
-   "VC NO": "1769094466",
+   "VC No": "1769094466",
    "LCO ID": 39627,
    "CARD NO": "19",
    "NAME": "MANDAPATI APPI REDDY",
@@ -2757,7 +2757,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16573026",
-   "VC NO": "1331699063",
+   "VC No": "1331699063",
    "LCO ID": 39627,
    "CARD NO": "20",
    "NAME": "TANDETI ANIMI REDDY",
@@ -2768,7 +2768,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15521108",
-   "VC NO": "1330986463",
+   "VC No": "1330986463",
    "LCO ID": 39627,
    "CARD NO": "21",
    "NAME": "SOMU UPPENDER REDDY",
@@ -2779,7 +2779,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13247336",
-   "VC NO": "1769130882",
+   "VC No": "1769130882",
    "LCO ID": 39627,
    "CARD NO": "22",
    "NAME": "KONDAPALLI SUBBA REDDY",
@@ -2790,7 +2790,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12989497",
-   "VC NO": "1768385321",
+   "VC No": "1768385321",
    "LCO ID": 39627,
    "CARD NO": "23",
    "NAME": "AMBATI SRINIVASA REDDY",
@@ -2801,7 +2801,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13237296",
-   "VC NO": "1769130838",
+   "VC No": "1769130838",
    "LCO ID": 39627,
    "CARD NO": "24",
    "NAME": "ANUMULA SIVANAGI REDDY",
@@ -2812,7 +2812,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16572758",
-   "VC NO": "1331699054",
+   "VC No": "1331699054",
    "LCO ID": 39627,
    "CARD NO": "25",
    "NAME": "KONATHAM SRINIVASA REDDY",
@@ -2823,7 +2823,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13195379",
-   "VC NO": "1768915562",
+   "VC No": "1768915562",
    "LCO ID": 39627,
    "CARD NO": "27",
    "NAME": "KONATHAM PAANDU REDDY",
@@ -2834,7 +2834,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13195531",
-   "VC NO": "1768915561",
+   "VC No": "1768915561",
    "LCO ID": 39627,
    "CARD NO": "28",
    "NAME": "BUMAA NAGI REDDY",
@@ -2845,7 +2845,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16113724",
-   "VC NO": "1331543711",
+   "VC No": "1331543711",
    "LCO ID": 39627,
    "CARD NO": "29",
    "NAME": "MEDEPALLI RAAMACHARI",
@@ -2856,7 +2856,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13032519",
-   "VC NO": "1769148743",
+   "VC No": "1769148743",
    "LCO ID": 39627,
    "CARD NO": "30",
    "NAME": "MEDEPALLI RAAMAKOTA CHARI",
@@ -2867,7 +2867,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13247354",
-   "VC NO": "1769130877",
+   "VC No": "1769130877",
    "LCO ID": 39627,
    "CARD NO": "31",
    "NAME": "SAMU SRINIVASH REDDY",
@@ -2878,7 +2878,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12084699",
-   "VC NO": "1767510654",
+   "VC No": "1767510654",
    "LCO ID": 39627,
    "CARD NO": "32",
    "NAME": "KARNATAKA VEKATARAMANA",
@@ -2889,7 +2889,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13326803",
-   "VC NO": "1769132136",
+   "VC No": "1769132136",
    "LCO ID": 39627,
    "CARD NO": "33",
    "NAME": "PADEGAPATI VEERAA REDDY",
@@ -2900,7 +2900,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "11917907",
-   "VC NO": "1767201887",
+   "VC No": "1767201887",
    "LCO ID": 39627,
    "CARD NO": "34",
    "NAME": "YARRAM VEERA REDDY",
@@ -2911,7 +2911,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13736725",
-   "VC NO": "1769597037",
+   "VC No": "1769597037",
    "LCO ID": 39627,
    "CARD NO": "35",
    "NAME": "SANTHAPURI LAALAYYA",
@@ -2922,7 +2922,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13711911",
-   "VC NO": "1769300832",
+   "VC No": "1769300832",
    "LCO ID": 39627,
    "CARD NO": "36",
    "NAME": "PADIGAPAATI VENKATESWARA REDDY",
@@ -2933,7 +2933,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15465316",
-   "VC NO": "1330926639",
+   "VC No": "1330926639",
    "LCO ID": 39627,
    "CARD NO": "37",
    "NAME": "BHUMA VENKATARAAMI REDDY",
@@ -2944,7 +2944,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501542",
-   "VC NO": "1769332930",
+   "VC No": "1769332930",
    "LCO ID": 39627,
    "CARD NO": "38",
    "NAME": "DUGGIRALA NAAGI REDDY",
@@ -2955,7 +2955,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15902279",
-   "VC NO": "1331431145",
+   "VC No": "1331431145",
    "LCO ID": 39627,
    "CARD NO": "39",
    "NAME": "KANDULA SRINIVASA REDDY",
@@ -2966,7 +2966,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16572980",
-   "VC NO": "1331699061",
+   "VC No": "1331699061",
    "LCO ID": 39627,
    "CARD NO": "40",
    "NAME": "KADULA PEDA VENKATA REDDY",
@@ -2977,7 +2977,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12990327",
-   "VC NO": "1768383999",
+   "VC No": "1768383999",
    "LCO ID": 39627,
    "CARD NO": "41",
    "NAME": "KANDULA MUKKANTI REDDY",
@@ -2988,7 +2988,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15901637",
-   "VC NO": "1331484181",
+   "VC No": "1331484181",
    "LCO ID": 39627,
    "CARD NO": "42",
    "NAME": "KANDULA CHINNA VENKATA REDDY",
@@ -2999,7 +2999,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15463179",
-   "VC NO": "1331030288",
+   "VC No": "1331030288",
    "LCO ID": 39627,
    "CARD NO": "43",
    "NAME": "KANDULA PRETHAPU REDDY",
@@ -3010,7 +3010,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20138944",
-   "VC NO": "2516151312",
+   "VC No": "2516151312",
    "LCO ID": 39627,
    "CARD NO": "44",
    "NAME": "PADIGIPATI MALLESWARI",
@@ -3021,7 +3021,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15521098",
-   "VC NO": "1330986460",
+   "VC No": "1330986460",
    "LCO ID": 39627,
    "CARD NO": "45",
    "NAME": "DUGGIRALA CHANDRA REDDY",
@@ -3032,7 +3032,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13237308",
-   "VC NO": "1769130837",
+   "VC No": "1769130837",
    "LCO ID": 39627,
    "CARD NO": "46",
    "NAME": "AMBATI SAIDI REDDY",
@@ -3043,7 +3043,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15855104",
-   "VC NO": "1331358793",
+   "VC No": "1331358793",
    "LCO ID": 39627,
    "CARD NO": "47",
    "NAME": "AMBATI VENKATESWAR REDDY",
@@ -3054,7 +3054,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "11917887",
-   "VC NO": "1767201888",
+   "VC No": "1767201888",
    "LCO ID": 39627,
    "CARD NO": "48",
    "NAME": "PADEGAPATI PADMA",
@@ -3065,7 +3065,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "11917844",
-   "VC NO": "1767201883",
+   "VC No": "1767201883",
    "LCO ID": 39627,
    "CARD NO": "49",
    "NAME": "PADIGAPATI RAJAMMA",
@@ -3076,7 +3076,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12989618",
-   "VC NO": "1768385308",
+   "VC No": "1768385308",
    "LCO ID": 39627,
    "CARD NO": "50",
    "NAME": "AMARAVATHI MANGAMMA",
@@ -3087,7 +3087,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15521089",
-   "VC NO": "1330986459",
+   "VC No": "1330986459",
    "LCO ID": 39627,
    "CARD NO": "51",
    "NAME": "GUJJULA NARAYANA REDDY",
@@ -3098,7 +3098,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13008989",
-   "VC NO": "1768385092",
+   "VC No": "1768385092",
    "LCO ID": 39627,
    "CARD NO": "52",
    "NAME": "AMBATI GURAVAA REDDY",
@@ -3109,7 +3109,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13237283",
-   "VC NO": "1769130839",
+   "VC No": "1769130839",
    "LCO ID": 39627,
    "CARD NO": "53",
    "NAME": "SANTHAPURI RAMARAO",
@@ -3120,7 +3120,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "11917884",
-   "VC NO": "1767201889",
+   "VC No": "1767201889",
    "LCO ID": 39627,
    "CARD NO": "54",
    "NAME": "ANNEM VEERA REDDY",
@@ -3131,7 +3131,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13237250",
-   "VC NO": "1769130844",
+   "VC No": "1769130844",
    "LCO ID": 39627,
    "CARD NO": "55",
    "NAME": "SANTHAPURI NAAGULU",
@@ -3142,7 +3142,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12989523",
-   "VC NO": "1768385319",
+   "VC No": "1768385319",
    "LCO ID": 39627,
    "CARD NO": "56",
    "NAME": "AMBATI PRASAD REDDY",
@@ -3153,7 +3153,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16573007",
-   "VC NO": "1331699062",
+   "VC No": "1331699062",
    "LCO ID": 39627,
    "CARD NO": "57",
    "NAME": "MULLANGI RAMI REDDY",
@@ -3164,7 +3164,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13521408",
-   "VC NO": "1769132293",
+   "VC No": "1769132293",
    "LCO ID": 39627,
    "CARD NO": "58",
    "NAME": "SOMU RAAJE REDDY",
@@ -3175,7 +3175,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "0",
+   "VC No": "0",
    "LCO ID": 39627,
    "CARD NO": "59",
    "NAME": "RAAULAPALLI RAVI",
@@ -3186,7 +3186,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15226307",
-   "VC NO": "1330158788",
+   "VC No": "1330158788",
    "LCO ID": 39627,
    "CARD NO": "60",
    "NAME": "MANDAPATI LINGA REDDY",
@@ -3197,7 +3197,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "11732612",
-   "VC NO": "1766509863",
+   "VC No": "1766509863",
    "LCO ID": 39627,
    "CARD NO": "61",
    "NAME": "SK MOHU UDHEN",
@@ -3208,7 +3208,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "14063533",
-   "VC NO": "1769187239",
+   "VC No": "1769187239",
    "LCO ID": 39627,
    "CARD NO": "62",
    "NAME": "BAVANAM SETHARAMI REDDY",
@@ -3219,7 +3219,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13247276",
-   "VC NO": "1769130886",
+   "VC No": "1769130886",
    "LCO ID": 39627,
    "CARD NO": "63",
    "NAME": "BAVANAM LINGAMMA",
@@ -3230,7 +3230,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20714456",
-   "VC NO": "2520449945",
+   "VC No": "2520449945",
    "LCO ID": 39627,
    "CARD NO": "64",
    "NAME": "BONAGALA LINGAIHA",
@@ -3241,7 +3241,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13008984",
-   "VC NO": "1768385093",
+   "VC No": "1768385093",
    "LCO ID": 39627,
    "CARD NO": "65",
    "NAME": "PADEGAPATI NAGASHANKAR REDDY",
@@ -3252,7 +3252,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16573294",
-   "VC NO": "1331698980",
+   "VC No": "1331698980",
    "LCO ID": 39627,
    "CARD NO": "66",
    "NAME": "SAREDDY CHENNA KOTI REDDY",
@@ -3263,7 +3263,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "10479399",
-   "VC NO": "1766197713",
+   "VC No": "1766197713",
    "LCO ID": 39627,
    "CARD NO": "67",
    "NAME": "JANGA VEERA REDDY",
@@ -3274,7 +3274,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15521156",
-   "VC NO": "1330986455",
+   "VC No": "1330986455",
    "LCO ID": 39627,
    "CARD NO": "67/B",
    "NAME": "PADIGAPATI BASHKHAR REDDY",
@@ -3285,7 +3285,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13195388",
-   "VC NO": "1768915563",
+   "VC No": "1768915563",
    "LCO ID": 39627,
    "CARD NO": "67/C",
    "NAME": "BAVANAM VEERAREDDY",
@@ -3296,7 +3296,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22058152",
-   "VC NO": "2520447674",
+   "VC No": "2520447674",
    "LCO ID": 39627,
    "CARD NO": "67/D",
    "NAME": "CHAPA GOPAIAH",
@@ -3307,7 +3307,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16572859",
-   "VC NO": "1331699057",
+   "VC No": "1331699057",
    "LCO ID": 39627,
    "CARD NO": "67/E",
    "NAME": "ANNAEM NAGIREDDY",
@@ -3318,7 +3318,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13237229",
-   "VC NO": "1769130846",
+   "VC No": "1769130846",
    "LCO ID": 39627,
    "CARD NO": "69",
    "NAME": "KATTAM PAALARAJU",
@@ -3329,7 +3329,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12456404",
-   "VC NO": "1768481878",
+   "VC No": "1768481878",
    "LCO ID": 39627,
    "CARD NO": "70",
    "NAME": "KATTAM RAMUDU",
@@ -3340,7 +3340,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12990331",
-   "VC NO": "1768383998",
+   "VC No": "1768383998",
    "LCO ID": 39627,
    "CARD NO": "71",
    "NAME": "KOTIBOINA NAGESWARAO",
@@ -3351,7 +3351,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "10479368",
-   "VC NO": "1766197742",
+   "VC No": "1766197742",
    "LCO ID": 39627,
    "CARD NO": "72",
    "NAME": "KOTIBOINA SUBBAYYA",
@@ -3362,7 +3362,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15463132",
-   "VC NO": "1331030293",
+   "VC No": "1331030293",
    "LCO ID": 39627,
    "CARD NO": "73",
    "NAME": "KOTIBOINA THULASE",
@@ -3373,7 +3373,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "10479231",
-   "VC NO": "1766197873",
+   "VC No": "1766197873",
    "LCO ID": 39627,
    "CARD NO": "74",
    "NAME": "KOTIBOINA VEERAYYA",
@@ -3384,7 +3384,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13009034",
-   "VC NO": "1768385087",
+   "VC No": "1768385087",
    "LCO ID": 39627,
    "CARD NO": "75",
    "NAME": "KOTIBOINA YEASU",
@@ -3395,7 +3395,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16572937",
-   "VC NO": "1331699059",
+   "VC No": "1331699059",
    "LCO ID": 39627,
    "CARD NO": "76",
    "NAME": "KOTIBOINA VENKATESWARLU",
@@ -3406,7 +3406,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16572823",
-   "VC NO": "1331699056",
+   "VC No": "1331699056",
    "LCO ID": 39627,
    "CARD NO": "77",
    "NAME": "KOTIBOINA RAJULU",
@@ -3417,7 +3417,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "11915034",
-   "VC NO": "1767621717",
+   "VC No": "1767621717",
    "LCO ID": 39627,
    "CARD NO": "78",
    "NAME": "KALLURI NAGESWARAO",
@@ -3428,7 +3428,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13525505",
-   "VC NO": "1769495097",
+   "VC No": "1769495097",
    "LCO ID": 39627,
    "CARD NO": "79",
    "NAME": "BUDHULA VENKAYYA",
@@ -3439,7 +3439,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13900723",
-   "VC NO": "1769185735",
+   "VC No": "1769185735",
    "LCO ID": 39627,
    "CARD NO": "80",
    "NAME": "BUDHULA SURIBABU",
@@ -3450,7 +3450,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "10478962",
-   "VC NO": "1766198127",
+   "VC No": "1766198127",
    "LCO ID": 39627,
    "CARD NO": "81",
    "NAME": "VELUPU VENKATESH",
@@ -3461,7 +3461,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15855901",
-   "VC NO": "1331358792",
+   "VC No": "1331358792",
    "LCO ID": 39627,
    "CARD NO": "82",
    "NAME": "KOTIBOINA BANGARU",
@@ -3472,7 +3472,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21045143",
-   "VC NO": "2520450430",
+   "VC No": "2520450430",
    "LCO ID": 39627,
    "CARD NO": "83",
    "NAME": "KOTIBOINA KONDAYYA",
@@ -3483,7 +3483,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "14063282",
-   "VC NO": "1769187266",
+   "VC No": "1769187266",
    "LCO ID": 39627,
    "CARD NO": "84",
    "NAME": "KOTIBOINA BUMAYYA",
@@ -3494,7 +3494,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13032465",
-   "VC NO": "1769148746",
+   "VC No": "1769148746",
    "LCO ID": 39627,
    "CARD NO": "87",
    "NAME": "KOTIBOINA NARASIMHA RAO",
@@ -3505,7 +3505,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13896731",
-   "VC NO": "1769492643",
+   "VC No": "1769492643",
    "LCO ID": 39627,
    "CARD NO": "88",
    "NAME": "KOTIBOINA RAMANA (SARPANCH)",
@@ -3516,7 +3516,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15901629",
-   "VC NO": "1331484179",
+   "VC No": "1331484179",
    "LCO ID": 39627,
    "CARD NO": "89",
    "NAME": "KONDRU LAXMAHIYA",
@@ -3527,7 +3527,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "14063271",
-   "VC NO": "1769187265",
+   "VC No": "1769187265",
    "LCO ID": 39627,
    "CARD NO": "90",
    "NAME": "KUNJA BABU",
@@ -3538,7 +3538,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16111891",
-   "VC NO": "1331356888",
+   "VC No": "1331356888",
    "LCO ID": 39627,
    "CARD NO": "91",
    "NAME": "KONDRU BADHRAIHAYA",
@@ -3549,7 +3549,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13008909",
-   "VC NO": "1768385100",
+   "VC No": "1768385100",
    "LCO ID": 39627,
    "CARD NO": "93",
    "NAME": "KONDRU DURGA RAO",
@@ -3560,7 +3560,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16573349",
-   "VC NO": "1331698982",
+   "VC No": "1331698982",
    "LCO ID": 39627,
    "CARD NO": "94",
    "NAME": "KONDRU KONDAIYA",
@@ -3571,7 +3571,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501568",
-   "VC NO": "1769332933",
+   "VC No": "1769332933",
    "LCO ID": 39627,
    "CARD NO": "95",
    "NAME": "KOTIBOINA MOMVEEDU",
@@ -3582,7 +3582,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15465280",
-   "VC NO": "1330926635",
+   "VC No": "1330926635",
    "LCO ID": 39627,
    "CARD NO": "96",
    "NAME": "KOTIBOINA BADHRAMMA",
@@ -3593,7 +3593,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "11766384",
-   "VC NO": "1767621540",
+   "VC No": "1767621540",
    "LCO ID": 39627,
    "CARD NO": "97",
    "NAME": "KOTIBOINA BADRAIYA",
@@ -3604,7 +3604,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "10478961",
-   "VC NO": "1766198128",
+   "VC No": "1766198128",
    "LCO ID": 39627,
    "CARD NO": "99",
    "NAME": "KOTIBOINA ADHAIYA",
@@ -3615,7 +3615,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "10479229",
-   "VC NO": "1766197874",
+   "VC No": "1766197874",
    "LCO ID": 39627,
    "CARD NO": "100",
    "NAME": "KOTIBOINA PETTAMMA",
@@ -3626,7 +3626,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "10479367",
-   "VC NO": "1766197743",
+   "VC No": "1766197743",
    "LCO ID": 39627,
    "CARD NO": "101",
    "NAME": "KOTIBOINA JOGAIYA",
@@ -3637,7 +3637,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16113721",
-   "VC NO": "1331543710",
+   "VC No": "1331543710",
    "LCO ID": 39627,
    "CARD NO": "102",
    "NAME": "KOTIBOINA RADHA",
@@ -3648,7 +3648,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "17153114",
-   "VC NO": "1331699140",
+   "VC No": "1331699140",
    "LCO ID": 39627,
    "CARD NO": "103",
    "NAME": "SODE VERAIYA",
@@ -3659,7 +3659,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12990305",
-   "VC NO": "1768384003",
+   "VC No": "1768384003",
    "LCO ID": 39627,
    "CARD NO": "104",
    "NAME": "SODE SHAMU",
@@ -3670,7 +3670,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13326836",
-   "VC NO": "1769132127",
+   "VC No": "1769132127",
    "LCO ID": 39627,
    "CARD NO": "105",
    "NAME": "SUNNAM SANTHAMMA",
@@ -3681,7 +3681,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13007816",
-   "VC NO": "1768385370",
+   "VC No": "1768385370",
    "LCO ID": 39627,
    "CARD NO": "106",
    "NAME": "IRAPA RAMARAO",
@@ -3692,7 +3692,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13237254",
-   "VC NO": "1769130843",
+   "VC No": "1769130843",
    "LCO ID": 39627,
    "CARD NO": "107",
    "NAME": "KUNJA KAMAIYA",
@@ -3703,7 +3703,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501548",
-   "VC NO": "1769332929",
+   "VC No": "1769332929",
    "LCO ID": 39627,
    "CARD NO": "108",
    "NAME": "KONTIBOINA VENKATESWARLU(YAJE)",
@@ -3714,7 +3714,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13252334",
-   "VC NO": "1768910364",
+   "VC No": "1768910364",
    "LCO ID": 39627,
    "CARD NO": "109",
    "NAME": "KOTIBOINA SRINU",
@@ -3725,7 +3725,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16111896",
-   "VC NO": "1331356885",
+   "VC No": "1331356885",
    "LCO ID": 39627,
    "CARD NO": "110",
    "NAME": "KUNJA KRISHNAMURTHI",
@@ -3736,7 +3736,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15521141",
-   "VC NO": "1330986457",
+   "VC No": "1330986457",
    "LCO ID": 39627,
    "CARD NO": "111",
    "NAME": "KOTIBOINA RAVI",
@@ -3747,7 +3747,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20138927",
-   "VC NO": "2516151332",
+   "VC No": "2516151332",
    "LCO ID": 39627,
    "CARD NO": "112",
    "NAME": "VENKAT (STORE)",
@@ -3758,7 +3758,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "10479269",
-   "VC NO": "1766197837",
+   "VC No": "1766197837",
    "LCO ID": 39627,
    "CARD NO": "113",
    "NAME": "KODEMI BABURAO",
@@ -3769,7 +3769,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501561",
-   "VC NO": "1769332932",
+   "VC No": "1769332932",
    "LCO ID": 39627,
    "CARD NO": "114",
    "NAME": "KURASAM RAMUDU",
@@ -3780,7 +3780,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12455612",
-   "VC NO": "1768481907",
+   "VC No": "1768481907",
    "LCO ID": 39627,
    "CARD NO": "115",
    "NAME": "KOTIBOINA ARJUN",
@@ -3791,7 +3791,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13237269",
-   "VC NO": "1769130841",
+   "VC No": "1769130841",
    "LCO ID": 39627,
    "CARD NO": "116",
    "NAME": "KONDRU VENKATESWARLU",
@@ -3802,7 +3802,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12989592",
-   "VC NO": "1768385312",
+   "VC No": "1768385312",
    "LCO ID": 39627,
    "CARD NO": "117",
    "NAME": "KOTIBOINA MOHANRAO",
@@ -3813,7 +3813,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13247296",
-   "VC NO": "1769130883",
+   "VC No": "1769130883",
    "LCO ID": 39627,
    "CARD NO": "119",
    "NAME": "KUNJA VENKATESWARLU",
@@ -3824,7 +3824,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21660367",
-   "VC NO": "2520404833",
+   "VC No": "2520404833",
    "LCO ID": 39627,
    "CARD NO": "120",
    "NAME": "KATIBOINA SATHI(DRIVAR)",
@@ -3835,7 +3835,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13195405",
-   "VC NO": "1768915565",
+   "VC No": "1768915565",
    "LCO ID": 39627,
    "CARD NO": "121",
    "NAME": "KATTAM KONDAIAH",
@@ -3846,7 +3846,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16111914",
-   "VC NO": "1331356884",
+   "VC No": "1331356884",
    "LCO ID": 39627,
    "CARD NO": "122",
    "NAME": "BUDDULA KAMAIAH",
@@ -3857,7 +3857,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21709107",
-   "VC NO": "2520439350",
+   "VC No": "2520439350",
    "LCO ID": 39627,
    "CARD NO": "122/A",
    "NAME": "KUNJA LAXMI",
@@ -3868,7 +3868,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20138962",
-   "VC NO": "2516151320",
+   "VC No": "2516151320",
    "LCO ID": 39627,
    "CARD NO": "122/B",
    "NAME": "KATIBOINA PRASAD",
@@ -3879,7 +3879,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12862125",
-   "VC NO": "1768384655",
+   "VC No": "1768384655",
    "LCO ID": 39627,
    "CARD NO": "122/C",
    "NAME": "KATIBOINA MALLAIAH",
@@ -3890,7 +3890,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21973997",
-   "VC NO": "2520457210",
+   "VC No": "2520457210",
    "LCO ID": 39627,
    "CARD NO": "122/D",
    "NAME": "KONDRU NARASHIMHAMURTHI",
@@ -3901,7 +3901,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20449532",
-   "VC NO": "2516001222",
+   "VC No": "2516001222",
    "LCO ID": 39627,
    "CARD NO": "122/E",
    "NAME": "KATIBOINA SRINU (TRS)",
@@ -3912,7 +3912,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12536037",
-   "VC NO": "1768481781",
+   "VC No": "1768481781",
    "LCO ID": 39627,
    "CARD NO": "122/F",
    "NAME": "KATIBOINA VENKATESWARLU(Subbauah)",
@@ -3923,7 +3923,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20189381",
-   "VC NO": "2520820035",
+   "VC No": "2520820035",
    "LCO ID": 39627,
    "CARD NO": "122/G",
    "NAME": "KORSA LAXMI",
@@ -3934,7 +3934,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21660576",
-   "VC NO": "2520427110",
+   "VC No": "2520427110",
    "LCO ID": 39627,
    "CARD NO": "122/H",
    "NAME": "KATIBOINA SEETHAMMA",
@@ -3945,7 +3945,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20235038",
-   "VC NO": "2516187826",
+   "VC No": "2516187826",
    "LCO ID": 39627,
    "CARD NO": "122/I",
    "NAME": "KATIBOINA VENKATESWARLU",
@@ -3956,7 +3956,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15465275",
-   "VC NO": "1330926634",
+   "VC No": "1330926634",
    "LCO ID": 39627,
    "CARD NO": "122/B",
    "NAME": "VARASA SUSEELA",
@@ -3967,7 +3967,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "14000704",
-   "VC NO": "1769185968",
+   "VC No": "1769185968",
    "LCO ID": 39627,
    "CARD NO": "123",
    "NAME": "VARASA SRIRAMULU",
@@ -3978,7 +3978,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12962203",
-   "VC NO": "1768384708",
+   "VC No": "1768384708",
    "LCO ID": 39627,
    "CARD NO": "124",
    "NAME": "KOTIBOINA SATYAM",
@@ -3989,7 +3989,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "0NO BOX",
+   "VC No": "0NO BOX",
    "LCO ID": 39627,
    "CARD NO": "125",
    "NAME": "IRAPA DURGARAO",
@@ -4000,7 +4000,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16573370",
-   "VC NO": "1331698983",
+   "VC No": "1331698983",
    "LCO ID": 39627,
    "CARD NO": "126",
    "NAME": "PODEYAM VENKATESH",
@@ -4011,7 +4011,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16573326",
-   "VC NO": "1331698981",
+   "VC No": "1331698981",
    "LCO ID": 39627,
    "CARD NO": "127",
    "NAME": "PODEYAM SAMMAIYA",
@@ -4022,7 +4022,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20108913",
-   "VC NO": "2516066737",
+   "VC No": "2516066737",
    "LCO ID": 39627,
    "CARD NO": "128",
    "NAME": "KUNJA SRINU",
@@ -4033,7 +4033,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16573515",
-   "VC NO": "1331698976",
+   "VC No": "1331698976",
    "LCO ID": 39627,
    "CARD NO": "129",
    "NAME": "PODEYAM SRIRAMULU",
@@ -4044,7 +4044,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501556",
-   "VC NO": "1769332928",
+   "VC No": "1769332928",
    "LCO ID": 39627,
    "CARD NO": "130",
    "NAME": "KUNJA BADRAIYA",
@@ -4055,7 +4055,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20224428",
-   "VC NO": "2516187830",
+   "VC No": "2516187830",
    "LCO ID": 39627,
    "CARD NO": "131",
    "NAME": "KAAKA NARASIHA",
@@ -4066,7 +4066,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13195408",
-   "VC NO": "1768915566",
+   "VC No": "1768915566",
    "LCO ID": 39627,
    "CARD NO": "132",
    "NAME": "KUNJA CHENABJE",
@@ -4077,7 +4077,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16572786",
-   "VC NO": "1331699055",
+   "VC No": "1331699055",
    "LCO ID": 39627,
    "CARD NO": "133",
    "NAME": "VARASA RAMAKRISHNA",
@@ -4088,7 +4088,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13548021",
-   "VC NO": "1769495369",
+   "VC No": "1769495369",
    "LCO ID": 39627,
    "CARD NO": "134",
    "NAME": "KUNJA SEETHAIAH",
@@ -4099,7 +4099,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13710978",
-   "VC NO": "1769300923",
+   "VC No": "1769300923",
    "LCO ID": 39627,
    "CARD NO": "135",
    "NAME": "PUNEM RAMAIHA",
@@ -4110,7 +4110,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13326806",
-   "VC NO": "1769132134",
+   "VC No": "1769132134",
    "LCO ID": 39627,
    "CARD NO": "136",
    "NAME": "KUNJA SATTIBABU",
@@ -4121,7 +4121,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16573422",
-   "VC NO": "1331698974",
+   "VC No": "1331698974",
    "LCO ID": 39627,
    "CARD NO": "137",
    "NAME": "KUNJA JOGARAO",
@@ -4132,7 +4132,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "11689342",
-   "VC NO": "1766293054",
+   "VC No": "1766293054",
    "LCO ID": 39627,
    "CARD NO": "138",
    "NAME": "KOTIBOINA SAIBABU",
@@ -4143,7 +4143,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "19983834",
-   "VC NO": "2516000238",
+   "VC No": "2516000238",
    "LCO ID": 39627,
    "CARD NO": "139",
    "NAME": "KUNJA GANESH",
@@ -4154,7 +4154,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13247291",
-   "VC NO": "1769130884",
+   "VC No": "1769130884",
    "LCO ID": 39627,
    "CARD NO": "139/A",
    "NAME": "KUNJA JOGAIAH",
@@ -4165,7 +4165,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21051076",
-   "VC NO": "2520444966",
+   "VC No": "2520444966",
    "LCO ID": 39627,
    "CARD NO": "139/B",
    "NAME": "KUNJA RAMURTHI",
@@ -4176,7 +4176,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22017999",
-   "VC NO": "2520447533",
+   "VC No": "2520447533",
    "LCO ID": 39627,
    "CARD NO": "139/c",
    "NAME": "VARSA VEERAIAH",
@@ -4187,7 +4187,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13237274",
-   "VC NO": "1769130840",
+   "VC No": "1769130840",
    "LCO ID": 39627,
    "CARD NO": "140",
    "NAME": "SONDE LAXMAIHA",
@@ -4198,7 +4198,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15901621",
-   "VC NO": "1331484180",
+   "VC No": "1331484180",
    "LCO ID": 39627,
    "CARD NO": "141",
    "NAME": "BAVANAM SHAKER",
@@ -4209,7 +4209,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12962180",
-   "VC NO": "1768384711",
+   "VC No": "1768384711",
    "LCO ID": 39627,
    "CARD NO": "142",
    "NAME": "SONDE SEETHAIAH",
@@ -4220,7 +4220,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15465296",
-   "VC NO": "1330926637",
+   "VC No": "1330926637",
    "LCO ID": 39627,
    "CARD NO": "143",
    "NAME": "KORSA LAXMAIHA",
@@ -4231,7 +4231,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13711900",
-   "VC NO": "1769300833",
+   "VC No": "1769300833",
    "LCO ID": 39627,
    "CARD NO": "144",
    "NAME": "GUNDE SRINU",
@@ -4242,7 +4242,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15463252",
-   "VC NO": "1331030284",
+   "VC No": "1331030284",
    "LCO ID": 39627,
    "CARD NO": "145",
    "NAME": "PAYAM KONDAMMA",
@@ -4253,7 +4253,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13009015",
-   "VC NO": "1768385089",
+   "VC No": "1768385089",
    "LCO ID": 39627,
    "CARD NO": "146",
    "NAME": "PAYAM NAGAMMA",
@@ -4264,7 +4264,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13167890",
-   "VC NO": "1769148690",
+   "VC No": "1769148690",
    "LCO ID": 39627,
    "CARD NO": "147",
    "NAME": "KUNJA KRISANVENI",
@@ -4275,7 +4275,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12990372",
-   "VC NO": "1768383990",
+   "VC No": "1768383990",
    "LCO ID": 39627,
    "CARD NO": "148",
    "NAME": "PAAYAM SERI",
@@ -4286,7 +4286,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15465335",
-   "VC NO": "1330926641",
+   "VC No": "1330926641",
    "LCO ID": 39627,
    "CARD NO": "149",
    "NAME": "SONDE BAKKAYA",
@@ -4297,7 +4297,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20346789",
-   "VC NO": "2516177050",
+   "VC No": "2516177050",
    "LCO ID": 39627,
    "CARD NO": "150",
    "NAME": "SONDE ADINARAYANA",
@@ -4308,7 +4308,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12990344",
-   "VC NO": "1768383996",
+   "VC No": "1768383996",
    "LCO ID": 39627,
    "CARD NO": "151",
    "NAME": "KUNJA SAMMAKKA",
@@ -4319,7 +4319,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16113715",
-   "VC NO": "1331543709",
+   "VC No": "1331543709",
    "LCO ID": 39627,
    "CARD NO": "152",
    "NAME": "SONDE AKKAMMA",
@@ -4330,7 +4330,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21985567",
-   "VC NO": "2520444140",
+   "VC No": "2520444140",
    "LCO ID": 39627,
    "CARD NO": "153",
    "NAME": "KUNJA NAGESWARAO",
@@ -4341,7 +4341,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12456146",
-   "VC NO": "1768481862",
+   "VC No": "1768481862",
    "LCO ID": 39627,
    "CARD NO": "153/B",
    "NAME": "GUNDE SURAIHA",
@@ -4352,7 +4352,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15855876",
-   "VC NO": "1331358789",
+   "VC No": "1331358789",
    "LCO ID": 39627,
    "CARD NO": "154",
    "NAME": "GUNDE SEETHAIHA",
@@ -4363,7 +4363,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13326797",
-   "VC NO": "1769132135",
+   "VC No": "1769132135",
    "LCO ID": 39627,
    "CARD NO": "155",
    "NAME": "GUNDE BAALA KRISHNA",
@@ -4374,7 +4374,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16111910",
-   "VC NO": "1331356891",
+   "VC No": "1331356891",
    "LCO ID": 39627,
    "CARD NO": "156",
    "NAME": "GUNDE BABURAO",
@@ -4385,7 +4385,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16573262",
-   "VC NO": "1331698979",
+   "VC No": "1331698979",
    "LCO ID": 39627,
    "CARD NO": "157",
    "NAME": "GUNDE KRISHANAMURTHI",
@@ -4396,7 +4396,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15902286",
-   "VC NO": "1331431147",
+   "VC No": "1331431147",
    "LCO ID": 39627,
    "CARD NO": "158",
    "NAME": "GUNDE CHITTIBABU",
@@ -4407,7 +4407,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "10479232",
-   "VC NO": "1766197872",
+   "VC No": "1766197872",
    "LCO ID": 39627,
    "CARD NO": "159",
    "NAME": "GUNDE CHALAPATHIRAO",
@@ -4418,7 +4418,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15902283",
-   "VC NO": "1331431146",
+   "VC No": "1331431146",
    "LCO ID": 39627,
    "CARD NO": "160",
    "NAME": "GUNDE KAMESHSWARAO",
@@ -4429,7 +4429,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15855867",
-   "VC NO": "1331358790",
+   "VC No": "1331358790",
    "LCO ID": 39627,
    "CARD NO": "161",
    "NAME": "GUNDE DURGA RAO",
@@ -4440,7 +4440,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16573454",
-   "VC NO": "1331698975",
+   "VC No": "1331698975",
    "LCO ID": 39627,
    "CARD NO": "162",
    "NAME": "GUNDE NARESH",
@@ -4451,7 +4451,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20108904",
-   "VC NO": "2516066740",
+   "VC No": "2516066740",
    "LCO ID": 39627,
    "CARD NO": "164",
    "NAME": "GUNDE LAXMAIHA",
@@ -4462,7 +4462,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15902261",
-   "VC NO": "1331431153",
+   "VC No": "1331431153",
    "LCO ID": 39627,
    "CARD NO": "165",
    "NAME": "THURRAM SESAIHA",
@@ -4473,7 +4473,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21701394",
-   "VC NO": "2520439513",
+   "VC No": "2520439513",
    "LCO ID": 39627,
    "CARD NO": "165/A",
    "NAME": "GUNDI RAJARAO",
@@ -4484,7 +4484,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16111872",
-   "VC NO": "1331356887",
+   "VC No": "1331356887",
    "LCO ID": 39627,
    "CARD NO": "166",
    "NAME": "METTA RAMUDU",
@@ -4495,7 +4495,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15855857",
-   "VC NO": "1331358791",
+   "VC No": "1331358791",
    "LCO ID": 39627,
    "CARD NO": "169",
    "NAME": "KURASAM KANTHAIHA",
@@ -4506,7 +4506,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16572903",
-   "VC NO": "1331699058",
+   "VC No": "1331699058",
    "LCO ID": 39627,
    "CARD NO": "170",
    "NAME": "KURASAM MANGAMMA",
@@ -4517,7 +4517,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16111917",
-   "VC NO": "1331356892",
+   "VC No": "1331356892",
    "LCO ID": 39627,
    "CARD NO": "171",
    "NAME": "KURASAM SEETHA RAMULU",
@@ -4528,7 +4528,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15859013",
-   "VC NO": "1331358784",
+   "VC No": "1331358784",
    "LCO ID": 39627,
    "CARD NO": "172",
    "NAME": "KURASAM RAAJU",
@@ -4539,7 +4539,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15902291",
-   "VC NO": "1331431148",
+   "VC No": "1331431148",
    "LCO ID": 39627,
    "CARD NO": "173",
    "NAME": "KURASAM RAVI",
@@ -4550,7 +4550,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15465856",
-   "VC NO": "1330926642",
+   "VC No": "1330926642",
    "LCO ID": 39627,
    "CARD NO": "174",
    "NAME": "KURASAM SAMBA",
@@ -4561,7 +4561,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16111932",
-   "VC NO": "1331356890",
+   "VC No": "1331356890",
    "LCO ID": 39627,
    "CARD NO": "175",
    "NAME": "KUNJA NAGESWARAO",
@@ -4572,7 +4572,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "17153171",
-   "VC NO": "1331699142",
+   "VC No": "1331699142",
    "LCO ID": 39627,
    "CARD NO": "177",
    "NAME": "KUNJA APPARAO",
@@ -4583,7 +4583,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "17154753",
-   "VC NO": "1331699143",
+   "VC No": "1331699143",
    "LCO ID": 39627,
    "CARD NO": "178",
    "NAME": "KUNJA BAALAKRISHNA",
@@ -4594,7 +4594,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501572",
-   "VC NO": "1769332927",
+   "VC No": "1769332927",
    "LCO ID": 39627,
    "CARD NO": "179",
    "NAME": "KUNJA VENKATESWARLU",
@@ -4605,7 +4605,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13008935",
-   "VC NO": "1768385098",
+   "VC No": "1768385098",
    "LCO ID": 39627,
    "CARD NO": "180",
    "NAME": "KURASAM RAMBABU",
@@ -4616,7 +4616,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15902253",
-   "VC NO": "1331431152",
+   "VC No": "1331431152",
    "LCO ID": 39627,
    "CARD NO": "181",
    "NAME": "KURASAM MAILARAJU",
@@ -4627,7 +4627,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16572962",
-   "VC NO": "1331699060",
+   "VC No": "1331699060",
    "LCO ID": 39627,
    "CARD NO": "182",
    "NAME": "SODE VENKATESWARLU",
@@ -4638,7 +4638,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16111886",
-   "VC NO": "1331356893",
+   "VC No": "1331356893",
    "LCO ID": 39627,
    "CARD NO": "183",
    "NAME": "KURASAM KANAKARAJU",
@@ -4649,7 +4649,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15855889",
-   "VC NO": "1331358787",
+   "VC No": "1331358787",
    "LCO ID": 39627,
    "CARD NO": "184",
    "NAME": "KURASAM BABURAO",
@@ -4660,7 +4660,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15465289",
-   "VC NO": "1330926636",
+   "VC No": "1330926636",
    "LCO ID": 39627,
    "CARD NO": "185",
    "NAME": "THELLAM BABU RAO",
@@ -4671,7 +4671,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12989550",
-   "VC NO": "1768385316",
+   "VC No": "1768385316",
    "LCO ID": 39627,
    "CARD NO": "186",
    "NAME": "MARAMAM BABURAO",
@@ -4682,7 +4682,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12990336",
-   "VC NO": "1768383997",
+   "VC No": "1768383997",
    "LCO ID": 39627,
    "CARD NO": "187",
    "NAME": "KURASAM BADHRAIHA",
@@ -4693,7 +4693,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15521075",
-   "VC NO": "1330986462",
+   "VC No": "1330986462",
    "LCO ID": 39627,
    "CARD NO": "188",
    "NAME": "PODEYAM NARESH",
@@ -4704,7 +4704,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15858945",
-   "VC NO": "1331358786",
+   "VC No": "1331358786",
    "LCO ID": 39627,
    "CARD NO": "189",
    "NAME": "PUNEM GOWRAMMA",
@@ -4715,7 +4715,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15902269",
-   "VC NO": "1331431144",
+   "VC No": "1331431144",
    "LCO ID": 39627,
    "CARD NO": "190",
    "NAME": "MARAMAMU VENKETESWARLU",
@@ -4726,7 +4726,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15858952",
-   "VC NO": "1331358785",
+   "VC No": "1331358785",
    "LCO ID": 39627,
    "CARD NO": "191",
    "NAME": "MARAMAMU RAMUDU",
@@ -4737,7 +4737,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15901615",
-   "VC NO": "1331484174",
+   "VC No": "1331484174",
    "LCO ID": 39627,
    "CARD NO": "192",
    "NAME": "VELPU VERRAJU",
@@ -4748,7 +4748,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "0box undhi",
+   "VC No": "0box undhi",
    "LCO ID": 39627,
    "CARD NO": "193",
    "NAME": "KUNJA RAJESH",
@@ -4759,7 +4759,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20357321",
-   "VC NO": "2516177029",
+   "VC No": "2516177029",
    "LCO ID": 39627,
    "CARD NO": "194",
    "NAME": "KUNJA SRINU",
@@ -4770,7 +4770,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22160343",
-   "VC NO": "2520444062",
+   "VC No": "2520444062",
    "LCO ID": 39627,
    "CARD NO": "194/A",
    "NAME": "KURASAM MOHAN RAO",
@@ -4781,7 +4781,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21703410",
-   "VC NO": "2520439501",
+   "VC No": "2520439501",
    "LCO ID": 39627,
    "CARD NO": "194/B",
    "NAME": "KURSAM KONDALA RAO",
@@ -4792,7 +4792,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20189374",
-   "VC NO": "2520456999",
+   "VC No": "2520456999",
    "LCO ID": 39627,
    "CARD NO": "194/C",
    "NAME": "MATTA CHINNAIAH",
@@ -4803,7 +4803,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20765123",
-   "VC NO": "2520449950",
+   "VC No": "2520449950",
    "LCO ID": 39627,
    "CARD NO": "194/D",
    "NAME": "KURSAM SUDHER",
@@ -4814,7 +4814,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20357310",
-   "VC NO": "2516177040",
+   "VC No": "2516177040",
    "LCO ID": 39627,
    "CARD NO": "195/E",
    "NAME": "KUNJA VENKATESWARLU",
@@ -4825,7 +4825,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "0box undhi",
+   "VC No": "0box undhi",
    "LCO ID": 39627,
    "CARD NO": "195/F",
    "NAME": "TELLAM BABURAO",
@@ -4836,7 +4836,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15901590",
-   "VC NO": "1331484176",
+   "VC No": "1331484176",
    "LCO ID": 39627,
    "CARD NO": "193",
    "NAME": "SOYAM BAYAMMA",
@@ -4847,7 +4847,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15465374",
-   "VC NO": "1330926643",
+   "VC No": "1330926643",
    "LCO ID": 39627,
    "CARD NO": "194",
    "NAME": "JEGEDI KANNAYA",
@@ -4858,7 +4858,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15463236",
-   "VC NO": "1331030286",
+   "VC No": "1331030286",
    "LCO ID": 39627,
    "CARD NO": "195",
    "NAME": "SOYAM VERASWAMI",
@@ -4869,7 +4869,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16111941",
-   "VC NO": "1331356889",
+   "VC No": "1331356889",
    "LCO ID": 39627,
    "CARD NO": "196",
    "NAME": "PUNEYAM SHANKAR",
@@ -4880,7 +4880,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13247346",
-   "VC NO": "1769130879",
+   "VC No": "1769130879",
    "LCO ID": 39627,
    "CARD NO": "197",
    "NAME": "SOYAM BALAKRISHNA",
@@ -4891,7 +4891,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15226305",
-   "VC NO": "1330158786",
+   "VC No": "1330158786",
    "LCO ID": 39627,
    "CARD NO": "198",
    "NAME": "SOYAM ADINARAYANA",
@@ -4902,7 +4902,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15463223",
-   "VC NO": "1331030287",
+   "VC No": "1331030287",
    "LCO ID": 39627,
    "CARD NO": "199",
    "NAME": "SOYAM NAGESH",
@@ -4913,7 +4913,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15463153",
-   "VC NO": "1331030291",
+   "VC No": "1331030291",
    "LCO ID": 39627,
    "CARD NO": "200",
    "NAME": "JEGEDI PADAGA RAJU",
@@ -4924,7 +4924,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13247284",
-   "VC NO": "1769130885",
+   "VC No": "1769130885",
    "LCO ID": 39627,
    "CARD NO": "201",
    "NAME": "NARSA RAMBABU",
@@ -4935,7 +4935,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16113697",
-   "VC NO": "1331543704",
+   "VC No": "1331543704",
    "LCO ID": 39627,
    "CARD NO": "202",
    "NAME": "VELUPU KAMAIAH",
@@ -4946,7 +4946,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12990369",
-   "VC NO": "1768383991",
+   "VC No": "1768383991",
    "LCO ID": 39627,
    "CARD NO": "203",
    "NAME": "THURRAM VENKATESH",
@@ -4957,7 +4957,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "0box undhi",
+   "VC No": "0box undhi",
    "LCO ID": 39627,
    "CARD NO": "204",
    "NAME": "VELUPU SRIDAVI",
@@ -4968,7 +4968,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "0box undhi",
+   "VC No": "0box undhi",
    "LCO ID": 39627,
    "CARD NO": "205",
    "NAME": "THELLAM SRIRAMULU",
@@ -4979,7 +4979,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16113701",
-   "VC NO": "1331543705",
+   "VC No": "1331543705",
    "LCO ID": 39627,
    "CARD NO": "206",
    "NAME": "VELUPU VENKETESH(TIRE)",
@@ -4990,7 +4990,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15226278",
-   "VC NO": "1330158790",
+   "VC No": "1330158790",
    "LCO ID": 39627,
    "CARD NO": "207",
    "NAME": "MADAKAM VERAIHA",
@@ -5001,7 +5001,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20361608",
-   "VC NO": "2516177007",
+   "VC No": "2516177007",
    "LCO ID": 39627,
    "CARD NO": "208",
    "NAME": "SOYAM PAPARAO",
@@ -5012,7 +5012,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15901599",
-   "VC NO": "1331484183",
+   "VC No": "1331484183",
    "LCO ID": 39627,
    "CARD NO": "209",
    "NAME": "VELUPU CHANTI",
@@ -5023,7 +5023,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15901576",
-   "VC NO": "1331484178",
+   "VC No": "1331484178",
    "LCO ID": 39627,
    "CARD NO": "210",
    "NAME": "IRAPA VERAMMA",
@@ -5034,7 +5034,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15901580",
-   "VC NO": "1331484177",
+   "VC No": "1331484177",
    "LCO ID": 39627,
    "CARD NO": "211",
    "NAME": "VELUPU VERRAJU",
@@ -5045,7 +5045,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22100212",
-   "VC NO": "2520433193",
+   "VC No": "2520433193",
    "LCO ID": 39627,
    "CARD NO": "212",
    "NAME": "KURSAM REJESH",
@@ -5056,7 +5056,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15463214",
-   "VC NO": "1331030289",
+   "VC No": "1331030289",
    "LCO ID": 39627,
    "CARD NO": "213",
    "NAME": "KODEM BABAURAO",
@@ -5067,7 +5067,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15226299",
-   "VC NO": "1330158787",
+   "VC No": "1330158787",
    "LCO ID": 39627,
    "CARD NO": "214",
    "NAME": "MURRAM DEVAMMA",
@@ -5078,7 +5078,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15463164",
-   "VC NO": "1331030290",
+   "VC No": "1331030290",
    "LCO ID": 39627,
    "CARD NO": "215",
    "NAME": "MURRAM VENKATESH",
@@ -5089,7 +5089,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16561573",
-   "VC NO": "1331700613",
+   "VC No": "1331700613",
    "LCO ID": 39627,
    "CARD NO": "216",
    "NAME": "PARISHIKA RAMBABU",
@@ -5100,7 +5100,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15226292",
-   "VC NO": "1330158791",
+   "VC No": "1330158791",
    "LCO ID": 39627,
    "CARD NO": "217",
    "NAME": "MADAKAM CHENNAIHA",
@@ -5111,7 +5111,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15902223",
-   "VC NO": "1331431149",
+   "VC No": "1331431149",
    "LCO ID": 39627,
    "CARD NO": "218",
    "NAME": "VARASA BASAKAR",
@@ -5122,7 +5122,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "10478115",
-   "VC NO": "1766198605",
+   "VC No": "1766198605",
    "LCO ID": 39627,
    "CARD NO": "219",
    "NAME": "PAYAM MUTHAYALAKKA",
@@ -5133,7 +5133,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501586",
-   "VC NO": "1769332934",
+   "VC No": "1769332934",
    "LCO ID": 39627,
    "CARD NO": "220",
    "NAME": "VARASA PADAGAIAH",
@@ -5144,7 +5144,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501582",
-   "VC NO": "1769332935",
+   "VC No": "1769332935",
    "LCO ID": 39627,
    "CARD NO": "221",
    "NAME": "SARIYAM RAMESH",
@@ -5155,7 +5155,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "0box undhi",
+   "VC No": "0box undhi",
    "LCO ID": 39627,
    "CARD NO": "221/A",
    "NAME": "SARIYAM LALAIAH",
@@ -5166,7 +5166,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "1769597867",
+   "VC No": "1769597867",
    "LCO ID": 39627,
    "CARD NO": "222",
    "NAME": "SARIYAM NAGESH",
@@ -5177,7 +5177,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501536",
-   "VC NO": "1769332931",
+   "VC No": "1769332931",
    "LCO ID": 39627,
    "CARD NO": "223",
    "NAME": "VARSA NAGA MALLESU",
@@ -5188,7 +5188,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13009004",
-   "VC NO": "1768385090",
+   "VC No": "1768385090",
    "LCO ID": 39627,
    "CARD NO": "224",
    "NAME": "VARSA RAJULU",
@@ -5199,7 +5199,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "0box undhi",
+   "VC No": "0box undhi",
    "LCO ID": 39627,
    "CARD NO": "225",
    "NAME": "KURSAM VENKATESWARLU",
@@ -5210,7 +5210,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15226287",
-   "VC NO": "1330158793",
+   "VC No": "1330158793",
    "LCO ID": 39627,
    "CARD NO": "226",
    "NAME": "SAREYAM SATYAM",
@@ -5221,7 +5221,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15901592",
-   "VC NO": "1331484175",
+   "VC No": "1331484175",
    "LCO ID": 39627,
    "CARD NO": "227",
    "NAME": "SODE KONDAIYA",
@@ -5232,7 +5232,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13098240",
-   "VC NO": "1768383965",
+   "VC No": "1768383965",
    "LCO ID": 39627,
    "CARD NO": "228",
    "NAME": "SODE JAYA",
@@ -5243,7 +5243,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15226294",
-   "VC NO": "1330158792",
+   "VC No": "1330158792",
    "LCO ID": 39627,
    "CARD NO": "229",
    "NAME": "SARIYAM VENKATESH",
@@ -5254,7 +5254,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15226300",
-   "VC NO": "1330158784",
+   "VC No": "1330158784",
    "LCO ID": 39627,
    "CARD NO": "230",
    "NAME": "SARIYAM THERAPATHE RAO",
@@ -5265,7 +5265,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13247327",
-   "VC NO": "1769130880",
+   "VC No": "1769130880",
    "LCO ID": 39627,
    "CARD NO": "231",
    "NAME": "VELUPU CHENNABABU",
@@ -5276,7 +5276,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13195736",
-   "VC NO": "1768915558",
+   "VC No": "1768915558",
    "LCO ID": 39627,
    "CARD NO": "232",
    "NAME": "VELPU VENKATESH",
@@ -5287,7 +5287,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12084744",
-   "VC NO": "1767510653",
+   "VC No": "1767510653",
    "LCO ID": 39627,
    "CARD NO": "233",
    "NAME": "SONDE NARAYANA",
@@ -5298,7 +5298,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13195524",
-   "VC NO": "1768915559",
+   "VC No": "1768915559",
    "LCO ID": 39627,
    "CARD NO": "234",
    "NAME": "MEDEYAM SATYAM",
@@ -5309,7 +5309,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13195838",
-   "VC NO": "1768915560",
+   "VC No": "1768915560",
    "LCO ID": 39627,
    "CARD NO": "235",
    "NAME": "KUNJA NAGESH",
@@ -5320,7 +5320,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13008854",
-   "VC NO": "1768385105",
+   "VC No": "1768385105",
    "LCO ID": 39627,
    "CARD NO": "236",
    "NAME": "KAAKA KAMAYA",
@@ -5331,7 +5331,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13728130",
-   "VC NO": "1769597868",
+   "VC No": "1769597868",
    "LCO ID": 39627,
    "CARD NO": "237",
    "NAME": "VELUPU KAOTESH",
@@ -5342,7 +5342,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15226303",
-   "VC NO": "1330158785",
+   "VC No": "1330158785",
    "LCO ID": 39627,
    "CARD NO": "238",
    "NAME": "VELUPU VENKATESH(KOTTU)",
@@ -5353,7 +5353,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15521080",
-   "VC NO": "1330986461",
+   "VC No": "1330986461",
    "LCO ID": 39627,
    "CARD NO": "240",
    "NAME": "MADAKAM BALAKRISHNA",
@@ -5364,7 +5364,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15902230",
-   "VC NO": "1331431150",
+   "VC No": "1331431150",
    "LCO ID": 39627,
    "CARD NO": "241",
    "NAME": "KAAKA DUBAI",
@@ -5375,7 +5375,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13995591",
-   "VC NO": "1769187392",
+   "VC No": "1769187392",
    "LCO ID": 39627,
    "CARD NO": "242",
    "NAME": "VELUPU KRISHANA MURTHI",
@@ -5386,7 +5386,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "17153146",
-   "VC NO": "1331699141",
+   "VC No": "1331699141",
    "LCO ID": 39627,
    "CARD NO": "243",
    "NAME": "IRAPA GIRI",
@@ -5397,7 +5397,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16573398",
-   "VC NO": "1331698977",
+   "VC No": "1331698977",
    "LCO ID": 39627,
    "CARD NO": "244",
    "NAME": "IRAPA VERABADARAM",
@@ -5408,7 +5408,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12989584",
-   "VC NO": "1768385313",
+   "VC No": "1768385313",
    "LCO ID": 39627,
    "CARD NO": "245",
    "NAME": "IRAPA SARAMMA",
@@ -5419,7 +5419,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "14040301",
-   "VC NO": "1769186008",
+   "VC No": "1769186008",
    "LCO ID": 39627,
    "CARD NO": "246",
    "NAME": "THURRAM KRISHNA MURTHI",
@@ -5430,7 +5430,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13052602",
-   "VC NO": "1768385391",
+   "VC No": "1768385391",
    "LCO ID": 39627,
    "CARD NO": "247",
    "NAME": "VELUPU NAGARAJU",
@@ -5441,7 +5441,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15901606",
-   "VC NO": "1331484182",
+   "VC No": "1331484182",
    "LCO ID": 39627,
    "CARD NO": "248",
    "NAME": "PAYAM VENKANNA",
@@ -5452,7 +5452,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15855886",
-   "VC NO": "1331358788",
+   "VC No": "1331358788",
    "LCO ID": 39627,
    "CARD NO": "249",
    "NAME": "APAKA PAPARAO",
@@ -5463,7 +5463,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501577",
-   "VC NO": "1769332936",
+   "VC No": "1769332936",
    "LCO ID": 39627,
    "CARD NO": "250",
    "NAME": "VELUPU JEMUS",
@@ -5474,7 +5474,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "0wrong num",
+   "VC No": "0wrong num",
    "LCO ID": 39627,
    "CARD NO": "251",
    "NAME": "SODE VERRAJU",
@@ -5485,7 +5485,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15463148",
-   "VC NO": "1331030292",
+   "VC No": "1331030292",
    "LCO ID": 39627,
    "CARD NO": "252",
    "NAME": "VELUPU NAGARAJU",
@@ -5496,7 +5496,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20189378",
-   "VC NO": "2516187816",
+   "VC No": "2516187816",
    "LCO ID": 39627,
    "CARD NO": "253",
    "NAME": "SAREYAM VENKATAMMA",
@@ -5507,7 +5507,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12455161",
-   "VC NO": "1768481922",
+   "VC No": "1768481922",
    "LCO ID": 39627,
    "CARD NO": "254",
    "NAME": "KAAKA RAMAIAH",
@@ -5518,7 +5518,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15521161",
-   "VC NO": "1330986454",
+   "VC No": "1330986454",
    "LCO ID": 39627,
    "CARD NO": "255",
    "NAME": "VELUPU SARAIAH",
@@ -5529,7 +5529,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21637338",
-   "VC NO": "2520426936",
+   "VC No": "2520426936",
    "LCO ID": 39627,
    "CARD NO": "256",
    "NAME": "KANITHI RAMESH",
@@ -5540,7 +5540,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12990390",
-   "VC NO": "1768383987",
+   "VC No": "1768383987",
    "LCO ID": 39627,
    "CARD NO": "257",
    "NAME": "VELUPU PEDHA VENKATESWARLU",
@@ -5551,7 +5551,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20714450",
-   "VC NO": "2520450001",
+   "VC No": "2520450001",
    "LCO ID": 39627,
    "CARD NO": "258",
    "NAME": "PADHAM RAMAKRISHANA",
@@ -5562,7 +5562,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22138148",
-   "VC NO": "2520447770",
+   "VC No": "2520447770",
    "LCO ID": 39627,
    "CARD NO": "259",
    "NAME": "VARSA TIRAPATHI RAO",
@@ -5573,7 +5573,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20361613",
-   "VC NO": "2516176996",
+   "VC No": "2516176996",
    "LCO ID": 39627,
    "CARD NO": "260",
    "NAME": "PADDAM MUTTAMMA",
@@ -5584,7 +5584,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20385441",
-   "VC NO": "2516001212",
+   "VC No": "2516001212",
    "LCO ID": 39627,
    "CARD NO": "261",
    "NAME": "KORSA HARISH",
@@ -5595,7 +5595,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21985577",
-   "VC NO": "2520444168",
+   "VC No": "2520444168",
    "LCO ID": 39627,
    "CARD NO": "262",
    "NAME": "PADDAM SURIBABU",
@@ -5606,7 +5606,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21845627",
-   "VC NO": "2520457289",
+   "VC No": "2520457289",
    "LCO ID": 39627,
    "CARD NO": "263",
    "NAME": "PADDAM SRINU",
@@ -5617,7 +5617,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22057021",
-   "VC NO": "2520447673",
+   "VC No": "2520447673",
    "LCO ID": 39627,
    "CARD NO": "264",
    "NAME": "SARIYAM KOTESH",
@@ -5628,7 +5628,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22018002",
-   "VC NO": "2520444088",
+   "VC No": "2520444088",
    "LCO ID": 39627,
    "CARD NO": "265",
    "NAME": "PADDAM NAGARAJU",
@@ -5639,7 +5639,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20368397",
-   "VC NO": "2516177017",
+   "VC No": "2516177017",
    "LCO ID": 39627,
    "CARD NO": "266",
    "NAME": "PADDAM KRISHNAMURTHI",
@@ -5650,7 +5650,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "14063485",
-   "VC NO": "1769187250",
+   "VC No": "1769187250",
    "LCO ID": 39627,
    "CARD NO": "267",
    "NAME": "KALLURI NARSAMMA",
@@ -5661,7 +5661,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13195723",
-   "VC NO": "1768915557",
+   "VC No": "1768915557",
    "LCO ID": 39627,
    "CARD NO": "268",
    "NAME": "VELPULA NARASHIMHARAO",
@@ -5672,7 +5672,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21504589",
-   "VC NO": "2520445102",
+   "VC No": "2520445102",
    "LCO ID": 39627,
    "CARD NO": "269",
    "NAME": "TELLAM SATHISH",
@@ -5683,7 +5683,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12990264",
-   "VC NO": "1768384006",
+   "VC No": "1768384006",
    "LCO ID": 39627,
    "CARD NO": "269.A",
    "NAME": "VELPU MASTAN",
@@ -5694,7 +5694,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22121636",
-   "VC NO": "2520447695",
+   "VC No": "2520447695",
    "LCO ID": 39627,
    "CARD NO": "270",
    "NAME": "VELPULA TIRAPATAMMA",
@@ -5705,7 +5705,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13008876",
-   "VC NO": "1768385103",
+   "VC No": "1768385103",
    "LCO ID": 39627,
    "CARD NO": "271",
    "NAME": "PADDAM DULAMMA",
@@ -5716,7 +5716,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20461922",
-   "VC NO": "2516001225",
+   "VC No": "2516001225",
    "LCO ID": 39627,
    "CARD NO": "272",
    "NAME": "CHAPA SUSHILA",
@@ -5727,7 +5727,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20368371",
-   "VC NO": "2516177014",
+   "VC No": "2516177014",
    "LCO ID": 39627,
    "CARD NO": "273",
    "NAME": "PADDAM LAXMINARSHI",
@@ -5738,7 +5738,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15463244",
-   "VC NO": "1331030285",
+   "VC No": "1331030285",
    "LCO ID": 39627,
    "CARD NO": "274",
    "NAME": "SOYAM PRASANTH",
@@ -5749,7 +5749,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20246079",
-   "VC NO": "2517313932",
+   "VC No": "2517313932",
    "LCO ID": 39627,
    "CARD NO": "275",
    "NAME": "KURAPADU",
@@ -5760,7 +5760,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20368382",
-   "VC NO": "2516177001",
+   "VC No": "2516177001",
    "LCO ID": 39627,
    "CARD NO": "276",
    "NAME": "PADDAM VENU",
@@ -5771,7 +5771,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20368418",
-   "VC NO": "2516177024",
+   "VC No": "2516177024",
    "LCO ID": 39627,
    "CARD NO": "277",
    "NAME": "PADDAM BALARAJU",
@@ -5782,7 +5782,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20385434",
-   "VC NO": "2516001209",
+   "VC No": "2516001209",
    "LCO ID": 39627,
    "CARD NO": "278",
    "NAME": "PADDAM SATYANARAYANA",
@@ -5793,7 +5793,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22057203",
-   "VC NO": "2520447723",
+   "VC No": "2520447723",
    "LCO ID": 39627,
    "CARD NO": "279",
    "NAME": "PADDAM BABU RAO",
@@ -5804,7 +5804,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20461906",
-   "VC NO": "2516001227",
+   "VC No": "2516001227",
    "LCO ID": 39627,
    "CARD NO": "280",
    "NAME": "PENUBALLI VENKATESH",
@@ -5815,7 +5815,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22017997",
-   "VC NO": "2520447642",
+   "VC No": "2520447642",
    "LCO ID": 39627,
    "CARD NO": "281",
    "NAME": "PADDAM RAMAKRISHNA",
@@ -5826,7 +5826,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20368410",
-   "VC NO": "2516177011",
+   "VC No": "2516177011",
    "LCO ID": 39627,
    "CARD NO": "282",
    "NAME": "PADDAM CHANDRAKALA",
@@ -5837,7 +5837,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13237264",
-   "VC NO": "1769130842",
+   "VC No": "1769130842",
    "LCO ID": 39627,
    "CARD NO": "283",
    "NAME": "KUNJA JOGARAO",
@@ -5848,7 +5848,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13486941",
-   "VC NO": "1769094473",
+   "VC No": "1769094473",
    "LCO ID": 39627,
    "CARD NO": "284",
    "NAME": "MURRAM VENKATESH",
@@ -5859,7 +5859,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13485595",
-   "VC NO": "1769094510",
+   "VC No": "1769094510",
    "LCO ID": 42112,
    "CARD NO": "1",
    "NAME": "THATINENI RAJENDRA PRASAD",
@@ -5870,7 +5870,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21821589",
-   "VC NO": "2520457368",
+   "VC No": "2520457368",
    "LCO ID": 42112,
    "CARD NO": "2",
    "NAME": "POLAGANI NARASIMHA CHARY",
@@ -5881,7 +5881,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21100019",
-   "VC NO": "2520450624",
+   "VC No": "2520450624",
    "LCO ID": 42112,
    "CARD NO": "4",
    "NAME": "KANUKU RANJITH",
@@ -5892,7 +5892,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21680854",
-   "VC NO": "2520450301",
+   "VC No": "2520450301",
    "LCO ID": 42112,
    "CARD NO": "3",
    "NAME": "METLA VENKATESWARLU",
@@ -5903,7 +5903,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12989623",
-   "VC NO": "1768385307",
+   "VC No": "1768385307",
    "LCO ID": 42112,
    "CARD NO": "5",
    "NAME": "AMARAVADI SANKAR",
@@ -5914,7 +5914,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "17005803",
-   "VC NO": "1331698244",
+   "VC No": "1331698244",
    "LCO ID": 42112,
    "CARD NO": "6",
    "NAME": "DURUSOJU NAGAMANI",
@@ -5925,7 +5925,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16273635",
-   "VC NO": "1331697856",
+   "VC No": "1331697856",
    "LCO ID": 42112,
    "CARD NO": "7",
    "NAME": "KOLAGANI LAXMANACHARI",
@@ -5936,7 +5936,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13486433",
-   "VC NO": "1769094509",
+   "VC No": "1769094509",
    "LCO ID": 42112,
    "CARD NO": "9",
    "NAME": "PAYALA JAYARAM",
@@ -5947,7 +5947,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15465304",
-   "VC NO": "1330926638",
+   "VC No": "1330926638",
    "LCO ID": 42112,
    "CARD NO": "10",
    "NAME": "AMAR SINGH",
@@ -5958,7 +5958,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13167937",
-   "VC NO": "1769148558",
+   "VC No": "1769148558",
    "LCO ID": 42112,
    "CARD NO": "12",
    "NAME": "BULIPALLI LAXMINARAYANAREDDY(26.4.17)",
@@ -5969,7 +5969,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501862",
-   "VC NO": "1769332942",
+   "VC No": "1769332942",
    "LCO ID": 42112,
    "CARD NO": "13",
    "NAME": "AMARAVADI KRUSHNAMACHARI",
@@ -5980,7 +5980,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "14974601",
-   "VC NO": "1767283977",
+   "VC No": "1767283977",
    "LCO ID": 42112,
    "CARD NO": "14",
    "NAME": "PONUGUPATI VEKATESWARLLU",
@@ -5991,7 +5991,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13486480",
-   "VC NO": "1769094489",
+   "VC No": "1769094489",
    "LCO ID": 42112,
    "CARD NO": "15",
    "NAME": "RACHAKONDA DANALAXMI",
@@ -6002,7 +6002,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13091173",
-   "VC NO": "1769249899",
+   "VC No": "1769249899",
    "LCO ID": 42112,
    "CARD NO": "17",
    "NAME": "PONUGUPATI LAXMAN",
@@ -6013,7 +6013,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15850842",
-   "VC NO": "1331503082",
+   "VC No": "1331503082",
    "LCO ID": 42112,
    "CARD NO": "18",
    "NAME": "CHENCHALAPURI AKUL",
@@ -6024,7 +6024,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "17161162",
-   "VC NO": "1331699959",
+   "VC No": "1331699959",
    "LCO ID": 42112,
    "CARD NO": "19",
    "NAME": "SUNKURI MURALI(POLICE)100",
@@ -6035,7 +6035,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15062703",
-   "VC NO": "1330920734",
+   "VC No": "1330920734",
    "LCO ID": 42112,
    "CARD NO": "20",
    "NAME": "SUNKURI KRUSHNARJUNRAO",
@@ -6046,7 +6046,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13502136",
-   "VC NO": "1769333431",
+   "VC No": "1769333431",
    "LCO ID": 42112,
    "CARD NO": "21.A",
    "NAME": "maloth ramakrishna",
@@ -6057,7 +6057,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13486451",
-   "VC NO": "1769094514",
+   "VC No": "1769094514",
    "LCO ID": 42112,
    "CARD NO": "22",
    "NAME": "NIMMAGADDA SRENIVASRAO",
@@ -6068,7 +6068,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13485591",
-   "VC NO": "1769094516",
+   "VC No": "1769094516",
    "LCO ID": 42112,
    "CARD NO": "23",
    "NAME": "SUNKARI RAMU",
@@ -6079,7 +6079,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "14974613",
-   "VC NO": "1767283972",
+   "VC No": "1767283972",
    "LCO ID": 42112,
    "CARD NO": "25",
    "NAME": "GATASALA SUBBARAO",
@@ -6090,7 +6090,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15901671",
-   "VC NO": "1331484476",
+   "VC No": "1331484476",
    "LCO ID": 42112,
    "CARD NO": "27",
    "NAME": "BULLIPALLI RANGAREDDY",
@@ -6101,7 +6101,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501865",
-   "VC NO": "1769332941",
+   "VC No": "1769332941",
    "LCO ID": 42112,
    "CARD NO": "29",
    "NAME": "KANUKU NAGARAJU",
@@ -6112,7 +6112,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "14974608",
-   "VC NO": "1767283974",
+   "VC No": "1767283974",
    "LCO ID": 42112,
    "CARD NO": "30",
    "NAME": "kothapalli krishnaveni",
@@ -6123,7 +6123,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496432",
-   "VC NO": "1769420011",
+   "VC No": "1769420011",
    "LCO ID": 42112,
    "CARD NO": "31",
    "NAME": "KOTHAPALLI RAMAKRISHNA",
@@ -6134,7 +6134,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "14038165",
-   "VC NO": "1769187357",
+   "VC No": "1769187357",
    "LCO ID": 42112,
    "CARD NO": "32",
    "NAME": "NANDYALA VENKATRAO",
@@ -6145,7 +6145,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16273622",
-   "VC NO": "1331697860",
+   "VC No": "1331697860",
    "LCO ID": 42112,
    "CARD NO": "33",
    "NAME": "SURASANI PRABAVATHI",
@@ -6156,7 +6156,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12989324",
-   "VC NO": "1768385325",
+   "VC No": "1768385325",
    "LCO ID": 42112,
    "CARD NO": "34",
    "NAME": "JAKKULA VIJAYRAO",
@@ -6167,7 +6167,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15427289",
-   "VC NO": "1330158502",
+   "VC No": "1330158502",
    "LCO ID": 42112,
    "CARD NO": "35",
    "NAME": "PAMBI VENKATESWARLLU(MANGALA)",
@@ -6178,7 +6178,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496425",
-   "VC NO": "1769420010",
+   "VC No": "1769420010",
    "LCO ID": 42112,
    "CARD NO": "36",
    "NAME": "S.VENKATALAXMI(HOTEL)",
@@ -6189,7 +6189,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496189",
-   "VC NO": "1769420014",
+   "VC No": "1769420014",
    "LCO ID": 42112,
    "CARD NO": "40",
    "NAME": "PUJARI NAVEEN",
@@ -6200,7 +6200,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13086326",
-   "VC NO": "1769148599",
+   "VC No": "1769148599",
    "LCO ID": 42112,
    "CARD NO": "41",
    "NAME": "PUJARI MUTHALARAO",
@@ -6211,7 +6211,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15901815",
-   "VC NO": "1331358860",
+   "VC No": "1331358860",
    "LCO ID": 42112,
    "CARD NO": "42",
    "NAME": "KARRI VEERASWAMI",
@@ -6222,7 +6222,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15901796",
-   "VC NO": "1331358857",
+   "VC No": "1331358857",
    "LCO ID": 42112,
    "CARD NO": "42.A",
    "NAME": "PONAMANDI YESU",
@@ -6233,7 +6233,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16737202",
-   "VC NO": "1331698967",
+   "VC No": "1331698967",
    "LCO ID": 42112,
    "CARD NO": "43",
    "NAME": "PUNUMADI NAGESH",
@@ -6244,7 +6244,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16737187",
-   "VC NO": "1331698965",
+   "VC No": "1331698965",
    "LCO ID": 42112,
    "CARD NO": "45",
    "NAME": "PUJARI SATHYAM",
@@ -6255,7 +6255,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501875",
-   "VC NO": "1769332939",
+   "VC No": "1769332939",
    "LCO ID": 42112,
    "CARD NO": "46",
    "NAME": "RAMBABU(HOTEL)",
@@ -6266,7 +6266,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501828",
-   "VC NO": "1769332946",
+   "VC No": "1769332946",
    "LCO ID": 42112,
    "CARD NO": "49",
    "NAME": "M.D.BUTTO",
@@ -6277,7 +6277,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16273576",
-   "VC NO": "1331697863",
+   "VC No": "1331697863",
    "LCO ID": 42112,
    "CARD NO": "52",
    "NAME": "NALLA PEDDAKAPU",
@@ -6288,7 +6288,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15423611",
-   "VC NO": "1330158494",
+   "VC No": "1330158494",
    "LCO ID": 42112,
    "CARD NO": "53",
    "NAME": "PILLI RAMAKRISHNA",
@@ -6299,7 +6299,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501852",
-   "VC NO": "1769332943",
+   "VC No": "1769332943",
    "LCO ID": 42112,
    "CARD NO": "54",
    "NAME": "VEERAMACHANENI VINIL",
@@ -6310,7 +6310,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "14974584",
-   "VC NO": "1767283980",
+   "VC No": "1767283980",
    "LCO ID": 42112,
    "CARD NO": "56",
    "NAME": "RACHAKONDA VISVESH",
@@ -6321,7 +6321,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15388436",
-   "VC NO": "1331030069",
+   "VC No": "1331030069",
    "LCO ID": 42112,
    "CARD NO": "57",
    "NAME": "SHEK MEERA PASHA(1.10.16",
@@ -6332,7 +6332,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501870",
-   "VC NO": "1769332940",
+   "VC No": "1769332940",
    "LCO ID": 42112,
    "CARD NO": "58",
    "NAME": "SHEK KHAJA",
@@ -6343,7 +6343,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13486424",
-   "VC NO": "1769094507",
+   "VC No": "1769094507",
    "LCO ID": 42112,
    "CARD NO": "60",
    "NAME": "KODUNURI RAMESH",
@@ -6354,7 +6354,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "0",
+   "VC No": "0",
    "LCO ID": 42112,
    "CARD NO": "61",
    "NAME": "SHEK SHABEER(sravan)",
@@ -6365,7 +6365,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15843487",
-   "VC NO": "1331503083",
+   "VC No": "1331503083",
    "LCO ID": 42112,
    "CARD NO": "62",
    "NAME": "RAVULOJU RAJANNA",
@@ -6376,7 +6376,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16113767",
-   "VC NO": "1331431487",
+   "VC No": "1331431487",
    "LCO ID": 42112,
    "CARD NO": "63",
    "NAME": "SUDIREDDY DEVADASU",
@@ -6387,7 +6387,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "0",
+   "VC No": "0",
    "LCO ID": 42112,
    "CARD NO": "64",
    "NAME": "SUDIREDDY RAJU",
@@ -6398,7 +6398,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20215586",
-   "VC NO": "2516187825",
+   "VC No": "2516187825",
    "LCO ID": 42112,
    "CARD NO": "64.A",
    "NAME": "SUDIREDDY KRISHNAVENI",
@@ -6409,7 +6409,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21703553",
-   "VC NO": "2520439253",
+   "VC No": "2520439253",
    "LCO ID": 42112,
    "CARD NO": "65",
    "NAME": "JETTI BHADRAKELI",
@@ -6420,7 +6420,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15427322",
-   "VC NO": "1330158500",
+   "VC No": "1330158500",
    "LCO ID": 42112,
    "CARD NO": "66",
    "NAME": "KANUKU BRAHMAM",
@@ -6431,7 +6431,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13486420",
-   "VC NO": "1769094511",
+   "VC No": "1769094511",
    "LCO ID": 42112,
    "CARD NO": "69",
    "NAME": "CHENCHALA SRENU",
@@ -6442,7 +6442,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15901869",
-   "VC NO": "1331358835",
+   "VC No": "1331358835",
    "LCO ID": 42112,
    "CARD NO": "77",
    "NAME": "SUDIREDDY HARINADHREDDY",
@@ -6453,7 +6453,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501835",
-   "VC NO": "1769332945",
+   "VC No": "1769332945",
    "LCO ID": 42112,
    "CARD NO": "79",
    "NAME": "GANGULA LILAVATHI",
@@ -6464,7 +6464,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13486791",
-   "VC NO": "1769094487",
+   "VC No": "1769094487",
    "LCO ID": 42112,
    "CARD NO": "80",
    "NAME": "RAVULAPALLI RAVIKUMAR CPI",
@@ -6475,7 +6475,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13898986",
-   "VC NO": "1769494396",
+   "VC No": "1769494396",
    "LCO ID": 42112,
    "CARD NO": "80.B",
    "NAME": "KANUKU CHITTAMMA",
@@ -6486,7 +6486,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16273701",
-   "VC NO": "1331697854",
+   "VC No": "1331697854",
    "LCO ID": 42112,
    "CARD NO": "80.C",
    "NAME": "CHENCHALA KRISHNA",
@@ -6497,7 +6497,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "17005846",
-   "VC NO": "1331698246",
+   "VC No": "1331698246",
    "LCO ID": 42112,
    "CARD NO": "80.E",
    "NAME": "SIMHADRI NAGARAJU",
@@ -6508,7 +6508,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15901923",
-   "VC NO": "1331431574",
+   "VC No": "1331431574",
    "LCO ID": 42112,
    "CARD NO": "80.F",
    "NAME": "KODUMURI BANUMATHI",
@@ -6519,7 +6519,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16737202",
-   "VC NO": "1331698967",
+   "VC No": "1331698967",
    "LCO ID": 42112,
    "CARD NO": "80.G",
    "NAME": "PONAMADO VISVESH",
@@ -6530,7 +6530,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13542040",
-   "VC NO": "1769494984",
+   "VC No": "1769494984",
    "LCO ID": 42112,
    "CARD NO": "80.H",
    "NAME": "LAKAMALA SWARUPA",
@@ -6541,7 +6541,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "0",
+   "VC No": "0",
    "LCO ID": 42112,
    "CARD NO": "80.I",
    "NAME": "NARENDRA DURGHA PRASAD",
@@ -6552,7 +6552,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13250897",
-   "VC NO": "1768910089",
+   "VC No": "1768910089",
    "LCO ID": 42112,
    "CARD NO": "80.J",
    "NAME": "MATTA VENKATESWAR RAO",
@@ -6563,7 +6563,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15851418",
-   "VC NO": "1331429126",
+   "VC No": "1331429126",
    "LCO ID": 42112,
    "CARD NO": "80.M",
    "NAME": "KANUKU NAGALAXMI",
@@ -6574,7 +6574,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13066487",
-   "VC NO": "1769250921",
+   "VC No": "1769250921",
    "LCO ID": 42112,
    "CARD NO": "80.N",
    "NAME": "LAKAMALA KONDAIAH",
@@ -6585,7 +6585,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "17161225",
-   "VC NO": "1331698972",
+   "VC No": "1331698972",
    "LCO ID": 42112,
    "CARD NO": "80.O",
    "NAME": "KILIMI PRIYA HARSHA",
@@ -6596,7 +6596,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16273652",
-   "VC NO": "1331697858",
+   "VC No": "1331697858",
    "LCO ID": 42112,
    "CARD NO": "80.P",
    "NAME": "KANUKU LAXMI NARAYANA(CHITTIBABU)",
@@ -6607,7 +6607,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "0",
+   "VC No": "0",
    "LCO ID": 42112,
    "CARD NO": "80.Q",
    "NAME": "RAVULOJU RAJESWARACHARY",
@@ -6618,7 +6618,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "17005777",
-   "VC NO": "1331698248",
+   "VC No": "1331698248",
    "LCO ID": 42112,
    "CARD NO": "82",
    "NAME": "KANUKU RAMBABU",
@@ -6629,7 +6629,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16113756",
-   "VC NO": "1331431485",
+   "VC No": "1331431485",
    "LCO ID": 42112,
    "CARD NO": "83",
    "NAME": "KANUKU VENKANNA",
@@ -6640,7 +6640,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15207380",
-   "VC NO": "1331073239",
+   "VC No": "1331073239",
    "LCO ID": 42112,
    "CARD NO": "84",
    "NAME": "KANUKU VENKATARAMAYA",
@@ -6651,7 +6651,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13486428",
-   "VC NO": "1769094508",
+   "VC No": "1769094508",
    "LCO ID": 42112,
    "CARD NO": "86",
    "NAME": "KANUKU KANAKARAO(durgha prasad)",
@@ -6662,7 +6662,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16737178",
-   "VC NO": "1331698964",
+   "VC No": "1331698964",
    "LCO ID": 42112,
    "CARD NO": "87",
    "NAME": "KANUKU VAMSIKRISHNA",
@@ -6673,7 +6673,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13167976",
-   "VC NO": "1769251175",
+   "VC No": "1769251175",
    "LCO ID": 42112,
    "CARD NO": "92",
    "NAME": "KANUKU MUTHAIH",
@@ -6684,7 +6684,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13311017",
-   "VC NO": "1768910129",
+   "VC No": "1768910129",
    "LCO ID": 42112,
    "CARD NO": "94",
    "NAME": "KANUKU RAJU",
@@ -6695,7 +6695,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13032497",
-   "VC NO": "1769148742",
+   "VC No": "1769148742",
    "LCO ID": 42112,
    "CARD NO": "97",
    "NAME": "OBINENI NARSIMHARAO",
@@ -6706,7 +6706,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15901856",
-   "VC NO": "1331358843",
+   "VC No": "1331358843",
    "LCO ID": 42112,
    "CARD NO": "99",
    "NAME": "KANUKU CHINI VENKAIH(narsimha rao)",
@@ -6717,7 +6717,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496377",
-   "VC NO": "1769420016",
+   "VC No": "1769420016",
    "LCO ID": 42112,
    "CARD NO": "117",
    "NAME": "KANUKU NARSIMHARAO(node)",
@@ -6728,7 +6728,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16111865",
-   "VC NO": "1331431490",
+   "VC No": "1331431490",
    "LCO ID": 42112,
    "CARD NO": "120",
    "NAME": "SETTI SRENU(nagamani)",
@@ -6739,7 +6739,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501844",
-   "VC NO": "1769332944",
+   "VC No": "1769332944",
    "LCO ID": 42112,
    "CARD NO": "121",
    "NAME": "KOTHA VENKATESWARLLU",
@@ -6750,7 +6750,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15423628",
-   "VC NO": "1330158501",
+   "VC No": "1330158501",
    "LCO ID": 42112,
    "CARD NO": "124",
    "NAME": "SETTI VENKATESWARLLU",
@@ -6761,7 +6761,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15448643",
-   "VC NO": "1330117332",
+   "VC No": "1330117332",
    "LCO ID": 42112,
    "CARD NO": "125",
    "NAME": "SETTI VENKATARATHNAM",
@@ -6772,7 +6772,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20295105",
-   "VC NO": "2516028138",
+   "VC No": "2516028138",
    "LCO ID": 42112,
    "CARD NO": "125.A",
    "NAME": "VADIGA SAJAY",
@@ -6783,7 +6783,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16275142",
-   "VC NO": "1331697855",
+   "VC No": "1331697855",
    "LCO ID": 42112,
    "CARD NO": "126",
    "NAME": "PUTTI DEVARAJU",
@@ -6794,7 +6794,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20019595",
-   "VC NO": "2515890214",
+   "VC No": "2515890214",
    "LCO ID": 42112,
    "CARD NO": "127",
    "NAME": "PUTTI PRASAD",
@@ -6805,7 +6805,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13008891",
-   "VC NO": "1768385102",
+   "VC No": "1768385102",
    "LCO ID": 42112,
    "CARD NO": "128",
    "NAME": "DEGALA VASANTHRAO",
@@ -6816,7 +6816,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "14930860",
-   "VC NO": "1330299601",
+   "VC No": "1330299601",
    "LCO ID": 42112,
    "CARD NO": "129",
    "NAME": "DEGALA BAVANI(RAIPUDE RAMU)",
@@ -6827,7 +6827,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16113744",
-   "VC NO": "1331431492",
+   "VC No": "1331431492",
    "LCO ID": 42112,
    "CARD NO": "132",
    "NAME": "DEGALA BASHKER 15.3.17",
@@ -6838,7 +6838,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13548148",
-   "VC NO": "1769495175",
+   "VC No": "1769495175",
    "LCO ID": 42112,
    "CARD NO": "133",
    "NAME": "DEGALA RAMARAO(28.9.16",
@@ -6849,7 +6849,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15427302",
-   "VC NO": "1330158496",
+   "VC No": "1330158496",
    "LCO ID": 42112,
    "CARD NO": "134",
    "NAME": "DEGALA SUDAKAR(5.9.16",
@@ -6860,7 +6860,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15862493",
-   "VC NO": "1331429132",
+   "VC No": "1331429132",
    "LCO ID": 42112,
    "CARD NO": "135",
    "NAME": "DEGALA SHAKER(VARALAXMI)",
@@ -6871,7 +6871,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13327811",
-   "VC NO": "1768909461",
+   "VC No": "1768909461",
    "LCO ID": 42112,
    "CARD NO": "136",
    "NAME": "DEGALA VIJAYRAO",
@@ -6882,7 +6882,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15427293",
-   "VC NO": "1330158503",
+   "VC No": "1330158503",
    "LCO ID": 42112,
    "CARD NO": "137",
    "NAME": "DEGALA SALMANRAJ",
@@ -6893,7 +6893,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15427297",
-   "VC NO": "1330158499",
+   "VC No": "1330158499",
    "LCO ID": 42112,
    "CARD NO": "138",
    "NAME": "DEGALA VINODRAO(CHANTI)NODE",
@@ -6904,7 +6904,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13548109",
-   "VC NO": "1769495174",
+   "VC No": "1769495174",
    "LCO ID": 42112,
    "CARD NO": "139",
    "NAME": "NARENDRA RAJU(RAMADEVI)",
@@ -6915,7 +6915,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13008978",
-   "VC NO": "1768385094",
+   "VC No": "1768385094",
    "LCO ID": 42112,
    "CARD NO": "140",
    "NAME": "NAREDRA SHAKER",
@@ -6926,7 +6926,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "14930873",
-   "VC NO": "1330299603",
+   "VC No": "1330299603",
    "LCO ID": 42112,
    "CARD NO": "141",
    "NAME": "NARENDRA BASHKER",
@@ -6937,7 +6937,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "17161203",
-   "VC NO": "1331698969",
+   "VC No": "1331698969",
    "LCO ID": 42112,
    "CARD NO": "142",
    "NAME": "JETTI RAJENDRAM",
@@ -6948,7 +6948,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13087148",
-   "VC NO": "1769251052",
+   "VC No": "1769251052",
    "LCO ID": 42112,
    "CARD NO": "143",
    "NAME": "JETTI RAJESH",
@@ -6959,7 +6959,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15427313",
-   "VC NO": "1330158497",
+   "VC No": "1330158497",
    "LCO ID": 42112,
    "CARD NO": "145",
    "NAME": "DEGALA VARAM",
@@ -6970,7 +6970,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15448714",
-   "VC NO": "1330117328",
+   "VC No": "1330117328",
    "LCO ID": 42112,
    "CARD NO": "146",
    "NAME": "DEGALA LAXMAN",
@@ -6981,7 +6981,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15448650",
-   "VC NO": "1330117325",
+   "VC No": "1330117325",
    "LCO ID": 42112,
    "CARD NO": "147",
    "NAME": "DEGALA RAJU",
@@ -6992,7 +6992,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15448614",
-   "VC NO": "1330117330",
+   "VC No": "1330117330",
    "LCO ID": 42112,
    "CARD NO": "148",
    "NAME": "DEGALA RAMADEVI",
@@ -7003,7 +7003,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15448669",
-   "VC NO": "1330117324",
+   "VC No": "1330117324",
    "LCO ID": 42112,
    "CARD NO": "150",
    "NAME": "SIDDI NARASIMHARAO",
@@ -7014,7 +7014,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16113738",
-   "VC NO": "1331431491",
+   "VC No": "1331431491",
    "LCO ID": 42112,
    "CARD NO": "154",
    "NAME": "SIDDI SRERAMULU",
@@ -7025,7 +7025,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15448632",
-   "VC NO": "1330117329",
+   "VC No": "1330117329",
    "LCO ID": 42112,
    "CARD NO": "155",
    "NAME": "DEGALA MOHANRAO",
@@ -7036,7 +7036,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15448575",
-   "VC NO": "1330117331",
+   "VC No": "1330117331",
    "LCO ID": 42112,
    "CARD NO": "156",
    "NAME": "DEGALA SUVARNARAO",
@@ -7047,7 +7047,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15448675",
-   "VC NO": "1330117333",
+   "VC No": "1330117333",
    "LCO ID": 42112,
    "CARD NO": "158",
    "NAME": "DEGALA KAMALAMMA",
@@ -7058,7 +7058,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16113733",
-   "VC NO": "1331431489",
+   "VC No": "1331431489",
    "LCO ID": 42112,
    "CARD NO": "159",
    "NAME": "JETTI RADHA(pullaku)",
@@ -7069,7 +7069,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501880",
-   "VC NO": "1769332938",
+   "VC No": "1769332938",
    "LCO ID": 42112,
    "CARD NO": "160",
    "NAME": "SETTI VENKATRAO",
@@ -7080,7 +7080,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "17161234",
-   "VC NO": "1331698973",
+   "VC No": "1331698973",
    "LCO ID": 42112,
    "CARD NO": "161",
    "NAME": "SETTI TIRUPATHIRAO",
@@ -7091,7 +7091,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "17161212",
-   "VC NO": "1331698970",
+   "VC No": "1331698970",
    "LCO ID": 42112,
    "CARD NO": "164",
    "NAME": "MARELLA RADHA",
@@ -7102,7 +7102,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "14974591",
-   "VC NO": "1767283979",
+   "VC No": "1767283979",
    "LCO ID": 42112,
    "CARD NO": "165",
    "NAME": "KOTHA RAMULU(SRINU)",
@@ -7113,7 +7113,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16113754",
-   "VC NO": "1331431484",
+   "VC No": "1331431484",
    "LCO ID": 42112,
    "CARD NO": "166",
    "NAME": "MACHARLA VENKATESWARLLU",
@@ -7124,7 +7124,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20592675",
-   "VC NO": "2520437010",
+   "VC No": "2520437010",
    "LCO ID": 42112,
    "CARD NO": "168",
    "NAME": "DEGALA SURYAVATHI",
@@ -7135,7 +7135,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15901899",
-   "VC NO": "1331431579",
+   "VC No": "1331431579",
    "LCO ID": 42112,
    "CARD NO": "169",
    "NAME": "NAREDRA PAVAN",
@@ -7146,7 +7146,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "11907130",
-   "VC NO": "1767266497",
+   "VC No": "1767266497",
    "LCO ID": 42112,
    "CARD NO": "170",
    "NAME": "NAREDRA NAGESWARRAO",
@@ -7157,7 +7157,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16113751",
-   "VC NO": "1331431493",
+   "VC No": "1331431493",
    "LCO ID": 42112,
    "CARD NO": "171",
    "NAME": "DEGALA RAMULU",
@@ -7168,7 +7168,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20361748",
-   "VC NO": "2516177060",
+   "VC No": "2516177060",
    "LCO ID": 42112,
    "CARD NO": "172.A",
    "NAME": "DEGALA SRINU",
@@ -7179,7 +7179,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16111924",
-   "VC NO": "1331431488",
+   "VC No": "1331431488",
    "LCO ID": 42112,
    "CARD NO": "173.A",
    "NAME": "NITTA PULLAKU",
@@ -7190,7 +7190,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "14974597",
-   "VC NO": "1767283978",
+   "VC No": "1767283978",
    "LCO ID": 42112,
    "CARD NO": "176",
    "NAME": "DEGALA BAKKAYA",
@@ -7201,7 +7201,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "17161218",
-   "VC NO": "1331698971",
+   "VC No": "1331698971",
    "LCO ID": 42112,
    "CARD NO": "177",
    "NAME": "DEGALA BAZAR",
@@ -7212,7 +7212,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15448663",
-   "VC NO": "1330117326",
+   "VC No": "1330117326",
    "LCO ID": 42112,
    "CARD NO": "181",
    "NAME": "DEGALA NARESH",
@@ -7223,7 +7223,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16273613",
-   "VC NO": "1331697859",
+   "VC No": "1331697859",
    "LCO ID": 42112,
    "CARD NO": "183",
    "NAME": "MUDDAMA BALASWAMI",
@@ -7234,7 +7234,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16737195",
-   "VC NO": "1331698966",
+   "VC No": "1331698966",
    "LCO ID": 42112,
    "CARD NO": "185",
    "NAME": "BOLA RADHA",
@@ -7245,7 +7245,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13502152",
-   "VC NO": "1769333430",
+   "VC No": "1769333430",
    "LCO ID": 42112,
    "CARD NO": "186",
    "NAME": "degala nagamma",
@@ -7256,7 +7256,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20592795",
-   "VC NO": "2520437007",
+   "VC No": "2520437007",
    "LCO ID": 42112,
    "CARD NO": "187",
    "NAME": "KOTHA VENKATA LAXMI",
@@ -7267,7 +7267,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21659394",
-   "VC NO": "2520427173",
+   "VC No": "2520427173",
    "LCO ID": 42112,
    "CARD NO": "188",
    "NAME": "PALAKA SUSHEELA",
@@ -7278,7 +7278,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21899976",
-   "VC NO": "2520457357",
+   "VC No": "2520457357",
    "LCO ID": 42112,
    "CARD NO": "189",
    "NAME": "Raja Ram Reddy",
@@ -7289,7 +7289,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15063594",
-   "VC NO": "1330922564",
+   "VC No": "1330922564",
    "LCO ID": 42112,
    "CARD NO": "190",
    "NAME": "Pujari surya chander rao",
@@ -7300,7 +7300,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12534070",
-   "VC NO": "1768481830",
+   "VC No": "1768481830",
    "LCO ID": 42112,
    "CARD NO": "191",
    "NAME": "DURUSOJU PADMA",
@@ -7311,7 +7311,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21367716",
-   "VC NO": "2520426571",
+   "VC No": "2520426571",
    "LCO ID": 42112,
    "CARD NO": "192",
    "NAME": "PUJARI VEERABHADRAM",
@@ -7322,7 +7322,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21667624",
-   "VC NO": "2520427135",
+   "VC No": "2520427135",
    "LCO ID": 42112,
    "CARD NO": "193",
    "NAME": "TANDAPU LAXMI",
@@ -7333,7 +7333,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21671522",
-   "VC NO": "2520450377",
+   "VC No": "2520450377",
    "LCO ID": 42112,
    "CARD NO": "194",
    "NAME": "SIDDI MALLURU",
@@ -7344,7 +7344,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22188635",
-   "VC NO": "2520426742",
+   "VC No": "2520426742",
    "LCO ID": 42112,
    "CARD NO": "195",
    "NAME": "KARRI NAGARAJU",
@@ -7355,7 +7355,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13546664",
-   "VC NO": "1769495249",
+   "VC No": "1769495249",
    "LCO ID": 42112,
    "CARD NO": "196",
    "NAME": "KODI BALAKRISHNA",
@@ -7366,7 +7366,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495902",
-   "VC NO": "1769333797",
+   "VC No": "1769333797",
    "LCO ID": 42112,
    "CARD NO": "2",
    "NAME": "BOPPANA NAGESWARRAO",
@@ -7377,7 +7377,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495892",
-   "VC NO": "1769333801",
+   "VC No": "1769333801",
    "LCO ID": 42112,
    "CARD NO": "1",
    "NAME": "MADDUKURI VIDHAYASAGAR",
@@ -7388,7 +7388,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496064",
-   "VC NO": "1769333835",
+   "VC No": "1769333835",
    "LCO ID": 42112,
    "CARD NO": "6",
    "NAME": "nakirikati pulla rao",
@@ -7399,7 +7399,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501691",
-   "VC NO": "1769332955",
+   "VC No": "1769332955",
    "LCO ID": 42112,
    "CARD NO": "3",
    "NAME": "TALLURI SATHYANARAYANA",
@@ -7410,7 +7410,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20310892",
-   "VC NO": "2516084342",
+   "VC No": "2516084342",
    "LCO ID": 42112,
    "CARD NO": "5",
    "NAME": "BOPPANA RAMAKRISHNA",
@@ -7421,7 +7421,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20745450",
-   "VC NO": "2520448154",
+   "VC No": "2520448154",
    "LCO ID": 42112,
    "CARD NO": "5.A",
    "NAME": "BOMMALAPALLI BASAMMA",
@@ -7432,7 +7432,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "1769890971",
+   "VC No": "1769890971",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "PODIYAM BHADRAMMA",
@@ -7443,7 +7443,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495957",
-   "VC NO": "1769333802",
+   "VC No": "1769333802",
    "LCO ID": 42112,
    "CARD NO": "4",
    "NAME": "BOPPANA VENKATARAMANA",
@@ -7454,7 +7454,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21981860",
-   "VC NO": "2520447426",
+   "VC No": "2520447426",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "SODE VENKATAMMA",
@@ -7465,7 +7465,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "2540426550",
+   "VC No": "2540426550",
    "LCO ID": 42112,
    "CARD NO": "13/A",
    "NAME": "SODE MUDHA",
@@ -7476,7 +7476,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495938",
-   "VC NO": "1769333834",
+   "VC No": "1769333834",
    "LCO ID": 42112,
    "CARD NO": "7",
    "NAME": "boppana venkat rao",
@@ -7487,7 +7487,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "0",
+   "VC No": "0",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "SODE RAJABABU",
@@ -7498,7 +7498,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13251633",
-   "VC NO": "1768909971",
+   "VC No": "1768909971",
    "LCO ID": 42112,
    "CARD NO": "1",
    "NAME": "PUJARI RAVANAMMA",
@@ -7509,7 +7509,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484409",
-   "VC NO": "1769419835",
+   "VC No": "1769419835",
    "LCO ID": 42112,
    "CARD NO": "2",
    "NAME": "MAHAMAD MADAR BEE",
@@ -7520,7 +7520,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484375",
-   "VC NO": "1769419836",
+   "VC No": "1769419836",
    "LCO ID": 42112,
    "CARD NO": "3",
    "NAME": "MAHAMAD JAVIDH PASHA",
@@ -7531,7 +7531,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484023",
-   "VC NO": "1769419810",
+   "VC No": "1769419810",
    "LCO ID": 42112,
    "CARD NO": "4",
    "NAME": "CHINTHAM KUSUMAKUMARI",
@@ -7542,7 +7542,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13486955",
-   "VC NO": "1769094500",
+   "VC No": "1769094500",
    "LCO ID": 42112,
    "CARD NO": "4.A",
    "NAME": "JUVVALA GANESH REDDY",
@@ -7553,7 +7553,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484203",
-   "VC NO": "1769419826",
+   "VC No": "1769419826",
    "LCO ID": 42112,
    "CARD NO": "5",
    "NAME": "MUPPANA CHANDRAMOULI",
@@ -7564,7 +7564,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484008",
-   "VC NO": "1769419812",
+   "VC No": "1769419812",
    "LCO ID": 42112,
    "CARD NO": "6",
    "NAME": "GAGURI ANANTHALAXMI",
@@ -7575,7 +7575,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484004",
-   "VC NO": "1769419809",
+   "VC No": "1769419809",
    "LCO ID": 42112,
    "CARD NO": "7",
    "NAME": "KARUKU VENKATALAXMI",
@@ -7586,7 +7586,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484198",
-   "VC NO": "1769419822",
+   "VC No": "1769419822",
    "LCO ID": 42112,
    "CARD NO": "8",
    "NAME": "KORADI NARSIMHARAO",
@@ -7597,7 +7597,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20189383",
-   "VC NO": "2516187831",
+   "VC No": "2516187831",
    "LCO ID": 42112,
    "CARD NO": "222",
    "NAME": "MANEPALLI KANCHANAMALA",
@@ -7608,7 +7608,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484406",
-   "VC NO": "1769419830",
+   "VC No": "1769419830",
    "LCO ID": 42112,
    "CARD NO": "12",
    "NAME": "KELLA KUMARI",
@@ -7619,7 +7619,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13485446",
-   "VC NO": "1769094456",
+   "VC No": "1769094456",
    "LCO ID": 42112,
    "CARD NO": "169",
    "NAME": "GOKETI APPARAO",
@@ -7630,7 +7630,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13485254",
-   "VC NO": "1769094450",
+   "VC No": "1769094450",
    "LCO ID": 42112,
    "CARD NO": "125",
    "NAME": "PILLA CHITTIBABU",
@@ -7641,7 +7641,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13066123",
-   "VC NO": "1769251076",
+   "VC No": "1769251076",
    "LCO ID": 42112,
    "CARD NO": "15",
    "NAME": "KURSAM VENKATESWARRAO",
@@ -7652,7 +7652,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13483982",
-   "VC NO": "1769419813",
+   "VC No": "1769419813",
    "LCO ID": 42112,
    "CARD NO": "22",
    "NAME": "LANKA SHIVA",
@@ -7663,7 +7663,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13483986",
-   "VC NO": "1769419814",
+   "VC No": "1769419814",
    "LCO ID": 42112,
    "CARD NO": "23",
    "NAME": "MADASU LAXMI",
@@ -7674,7 +7674,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496284",
-   "VC NO": "1769420226",
+   "VC No": "1769420226",
    "LCO ID": 42112,
    "CARD NO": "131.A",
    "NAME": "MADIREDDY NARSIMHARAO(SRIDAR)",
@@ -7685,7 +7685,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16606949",
-   "VC NO": "1331700602",
+   "VC No": "1331700602",
    "LCO ID": 42112,
    "CARD NO": "157",
    "NAME": "MUMMASANI MANGARAJU",
@@ -7696,7 +7696,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496151",
-   "VC NO": "1769420066",
+   "VC No": "1769420066",
    "LCO ID": 42112,
    "CARD NO": "32",
    "NAME": "S.K KASEEM",
@@ -7707,7 +7707,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496055",
-   "VC NO": "1769420087",
+   "VC No": "1769420087",
    "LCO ID": 42112,
    "CARD NO": "35",
    "NAME": "REPAKA DHAMODARRAO",
@@ -7718,7 +7718,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13087069",
-   "VC NO": "1769251057",
+   "VC No": "1769251057",
    "LCO ID": 42112,
    "CARD NO": "35.A",
    "NAME": "REPAKA DURGHA",
@@ -7729,7 +7729,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "1769420217",
+   "VC No": "1769420217",
    "LCO ID": 42112,
    "CARD NO": "38",
    "NAME": "KELLA SHEKAR",
@@ -7740,7 +7740,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495812",
-   "VC NO": "1769333808",
+   "VC No": "1769333808",
    "LCO ID": 42112,
    "CARD NO": "38.A",
    "NAME": "THAMARLA YASHODA(VANAMALIKA)",
@@ -7751,7 +7751,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "2520426681",
+   "VC No": "2520426681",
    "LCO ID": 42112,
    "CARD NO": "40",
    "NAME": "BASETTI RAMANA",
@@ -7762,7 +7762,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484075",
-   "VC NO": "1769419800",
+   "VC No": "1769419800",
    "LCO ID": 42112,
    "CARD NO": "44",
    "NAME": "KARRI SURESH(riportar)",
@@ -7773,7 +7773,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496427",
-   "VC NO": "1769420220",
+   "VC No": "1769420220",
    "LCO ID": 42112,
    "CARD NO": "45",
    "NAME": "MACHA VENKATARAMANA(RIPORTAR)",
@@ -7784,7 +7784,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496354",
-   "VC NO": "1769420219",
+   "VC No": "1769420219",
    "LCO ID": 42112,
    "CARD NO": "47",
    "NAME": "BAIREDDY ANASUYA",
@@ -7795,7 +7795,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496467",
-   "VC NO": "1769419971",
+   "VC No": "1769419971",
    "LCO ID": 42112,
    "CARD NO": "47.A",
    "NAME": "Arjun ram",
@@ -7806,7 +7806,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16997708",
-   "VC NO": "1331723471",
+   "VC No": "1331723471",
    "LCO ID": 42112,
    "CARD NO": "48.A",
    "NAME": "VEMULA SEETHA MAHA LAXMI",
@@ -7817,7 +7817,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13485193",
-   "VC NO": "1769094428",
+   "VC No": "1769094428",
    "LCO ID": 42112,
    "CARD NO": "50",
    "NAME": "LANKA RAMESH",
@@ -7828,7 +7828,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484094",
-   "VC NO": "1769419802",
+   "VC No": "1769419802",
    "LCO ID": 42112,
    "CARD NO": "51",
    "NAME": "NIMMA SHAKUNTHALA",
@@ -7839,7 +7839,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13485139",
-   "VC NO": "1769094429",
+   "VC No": "1769094429",
    "LCO ID": 42112,
    "CARD NO": "53",
    "NAME": "BAIREDDY SATISH(CABLE)",
@@ -7850,7 +7850,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484064",
-   "VC NO": "1769419797",
+   "VC No": "1769419797",
    "LCO ID": 42112,
    "CARD NO": "56",
    "NAME": "PODALAPALLI MANIKYAM",
@@ -7861,7 +7861,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496561",
-   "VC NO": "1769419958",
+   "VC No": "1769419958",
    "LCO ID": 42112,
    "CARD NO": "56.A",
    "NAME": "KAMMA PADMAVATHI",
@@ -7872,7 +7872,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496256",
-   "VC NO": "1769419974",
+   "VC No": "1769419974",
    "LCO ID": 42112,
    "CARD NO": "57",
    "NAME": "BORRA NUKAREDDY",
@@ -7883,7 +7883,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501704",
-   "VC NO": "1769332952",
+   "VC No": "1769332952",
    "LCO ID": 42112,
    "CARD NO": "59",
    "NAME": "KANTE PULLARAO",
@@ -7894,7 +7894,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496434",
-   "VC NO": "1769419973",
+   "VC No": "1769419973",
    "LCO ID": 42112,
    "CARD NO": "63",
    "NAME": "VADAM KRISHNA",
@@ -7905,7 +7905,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496621",
-   "VC NO": "1769419960",
+   "VC No": "1769419960",
    "LCO ID": 42112,
    "CARD NO": "64",
    "NAME": "KOMARTHI RAJINI",
@@ -7916,7 +7916,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "1769414833",
+   "VC No": "1769414833",
    "LCO ID": 42112,
    "CARD NO": "13",
    "NAME": "MUCHAPOTHULA SAIDAMMA",
@@ -7927,7 +7927,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16606949",
-   "VC NO": "1331700602",
+   "VC No": "1331700602",
    "LCO ID": 42112,
    "CARD NO": "158",
    "NAME": "SUTHI RAVULAMMA",
@@ -7938,7 +7938,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496294",
-   "VC NO": "1769420218",
+   "VC No": "1769420218",
    "LCO ID": 42112,
    "CARD NO": "72",
    "NAME": "GOURARAPU NARSIHARAO",
@@ -7949,7 +7949,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20185545",
-   "VC NO": "2516151355",
+   "VC No": "2516151355",
    "LCO ID": 42112,
    "CARD NO": "76",
    "NAME": "lanka saraswathi",
@@ -7960,7 +7960,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16367095",
-   "VC NO": "1331390409",
+   "VC No": "1331390409",
    "LCO ID": 42112,
    "CARD NO": "77",
    "NAME": "NOLLI RANI",
@@ -7971,7 +7971,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496411",
-   "VC NO": "1769420184",
+   "VC No": "1769420184",
    "LCO ID": 42112,
    "CARD NO": "78",
    "NAME": "PODALAPALLI LAXMI",
@@ -7982,7 +7982,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496747",
-   "VC NO": "1769419943",
+   "VC No": "1769419943",
    "LCO ID": 42112,
    "CARD NO": "79",
    "NAME": "MACHA KRISHAKUMARI",
@@ -7993,7 +7993,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496419",
-   "VC NO": "1769420185",
+   "VC No": "1769420185",
    "LCO ID": 42112,
    "CARD NO": "80",
    "NAME": "NOLLI VIJAYASATHYA",
@@ -8004,7 +8004,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "14973660",
-   "VC NO": "1767397034",
+   "VC No": "1767397034",
    "LCO ID": 42112,
    "CARD NO": "31",
    "NAME": "PENDYALA SATHYANARAYANA",
@@ -8015,7 +8015,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496458",
-   "VC NO": "1769420180",
+   "VC No": "1769420180",
    "LCO ID": 42112,
    "CARD NO": "83",
    "NAME": "K. Narasiharao",
@@ -8026,7 +8026,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13087088",
-   "VC NO": "1769251060",
+   "VC No": "1769251060",
    "LCO ID": 42112,
    "CARD NO": "83.A",
    "NAME": "ASMEERA BALAGI",
@@ -8037,7 +8037,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496374",
-   "VC NO": "1769420178",
+   "VC No": "1769420178",
    "LCO ID": 42112,
    "CARD NO": "84",
    "NAME": "PILLA PUDEMMA",
@@ -8048,7 +8048,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496412",
-   "VC NO": "1769420182",
+   "VC No": "1769420182",
    "LCO ID": 42112,
    "CARD NO": "85",
    "NAME": "LANKA ADILAXMI",
@@ -8059,7 +8059,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496366",
-   "VC NO": "1769420186",
+   "VC No": "1769420186",
    "LCO ID": 42112,
    "CARD NO": "85.A",
    "NAME": "MUSALI VENKANNA",
@@ -8070,7 +8070,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496567",
-   "VC NO": "1769419966",
+   "VC No": "1769419966",
    "LCO ID": 42112,
    "CARD NO": "87",
    "NAME": "KARUKU VEERAJU(VOTU)",
@@ -8081,7 +8081,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13486831",
-   "VC NO": "1769094504",
+   "VC No": "1769094504",
    "LCO ID": 42112,
    "CARD NO": "92",
    "NAME": "LANKA SRINIVAS",
@@ -8092,7 +8092,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484339",
-   "VC NO": "1769419821",
+   "VC No": "1769419821",
    "LCO ID": 42112,
    "CARD NO": "93",
    "NAME": "JAGADAM SEETHA(HOTEL)",
@@ -8103,7 +8103,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13327778",
-   "VC NO": "1768909458",
+   "VC No": "1768909458",
    "LCO ID": 42112,
    "CARD NO": "93.A",
    "NAME": "KUPPILI SATYAVATHI",
@@ -8114,7 +8114,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496730",
-   "VC NO": "1769419934",
+   "VC No": "1769419934",
    "LCO ID": 42112,
    "CARD NO": "97",
    "NAME": "GUJARATHI JOTHI",
@@ -8125,7 +8125,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496119",
-   "VC NO": "1769420093",
+   "VC No": "1769420093",
    "LCO ID": 42112,
    "CARD NO": "98",
    "NAME": "KELLA USHA RANI",
@@ -8136,7 +8136,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496727",
-   "VC NO": "1769419935",
+   "VC No": "1769419935",
    "LCO ID": 42112,
    "CARD NO": "99",
    "NAME": "LAGADAPATI SUBBARAO",
@@ -8147,7 +8147,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496719",
-   "VC NO": "1769419933",
+   "VC No": "1769419933",
    "LCO ID": 42112,
    "CARD NO": "100",
    "NAME": "KARELLA TULASIMANI",
@@ -8158,7 +8158,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "14973678",
-   "VC NO": "1767397030",
+   "VC No": "1767397030",
    "LCO ID": 42112,
    "CARD NO": "101",
    "NAME": "BAIREDDY DURGHA NAGESWARRAO",
@@ -8169,7 +8169,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501954",
-   "VC NO": "1769333383",
+   "VC No": "1769333383",
    "LCO ID": 42112,
    "CARD NO": "101.A",
    "NAME": "KOTHURI LAXMAN RAO",
@@ -8180,7 +8180,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496357",
-   "VC NO": "1769420179",
+   "VC No": "1769420179",
    "LCO ID": 42112,
    "CARD NO": "103",
    "NAME": "DEGALA DIVYA",
@@ -8191,7 +8191,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496417",
-   "VC NO": "1769420181",
+   "VC No": "1769420181",
    "LCO ID": 42112,
    "CARD NO": "104",
    "NAME": "K. Srenu vasu",
@@ -8202,7 +8202,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496460",
-   "VC NO": "1769420013",
+   "VC No": "1769420013",
    "LCO ID": 42112,
    "CARD NO": "104.A",
    "NAME": "BODIKA BADRAYA(ST HOSTAL)",
@@ -8213,7 +8213,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496120",
-   "VC NO": "1769420094",
+   "VC No": "1769420094",
    "LCO ID": 42112,
    "CARD NO": "104.B",
    "NAME": "Somili venkana",
@@ -8224,7 +8224,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501918",
-   "VC NO": "1769333378",
+   "VC No": "1769333378",
    "LCO ID": 42112,
    "CARD NO": "105",
    "NAME": "KOTA MURALIKRISHNA",
@@ -8235,7 +8235,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13485160",
-   "VC NO": "1769094433",
+   "VC No": "1769094433",
    "LCO ID": 42112,
    "CARD NO": "108",
    "NAME": "GUJARATHI KISHORE",
@@ -8246,7 +8246,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21224688",
-   "VC NO": "2520439485",
+   "VC No": "2520439485",
    "LCO ID": 42112,
    "CARD NO": "108.A",
    "NAME": "Angibabu",
@@ -8257,7 +8257,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496563",
-   "VC NO": "1769419957",
+   "VC No": "1769419957",
    "LCO ID": 42112,
    "CARD NO": "61.A",
    "NAME": "BETHAMCHERLA VENKATESWARLLU",
@@ -8268,7 +8268,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13486849",
-   "VC NO": "1769094502",
+   "VC No": "1769094502",
    "LCO ID": 42112,
    "CARD NO": "112.A",
    "NAME": "R.FLORENCE NIGHTIWELL",
@@ -8279,7 +8279,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "14973652",
-   "VC NO": "1767397035",
+   "VC No": "1767397035",
    "LCO ID": 42112,
    "CARD NO": "81",
    "NAME": "ALADI PAPARAJU",
@@ -8290,7 +8290,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13486834",
-   "VC NO": "1769094505",
+   "VC No": "1769094505",
    "LCO ID": 42112,
    "CARD NO": "114",
    "NAME": "CH.KUMARI(ST HOSTEL)",
@@ -8301,7 +8301,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13486829",
-   "VC NO": "1769094503",
+   "VC No": "1769094503",
    "LCO ID": 42112,
    "CARD NO": "115",
    "NAME": "JAGAM KOTESWARRAO",
@@ -8312,7 +8312,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "0",
+   "VC No": "0",
    "LCO ID": 42112,
    "CARD NO": "116",
    "NAME": "DANISETTI LAXMI GAGABAVANI",
@@ -8323,7 +8323,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13485449",
-   "VC NO": "1769094452",
+   "VC No": "1769094452",
    "LCO ID": 42112,
    "CARD NO": "117",
    "NAME": "KEDARI RAMOHANRAO",
@@ -8334,7 +8334,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484367",
-   "VC NO": "1769419827",
+   "VC No": "1769419827",
    "LCO ID": 42112,
    "CARD NO": "118",
    "NAME": "DANISETTI SATHYANARAYANA",
@@ -8345,7 +8345,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496749",
-   "VC NO": "1769419927",
+   "VC No": "1769419927",
    "LCO ID": 42112,
    "CARD NO": "119",
    "NAME": "JAMMAPURI RAMADEVI",
@@ -8356,7 +8356,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13485153",
-   "VC NO": "1769094430",
+   "VC No": "1769094430",
    "LCO ID": 42112,
    "CARD NO": "120",
    "NAME": "KARRI RAVENDRA KUMAR",
@@ -8367,7 +8367,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16607050",
-   "VC NO": "1331700603",
+   "VC No": "1331700603",
    "LCO ID": 42112,
    "CARD NO": "120.A",
    "NAME": "srirapu jothi",
@@ -8378,7 +8378,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13485198",
-   "VC NO": "1769094427",
+   "VC No": "1769094427",
    "LCO ID": 42112,
    "CARD NO": "121",
    "NAME": "MAHAMKALI NAGABUSHANRAO",
@@ -8389,7 +8389,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496638",
-   "VC NO": "1769419941",
+   "VC No": "1769419941",
    "LCO ID": 42112,
    "CARD NO": "121.A",
    "NAME": "JALLA RAMANA",
@@ -8400,7 +8400,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13486951",
-   "VC NO": "1769094501",
+   "VC No": "1769094501",
    "LCO ID": 42112,
    "CARD NO": "127",
    "NAME": "DANGETI SATHYANARAYANA",
@@ -8411,7 +8411,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "1769479792",
+   "VC No": "1769479792",
    "LCO ID": 42112,
    "CARD NO": "165",
    "NAME": "DALLI APPALA REDDY",
@@ -8422,7 +8422,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13486963",
-   "VC NO": "1769094497",
+   "VC No": "1769094497",
    "LCO ID": 42112,
    "CARD NO": "130",
    "NAME": "DALLI SATISHREDDY",
@@ -8433,7 +8433,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "1769649027",
+   "VC No": "1769649027",
    "LCO ID": 42112,
    "CARD NO": "130.A",
    "NAME": "THAVVA MANGAYAMMA",
@@ -8444,7 +8444,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13485472",
-   "VC NO": "1769094447",
+   "VC No": "1769094447",
    "LCO ID": 42112,
    "CARD NO": "188.A",
    "NAME": "CHAMANTHULA NAGESWARRAO",
@@ -8455,7 +8455,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496083",
-   "VC NO": "1769420095",
+   "VC No": "1769420095",
    "LCO ID": 42112,
    "CARD NO": "136",
    "NAME": "BUKYA BALAJI",
@@ -8466,7 +8466,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495828",
-   "VC NO": "1769333811",
+   "VC No": "1769333811",
    "LCO ID": 42112,
    "CARD NO": "137",
    "NAME": "SUNKARA NAGABHUSHANRAO",
@@ -8477,7 +8477,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13485465",
-   "VC NO": "1769094454",
+   "VC No": "1769094454",
    "LCO ID": 42112,
    "CARD NO": "138",
    "NAME": "CHUKKA GANESHREDDY",
@@ -8488,7 +8488,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13250819",
-   "VC NO": "1768910094",
+   "VC No": "1768910094",
    "LCO ID": 42112,
    "CARD NO": "139.A",
    "NAME": "P.LALITHA (HOSTEL)",
@@ -8499,7 +8499,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13066330",
-   "VC NO": "1769250927",
+   "VC No": "1769250927",
    "LCO ID": 42112,
    "CARD NO": "139.B",
    "NAME": "TELLAM BALAKRISHNA",
@@ -8510,7 +8510,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "1769251082",
+   "VC No": "1769251082",
    "LCO ID": 42112,
    "CARD NO": "139.C",
    "NAME": "KARUKU BADRAMMA",
@@ -8521,7 +8521,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "17161186",
-   "VC NO": "1331699956",
+   "VC No": "1331699956",
    "LCO ID": 42112,
    "CARD NO": "140",
    "NAME": "MADIREDDY HANUMATHARAO",
@@ -8532,7 +8532,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13485441",
-   "VC NO": "1769094449",
+   "VC No": "1769094449",
    "LCO ID": 42112,
    "CARD NO": "141",
    "NAME": "PILAKA VENKATRAO",
@@ -8543,7 +8543,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496122",
-   "VC NO": "1769420090",
+   "VC No": "1769420090",
    "LCO ID": 42112,
    "CARD NO": "142",
    "NAME": "KARRI SHIVAKUMAR",
@@ -8554,7 +8554,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496385",
-   "VC NO": "1769420059",
+   "VC No": "1769420059",
    "LCO ID": 42112,
    "CARD NO": "143",
    "NAME": "SUNAM LAXMI",
@@ -8565,7 +8565,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496330",
-   "VC NO": "1769420225",
+   "VC No": "1769420225",
    "LCO ID": 42112,
    "CARD NO": "144",
    "NAME": "SUNAM SAIBABU",
@@ -8576,7 +8576,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496382",
-   "VC NO": "1769420058",
+   "VC No": "1769420058",
    "LCO ID": 42112,
    "CARD NO": "145",
    "NAME": "KURSAM SRENU",
@@ -8587,7 +8587,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496483",
-   "VC NO": "1769420213",
+   "VC No": "1769420213",
    "LCO ID": 42112,
    "CARD NO": "146",
    "NAME": "YAMANA RAMBABU",
@@ -8598,7 +8598,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496347",
-   "VC NO": "1769420214",
+   "VC No": "1769420214",
    "LCO ID": 42112,
    "CARD NO": "147",
    "NAME": "SUNNAM RAJI(KANNA)",
@@ -8609,7 +8609,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496337",
-   "VC NO": "1769420223",
+   "VC No": "1769420223",
    "LCO ID": 42112,
    "CARD NO": "149",
    "NAME": "si gaaru",
@@ -8620,7 +8620,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496344",
-   "VC NO": "1769420222",
+   "VC No": "1769420222",
    "LCO ID": 42112,
    "CARD NO": "150",
    "NAME": "SODI NAGARAJU",
@@ -8631,7 +8631,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496328",
-   "VC NO": "1769420224",
+   "VC No": "1769420224",
    "LCO ID": 42112,
    "CARD NO": "151",
    "NAME": "KATUMURI SRINIVAS(RAMANA)",
@@ -8642,7 +8642,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484196",
-   "VC NO": "1769419820",
+   "VC No": "1769419820",
    "LCO ID": 42112,
    "CARD NO": "154",
    "NAME": "KATHRODI LAXMANRAO(SAKALIBAJAR)",
@@ -8653,7 +8653,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501557",
-   "VC NO": "1769333756",
+   "VC No": "1769333756",
    "LCO ID": 42112,
    "CARD NO": "155",
    "NAME": "BILAKURTHI ANASUYA(GUDI VENUKA)",
@@ -8664,7 +8664,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16606884",
-   "VC NO": "1331700600",
+   "VC No": "1331700600",
    "LCO ID": 42112,
    "CARD NO": "156",
    "NAME": "GORSA KAMARAJU",
@@ -8675,7 +8675,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "14973652",
-   "VC NO": "1767397035",
+   "VC No": "1767397035",
    "LCO ID": 42112,
    "CARD NO": "81.A",
    "NAME": "PODAKALAPALLI ASHOKKUMAR",
@@ -8686,7 +8686,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484390",
-   "VC NO": "1769419831",
+   "VC No": "1769419831",
    "LCO ID": 42112,
    "CARD NO": "11",
    "NAME": "YANAGANTI CHUKKAMMA",
@@ -8697,7 +8697,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495869",
-   "VC NO": "1769333816",
+   "VC No": "1769333816",
    "LCO ID": 42112,
    "CARD NO": "159",
    "NAME": "GADDALA PRABAKAR SAR",
@@ -8708,7 +8708,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484126",
-   "VC NO": "1769419796",
+   "VC No": "1769419796",
    "LCO ID": 42112,
    "CARD NO": "164",
    "NAME": "DALLI CHITHNYAREDDY",
@@ -8719,7 +8719,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "14973665",
-   "VC NO": "1767397033",
+   "VC No": "1767397033",
    "LCO ID": 42112,
    "CARD NO": "168.A",
    "NAME": "Nalluri .Veerraju",
@@ -8730,7 +8730,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484347",
-   "VC NO": "1769419825",
+   "VC No": "1769419825",
    "LCO ID": 42112,
    "CARD NO": "160",
    "NAME": "BARRI NARSIMHARAO",
@@ -8741,7 +8741,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13485457",
-   "VC NO": "1769094448",
+   "VC No": "1769094448",
    "LCO ID": 42112,
    "CARD NO": "168",
    "NAME": "YADLLA APPARAO",
@@ -8752,7 +8752,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496491",
-   "VC NO": "1769419975",
+   "VC No": "1769419975",
    "LCO ID": 42112,
    "CARD NO": "70",
    "NAME": "GAGURI SATHYANARAYANA",
@@ -8763,7 +8763,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484394",
-   "VC NO": "1769419829",
+   "VC No": "1769419829",
    "LCO ID": 42112,
    "CARD NO": "36",
    "NAME": "KELLA PRAKASH",
@@ -8774,7 +8774,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496233",
-   "VC NO": "1769420060",
+   "VC No": "1769420060",
    "LCO ID": 42112,
    "CARD NO": "90",
    "NAME": "RAMI RAJENDAR",
@@ -8785,7 +8785,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484109",
-   "VC NO": "1769419799",
+   "VC No": "1769419799",
    "LCO ID": 42112,
    "CARD NO": "42",
    "NAME": "BANDI ESWARI",
@@ -8796,7 +8796,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484334",
-   "VC NO": "1769419818",
+   "VC No": "1769419818",
    "LCO ID": 42112,
    "CARD NO": "173",
    "NAME": "GORASA LAXMANRAO",
@@ -8807,7 +8807,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16997857",
-   "VC NO": "1331723467",
+   "VC No": "1331723467",
    "LCO ID": 42112,
    "CARD NO": "176",
    "NAME": "GURAJAPI MALLURAMMA",
@@ -8818,7 +8818,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13483995",
-   "VC NO": "1769419815",
+   "VC No": "1769419815",
    "LCO ID": 42112,
    "CARD NO": "177.A",
    "NAME": "KALLURI VENKATAMMA",
@@ -8829,7 +8829,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484134",
-   "VC NO": "1769419790",
+   "VC No": "1769419790",
    "LCO ID": 42112,
    "CARD NO": "178",
    "NAME": "CHARLAPALLI SAIBABU",
@@ -8840,7 +8840,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496659",
-   "VC NO": "1769419929",
+   "VC No": "1769419929",
    "LCO ID": 42112,
    "CARD NO": "181",
    "NAME": "GURAJAPU KRUSHNAVENI",
@@ -8851,7 +8851,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13032597",
-   "VC NO": "1769148739",
+   "VC No": "1769148739",
    "LCO ID": 42112,
    "CARD NO": "183",
    "NAME": "KUPPILI YESU",
@@ -8862,7 +8862,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484152",
-   "VC NO": "1769419793",
+   "VC No": "1769419793",
    "LCO ID": 42112,
    "CARD NO": "184",
    "NAME": "KUPPILI CHITTIBABU",
@@ -8873,7 +8873,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496665",
-   "VC NO": "1769419928",
+   "VC No": "1769419928",
    "LCO ID": 42112,
    "CARD NO": "186",
    "NAME": "KUPPILI SATHYANARAYANA",
@@ -8884,7 +8884,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484129",
-   "VC NO": "1769419791",
+   "VC No": "1769419791",
    "LCO ID": 42112,
    "CARD NO": "186.A",
    "NAME": "KUPPILI PEDDA VENKATARAMANA",
@@ -8895,7 +8895,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13485172",
-   "VC NO": "1769094432",
+   "VC No": "1769094432",
    "LCO ID": 42112,
    "CARD NO": "188",
    "NAME": "PEDDEM MUTHALARAO",
@@ -8906,7 +8906,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496623",
-   "VC NO": "1769419938",
+   "VC No": "1769419938",
    "LCO ID": 42112,
    "CARD NO": "192",
    "NAME": "GADIYA BHADRAMMA",
@@ -8917,7 +8917,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496679",
-   "VC NO": "1769419940",
+   "VC No": "1769419940",
    "LCO ID": 42112,
    "CARD NO": "193",
    "NAME": "KONGA JASMINMERI",
@@ -8928,7 +8928,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496713",
-   "VC NO": "1769419964",
+   "VC No": "1769419964",
    "LCO ID": 42112,
    "CARD NO": "194",
    "NAME": "KARUKU NARSIMHARAO(KUMARI)",
@@ -8939,7 +8939,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15625129",
-   "VC NO": "1330986364",
+   "VC No": "1330986364",
    "LCO ID": 42112,
    "CARD NO": "198",
    "NAME": "NAGAMALLA VENKATESH(ARUNA)",
@@ -8950,7 +8950,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15656123",
-   "VC NO": "1330986369",
+   "VC No": "1330986369",
    "LCO ID": 42112,
    "CARD NO": "199",
    "NAME": "MUSALI APPANNA",
@@ -8961,7 +8961,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16111694",
-   "VC NO": "1331503009",
+   "VC No": "1331503009",
    "LCO ID": 42112,
    "CARD NO": "201.A",
    "NAME": "VEMULA BARGHAV",
@@ -8972,7 +8972,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496323",
-   "VC NO": "1769420206",
+   "VC No": "1769420206",
    "LCO ID": 42112,
    "CARD NO": "202",
    "NAME": "YADLA SRENIVASRAO",
@@ -8983,7 +8983,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496680",
-   "VC NO": "1769419944",
+   "VC No": "1769419944",
    "LCO ID": 42112,
    "CARD NO": "203",
    "NAME": "LAMKA NANIBABU",
@@ -8994,7 +8994,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484081",
-   "VC NO": "1769419801",
+   "VC No": "1769419801",
    "LCO ID": 42112,
    "CARD NO": "205",
    "NAME": "KARUKU CHINAVEERAJU",
@@ -9005,7 +9005,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13064256",
-   "VC NO": "1769251067",
+   "VC No": "1769251067",
    "LCO ID": 42112,
    "CARD NO": "206",
    "NAME": "KARUKU MANGAMMA",
@@ -9016,7 +9016,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496226",
-   "VC NO": "1769420202",
+   "VC No": "1769420202",
    "LCO ID": 42112,
    "CARD NO": "207",
    "NAME": "TATHI NAGESWARRAO",
@@ -9027,7 +9027,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484086",
-   "VC NO": "1769419806",
+   "VC No": "1769419806",
    "LCO ID": 42112,
    "CARD NO": "208",
    "NAME": "KARUKU MUTHYALARAO",
@@ -9038,7 +9038,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496592",
-   "VC NO": "1769419959",
+   "VC No": "1769419959",
    "LCO ID": 42112,
    "CARD NO": "220",
    "NAME": "NAGAMALLA SURYANARAYANA",
@@ -9049,7 +9049,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496247",
-   "VC NO": "1769420203",
+   "VC No": "1769420203",
    "LCO ID": 42112,
    "CARD NO": "210",
    "NAME": "Mandi laxmi",
@@ -9060,7 +9060,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496556",
-   "VC NO": "1769419963",
+   "VC No": "1769419963",
    "LCO ID": 42112,
    "CARD NO": "211",
    "NAME": "MUSALI SIMHACHALAM",
@@ -9071,7 +9071,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496264",
-   "VC NO": "1769420205",
+   "VC No": "1769420205",
    "LCO ID": 42112,
    "CARD NO": "212",
    "NAME": "NAKKA VEKAYAMMA",
@@ -9082,7 +9082,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13250858",
-   "VC NO": "1768910095",
+   "VC No": "1768910095",
    "LCO ID": 42112,
    "CARD NO": "212.A",
    "NAME": "KARUKU BADRAMMA",
@@ -9093,7 +9093,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496240",
-   "VC NO": "1769420197",
+   "VC No": "1769420197",
    "LCO ID": 42112,
    "CARD NO": "213",
    "NAME": "KARUKU SATISH",
@@ -9104,7 +9104,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496713",
-   "VC NO": "1769419964",
+   "VC No": "1769419964",
    "LCO ID": 42112,
    "CARD NO": "214.A",
    "NAME": "KRUKU KUMARI",
@@ -9115,7 +9115,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496318",
-   "VC NO": "1769420200",
+   "VC No": "1769420200",
    "LCO ID": 42112,
    "CARD NO": "215",
    "NAME": "BODDI SATHYAVATHI",
@@ -9126,7 +9126,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495876",
-   "VC NO": "1769333812",
+   "VC No": "1769333812",
    "LCO ID": 42112,
    "CARD NO": "217",
    "NAME": "MUSALI CHINABABU",
@@ -9137,7 +9137,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "14931422",
-   "VC NO": "1769569425",
+   "VC No": "1769569425",
    "LCO ID": 42112,
    "CARD NO": "218",
    "NAME": "NAKKA SATHYANARAYANA",
@@ -9148,7 +9148,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484114",
-   "VC NO": "1769419803",
+   "VC No": "1769419803",
    "LCO ID": 42112,
    "CARD NO": "219.A",
    "NAME": "NAGAMALLA RAJYAM",
@@ -9159,7 +9159,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484119",
-   "VC NO": "1769419795",
+   "VC No": "1769419795",
    "LCO ID": 42112,
    "CARD NO": "221",
    "NAME": "MUSALI RAMBABU",
@@ -9170,7 +9170,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496491",
-   "VC NO": "1769419975",
+   "VC No": "1769419975",
    "LCO ID": 42112,
    "CARD NO": "113",
    "NAME": "BUKYA VEERANNA",
@@ -9181,7 +9181,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496636",
-   "VC NO": "1769419937",
+   "VC No": "1769419937",
    "LCO ID": 42112,
    "CARD NO": "197",
    "NAME": "NAGAMALLA NARSIMHARAO",
@@ -9192,7 +9192,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501761",
-   "VC NO": "1769333746",
+   "VC No": "1769333746",
    "LCO ID": 42112,
    "CARD NO": "224",
    "NAME": "KANITHI SAIBABU",
@@ -9203,7 +9203,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496435",
-   "VC NO": "1769420009",
+   "VC No": "1769420009",
    "LCO ID": 42112,
    "CARD NO": "225",
    "NAME": "PODIYAM THIRUPATHAMMA",
@@ -9214,7 +9214,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484154",
-   "VC NO": "1769419794",
+   "VC No": "1769419794",
    "LCO ID": 42112,
    "CARD NO": "228",
    "NAME": "MURIKIPUDI SAI",
@@ -9225,7 +9225,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501781",
-   "VC NO": "1769333743",
+   "VC No": "1769333743",
    "LCO ID": 42112,
    "CARD NO": "236",
    "NAME": "CHITHA MARIYAMMA",
@@ -9236,7 +9236,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496047",
-   "VC NO": "1769420088",
+   "VC No": "1769420088",
    "LCO ID": 42112,
    "CARD NO": "230",
    "NAME": "CHELIGANJI RAMBABU",
@@ -9247,7 +9247,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501731",
-   "VC NO": "1769333737",
+   "VC No": "1769333737",
    "LCO ID": 42112,
    "CARD NO": "232",
    "NAME": "CHELIGANJI MANI",
@@ -9258,7 +9258,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20340281",
-   "VC NO": "2516084621",
+   "VC No": "2516084621",
    "LCO ID": 42112,
    "CARD NO": "233",
    "NAME": "KANITHI CHINAMMA",
@@ -9269,7 +9269,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "2516151280",
+   "VC No": "2516151280",
    "LCO ID": 42112,
    "CARD NO": "235.A",
    "NAME": "ATHRODIYA VIJAY",
@@ -9280,7 +9280,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13483999",
-   "VC NO": "1769419811",
+   "VC No": "1769419811",
    "LCO ID": 42112,
    "CARD NO": "16",
    "NAME": "THALLAPUDI NAGESWARRAO",
@@ -9291,7 +9291,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16607135",
-   "VC NO": "1331700596",
+   "VC No": "1331700596",
    "LCO ID": 42112,
    "CARD NO": "239.A",
    "NAME": "GADDALA SAI DIVYA",
@@ -9302,7 +9302,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "0Box undhi",
+   "VC No": "0Box undhi",
    "LCO ID": 42112,
    "CARD NO": "239.B",
    "NAME": "parigadupu kondaiah",
@@ -9313,7 +9313,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16709720",
-   "VC NO": "1331698249",
+   "VC No": "1331698249",
    "LCO ID": 42112,
    "CARD NO": "239.C",
    "NAME": "KURSAM LAXMI",
@@ -9324,7 +9324,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13251594",
-   "VC NO": "1768909967",
+   "VC No": "1768909967",
    "LCO ID": 42112,
    "CARD NO": "239.D",
    "NAME": "GARITAPU GANDI",
@@ -9335,7 +9335,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15901784",
-   "VC NO": "1331358855",
+   "VC No": "1331358855",
    "LCO ID": 42112,
    "CARD NO": "239.G",
    "NAME": "BARAMPURI NARSUBAI",
@@ -9346,7 +9346,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16561549",
-   "VC NO": "1331700612",
+   "VC No": "1331700612",
    "LCO ID": 42112,
    "CARD NO": "239.H",
    "NAME": "MAMIDI SAI KISHIR",
@@ -9357,7 +9357,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13547303",
-   "VC NO": "1769495287",
+   "VC No": "1769495287",
    "LCO ID": 42112,
    "CARD NO": "239.I",
    "NAME": "ALLADI MANGARAJU",
@@ -9368,7 +9368,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13478505",
-   "VC NO": "1769495322",
+   "VC No": "1769495322",
    "LCO ID": 42112,
    "CARD NO": "239.K",
    "NAME": "ENAGANTI CHANDRAM",
@@ -9379,7 +9379,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13327179",
-   "VC NO": "1768910253",
+   "VC No": "1768910253",
    "LCO ID": 42112,
    "CARD NO": "239.L",
    "NAME": "CHELIGAJI VENKATESWARLLU",
@@ -9390,7 +9390,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "2516151280",
+   "VC No": "2516151280",
    "LCO ID": 42112,
    "CARD NO": "239.n",
    "NAME": "kattrodiya radha",
@@ -9401,7 +9401,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20809089",
-   "VC NO": "2520426206",
+   "VC No": "2520426206",
    "LCO ID": 42112,
    "CARD NO": "239.Q",
    "NAME": "MONETHYA GOVINDU",
@@ -9412,7 +9412,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20809068",
-   "VC NO": "2520426332",
+   "VC No": "2520426332",
    "LCO ID": 42112,
    "CARD NO": "239.R",
    "NAME": "MANJIYA KOMALA",
@@ -9423,7 +9423,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12989530",
-   "VC NO": "1768385318",
+   "VC No": "1768385318",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "ETV RAMANA RAO",
@@ -9434,7 +9434,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22136400",
-   "VC NO": "2520426733",
+   "VC No": "2520426733",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "KORSA SAMAKKA",
@@ -9445,7 +9445,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22125369",
-   "VC NO": "2520438984",
+   "VC No": "2520438984",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "LANKA SATYA",
@@ -9456,7 +9456,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20898193",
-   "VC NO": "2516177447",
+   "VC No": "2516177447",
    "LCO ID": 42112,
    "CARD NO": "239.T",
    "NAME": "Aakula veerraju",
@@ -9467,7 +9467,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20809044",
-   "VC NO": "2520448040",
+   "VC No": "2520448040",
    "LCO ID": 42112,
    "CARD NO": "114.A",
    "NAME": "NEDAMANURI BAPISETTI",
@@ -9478,7 +9478,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16844269",
-   "VC NO": "1331697691",
+   "VC No": "1331697691",
    "LCO ID": 42112,
    "CARD NO": "154.A",
    "NAME": "KASTURI SANTHA DEVI",
@@ -9489,7 +9489,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496452",
-   "VC NO": "1769419968",
+   "VC No": "1769419968",
    "LCO ID": 42112,
    "CARD NO": "166",
    "NAME": "DARAPU ALLAREDDY",
@@ -9500,7 +9500,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496212",
-   "VC NO": "1769420057",
+   "VC No": "1769420057",
    "LCO ID": 42112,
    "CARD NO": "24",
    "NAME": "BAIREDDY BANU KIRAN",
@@ -9511,7 +9511,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16366848",
-   "VC NO": "1331390408",
+   "VC No": "1331390408",
    "LCO ID": 42112,
    "CARD NO": "122.A",
    "NAME": "VEMULA PRADEEP",
@@ -9522,7 +9522,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13470368",
-   "VC NO": "1769494907",
+   "VC No": "1769494907",
    "LCO ID": 42112,
    "CARD NO": "239.J",
    "NAME": "JALAKAM BALARAJU",
@@ -9533,7 +9533,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15656119",
-   "VC NO": "1330986371",
+   "VC No": "1330986371",
    "LCO ID": 42112,
    "CARD NO": "62",
    "NAME": "BODDI MANIKYAM",
@@ -9544,7 +9544,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "17161197",
-   "VC NO": "1331699954",
+   "VC No": "1331699954",
    "LCO ID": 42112,
    "CARD NO": "219",
    "NAME": "RAMISETTI GURUVULU",
@@ -9555,7 +9555,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495959",
-   "VC NO": "1769333810",
+   "VC No": "1769333810",
    "LCO ID": 42112,
    "CARD NO": "20",
    "NAME": "S.K HUSSEN",
@@ -9566,7 +9566,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "17161176",
-   "VC NO": "1331699957",
+   "VC No": "1331699957",
    "LCO ID": 42112,
    "CARD NO": "168.B",
    "NAME": "S.DURGHA",
@@ -9577,7 +9577,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16483835",
-   "VC NO": "1331699268",
+   "VC No": "1331699268",
    "LCO ID": 42112,
    "CARD NO": "239.S",
    "NAME": "BIREDDY JAYA VENKARAMANA",
@@ -9588,7 +9588,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496258",
-   "VC NO": "1769420198",
+   "VC No": "1769420198",
    "LCO ID": 42112,
    "CARD NO": "209",
    "NAME": "DAREPALLI BAVANI",
@@ -9599,7 +9599,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13485249",
-   "VC NO": "1769094451",
+   "VC No": "1769094451",
    "LCO ID": 42112,
    "CARD NO": "162",
    "NAME": "MAMIDI GANESH",
@@ -9610,7 +9610,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13485183",
-   "VC NO": "1769094431",
+   "VC No": "1769094431",
    "LCO ID": 42112,
    "CARD NO": "163",
    "NAME": "THANDRAPU SINGARAYAREDDY",
@@ -9621,7 +9621,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484183",
-   "VC NO": "1769419817",
+   "VC No": "1769419817",
    "LCO ID": 42112,
    "CARD NO": "161",
    "NAME": "KAMALADEVI(AWW)",
@@ -9632,7 +9632,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13485461",
-   "VC NO": "1769094455",
+   "VC No": "1769094455",
    "LCO ID": 42112,
    "CARD NO": "123",
    "NAME": "SAREPALLI VENKATESWARRAO",
@@ -9643,7 +9643,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496479",
-   "VC NO": "1769419967",
+   "VC No": "1769419967",
    "LCO ID": 42112,
    "CARD NO": "134",
    "NAME": "TELLAM SRENU",
@@ -9654,7 +9654,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13486961",
-   "VC NO": "1769094498",
+   "VC No": "1769094498",
    "LCO ID": 42112,
    "CARD NO": "132",
    "NAME": "MADDI SURYARAO",
@@ -9665,7 +9665,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13086912",
-   "VC NO": "1769148432",
+   "VC No": "1769148432",
    "LCO ID": 42112,
    "CARD NO": "195",
    "NAME": "NAKKA RAMANAYA",
@@ -9676,7 +9676,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20809022",
-   "VC NO": "2520448253",
+   "VC No": "2520448253",
    "LCO ID": 42112,
    "CARD NO": "239.P",
    "NAME": "VEMULA RAMADEVI",
@@ -9687,7 +9687,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15656122",
-   "VC NO": "1330986370",
+   "VC No": "1330986370",
    "LCO ID": 42112,
    "CARD NO": "235",
    "NAME": "DALARI SAYAMMA",
@@ -9698,7 +9698,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22102428",
-   "VC NO": "2520443664",
+   "VC No": "2520443664",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "KANITHI RAMANA",
@@ -9709,7 +9709,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501748",
-   "VC NO": "1769332947",
+   "VC No": "1769332947",
    "LCO ID": 42112,
    "CARD NO": "129",
    "NAME": "THOTAPALLI RAMKISHORE",
@@ -9720,7 +9720,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496292",
-   "VC NO": "1769419969",
+   "VC No": "1769419969",
    "LCO ID": 42112,
    "CARD NO": "133",
    "NAME": "DALLI VENU",
@@ -9731,7 +9731,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15656130",
-   "VC NO": "1330986365",
+   "VC No": "1330986365",
    "LCO ID": 42112,
    "CARD NO": "111",
    "NAME": "RAMBARKI LAXMIRAJYAM",
@@ -9742,7 +9742,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16367053",
-   "VC NO": "1331390410",
+   "VC No": "1331390410",
    "LCO ID": 42112,
    "CARD NO": "171",
    "NAME": "PILLA SAIBABU(GANAPATHI)",
@@ -9753,7 +9753,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496118",
-   "VC NO": "1769420096",
+   "VC No": "1769420096",
    "LCO ID": 42112,
    "CARD NO": "89",
    "NAME": "PILLA APPARAO",
@@ -9764,7 +9764,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496438",
-   "VC NO": "1769420022",
+   "VC No": "1769420022",
    "LCO ID": 42112,
    "CARD NO": "73",
    "NAME": "THOTAPALLI SANDEEP",
@@ -9775,7 +9775,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16483838",
-   "VC NO": "1331699273",
+   "VC No": "1331699273",
    "LCO ID": 42112,
    "CARD NO": "59.A",
    "NAME": "BORA RAMAKRISHNA",
@@ -9786,7 +9786,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484071",
-   "VC NO": "1769419798",
+   "VC No": "1769419798",
    "LCO ID": 42112,
    "CARD NO": "54",
    "NAME": "INNALA BUCHAYA",
@@ -9797,7 +9797,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495835",
-   "VC NO": "1769333784",
+   "VC No": "1769333784",
    "LCO ID": 42112,
    "CARD NO": "14",
    "NAME": "BOTA SATHYAVATHI",
@@ -9808,7 +9808,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484402",
-   "VC NO": "1769419832",
+   "VC No": "1769419832",
    "LCO ID": 42112,
    "CARD NO": "19",
    "NAME": "KELLA PRASAD",
@@ -9819,7 +9819,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496134",
-   "VC NO": "1769420091",
+   "VC No": "1769420091",
    "LCO ID": 42112,
    "CARD NO": "68",
    "NAME": "MALLULA NAGESWARRAO",
@@ -9830,7 +9830,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496355",
-   "VC NO": "1769420183",
+   "VC No": "1769420183",
    "LCO ID": 42112,
    "CARD NO": "169.A",
    "NAME": "GOKETI VANI",
@@ -9841,7 +9841,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484351",
-   "VC NO": "1769419824",
+   "VC No": "1769419824",
    "LCO ID": 42112,
    "CARD NO": "170",
    "NAME": "SARIPALLI RAMBABU",
@@ -9852,7 +9852,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484188",
-   "VC NO": "1769419819",
+   "VC No": "1769419819",
    "LCO ID": 42112,
    "CARD NO": "172",
    "NAME": "KOLLI APPALAREDDY",
@@ -9863,7 +9863,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484141",
-   "VC NO": "1769419787",
+   "VC No": "1769419787",
    "LCO ID": 42112,
    "CARD NO": "175",
    "NAME": "CHARLAPALLI LAXMANRAO",
@@ -9874,7 +9874,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15851113",
-   "VC NO": "1331503410",
+   "VC No": "1331503410",
    "LCO ID": 42112,
    "CARD NO": "239.E",
    "NAME": "KOTHURU SEETHARAMARAO",
@@ -9885,7 +9885,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13521526",
-   "VC NO": "1769132291",
+   "VC No": "1769132291",
    "LCO ID": 42112,
    "CARD NO": "109",
    "NAME": "MAHAMKALI NARAYANARAO",
@@ -9896,7 +9896,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13445087",
-   "VC NO": "1769494968",
+   "VC No": "1769494968",
    "LCO ID": 42112,
    "CARD NO": "214",
    "NAME": "Up pada Nageswarao",
@@ -9907,7 +9907,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496476",
-   "VC NO": "1769419972",
+   "VC No": "1769419972",
    "LCO ID": 42112,
    "CARD NO": "60",
    "NAME": "RAMSETTI KANAKARAJU",
@@ -9918,7 +9918,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496634",
-   "VC NO": "1769419939",
+   "VC No": "1769419939",
    "LCO ID": 42112,
    "CARD NO": "201",
    "NAME": "MUDHAPAKA RAMPRASAD",
@@ -9929,7 +9929,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496630",
-   "VC NO": "1769419945",
+   "VC No": "1769419945",
    "LCO ID": 42112,
    "CARD NO": "204",
    "NAME": "MUSALI ASIRAMMA",
@@ -9940,7 +9940,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496677",
-   "VC NO": "1769419932",
+   "VC No": "1769419932",
    "LCO ID": 42112,
    "CARD NO": "17",
    "NAME": "PUDAKALAPALLI NAGAMANI(adinarayana)",
@@ -9951,7 +9951,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496205",
-   "VC NO": "1769420065",
+   "VC No": "1769420065",
    "LCO ID": 42112,
    "CARD NO": "37",
    "NAME": "SADI CHAKRAVARTHI",
@@ -9962,7 +9962,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13486957",
-   "VC NO": "1769094499",
+   "VC No": "1769094499",
    "LCO ID": 42112,
    "CARD NO": "126",
    "NAME": "KARELLA SOMESWARI",
@@ -9973,7 +9973,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501772",
-   "VC NO": "1769333744",
+   "VC No": "1769333744",
    "LCO ID": 42112,
    "CARD NO": "226",
    "NAME": "SONDE ADILAXMI",
@@ -9984,7 +9984,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484144",
-   "VC NO": "1769419789",
+   "VC No": "1769419789",
    "LCO ID": 42112,
    "CARD NO": "189",
    "NAME": "ALLADI MANGAPATHI",
@@ -9995,7 +9995,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16606924",
-   "VC NO": "1331700601",
+   "VC No": "1331700601",
    "LCO ID": 42112,
    "CARD NO": "229",
    "NAME": "CHELIGANJI SAI",
@@ -10006,7 +10006,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496718",
-   "VC NO": "1769419931",
+   "VC No": "1769419931",
    "LCO ID": 42112,
    "CARD NO": "223",
    "NAME": "MUSALI RAJESWARI",
@@ -10017,7 +10017,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501767",
-   "VC NO": "1769333745",
+   "VC No": "1769333745",
    "LCO ID": 42112,
    "CARD NO": "227",
    "NAME": "SIRIKONDA SEETHARAMARAJU",
@@ -10028,7 +10028,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496702",
-   "VC NO": "1769419936",
+   "VC No": "1769419936",
    "LCO ID": 42112,
    "CARD NO": "2",
    "NAME": "JAKKALA SUSHEELA",
@@ -10039,7 +10039,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "0",
+   "VC No": "0",
    "LCO ID": 42112,
    "CARD NO": "2",
    "NAME": "JAGIDI MUTHALARAO(CHANDRAYA)",
@@ -10050,7 +10050,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484398",
-   "VC NO": "1769419828",
+   "VC No": "1769419828",
    "LCO ID": 42112,
    "CARD NO": "4",
    "NAME": "KOTLA KALAVATHI",
@@ -10061,7 +10061,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13086378",
-   "VC NO": "1769148601",
+   "VC No": "1769148601",
    "LCO ID": 42112,
    "CARD NO": "7",
    "NAME": "SIDDI RAMESH",
@@ -10072,7 +10072,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496398",
-   "VC NO": "1769419980",
+   "VC No": "1769419980",
    "LCO ID": 42112,
    "CARD NO": "17",
    "NAME": "KORSA DARMAIH",
@@ -10083,7 +10083,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16111711",
-   "VC NO": "1331503005",
+   "VC No": "1331503005",
    "LCO ID": 42112,
    "CARD NO": "24",
    "NAME": "VETTI NAGARAJU",
@@ -10094,7 +10094,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15901779",
-   "VC NO": "1331358854",
+   "VC No": "1331358854",
    "LCO ID": 42112,
    "CARD NO": "40",
    "NAME": "JALAKAM NAGARAJU",
@@ -10105,7 +10105,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501735",
-   "VC NO": "1769332948",
+   "VC No": "1769332948",
    "LCO ID": 42112,
    "CARD NO": "5",
    "NAME": "KORSA VENKATESWAR RAO(TEACHER)",
@@ -10116,7 +10116,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495821",
-   "VC NO": "1769333799",
+   "VC No": "1769333799",
    "LCO ID": 42112,
    "CARD NO": "9",
    "NAME": "KORSA KANAIAH",
@@ -10127,7 +10127,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16111702",
-   "VC NO": "1331503006",
+   "VC No": "1331503006",
    "LCO ID": 42112,
    "CARD NO": "25",
    "NAME": "TELLAM RAMAKRISHNA",
@@ -10138,7 +10138,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495818",
-   "VC NO": "1769333798",
+   "VC No": "1769333798",
    "LCO ID": 42112,
    "CARD NO": "3",
    "NAME": "KORSA CHINNAVENKATESWARAO(CHITTAMMA)",
@@ -10149,7 +10149,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15862520",
-   "VC NO": "1331429129",
+   "VC No": "1331429129",
    "LCO ID": 42112,
    "CARD NO": "28.A",
    "NAME": "THUNIKI PAPARAO",
@@ -10160,7 +10160,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20745465",
-   "VC NO": "2520401582",
+   "VC No": "2520401582",
    "LCO ID": 42112,
    "CARD NO": "61",
    "NAME": "PARISHIKA NAGESWARAO",
@@ -10171,7 +10171,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20746866",
-   "VC NO": "2520443342",
+   "VC No": "2520443342",
    "LCO ID": 42112,
    "CARD NO": "60",
    "NAME": "KARAM CHINNAKKA",
@@ -10182,7 +10182,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495957",
-   "VC NO": "1769333802",
+   "VC No": "1769333802",
    "LCO ID": 42112,
    "CARD NO": "4",
    "NAME": "KORSA CHINNAGOPAIAH(VEERAYA)",
@@ -10193,7 +10193,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13347372",
-   "VC NO": "1768910133",
+   "VC No": "1768910133",
    "LCO ID": 42112,
    "CARD NO": "32",
    "NAME": "NUPA JANIKAMMA",
@@ -10204,7 +10204,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20019615",
-   "VC NO": "2515890248",
+   "VC No": "2515890248",
    "LCO ID": 42112,
    "CARD NO": "55",
    "NAME": "kalluri tirupathi",
@@ -10215,7 +10215,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15901372",
-   "VC NO": "1331501678",
+   "VC No": "1331501678",
    "LCO ID": 42112,
    "CARD NO": "6.A",
    "NAME": "KODI BALAKRISHNA",
@@ -10226,7 +10226,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495938",
-   "VC NO": "1769333834",
+   "VC No": "1769333834",
    "LCO ID": 42112,
    "CARD NO": "7",
    "NAME": "KALLURI RAMARAO(MUDHARAJU)",
@@ -10237,7 +10237,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496038",
-   "VC NO": "1769333831",
+   "VC No": "1769333831",
    "LCO ID": 42112,
    "CARD NO": "8",
    "NAME": "MIDIYAM RAMU",
@@ -10248,7 +10248,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21630593",
-   "VC NO": "2520450309",
+   "VC No": "2520450309",
    "LCO ID": 42112,
    "CARD NO": "30.A",
    "NAME": "KORSA LAKSHMI",
@@ -10259,7 +10259,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501924",
-   "VC NO": "1769333409",
+   "VC No": "1769333409",
    "LCO ID": 42112,
    "CARD NO": "10",
    "NAME": "BUTARI KRISHNA",
@@ -10270,7 +10270,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "17161190",
-   "VC NO": "1331699955",
+   "VC No": "1331699955",
    "LCO ID": 42112,
    "CARD NO": "30",
    "NAME": "KORSA JANIBABU(LAXMI)",
@@ -10281,7 +10281,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496048",
-   "VC NO": "1769333826",
+   "VC No": "1769333826",
    "LCO ID": 42112,
    "CARD NO": "12",
    "NAME": "JAGIDI RAMARAO",
@@ -10292,7 +10292,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501718",
-   "VC NO": "1769332951",
+   "VC No": "1769332951",
    "LCO ID": 42112,
    "CARD NO": "13",
    "NAME": "KORSA SAMMAKKA",
@@ -10303,7 +10303,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16483833",
-   "VC NO": "1331699267",
+   "VC No": "1331699267",
    "LCO ID": 42112,
    "CARD NO": "14",
    "NAME": "SYAMALA VENKATESWALLU",
@@ -10314,7 +10314,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496045",
-   "VC NO": "1769333836",
+   "VC No": "1769333836",
    "LCO ID": 42112,
    "CARD NO": "15",
    "NAME": "KORSA VENKSTESWARAO",
@@ -10325,7 +10325,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16483845",
-   "VC NO": "1331699266",
+   "VC No": "1331699266",
    "LCO ID": 42112,
    "CARD NO": "45",
    "NAME": "PARISKA SURAMMA",
@@ -10336,7 +10336,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501743",
-   "VC NO": "1769332950",
+   "VC No": "1769332950",
    "LCO ID": 42112,
    "CARD NO": "16",
    "NAME": "KALLURI BHADRAYA",
@@ -10347,7 +10347,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "14973677",
-   "VC NO": "1767397031",
+   "VC No": "1767397031",
    "LCO ID": 42112,
    "CARD NO": "22",
    "NAME": "KALLURI TULASIRAJ",
@@ -10358,7 +10358,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "14973649",
-   "VC NO": "1767397036",
+   "VC No": "1767397036",
    "LCO ID": 42112,
    "CARD NO": "23",
    "NAME": "KODI ARJUNA",
@@ -10369,7 +10369,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21636792",
-   "VC NO": "2520442046",
+   "VC No": "2520442046",
    "LCO ID": 42112,
    "CARD NO": "23.A",
    "NAME": "KODI SANYASI",
@@ -10380,7 +10380,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16607220",
-   "VC NO": "1331700595",
+   "VC No": "1331700595",
    "LCO ID": 42112,
    "CARD NO": "34",
    "NAME": "KORSA BALARAJU",
@@ -10391,7 +10391,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13251886",
-   "VC NO": "1768910397",
+   "VC No": "1768910397",
    "LCO ID": 42112,
    "CARD NO": "42",
    "NAME": "KOTHURI CHITTEMMA(KOTHURU)",
@@ -10402,7 +10402,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16874794",
-   "VC NO": "1331697690",
+   "VC No": "1331697690",
    "LCO ID": 42112,
    "CARD NO": "27",
    "NAME": "KALLURI SEETHAMMA",
@@ -10413,7 +10413,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16844257",
-   "VC NO": "1331697692",
+   "VC No": "1331697692",
    "LCO ID": 42112,
    "CARD NO": "28",
    "NAME": "KORSA RAMESH",
@@ -10424,7 +10424,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13066158",
-   "VC NO": "1769251079",
+   "VC No": "1769251079",
    "LCO ID": 42112,
    "CARD NO": "35",
    "NAME": "KALLURI RAMADEVI",
@@ -10435,7 +10435,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16874813",
-   "VC NO": "1331697689",
+   "VC No": "1331697689",
    "LCO ID": 42112,
    "CARD NO": "26",
    "NAME": "KORSA SUBADRA",
@@ -10446,7 +10446,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "17161170",
-   "VC NO": "1331699958",
+   "VC No": "1331699958",
    "LCO ID": 42112,
    "CARD NO": "31",
    "NAME": "KALLURI SUBBARAO",
@@ -10457,7 +10457,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501695",
-   "VC NO": "1769332954",
+   "VC No": "1769332954",
    "LCO ID": 42112,
    "CARD NO": "11",
    "NAME": "PUNEM RAMAKRISHNA",
@@ -10468,7 +10468,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21871657",
-   "VC NO": "2520457373",
+   "VC No": "2520457373",
    "LCO ID": 42112,
    "CARD NO": "63",
    "NAME": "KALLURI NAGESHWAR RAO",
@@ -10479,7 +10479,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13486842",
-   "VC NO": "1769094506",
+   "VC No": "1769094506",
    "LCO ID": 42112,
    "CARD NO": "33",
    "NAME": "KALLURI DEVI",
@@ -10490,7 +10490,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15901916",
-   "VC NO": "1331431583",
+   "VC No": "1331431583",
    "LCO ID": 42112,
    "CARD NO": "33.A",
    "NAME": "KALLURI VENI",
@@ -10501,7 +10501,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21637742",
-   "VC NO": "2520450308",
+   "VC No": "2520450308",
    "LCO ID": 42112,
    "CARD NO": "31.A",
    "NAME": "KODI VIJAYALAKSHMI",
@@ -10512,7 +10512,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13250819",
-   "VC NO": "1768910094",
+   "VC No": "1768910094",
    "LCO ID": 42112,
    "CARD NO": "52.A",
    "NAME": "korsa BHEEMAIAH",
@@ -10523,7 +10523,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15901885",
-   "VC NO": "1331358838",
+   "VC No": "1331358838",
    "LCO ID": 42112,
    "CARD NO": "36",
    "NAME": "KALLURI VENKATESWAR RAO",
@@ -10534,7 +10534,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15388406",
-   "VC NO": "1331030073",
+   "VC No": "1331030073",
    "LCO ID": 42112,
    "CARD NO": "37",
    "NAME": "KORSA RANGAIAH",
@@ -10545,7 +10545,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "17161155",
-   "VC NO": "1331699960",
+   "VC No": "1331699960",
    "LCO ID": 42112,
    "CARD NO": "38",
    "NAME": "PODIYAM RAMAYA",
@@ -10556,7 +10556,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484101",
-   "VC NO": "1769419805",
+   "VC No": "1769419805",
    "LCO ID": 42112,
    "CARD NO": "19",
    "NAME": "PARISKA VEERASWAMI",
@@ -10567,7 +10567,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495892",
-   "VC NO": "1769333801",
+   "VC No": "1769333801",
    "LCO ID": 42112,
    "CARD NO": "1",
    "NAME": "BUTARI SEETHARAMAIH(VENKAYA)",
@@ -10578,7 +10578,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501853",
-   "VC NO": "1769333420",
+   "VC No": "1769333420",
    "LCO ID": 42112,
    "CARD NO": "43",
    "NAME": "KARAM SRIRAMULU",
@@ -10589,7 +10589,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "0",
+   "VC No": "0",
    "LCO ID": 42112,
    "CARD NO": "44",
    "NAME": "KORSA rajababu",
@@ -10600,7 +10600,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15062613",
-   "VC NO": "1330921035",
+   "VC No": "1330921035",
    "LCO ID": 42112,
    "CARD NO": "46",
    "NAME": "KORASA VEERABHARAIHA",
@@ -10611,7 +10611,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15901372",
-   "VC NO": "1331501678",
+   "VC No": "1331501678",
    "LCO ID": 42112,
    "CARD NO": "47",
    "NAME": "kodi gopala krishna",
@@ -10622,7 +10622,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20019623",
-   "VC NO": "2515890325",
+   "VC No": "2515890325",
    "LCO ID": 42112,
    "CARD NO": "48",
    "NAME": "kaka laxmanudu",
@@ -10633,7 +10633,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20019621",
-   "VC NO": "2515890377",
+   "VC No": "2515890377",
    "LCO ID": 42112,
    "CARD NO": "49",
    "NAME": "butari lingaya",
@@ -10644,7 +10644,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20019618",
-   "VC NO": "2515889414",
+   "VC No": "2515889414",
    "LCO ID": 42112,
    "CARD NO": "50",
    "NAME": "savalam raju",
@@ -10655,7 +10655,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20019636",
-   "VC NO": "2515890329",
+   "VC No": "2515890329",
    "LCO ID": 42112,
    "CARD NO": "52",
    "NAME": "korsa rukmini",
@@ -10666,7 +10666,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20019614",
-   "VC NO": "2515890241",
+   "VC No": "2515890241",
    "LCO ID": 42112,
    "CARD NO": "53",
    "NAME": "kodi santosh",
@@ -10677,7 +10677,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20143538",
-   "VC NO": "2516151258",
+   "VC No": "2516151258",
    "LCO ID": 42112,
    "CARD NO": "54",
    "NAME": "korsa srinu",
@@ -10688,7 +10688,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15421940",
-   "VC NO": "1330158554",
+   "VC No": "1330158554",
    "LCO ID": 42112,
    "CARD NO": "21",
    "NAME": "BARLA PADMA RAO",
@@ -10699,7 +10699,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496064",
-   "VC NO": "1769333835",
+   "VC No": "1769333835",
    "LCO ID": 42112,
    "CARD NO": "6",
    "NAME": "KODI KRISHNA(LAXMAYA)",
@@ -10710,7 +10710,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20019631",
-   "VC NO": "2515890330",
+   "VC No": "2515890330",
    "LCO ID": 42112,
    "CARD NO": "57",
    "NAME": "kora muthyalakka",
@@ -10721,7 +10721,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20340313",
-   "VC NO": "2516084545",
+   "VC No": "2516084545",
    "LCO ID": 42112,
    "CARD NO": "58",
    "NAME": "KORSA NARSIMHA RAO",
@@ -10732,7 +10732,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20340302",
-   "VC NO": "2516084558",
+   "VC No": "2516084558",
    "LCO ID": 42112,
    "CARD NO": "59",
    "NAME": "KORSA SEETHARAMAIAH",
@@ -10743,7 +10743,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21099905",
-   "VC NO": "2516177454",
+   "VC No": "2516177454",
    "LCO ID": 42112,
    "CARD NO": "59.A",
    "NAME": "KALLURI RAMAIHA(KALAVATHI)",
@@ -10754,7 +10754,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21637610",
-   "VC NO": "2520450295",
+   "VC No": "2520450295",
    "LCO ID": 42112,
    "CARD NO": "62",
    "NAME": "TORRAM GOPAYYA",
@@ -10765,7 +10765,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15210197",
-   "VC NO": "1330914234",
+   "VC No": "1330914234",
    "LCO ID": 42112,
    "CARD NO": "41",
    "NAME": "KAKA CHINAKKA",
@@ -10776,7 +10776,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "0",
+   "VC No": "0",
    "LCO ID": 42112,
    "CARD NO": "15.A",
    "NAME": "MADAKAM BADRAMMA",
@@ -10787,7 +10787,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496694",
-   "VC NO": "1769333909",
+   "VC No": "1769333909",
    "LCO ID": 42112,
    "CARD NO": "1",
    "NAME": "SIDDI NARSIMHARAO",
@@ -10798,7 +10798,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501751",
-   "VC NO": "1769333742",
+   "VC No": "1769333742",
    "LCO ID": 42112,
    "CARD NO": "3",
    "NAME": "DEGALA SATHYAVATHI",
@@ -10809,7 +10809,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13486950",
-   "VC NO": "1769094467",
+   "VC No": "1769094467",
    "LCO ID": 42112,
    "CARD NO": "5",
    "NAME": "VINUGURTHI RAJESWARI",
@@ -10820,7 +10820,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13327709",
-   "VC NO": "1768909457",
+   "VC No": "1768909457",
    "LCO ID": 42112,
    "CARD NO": "6",
    "NAME": "DEGALA SHIVA",
@@ -10831,7 +10831,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20019638",
-   "VC NO": "2515890332",
+   "VC No": "2515890332",
    "LCO ID": 42112,
    "CARD NO": "9",
    "NAME": "shamala jayalaxmi",
@@ -10842,7 +10842,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20019701",
-   "VC NO": "2516151335",
+   "VC No": "2516151335",
    "LCO ID": 42112,
    "CARD NO": "56",
    "NAME": "kalluri sathibabu",
@@ -10853,7 +10853,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16366872",
-   "VC NO": "1331390407",
+   "VC No": "1331390407",
    "LCO ID": 42112,
    "CARD NO": "29",
    "NAME": "KODI THULASI RAJU(NEW BOX)",
@@ -10864,7 +10864,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496199",
-   "VC NO": "1769419985",
+   "VC No": "1769419985",
    "LCO ID": 42112,
    "CARD NO": "500",
    "NAME": "MUTYALA LAVANYA(POLICE)",
@@ -10875,7 +10875,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16111684",
-   "VC NO": "1331503011",
+   "VC No": "1331503011",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "PALLALA RAJABABU",
@@ -10886,7 +10886,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16903548",
-   "VC NO": "1331697684",
+   "VC No": "1331697684",
    "LCO ID": 42112,
    "CARD NO": "494",
    "NAME": "GUNTTOR VENKATESWARAO",
@@ -10897,7 +10897,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16874830",
-   "VC NO": "1331697688",
+   "VC No": "1331697688",
    "LCO ID": 42112,
    "CARD NO": "496",
    "NAME": "SIDDI SUDAKAR(POLICE)",
@@ -10908,7 +10908,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496741",
-   "VC NO": "1769333911",
+   "VC No": "1769333911",
    "LCO ID": 42112,
    "CARD NO": "328",
    "NAME": "KUDUMORI PRASAD",
@@ -10919,7 +10919,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16111679",
-   "VC NO": "1331503010",
+   "VC No": "1331503010",
    "LCO ID": 42112,
    "CARD NO": "433",
    "NAME": "KILLAMPALLI VENKATARAMANA",
@@ -10930,7 +10930,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13486799",
-   "VC NO": "1769094488",
+   "VC No": "1769094488",
    "LCO ID": 42112,
    "CARD NO": "438",
    "NAME": "VEMULA SRENIVAS (TEACHER)",
@@ -10941,7 +10941,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15656140",
-   "VC NO": "1330986366",
+   "VC No": "1330986366",
    "LCO ID": 42112,
    "CARD NO": "480",
    "NAME": "PADAKALAPALLI RAMARAO",
@@ -10952,7 +10952,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13445034",
-   "VC NO": "1769494972",
+   "VC No": "1769494972",
    "LCO ID": 42112,
    "CARD NO": "336",
    "NAME": "EMMANDI SATHYAVATHI",
@@ -10963,7 +10963,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501741",
-   "VC NO": "1769333739",
+   "VC No": "1769333739",
    "LCO ID": 42112,
    "CARD NO": "473",
    "NAME": "USETTI AMMAJI",
@@ -10974,7 +10974,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496017",
-   "VC NO": "1769333776",
+   "VC No": "1769333776",
    "LCO ID": 42112,
    "CARD NO": "432.A",
    "NAME": "JANGITI NAGARAJU(JAYAMMA)",
@@ -10985,7 +10985,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15656139",
-   "VC NO": "1330986368",
+   "VC No": "1330986368",
    "LCO ID": 42112,
    "CARD NO": "365",
    "NAME": "GUDLA SATHYAVATHI",
@@ -10996,7 +10996,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496408",
-   "VC NO": "1769419978",
+   "VC No": "1769419978",
    "LCO ID": 42112,
    "CARD NO": "358",
    "NAME": "DINGI CHAITHANYA",
@@ -11007,7 +11007,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22188551",
-   "VC NO": "2520409766",
+   "VC No": "2520409766",
    "LCO ID": 42112,
    "CARD NO": "442",
    "NAME": "MADDI ANJIREDDY",
@@ -11018,7 +11018,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16997787",
-   "VC NO": "1331723470",
+   "VC No": "1331723470",
    "LCO ID": 42112,
    "CARD NO": "399",
    "NAME": "THALLURI ADINARAYANA",
@@ -11029,7 +11029,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15901809",
-   "VC NO": "1331358859",
+   "VC No": "1331358859",
    "LCO ID": 42112,
    "CARD NO": "491.A",
    "NAME": "BERI PAPARAO",
@@ -11040,7 +11040,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13486811",
-   "VC NO": "1769094470",
+   "VC No": "1769094470",
    "LCO ID": 42112,
    "CARD NO": "354.A",
    "NAME": "PAMPANA SATHYAVATHI",
@@ -11051,7 +11051,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496657",
-   "VC NO": "1769333913",
+   "VC No": "1769333913",
    "LCO ID": 42112,
    "CARD NO": "398",
    "NAME": "UPPALAPATI VEERABABJI",
@@ -11062,7 +11062,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495884",
-   "VC NO": "1769333787",
+   "VC No": "1769333787",
    "LCO ID": 42112,
    "CARD NO": "432",
    "NAME": "JAGITI RAMU",
@@ -11073,7 +11073,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495947",
-   "VC NO": "1769333818",
+   "VC No": "1769333818",
    "LCO ID": 42112,
    "CARD NO": "454",
    "NAME": "GUDLA SRENIVA SREDDY",
@@ -11084,7 +11084,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15901836",
-   "VC NO": "1331358863",
+   "VC No": "1331358863",
    "LCO ID": 42112,
    "CARD NO": "361",
    "NAME": "JUVVALA KANNARATHNAM",
@@ -11095,7 +11095,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496270",
-   "VC NO": "1769419979",
+   "VC No": "1769419979",
    "LCO ID": 42112,
    "CARD NO": "447",
    "NAME": "VELPULA SANTOSH",
@@ -11106,7 +11106,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15656133",
-   "VC NO": "1330986367",
+   "VC No": "1330986367",
    "LCO ID": 42112,
    "CARD NO": "472",
    "NAME": "SREKAKULAPU PAPAYAMMA",
@@ -11117,7 +11117,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495816",
-   "VC NO": "1769333807",
+   "VC No": "1769333807",
    "LCO ID": 42112,
    "CARD NO": "310",
    "NAME": "SRERAPU HARINADHREDDY",
@@ -11128,7 +11128,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13486820",
-   "VC NO": "1769094471",
+   "VC No": "1769094471",
    "LCO ID": 42112,
    "CARD NO": "304",
    "NAME": "GAJULA SUDAKAR",
@@ -11139,7 +11139,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495851",
-   "VC NO": "1769333792",
+   "VC No": "1769333792",
    "LCO ID": 42112,
    "CARD NO": "450",
    "NAME": "Maddi Bullireddy",
@@ -11150,7 +11150,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496060",
-   "VC NO": "1769333822",
+   "VC No": "1769333822",
    "LCO ID": 42112,
    "CARD NO": "452",
    "NAME": "GUDLA VEERAJU",
@@ -11161,7 +11161,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495810",
-   "VC NO": "1769333824",
+   "VC No": "1769333824",
    "LCO ID": 42112,
    "CARD NO": "259",
    "NAME": "KADUKURI SUBBARAO(KIRANA)",
@@ -11172,7 +11172,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496263",
-   "VC NO": "1769419986",
+   "VC No": "1769419986",
    "LCO ID": 42112,
    "CARD NO": "262",
    "NAME": "DOSAPATI GOPIKRISHNA",
@@ -11183,7 +11183,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21300064",
-   "VC NO": "2520426640",
+   "VC No": "2520426640",
    "LCO ID": 42112,
    "CARD NO": "265.B",
    "NAME": "ATUKURI VENKATARAMANARAO",
@@ -11194,7 +11194,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495975",
-   "VC NO": "1769333773",
+   "VC No": "1769333773",
    "LCO ID": 42112,
    "CARD NO": "318.A",
    "NAME": "VINUKONDA TULASIMERIRATHNAM",
@@ -11205,7 +11205,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495791",
-   "VC NO": "1769333817",
+   "VC No": "1769333817",
    "LCO ID": 42112,
    "CARD NO": "320",
    "NAME": "PATIVADA NAGESWARA RAO",
@@ -11216,7 +11216,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21868466",
-   "VC NO": "2520457376",
+   "VC No": "2520457376",
    "LCO ID": 42112,
    "CARD NO": "320.B",
    "NAME": "P, surya chandar reddy",
@@ -11227,7 +11227,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496248",
-   "VC NO": "1769419977",
+   "VC No": "1769419977",
    "LCO ID": 42112,
    "CARD NO": "359",
    "NAME": "DINGI RAMBABU",
@@ -11238,7 +11238,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16366941",
-   "VC NO": "1331390405",
+   "VC No": "1331390405",
    "LCO ID": 42112,
    "CARD NO": "469.A",
    "NAME": "GUDLA VISHNU",
@@ -11249,7 +11249,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12001948",
-   "VC NO": "1767621926",
+   "VC No": "1767621926",
    "LCO ID": 42112,
    "CARD NO": "362",
    "NAME": "JUVVALA VEMANAREDDY",
@@ -11260,7 +11260,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "14930871",
-   "VC NO": "1330299602",
+   "VC No": "1330299602",
    "LCO ID": 42112,
    "CARD NO": "296.A",
    "NAME": "PANEM ASVANTH",
@@ -11271,7 +11271,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16111676",
-   "VC NO": "1331503012",
+   "VC No": "1331503012",
    "LCO ID": 42112,
    "CARD NO": "302.A",
    "NAME": "ACHI LAXMI",
@@ -11282,7 +11282,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13167920",
-   "VC NO": "1769148564",
+   "VC No": "1769148564",
    "LCO ID": 42112,
    "CARD NO": "343.a",
    "NAME": "DINGI NAGAMANI",
@@ -11293,7 +11293,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496652",
-   "VC NO": "1769333912",
+   "VC No": "1769333912",
    "LCO ID": 42112,
    "CARD NO": "245",
    "NAME": "MALOJI PUSHPANJALI",
@@ -11304,7 +11304,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15901700",
-   "VC NO": "1331484481",
+   "VC No": "1331484481",
    "LCO ID": 42112,
    "CARD NO": "245.A",
    "NAME": "KARELLA VEERAMANI",
@@ -11315,7 +11315,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495928",
-   "VC NO": "1769420067",
+   "VC No": "1769420067",
    "LCO ID": 42112,
    "CARD NO": "354",
    "NAME": "DINGI VENKATALAXMI",
@@ -11326,7 +11326,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13486470",
-   "VC NO": "1769094491",
+   "VC No": "1769094491",
    "LCO ID": 42112,
    "CARD NO": "259.A",
    "NAME": "PODILI VENKATESWARRAO",
@@ -11337,7 +11337,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495980",
-   "VC NO": "1769420071",
+   "VC No": "1769420071",
    "LCO ID": 42112,
    "CARD NO": "261",
    "NAME": "PALAKA SRENIVAS",
@@ -11348,7 +11348,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495964",
-   "VC NO": "1769420069",
+   "VC No": "1769420069",
    "LCO ID": 42112,
    "CARD NO": "265",
    "NAME": "A.RAJASHEKAR",
@@ -11359,7 +11359,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495969",
-   "VC NO": "1769420072",
+   "VC No": "1769420072",
    "LCO ID": 42112,
    "CARD NO": "265.A",
    "NAME": "MUSALI PAIDIRAJU",
@@ -11370,7 +11370,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495972",
-   "VC NO": "1769420070",
+   "VC No": "1769420070",
    "LCO ID": 42112,
    "CARD NO": "267",
    "NAME": "MOTUPALLI NATARAJASWAMI",
@@ -11381,7 +11381,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "0",
+   "VC No": "0",
    "LCO ID": 42112,
    "CARD NO": "268",
    "NAME": "DIKALA JAMMAYA",
@@ -11392,7 +11392,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21390971",
-   "VC NO": "2520409981",
+   "VC No": "2520409981",
    "LCO ID": 42112,
    "CARD NO": "278\\A",
    "NAME": "BETHALA SUBBALAKSHMI",
@@ -11403,7 +11403,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "0",
+   "VC No": "0",
    "LCO ID": 42112,
    "CARD NO": "279",
    "NAME": "PALA SAIBABU",
@@ -11414,7 +11414,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495930",
-   "VC NO": "1769333770",
+   "VC No": "1769333770",
    "LCO ID": 42112,
    "CARD NO": "280",
    "NAME": "PALA SATHYAPRASAD",
@@ -11425,7 +11425,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495924",
-   "VC NO": "1769333768",
+   "VC No": "1769333768",
    "LCO ID": 42112,
    "CARD NO": "281",
    "NAME": "PALA VENKATARAMANA",
@@ -11436,7 +11436,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20246132",
-   "VC NO": "2516187833",
+   "VC No": "2516187833",
    "LCO ID": 42112,
    "CARD NO": "505",
    "NAME": "ASANTHA THIRUMALAKUMARI",
@@ -11447,7 +11447,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495977",
-   "VC NO": "1769420074",
+   "VC No": "1769420074",
    "LCO ID": 42112,
    "CARD NO": "283",
    "NAME": "DINGI SHANKARREDDY",
@@ -11458,7 +11458,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495990",
-   "VC NO": "1769333774",
+   "VC No": "1769333774",
    "LCO ID": 42112,
    "CARD NO": "284",
    "NAME": "ANUMALA VENKATAREDDY",
@@ -11469,7 +11469,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495879",
-   "VC NO": "1769333791",
+   "VC No": "1769333791",
    "LCO ID": 42112,
    "CARD NO": "286",
    "NAME": "RAHEEM(CHIKEN SHOP)",
@@ -11480,7 +11480,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495987",
-   "VC NO": "1769333781",
+   "VC No": "1769333781",
    "LCO ID": 42112,
    "CARD NO": "288",
    "NAME": "PAMPPANA PAVAN KUMAR(CELL SHOP)",
@@ -11491,7 +11491,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496548",
-   "VC NO": "1769419961",
+   "VC No": "1769419961",
    "LCO ID": 42112,
    "CARD NO": "290.A",
    "NAME": "B.R FANI",
@@ -11502,7 +11502,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496396",
-   "VC NO": "1769420215",
+   "VC No": "1769420215",
    "LCO ID": 42112,
    "CARD NO": "296",
    "NAME": "KOKIRALA CHANDRASHKER",
@@ -11513,7 +11513,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15869119",
-   "VC NO": "1331358092",
+   "VC No": "1331358092",
    "LCO ID": 42112,
    "CARD NO": "511",
    "NAME": "SRIKOTI VENKATESHWAR RAO",
@@ -11524,7 +11524,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13547083",
-   "VC NO": "1769495288",
+   "VC No": "1769495288",
    "LCO ID": 42112,
    "CARD NO": "300",
    "NAME": "ACHI HEMATH",
@@ -11535,7 +11535,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496019",
-   "VC NO": "1769333830",
+   "VC No": "1769333830",
    "LCO ID": 42112,
    "CARD NO": "301",
    "NAME": "S.D.SAIDABI",
@@ -11546,7 +11546,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "14973671",
-   "VC NO": "1767397032",
+   "VC No": "1767397032",
    "LCO ID": 42112,
    "CARD NO": "301.A",
    "NAME": "MADDI JOTHI",
@@ -11557,7 +11557,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495886",
-   "VC NO": "1769333771",
+   "VC No": "1769333771",
    "LCO ID": 42112,
    "CARD NO": "324",
    "NAME": "KALANADABATLA SATHYANARAYANAMURTHEY",
@@ -11568,7 +11568,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495872",
-   "VC NO": "1769333789",
+   "VC No": "1769333789",
    "LCO ID": 42112,
    "CARD NO": "303",
    "NAME": "ALLADI VENKATESWARRAO(HOTEL)",
@@ -11579,7 +11579,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "14973647",
-   "VC NO": "1767397037",
+   "VC No": "1767397037",
    "LCO ID": 42112,
    "CARD NO": "370",
    "NAME": "DALLIBULLI PAPA",
@@ -11590,7 +11590,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13486941",
-   "VC NO": "1769094473",
+   "VC No": "1769094473",
    "LCO ID": 42112,
    "CARD NO": "304.A",
    "NAME": "JANGA VEERAREDDY",
@@ -11601,7 +11601,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495953",
-   "VC NO": "1769333823",
+   "VC No": "1769333823",
    "LCO ID": 42112,
    "CARD NO": "309",
    "NAME": "SRERAPU SATHYAVATHI",
@@ -11612,7 +11612,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496186",
-   "VC NO": "1769419983",
+   "VC No": "1769419983",
    "LCO ID": 42112,
    "CARD NO": "351",
    "NAME": "DINGI SURESH",
@@ -11623,7 +11623,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "1769149981",
+   "VC No": "1769149981",
    "LCO ID": 42112,
    "CARD NO": "311",
    "NAME": "BERRI DARMENDRAREDDY",
@@ -11634,7 +11634,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496177",
-   "VC NO": "1769419981",
+   "VC No": "1769419981",
    "LCO ID": 42112,
    "CARD NO": "312",
    "NAME": "SIDIRALA SRENU",
@@ -11645,7 +11645,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496246",
-   "VC NO": "1769419984",
+   "VC No": "1769419984",
    "LCO ID": 42112,
    "CARD NO": "313",
    "NAME": "GUDLA SRENIVAS",
@@ -11656,7 +11656,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496653",
-   "VC NO": "1769419949",
+   "VC No": "1769419949",
    "LCO ID": 42112,
    "CARD NO": "313.A",
    "NAME": "PODAKALAPALLI SRINIVAS",
@@ -11667,7 +11667,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13486946",
-   "VC NO": "1769094472",
+   "VC No": "1769094472",
    "LCO ID": 42112,
    "CARD NO": "317",
    "NAME": "SRERAPU VENKATARAMANAREDDY(H.P)",
@@ -11678,7 +11678,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496616",
-   "VC NO": "1769419950",
+   "VC No": "1769419950",
    "LCO ID": 42112,
    "CARD NO": "318",
    "NAME": "D.RAJARAM",
@@ -11689,7 +11689,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496732",
-   "VC NO": "1769419948",
+   "VC No": "1769419948",
    "LCO ID": 42112,
    "CARD NO": "333",
    "NAME": "PAMPANA SHIVARAO",
@@ -11700,7 +11700,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495989",
-   "VC NO": "1769333821",
+   "VC No": "1769333821",
    "LCO ID": 42112,
    "CARD NO": "456",
    "NAME": "THEPPALAVALASA KODALARAO",
@@ -11711,7 +11711,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16997673",
-   "VC NO": "1331723472",
+   "VC No": "1331723472",
    "LCO ID": 42112,
    "CARD NO": "478.B",
    "NAME": "SREKAKULAPU VENKATARAMANA",
@@ -11722,7 +11722,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20019629",
-   "VC NO": "2515890324",
+   "VC No": "2515890324",
    "LCO ID": 42112,
    "CARD NO": "320.A",
    "NAME": "thalasila venkat rao",
@@ -11733,7 +11733,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "1769397039",
+   "VC No": "1769397039",
    "LCO ID": 42112,
    "CARD NO": "321",
    "NAME": "BERI ACHUTHARAMIREDDY",
@@ -11744,7 +11744,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495963",
-   "VC NO": "1769333788",
+   "VC No": "1769333788",
    "LCO ID": 42112,
    "CARD NO": "417",
    "NAME": "SOMINI BASAVAYA(ADILAXMI)",
@@ -11755,7 +11755,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501950",
-   "VC NO": "1769333414",
+   "VC No": "1769333414",
    "LCO ID": 42112,
    "CARD NO": "325",
    "NAME": "BELLALA NAGENDARREDDY",
@@ -11766,7 +11766,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20165958",
-   "VC NO": "2516151297",
+   "VC No": "2516151297",
    "LCO ID": 42112,
    "CARD NO": "503",
    "NAME": "DASARI PRABHUDAS",
@@ -11777,7 +11777,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496654",
-   "VC NO": "1769419951",
+   "VC No": "1769419951",
    "LCO ID": 42112,
    "CARD NO": "332",
    "NAME": "KACHARLA RAVISHANKAR",
@@ -11788,7 +11788,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13167859",
-   "VC NO": "1769148695",
+   "VC No": "1769148695",
    "LCO ID": 42112,
    "CARD NO": "333.A",
    "NAME": "DINGI SWARUPARANI",
@@ -11799,7 +11799,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496647",
-   "VC NO": "1769419947",
+   "VC No": "1769419947",
    "LCO ID": 42112,
    "CARD NO": "334",
    "NAME": "PAMPANA ANAND",
@@ -11810,7 +11810,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20165950",
-   "VC NO": "2516151316",
+   "VC No": "2516151316",
    "LCO ID": 42112,
    "CARD NO": "502",
    "NAME": "JARI MUTHYALAREDDY",
@@ -11821,7 +11821,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496682",
-   "VC NO": "1769419956",
+   "VC No": "1769419956",
    "LCO ID": 42112,
    "CARD NO": "337",
    "NAME": "MADDI RAMIREDDY",
@@ -11832,7 +11832,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13486808",
-   "VC NO": "1769094469",
+   "VC No": "1769094469",
    "LCO ID": 42112,
    "CARD NO": "352.A",
    "NAME": "GUDLA RAMBAI",
@@ -11843,7 +11843,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495790",
-   "VC NO": "1769333820",
+   "VC No": "1769333820",
    "LCO ID": 42112,
    "CARD NO": "353",
    "NAME": "DINGI APPALAREDDY",
@@ -11854,7 +11854,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496175",
-   "VC NO": "1769419982",
+   "VC No": "1769419982",
    "LCO ID": 42112,
    "CARD NO": "359.A",
    "NAME": "JUVVALA SREHARI",
@@ -11865,7 +11865,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13087036",
-   "VC NO": "1769148765",
+   "VC No": "1769148765",
    "LCO ID": 42112,
    "CARD NO": "359.B",
    "NAME": "KUPPILI KRISHNA BABU",
@@ -11876,7 +11876,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495948",
-   "VC NO": "1769420075",
+   "VC No": "1769420075",
    "LCO ID": 42112,
    "CARD NO": "360",
    "NAME": "JUVVALA JAYALAXMI",
@@ -11887,7 +11887,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495986",
-   "VC NO": "1769333819",
+   "VC No": "1769333819",
    "LCO ID": 42112,
    "CARD NO": "364",
    "NAME": "MADDHI LAXMI",
@@ -11898,7 +11898,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15656123",
-   "VC NO": "1330986369",
+   "VC No": "1330986369",
    "LCO ID": 42112,
    "CARD NO": "364.A",
    "NAME": "PODAKAPALLI KARUNAKAR",
@@ -11909,7 +11909,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495965",
-   "VC NO": "1769420076",
+   "VC No": "1769420076",
    "LCO ID": 42112,
    "CARD NO": "367",
    "NAME": "MADDI ADIREDDY",
@@ -11920,7 +11920,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13485760",
-   "VC NO": "1769094513",
+   "VC No": "1769094513",
    "LCO ID": 42112,
    "CARD NO": "474",
    "NAME": "USETTI RAMESH",
@@ -11931,7 +11931,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495883",
-   "VC NO": "1769333767",
+   "VC No": "1769333767",
    "LCO ID": 42112,
    "CARD NO": "371",
    "NAME": "PORAPU SRENIVASRAO",
@@ -11942,7 +11942,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16111688",
-   "VC NO": "1331503008",
+   "VC No": "1331503008",
    "LCO ID": 42112,
    "CARD NO": "371.A",
    "NAME": "MANDA RAGHU",
@@ -11953,7 +11953,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13502101",
-   "VC NO": "1769333757",
+   "VC No": "1769333757",
    "LCO ID": 42112,
    "CARD NO": "381",
    "NAME": "KUNCHALA SRENIVASRAO",
@@ -11964,7 +11964,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484016",
-   "VC NO": "1769419808",
+   "VC No": "1769419808",
    "LCO ID": 42112,
    "CARD NO": "393",
    "NAME": "THALLURI KRISHNAKUMARI",
@@ -11975,7 +11975,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496480",
-   "VC NO": "1769420212",
+   "VC No": "1769420212",
    "LCO ID": 42112,
    "CARD NO": "396",
    "NAME": "THALLURI VEERAJU",
@@ -11986,7 +11986,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15851152",
-   "VC NO": "1331503409",
+   "VC No": "1331503409",
    "LCO ID": 42112,
    "CARD NO": "397",
    "NAME": "KODAVATI SATHYANARAYANA",
@@ -11997,7 +11997,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13483991",
-   "VC NO": "1769419807",
+   "VC No": "1769419807",
    "LCO ID": 42112,
    "CARD NO": "410",
    "NAME": "MULLAPUDI RAVIKUMAR",
@@ -12008,7 +12008,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "2516121161",
+   "VC No": "2516121161",
    "LCO ID": 42112,
    "CARD NO": "419",
    "NAME": "SOMONI RAJU",
@@ -12019,7 +12019,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496053",
-   "VC NO": "1769420092",
+   "VC No": "1769420092",
    "LCO ID": 42112,
    "CARD NO": "420",
    "NAME": "PODIMI MALESWARI",
@@ -12030,7 +12030,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495997",
-   "VC NO": "1769333769",
+   "VC No": "1769333769",
    "LCO ID": 42112,
    "CARD NO": "418",
    "NAME": "SOMINI VENKANNA(SHIRISHA)",
@@ -12041,7 +12041,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496687",
-   "VC NO": "1769333914",
+   "VC No": "1769333914",
    "LCO ID": 42112,
    "CARD NO": "423",
    "NAME": "GUDAVALLI SARALA",
@@ -12052,7 +12052,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496003",
-   "VC NO": "1769333779",
+   "VC No": "1769333779",
    "LCO ID": 42112,
    "CARD NO": "431.A",
    "NAME": "TIRUMALAKONDA NAGESWARRAO",
@@ -12063,7 +12063,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495978",
-   "VC NO": "1769333790",
+   "VC No": "1769333790",
    "LCO ID": 42112,
    "CARD NO": "445",
    "NAME": "VAMULA SRENIVAS",
@@ -12074,7 +12074,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "1769148563",
+   "VC No": "1769148563",
    "LCO ID": 42112,
    "CARD NO": "435",
    "NAME": "UMMINENI NAGARAJU",
@@ -12085,7 +12085,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495906",
-   "VC NO": "1769333775",
+   "VC No": "1769333775",
    "LCO ID": 42112,
    "CARD NO": "436",
    "NAME": "KOMMU BUSHANAM",
@@ -12096,7 +12096,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13486415",
-   "VC NO": "1769094512",
+   "VC No": "1769094512",
    "LCO ID": 42112,
    "CARD NO": "436.A",
    "NAME": "UMMMINENI THIRUMALA",
@@ -12107,7 +12107,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13485523",
-   "VC NO": "1769094465",
+   "VC No": "1769094465",
    "LCO ID": 42112,
    "CARD NO": "436.B",
    "NAME": "UMMINENI SAMBASHIVARAO",
@@ -12118,7 +12118,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13486738",
-   "VC NO": "1769094496",
+   "VC No": "1769094496",
    "LCO ID": 42112,
    "CARD NO": "439",
    "NAME": "BORA ARUNA",
@@ -12129,7 +12129,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21106588",
-   "VC NO": "2516177433",
+   "VC No": "2516177433",
    "LCO ID": 42112,
    "CARD NO": "439.A",
    "NAME": "MADHI PRASAD",
@@ -12140,7 +12140,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22176268",
-   "VC NO": "2520409752",
+   "VC No": "2520409752",
    "LCO ID": 42112,
    "CARD NO": "418/A",
    "NAME": "SOMINENI BUJJI",
@@ -12151,7 +12151,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495790",
-   "VC NO": "1769333820",
+   "VC No": "1769333820",
    "LCO ID": 42112,
    "CARD NO": "459",
    "NAME": "DINGI APPALAREDDY",
@@ -12162,7 +12162,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495832",
-   "VC NO": "1769333814",
+   "VC No": "1769333814",
    "LCO ID": 42112,
    "CARD NO": "459.A",
    "NAME": "TEPPALAVALASA SURESH(LAXMI)",
@@ -12173,7 +12173,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20200106",
-   "VC NO": "2516151291",
+   "VC No": "2516151291",
    "LCO ID": 42112,
    "CARD NO": "459.B",
    "NAME": "MUMMADI SRINIVAS RAO",
@@ -12184,7 +12184,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13502024",
-   "VC NO": "1769333413",
+   "VC No": "1769333413",
    "LCO ID": 42112,
    "CARD NO": "460",
    "NAME": "MADEPALLI MADAVA",
@@ -12195,7 +12195,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501903",
-   "VC NO": "1769333382",
+   "VC No": "1769333382",
    "LCO ID": 42112,
    "CARD NO": "465",
    "NAME": "JUVVALA SHIVAREDDY",
@@ -12206,7 +12206,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495850",
-   "VC NO": "1769333778",
+   "VC No": "1769333778",
    "LCO ID": 42112,
    "CARD NO": "469",
    "NAME": "GUDLA SREDAR",
@@ -12217,7 +12217,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13546708",
-   "VC NO": "1769495251",
+   "VC No": "1769495251",
    "LCO ID": 42112,
    "CARD NO": "469.B",
    "NAME": "GUDLA PRASAD",
@@ -12228,7 +12228,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20340288",
-   "VC NO": "2516084599",
+   "VC No": "2516084599",
    "LCO ID": 42112,
    "CARD NO": "469.C",
    "NAME": "KUDLA APPALARAJU",
@@ -12239,7 +12239,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13486939",
-   "VC NO": "1769094475",
+   "VC No": "1769094475",
    "LCO ID": 42112,
    "CARD NO": "470",
    "NAME": "SREKAKULAPU LAXMI",
@@ -12250,7 +12250,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13486475",
-   "VC NO": "1769094490",
+   "VC No": "1769094490",
    "LCO ID": 42112,
    "CARD NO": "471",
    "NAME": "NIMMANAGOTTI RAVI(PARVATHI)",
@@ -12261,7 +12261,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13483985",
-   "VC NO": "1769419816",
+   "VC No": "1769419816",
    "LCO ID": 42112,
    "CARD NO": "476",
    "NAME": "AKULA SRINIVASRAO(CURRENT OFFCE)",
@@ -12272,7 +12272,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22093265",
-   "VC NO": "1760471898",
+   "VC No": "1760471898",
    "LCO ID": 42112,
    "CARD NO": "478",
    "NAME": "JEERI VENKATARAMANA(KONDAMMA)",
@@ -12283,7 +12283,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13539814",
-   "VC NO": "1769148442",
+   "VC No": "1769148442",
    "LCO ID": 42112,
    "CARD NO": "478.A",
    "NAME": "SAIYAD HUSSEINBEE",
@@ -12294,7 +12294,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16874852",
-   "VC NO": "1331697685",
+   "VC No": "1331697685",
    "LCO ID": 42112,
    "CARD NO": "485",
    "NAME": "useeti Rajesh",
@@ -12305,7 +12305,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496574",
-   "VC NO": "1769419962",
+   "VC No": "1769419962",
    "LCO ID": 42112,
    "CARD NO": "488",
    "NAME": "G rama laxmi.",
@@ -12316,7 +12316,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501970",
-   "VC NO": "1769333407",
+   "VC No": "1769333407",
    "LCO ID": 42112,
    "CARD NO": "490",
    "NAME": "BAIRE NARSIMHA RAO(HEAD)",
@@ -12327,7 +12327,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16607160",
-   "VC NO": "1331700597",
+   "VC No": "1331700597",
    "LCO ID": 42112,
    "CARD NO": "493",
    "NAME": "GADI VISHNU VARDHAN",
@@ -12338,7 +12338,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "14973640",
-   "VC NO": "1767397039",
+   "VC No": "1767397039",
    "LCO ID": 42112,
    "CARD NO": "495",
    "NAME": "BERI VERENDAREDDY",
@@ -12349,7 +12349,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16997639",
-   "VC NO": "1331723473",
+   "VC No": "1331723473",
    "LCO ID": 42112,
    "CARD NO": "497",
    "NAME": "POLICE STATION",
@@ -12360,7 +12360,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15213555",
-   "VC NO": "1330914272",
+   "VC No": "1330914272",
    "LCO ID": 42112,
    "CARD NO": "497.A",
    "NAME": "chikkudu venkateswarllu",
@@ -12371,7 +12371,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496707",
-   "VC NO": "1769419930",
+   "VC No": "1769419930",
    "LCO ID": 42112,
    "CARD NO": "499",
    "NAME": "ABBURI RAMESH",
@@ -12382,7 +12382,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13486817",
-   "VC NO": "1769094474",
+   "VC No": "1769094474",
    "LCO ID": 42112,
    "CARD NO": "501",
    "NAME": "GUDLA RAMMOHAN REDDY(PANCHAITHEY)",
@@ -12393,7 +12393,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20503593",
-   "VC NO": "2516003115",
+   "VC No": "2516003115",
    "LCO ID": 42112,
    "CARD NO": "504",
    "NAME": "gampa srinu",
@@ -12404,7 +12404,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496686",
-   "VC NO": "1769333910",
+   "VC No": "1769333910",
    "LCO ID": 42112,
    "CARD NO": "414",
    "NAME": "MURIKIPUDI ALIVELU",
@@ -12415,7 +12415,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495874",
-   "VC NO": "1769333794",
+   "VC No": "1769333794",
    "LCO ID": 42112,
    "CARD NO": "422",
    "NAME": "UMMINENI PRAMILA",
@@ -12426,7 +12426,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20310886",
-   "VC NO": "2516084359",
+   "VC No": "2516084359",
    "LCO ID": 42112,
    "CARD NO": "507",
    "NAME": "SOYAM BADRAMMA",
@@ -12437,7 +12437,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20340288",
-   "VC NO": "2516084599",
+   "VC No": "2516084599",
    "LCO ID": 42112,
    "CARD NO": "508",
    "NAME": "GUDLA APPALA RAJU",
@@ -12448,7 +12448,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "2520401413",
+   "VC No": "2520401413",
    "LCO ID": 42112,
    "CARD NO": "509",
    "NAME": "CHATULA NAGAMANI",
@@ -12459,7 +12459,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495951",
-   "VC NO": "1769420068",
+   "VC No": "1769420068",
    "LCO ID": 42112,
    "CARD NO": "449",
    "NAME": "LANKA SHARATH",
@@ -12470,7 +12470,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496695",
-   "VC NO": "1769333916",
+   "VC No": "1769333916",
    "LCO ID": 42112,
    "CARD NO": "411",
    "NAME": "LADIGI VARALAXMI(RANGAYA)",
@@ -12481,7 +12481,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22093243",
-   "VC NO": "1760475488",
+   "VC No": "1760475488",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "VEERA VENNKATA RAO",
@@ -12492,7 +12492,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22163127",
-   "VC NO": "2520409789",
+   "VC No": "2520409789",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "PULLURI RAJENDRA PRASAD",
@@ -12503,7 +12503,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20019629",
-   "VC NO": "2515890324",
+   "VC No": "2515890324",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "TALASILA VENKAT RAO",
@@ -12514,7 +12514,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495883",
-   "VC NO": "1769333767",
+   "VC No": "1769333767",
    "LCO ID": 42112,
    "CARD NO": "510",
    "NAME": "KORAPU SRINIVASARAO (SWEET SHOP)",
@@ -12525,7 +12525,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22188549",
-   "VC NO": "1760503940",
+   "VC No": "1760503940",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "PATHACHERLA SRINIVAS RAO",
@@ -12536,7 +12536,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20185541",
-   "VC NO": "2516151267",
+   "VC No": "2516151267",
    "LCO ID": 42112,
    "CARD NO": "506",
    "NAME": "polina satyanarayana",
@@ -12547,7 +12547,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "14973644",
-   "VC NO": "1767397038",
+   "VC No": "1767397038",
    "LCO ID": 42112,
    "CARD NO": "321.A",
    "NAME": "THADALA RAMARAO(SBH)BANK",
@@ -12558,7 +12558,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15901869",
-   "VC NO": "1331358835",
+   "VC No": "1331358835",
    "LCO ID": 42112,
    "CARD NO": "437",
    "NAME": "MUDAPAKA SRENIVAS(ENADU)",
@@ -12569,7 +12569,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496582",
-   "VC NO": "1769419946",
+   "VC No": "1769419946",
    "LCO ID": 42112,
    "CARD NO": "290",
    "NAME": "B.R.S .MURTHEY",
@@ -12580,7 +12580,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13486814",
-   "VC NO": "1769094476",
+   "VC No": "1769094476",
    "LCO ID": 42112,
    "CARD NO": "319",
    "NAME": "M.D.RABHAN",
@@ -12591,7 +12591,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501953",
-   "VC NO": "1769333411",
+   "VC No": "1769333411",
    "LCO ID": 42112,
    "CARD NO": "395",
    "NAME": "THALLURI RAMESH",
@@ -12602,7 +12602,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496105",
-   "VC NO": "1769420089",
+   "VC No": "1769420089",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "MODI SURESH",
@@ -12613,7 +12613,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496415",
-   "VC NO": "1769420015",
+   "VC No": "1769420015",
    "LCO ID": 42112,
    "CARD NO": "413",
    "NAME": "BAYIREDDY RAMBAYI",
@@ -12624,7 +12624,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495939",
-   "VC NO": "1769420073",
+   "VC No": "1769420073",
    "LCO ID": 42112,
    "CARD NO": "282",
    "NAME": "VENNA KRISHNAREDDY",
@@ -12635,7 +12635,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496486",
-   "VC NO": "1769420210",
+   "VC No": "1769420210",
    "LCO ID": 42112,
    "CARD NO": "421.A",
    "NAME": "BADITAMANI VENKATESWARLLU",
@@ -12646,7 +12646,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13486742",
-   "VC NO": "1769094494",
+   "VC No": "1769094494",
    "LCO ID": 42112,
    "CARD NO": "421.B",
    "NAME": "UPPADA SATHISH",
@@ -12657,7 +12657,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22188533",
-   "VC NO": "1760469470",
+   "VC No": "1760469470",
    "LCO ID": 42112,
    "CARD NO": "421.C",
    "NAME": "VAKCHERLA VERE VENKATRAO",
@@ -12668,7 +12668,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20741356",
-   "VC NO": "2516121129",
+   "VC No": "2516121129",
    "LCO ID": 42112,
    "CARD NO": "107.c",
    "NAME": "Chalikani Mohan(pan shop)",
@@ -12679,7 +12679,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "17153674",
-   "VC NO": "1331700089",
+   "VC No": "1331700089",
    "LCO ID": 42112,
    "CARD NO": "108",
    "NAME": "BODA VANDANAM",
@@ -12690,7 +12690,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16606433",
-   "VC NO": "1331699963",
+   "VC No": "1331699963",
    "LCO ID": 42112,
    "CARD NO": "87",
    "NAME": "KATUKURI UDAYKUMAR",
@@ -12701,7 +12701,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501937",
-   "VC NO": "1769333384",
+   "VC No": "1769333384",
    "LCO ID": 42112,
    "CARD NO": "41",
    "NAME": "DODDA PABHAKER(CURENT OFFICE)",
@@ -12712,7 +12712,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496734",
-   "VC NO": "1769419952",
+   "VC No": "1769419952",
    "LCO ID": 42112,
    "CARD NO": "69",
    "NAME": "JALAMURI POLESWARRAO",
@@ -12723,7 +12723,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495799",
-   "VC NO": "1769333777",
+   "VC No": "1769333777",
    "LCO ID": 42112,
    "CARD NO": "67",
    "NAME": "APAKA SEETHAMMA",
@@ -12734,7 +12734,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16844242",
-   "VC NO": "1331697693",
+   "VC No": "1331697693",
    "LCO ID": 42112,
    "CARD NO": "77",
    "NAME": "KELLA VENKATESWAR RAO",
@@ -12745,7 +12745,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501717",
-   "VC NO": "1769333740",
+   "VC No": "1769333740",
    "LCO ID": 42112,
    "CARD NO": "68",
    "NAME": "KALAVA PUNNAMA",
@@ -12756,7 +12756,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20983206",
-   "VC NO": "2516177442",
+   "VC No": "2516177442",
    "LCO ID": 42112,
    "CARD NO": "107.B",
    "NAME": "PUDAKALAPALLI PRAM KUMAR",
@@ -12767,7 +12767,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13033300",
-   "VC NO": "1769148821",
+   "VC No": "1769148821",
    "LCO ID": 42112,
    "CARD NO": "8",
    "NAME": "GUNTAKA RAJASHEKAR",
@@ -12778,7 +12778,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13502077",
-   "VC NO": "1769333761",
+   "VC No": "1769333761",
    "LCO ID": 42112,
    "CARD NO": "9",
    "NAME": "KADIYALA SUDHAKARRAO",
@@ -12789,7 +12789,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501710",
-   "VC NO": "1769333741",
+   "VC No": "1769333741",
    "LCO ID": 42112,
    "CARD NO": "10",
    "NAME": "BALLA LEYAMMA",
@@ -12800,7 +12800,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501628",
-   "VC NO": "1769333755",
+   "VC No": "1769333755",
    "LCO ID": 42112,
    "CARD NO": "11",
    "NAME": "YADAMA RAMULU",
@@ -12811,7 +12811,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501596",
-   "VC NO": "1769333752",
+   "VC No": "1769333752",
    "LCO ID": 42112,
    "CARD NO": "12",
    "NAME": "PUNEM KAVITHA",
@@ -12822,7 +12822,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13502082",
-   "VC NO": "1769333760",
+   "VC No": "1769333760",
    "LCO ID": 42112,
    "CARD NO": "20",
    "NAME": "TiRUMALA ELLAIAH",
@@ -12833,7 +12833,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496471",
-   "VC NO": "1769420209",
+   "VC No": "1769420209",
    "LCO ID": 42112,
    "CARD NO": "55",
    "NAME": "JAMMI RAMAKRISHNA",
@@ -12844,7 +12844,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501569",
-   "VC NO": "1769333750",
+   "VC No": "1769333750",
    "LCO ID": 42112,
    "CARD NO": "17",
    "NAME": "PALAKEERTHI KOTAIAH",
@@ -12855,7 +12855,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13502086",
-   "VC NO": "1769333759",
+   "VC No": "1769333759",
    "LCO ID": 42112,
    "CARD NO": "18",
    "NAME": "THIRUPATHI MANGA",
@@ -12866,7 +12866,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13478513",
-   "VC NO": "1769495324",
+   "VC No": "1769495324",
    "LCO ID": 42112,
    "CARD NO": "109",
    "NAME": "karam venkatalaxmi(venkatamma)",
@@ -12877,7 +12877,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501965",
-   "VC NO": "1769333408",
+   "VC No": "1769333408",
    "LCO ID": 42112,
    "CARD NO": "50",
    "NAME": "VINUKONDA ANANTHARAO",
@@ -12888,7 +12888,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "17161155",
-   "VC NO": "1331699960",
+   "VC No": "1331699960",
    "LCO ID": 42112,
    "CARD NO": "23",
    "NAME": "PODIYAM RAMAYA",
@@ -12899,7 +12899,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13502095",
-   "VC NO": "1769333758",
+   "VC No": "1769333758",
    "LCO ID": 42112,
    "CARD NO": "24",
    "NAME": "JALLI VIJAYA",
@@ -12910,7 +12910,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501591",
-   "VC NO": "1769333751",
+   "VC No": "1769333751",
    "LCO ID": 42112,
    "CARD NO": "25",
    "NAME": "CHINTHAIA THIRUPATHAMMA",
@@ -12921,7 +12921,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16111672",
-   "VC NO": "1331503013",
+   "VC No": "1331503013",
    "LCO ID": 42112,
    "CARD NO": "79",
    "NAME": "SUBBINENIO CHIRANGEEVI",
@@ -12932,7 +12932,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495919",
-   "VC NO": "1769333828",
+   "VC No": "1769333828",
    "LCO ID": 42112,
    "CARD NO": "27",
    "NAME": "UPPU RAMAKRISHNA",
@@ -12943,7 +12943,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20745455",
-   "VC NO": "2520448248",
+   "VC No": "2520448248",
    "LCO ID": 42112,
    "CARD NO": "28.A",
    "NAME": "THURRAM SHANKAR",
@@ -12954,7 +12954,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495796",
-   "VC NO": "1769333806",
+   "VC No": "1769333806",
    "LCO ID": 42112,
    "CARD NO": "29",
    "NAME": "SONDE GOPALAKRISHANA",
@@ -12965,7 +12965,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13066190",
-   "VC NO": "1769251084",
+   "VC No": "1769251084",
    "LCO ID": 42112,
    "CARD NO": "96",
    "NAME": "KADIYALA DEVANANDHAM",
@@ -12976,7 +12976,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495863",
-   "VC NO": "1769333803",
+   "VC No": "1769333803",
    "LCO ID": 42112,
    "CARD NO": "31",
    "NAME": "MADAKAM JAYALAXMI",
@@ -12987,7 +12987,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495927",
-   "VC NO": "1769333832",
+   "VC No": "1769333832",
    "LCO ID": 42112,
    "CARD NO": "32",
    "NAME": "PODIYAM MUDHARAJU(NARASIMHARAO)",
@@ -12998,7 +12998,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "1714296590",
+   "VC No": "1714296590",
    "LCO ID": 42112,
    "CARD NO": "32\\A",
    "NAME": "MADAKAM MAHENDRANADH",
@@ -13009,7 +13009,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495860",
-   "VC NO": "1769333795",
+   "VC No": "1769333795",
    "LCO ID": 42112,
    "CARD NO": "33",
    "NAME": "MODDULA BONGARUSHETTI",
@@ -13020,7 +13020,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "14931425",
-   "VC NO": "1769569423",
+   "VC No": "1769569423",
    "LCO ID": 42112,
    "CARD NO": "98",
    "NAME": "BAVANAPALLI SANTHA",
@@ -13031,7 +13031,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495956",
-   "VC NO": "1769333782",
+   "VC No": "1769333782",
    "LCO ID": 42112,
    "CARD NO": "36",
    "NAME": "DOLLA SHUBASINI",
@@ -13042,7 +13042,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501912",
-   "VC NO": "1769333377",
+   "VC No": "1769333377",
    "LCO ID": 42112,
    "CARD NO": "40",
    "NAME": "DODDA ANANTHRAO",
@@ -13053,7 +13053,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496413",
-   "VC NO": "1769420008",
+   "VC No": "1769420008",
    "LCO ID": 42112,
    "CARD NO": "4",
    "NAME": "BELLAM PARIMALA",
@@ -13064,7 +13064,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501896",
-   "VC NO": "1769333381",
+   "VC No": "1769333381",
    "LCO ID": 42112,
    "CARD NO": "42",
    "NAME": "DODDA RAJESWARAO",
@@ -13075,7 +13075,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501959",
-   "VC NO": "1769333386",
+   "VC No": "1769333386",
    "LCO ID": 42112,
    "CARD NO": "43",
    "NAME": "BODA PRASAD(CURENT OFFICE)",
@@ -13086,7 +13086,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501899",
-   "VC NO": "1769333385",
+   "VC No": "1769333385",
    "LCO ID": 42112,
    "CARD NO": "44",
    "NAME": "SHEK MEHABUBI",
@@ -13097,7 +13097,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13486740",
-   "VC NO": "1769094495",
+   "VC No": "1769094495",
    "LCO ID": 42112,
    "CARD NO": "46",
    "NAME": "KAGITHALA ANVESH",
@@ -13108,7 +13108,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13502023",
-   "VC NO": "1769333410",
+   "VC No": "1769333410",
    "LCO ID": 42112,
    "CARD NO": "48",
    "NAME": "DODDA KANTHAMMA",
@@ -13119,7 +13119,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501966",
-   "VC NO": "1769333412",
+   "VC No": "1769333412",
    "LCO ID": 42112,
    "CARD NO": "49",
    "NAME": "MULANI KUBRA",
@@ -13130,7 +13130,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496416",
-   "VC NO": "1769420061",
+   "VC No": "1769420061",
    "LCO ID": 42112,
    "CARD NO": "51",
    "NAME": "BORA VENKATAREDDY",
@@ -13141,7 +13141,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13486803",
-   "VC NO": "1769094468",
+   "VC No": "1769094468",
    "LCO ID": 42112,
    "CARD NO": "53",
    "NAME": "THOTA RAMESH",
@@ -13152,7 +13152,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13502105",
-   "VC NO": "1769333762",
+   "VC No": "1769333762",
    "LCO ID": 42112,
    "CARD NO": "19",
    "NAME": "THIRUPATHI SUGUNA",
@@ -13163,7 +13163,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495971",
-   "VC NO": "1769333827",
+   "VC No": "1769333827",
    "LCO ID": 42112,
    "CARD NO": "26",
    "NAME": "JAMALAPURI VEERA SHANKAR",
@@ -13174,7 +13174,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496297",
-   "VC NO": "1769420216",
+   "VC No": "1769420216",
    "LCO ID": 42112,
    "CARD NO": "57",
    "NAME": "ALLADI VENKATARAMANA",
@@ -13185,7 +13185,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496705",
-   "VC NO": "1769419965",
+   "VC No": "1769419965",
    "LCO ID": 42112,
    "CARD NO": "58",
    "NAME": "koradi muthyalarao",
@@ -13196,7 +13196,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484364",
-   "VC NO": "1769419823",
+   "VC No": "1769419823",
    "LCO ID": 42112,
    "CARD NO": "59",
    "NAME": "KANDUKURI VIRALAXMI",
@@ -13207,7 +13207,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501995",
-   "VC NO": "1769333380",
+   "VC No": "1769333380",
    "LCO ID": 42112,
    "CARD NO": "60",
    "NAME": "PEYALA VINAY KUMAR",
@@ -13218,7 +13218,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495916",
-   "VC NO": "1769333785",
+   "VC No": "1769333785",
    "LCO ID": 42112,
    "CARD NO": "61",
    "NAME": "TELAM ADAMMA",
@@ -13229,7 +13229,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13502113",
-   "VC NO": "1769333763",
+   "VC No": "1769333763",
    "LCO ID": 42112,
    "CARD NO": "62",
    "NAME": "SINIGIRI MOHAN",
@@ -13240,7 +13240,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501725",
-   "VC NO": "1769332949",
+   "VC No": "1769332949",
    "LCO ID": 42112,
    "CARD NO": "54",
    "NAME": "KODI SEETAMMA",
@@ -13251,7 +13251,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496737",
-   "VC NO": "1769333908",
+   "VC No": "1769333908",
    "LCO ID": 42112,
    "CARD NO": "3",
    "NAME": "VENNA BABJI",
@@ -13262,7 +13262,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501961",
-   "VC NO": "1769333416",
+   "VC No": "1769333416",
    "LCO ID": 42112,
    "CARD NO": "47",
    "NAME": "CHELAKANI RAJU",
@@ -13273,7 +13273,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13497415",
-   "VC NO": "1769494685",
+   "VC No": "1769494685",
    "LCO ID": 42112,
    "CARD NO": "89",
    "NAME": "PUSAM SARIKA",
@@ -13284,7 +13284,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16367018",
-   "VC NO": "1331390411",
+   "VC No": "1331390411",
    "LCO ID": 42112,
    "CARD NO": "73",
    "NAME": "ERAM RAMA",
@@ -13295,7 +13295,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16367039",
-   "VC NO": "1331390412",
+   "VC No": "1331390412",
    "LCO ID": 42112,
    "CARD NO": "74",
    "NAME": "SINIGIRI PREMALATHA",
@@ -13306,7 +13306,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495846",
-   "VC NO": "1769333813",
+   "VC No": "1769333813",
    "LCO ID": 42112,
    "CARD NO": "78",
    "NAME": "CHELIKANI SAMSONG",
@@ -13317,7 +13317,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21617334",
-   "VC NO": "2520450427",
+   "VC No": "2520450427",
    "LCO ID": 42112,
    "CARD NO": "79.A",
    "NAME": "UPPA RAMAKRISHNA",
@@ -13328,7 +13328,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16366897",
-   "VC NO": "1331390406",
+   "VC No": "1331390406",
    "LCO ID": 42112,
    "CARD NO": "81",
    "NAME": "GURRAM SRENU",
@@ -13339,7 +13339,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "1331700588",
+   "VC No": "1331700588",
    "LCO ID": 42112,
    "CARD NO": "82",
    "NAME": "DASARI DEVAMANI",
@@ -13350,7 +13350,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16997902",
-   "VC NO": "1331723466",
+   "VC No": "1331723466",
    "LCO ID": 42112,
    "CARD NO": "83",
    "NAME": "PALADI SURYA PRABAKAR RAO",
@@ -13361,7 +13361,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16997824",
-   "VC NO": "1331723468",
+   "VC No": "1331723468",
    "LCO ID": 42112,
    "CARD NO": "85",
    "NAME": "koradi cheranjive",
@@ -13372,7 +13372,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16609046",
-   "VC NO": "1331723465",
+   "VC No": "1331723465",
    "LCO ID": 42112,
    "CARD NO": "86",
    "NAME": "GUNTAKA TEJUSHAM KUMAR",
@@ -13383,7 +13383,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "17161149",
-   "VC NO": "1331699961",
+   "VC No": "1331699961",
    "LCO ID": 42112,
    "CARD NO": "88",
    "NAME": "BOLLA ELGIBETH RANI",
@@ -13394,7 +13394,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13167791",
-   "VC NO": "1769251309",
+   "VC No": "1769251309",
    "LCO ID": 42112,
    "CARD NO": "90",
    "NAME": "BAVANAPALLI ANJAMMA",
@@ -13405,7 +13405,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13546664",
-   "VC NO": "1769495249",
+   "VC No": "1769495249",
    "LCO ID": 42112,
    "CARD NO": "91",
    "NAME": "KODI BALAKRISHNA",
@@ -13416,7 +13416,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13548802",
-   "VC NO": "1768909719",
+   "VC No": "1768909719",
    "LCO ID": 42112,
    "CARD NO": "92",
    "NAME": "PODIYAM BADRAMMA",
@@ -13427,7 +13427,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16366972",
-   "VC NO": "1331390404",
+   "VC No": "1331390404",
    "LCO ID": 42112,
    "CARD NO": "93",
    "NAME": "ERAM DAIVATIRUPATIRAO",
@@ -13438,7 +13438,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16111696",
-   "VC NO": "1331503007",
+   "VC No": "1331503007",
    "LCO ID": 42112,
    "CARD NO": "94",
    "NAME": "GALI RAMESH",
@@ -13449,7 +13449,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13033259",
-   "VC NO": "1769148818",
+   "VC No": "1769148818",
    "LCO ID": 42112,
    "CARD NO": "95",
    "NAME": "THATI GANAPATHI",
@@ -13460,7 +13460,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13347420",
-   "VC NO": "1768910130",
+   "VC No": "1768910130",
    "LCO ID": 42112,
    "CARD NO": "97",
    "NAME": "ALADI DURGHA BAVANI(VENKATA)",
@@ -13471,7 +13471,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21440739",
-   "VC NO": "2520426550",
+   "VC No": "2520426550",
    "LCO ID": 42112,
    "CARD NO": "13.A",
    "NAME": "SONDDI MUDDAIYA",
@@ -13482,7 +13482,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16903600",
-   "VC NO": "1331697687",
+   "VC No": "1331697687",
    "LCO ID": 42112,
    "CARD NO": "99",
    "NAME": "DASARI RAVIKUMAR",
@@ -13493,7 +13493,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15901792",
-   "VC NO": "1331358856",
+   "VC No": "1331358856",
    "LCO ID": 42112,
    "CARD NO": "100",
    "NAME": "BODA VIJAYA RAO",
@@ -13504,7 +13504,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13066149",
-   "VC NO": "1769251077",
+   "VC No": "1769251077",
    "LCO ID": 42112,
    "CARD NO": "102",
    "NAME": "gali sujatha (ramesh)",
@@ -13515,7 +13515,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15388442",
-   "VC NO": "1331030068",
+   "VC No": "1331030068",
    "LCO ID": 42112,
    "CARD NO": "103",
    "NAME": "KALLURI RAJABABU",
@@ -13526,7 +13526,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "17153514",
-   "VC NO": "1331700084",
+   "VC No": "1331700084",
    "LCO ID": 42112,
    "CARD NO": "104",
    "NAME": "PITTA SATYANARAYANA",
@@ -13537,7 +13537,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16111821",
-   "VC NO": "1331430019",
+   "VC No": "1331430019",
    "LCO ID": 42112,
    "CARD NO": "105",
    "NAME": "ANGADI JAMPAYA",
@@ -13548,7 +13548,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15207373",
-   "VC NO": "1331073234",
+   "VC No": "1331073234",
    "LCO ID": 42112,
    "CARD NO": "101",
    "NAME": "BODA KUMARI",
@@ -13559,7 +13559,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20809084",
-   "VC NO": "2520448254",
+   "VC No": "2520448254",
    "LCO ID": 42112,
    "CARD NO": "107.A",
    "NAME": "CHELIKANI SLAMANURAJU",
@@ -13570,7 +13570,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495824",
-   "VC NO": "1769333783",
+   "VC No": "1769333783",
    "LCO ID": 42112,
    "CARD NO": "65",
    "NAME": "KANITHI LAXMI",
@@ -13581,7 +13581,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16607112",
-   "VC NO": "1331700599",
+   "VC No": "1331700599",
    "LCO ID": 42112,
    "CARD NO": "76",
    "NAME": "TELLAM CHINNAKA",
@@ -13592,7 +13592,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501615",
-   "VC NO": "1769333753",
+   "VC No": "1769333753",
    "LCO ID": 42112,
    "CARD NO": "22",
    "NAME": "NAKKA SAMRAJYAM",
@@ -13603,7 +13603,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495941",
-   "VC NO": "1769333786",
+   "VC No": "1769333786",
    "LCO ID": 42112,
    "CARD NO": "35",
    "NAME": "TELLAM RATHAIAH",
@@ -13614,7 +13614,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13251859",
-   "VC NO": "1768910406",
+   "VC No": "1768910406",
    "LCO ID": 42112,
    "CARD NO": "110",
    "NAME": "KALLURI DEVI",
@@ -13625,7 +13625,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13490987",
-   "VC NO": "1769495152",
+   "VC No": "1769495152",
    "LCO ID": 42112,
    "CARD NO": "111",
    "NAME": "ERAPHA DEVA NAVARATNA VENI",
@@ -13636,7 +13636,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13502086",
-   "VC NO": "1769333759",
+   "VC No": "1769333759",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "THITUPATHI MANGA",
@@ -13647,7 +13647,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501919",
-   "VC NO": "1769333766",
+   "VC No": "1769333766",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "VT SAVITRI",
@@ -13658,7 +13658,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501578",
-   "VC NO": "1769333748",
+   "VC No": "1769333748",
    "LCO ID": 42112,
    "CARD NO": "15",
    "NAME": "APAKA GANGARAJU",
@@ -13669,7 +13669,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21000217",
-   "VC NO": "2516177439",
+   "VC No": "2516177439",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "Asirvadam boda",
@@ -13680,7 +13680,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484308",
-   "VC NO": "1769419852",
+   "VC No": "1769419852",
    "LCO ID": 42112,
    "CARD NO": "113",
    "NAME": "REPAKA SATYASNARAYANA",
@@ -13691,7 +13691,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16483842",
-   "VC NO": "1331699265",
+   "VC No": "1331699265",
    "LCO ID": 42112,
    "CARD NO": "114",
    "NAME": "TELAGAREDDY BALANAGESWARRAO",
@@ -13702,7 +13702,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501573",
-   "VC NO": "1769333749",
+   "VC No": "1769333749",
    "LCO ID": 42112,
    "CARD NO": "16",
    "NAME": "KANITHI LAXMANUDU",
@@ -13713,7 +13713,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21661715",
-   "VC NO": "2520450321",
+   "VC No": "2520450321",
    "LCO ID": 42112,
    "CARD NO": "6.A",
    "NAME": "GUNTTAKA VIJAYA",
@@ -13724,7 +13724,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13502124",
-   "VC NO": "1769333764",
+   "VC No": "1769333764",
    "LCO ID": 42112,
    "CARD NO": "6",
    "NAME": "GUNTAKA BABYRANI",
@@ -13735,7 +13735,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501588",
-   "VC NO": "1769333747",
+   "VC No": "1769333747",
    "LCO ID": 42112,
    "CARD NO": "13",
    "NAME": "MADAKAM LAXMI",
@@ -13746,7 +13746,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "#N/A",
-   "VC NO": "1769333809",
+   "VC No": "1769333809",
    "LCO ID": 42112,
    "CARD NO": "30",
    "NAME": "KARAM ADINARAYANA(RAMULU)",
@@ -13757,7 +13757,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16483841",
-   "VC NO": "1331699264",
+   "VC No": "1331699264",
    "LCO ID": 42112,
    "CARD NO": "45",
    "NAME": "BUSAMALLA KISHORE",
@@ -13768,7 +13768,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501972",
-   "VC NO": "1769333415",
+   "VC No": "1769333415",
    "LCO ID": 42112,
    "CARD NO": "52",
    "NAME": "YADAMA VEERAIAH",
@@ -13779,7 +13779,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13502082",
-   "VC NO": "1769333760",
+   "VC No": "1769333760",
    "LCO ID": 42112,
    "CARD NO": "20",
    "NAME": "KURAM NARASIMHARAO",
@@ -13790,7 +13790,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495795",
-   "VC NO": "1769333805",
+   "VC No": "1769333805",
    "LCO ID": 42112,
    "CARD NO": "28",
    "NAME": "PODIYAM RAJUBABU",
@@ -13801,7 +13801,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15656113",
-   "VC NO": "1330986373",
+   "VC No": "1330986373",
    "LCO ID": 42112,
    "CARD NO": "71",
    "NAME": "P. Raju",
@@ -13812,7 +13812,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496214",
-   "VC NO": "1769420007",
+   "VC No": "1769420007",
    "LCO ID": 42112,
    "CARD NO": "2",
    "NAME": "GUNTAKA KISHOR BABU",
@@ -13823,7 +13823,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16111715",
-   "VC NO": "1331503004",
+   "VC No": "1331503004",
    "LCO ID": 42112,
    "CARD NO": "72",
    "NAME": "KALLURI KRISHNA",
@@ -13834,7 +13834,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501622",
-   "VC NO": "1769333754",
+   "VC No": "1769333754",
    "LCO ID": 42112,
    "CARD NO": "14",
    "NAME": "THELLAM SAVITRI",
@@ -13845,7 +13845,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13468436",
-   "VC NO": "1769495258",
+   "VC No": "1769495258",
    "LCO ID": 42112,
    "CARD NO": "112",
    "NAME": "MAMUNURI VAMSI",
@@ -13856,7 +13856,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13502133",
-   "VC NO": "1769333765",
+   "VC No": "1769333765",
    "LCO ID": 42112,
    "CARD NO": "5",
    "NAME": "BHADHAVATH HARISH",
@@ -13867,7 +13867,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22197370",
-   "VC NO": "2520472696",
+   "VC No": "2520472696",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "PADAM SURYAPRAKASHRAO",
@@ -13878,7 +13878,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21053825",
-   "VC NO": "2516177456",
+   "VC No": "2516177456",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "CH. ANKARAO",
@@ -13889,7 +13889,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501906",
-   "VC NO": "1769333379",
+   "VC No": "1769333379",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "KORSA JANAKAMMA (SRINIVAS)",
@@ -13900,7 +13900,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496601",
-   "VC NO": "1769419953",
+   "VC No": "1769419953",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "MADAKAM BADRAMMA",
@@ -13911,7 +13911,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21404738",
-   "VC NO": "2520410009",
+   "VC No": "2520410009",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "ERRLA SRINU",
@@ -13922,7 +13922,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21694917",
-   "VC NO": "2517173641",
+   "VC No": "2517173641",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -13933,7 +13933,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21786704",
-   "VC NO": "2517187421",
+   "VC No": "2517187421",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "gopi",
@@ -13944,7 +13944,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22826066",
-   "VC NO": "2560055916",
+   "VC No": "2560055916",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "akula srikanaya",
@@ -13955,7 +13955,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13251601",
-   "VC NO": "1768909968",
+   "VC No": "1768909968",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "SOWJANYA",
@@ -13966,7 +13966,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20949613",
-   "VC NO": "2517081269",
+   "VC No": "2517081269",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -13977,7 +13977,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20972131",
-   "VC NO": "2517085995",
+   "VC No": "2517085995",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "SHIVA",
@@ -13988,7 +13988,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21154041",
-   "VC NO": "2517080496",
+   "VC No": "2517080496",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "SRINUBODA",
@@ -13999,7 +13999,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21524863",
-   "VC NO": "2517147766",
+   "VC No": "2517147766",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "VENKATESWARLU",
@@ -14010,7 +14010,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496397",
-   "VC NO": "1769420221",
+   "VC No": "1769420221",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "SIVA RAMA KRISHNA",
@@ -14021,7 +14021,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20804873",
-   "VC NO": "2520448229",
+   "VC No": "2520448229",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "Srivari",
@@ -14032,7 +14032,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21695033",
-   "VC NO": "2517173534",
+   "VC No": "2517173534",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -14043,7 +14043,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21704584",
-   "VC NO": "2517086765",
+   "VC No": "2517086765",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "CHINNA BAYYA",
@@ -14054,7 +14054,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21751814",
-   "VC NO": "2517187457",
+   "VC No": "2517187457",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -14065,7 +14065,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13995567",
-   "VC NO": "1769187351",
+   "VC No": "1769187351",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "bhgavan",
@@ -14076,7 +14076,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20652797",
-   "VC NO": "2520450010",
+   "VC No": "2520450010",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "triveni",
@@ -14087,7 +14087,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20653133",
-   "VC NO": "2520449905",
+   "VC No": "2520449905",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "triveni",
@@ -14098,7 +14098,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21524846",
-   "VC NO": "2517148603",
+   "VC No": "2517148603",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "VENKATESWARLU",
@@ -14109,7 +14109,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21345203",
-   "VC NO": "2517165095",
+   "VC No": "2517165095",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "VENKANNA",
@@ -14120,7 +14120,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20260862",
-   "VC NO": "2515970780",
+   "VC No": "2515970780",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -14131,7 +14131,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20263305",
-   "VC NO": "2516131856",
+   "VC No": "2516131856",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -14142,7 +14142,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20652909",
-   "VC NO": "2520450019",
+   "VC No": "2520450019",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "trineni",
@@ -14153,7 +14153,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21056028",
-   "VC NO": "2517163115",
+   "VC No": "2517163115",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "SRINUBODA",
@@ -14164,7 +14164,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21712015",
-   "VC NO": "2517300043",
+   "VC No": "2517300043",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "munigandi barahya",
@@ -14175,7 +14175,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21751786",
-   "VC NO": "2517159321",
+   "VC No": "2517159321",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "RAMESH BOREWELL",
@@ -14186,7 +14186,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21751793",
-   "VC NO": "2517159322",
+   "VC No": "2517159322",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "SAMBAIAH",
@@ -14197,7 +14197,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458620",
-   "VC NO": "2516106670",
+   "VC No": "2516106670",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "k ammiraju",
@@ -14208,7 +14208,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20972081",
-   "VC NO": "2517085918",
+   "VC No": "2517085918",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "SHIVA",
@@ -14219,7 +14219,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21280072",
-   "VC NO": "2520435934",
+   "VC No": "2520435934",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "p uday",
@@ -14230,7 +14230,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21779502",
-   "VC NO": "2517228260",
+   "VC No": "2517228260",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "SHALIMAR SHOP",
@@ -14241,7 +14241,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20307266",
-   "VC NO": "2516185186",
+   "VC No": "2516185186",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "CHARLA",
@@ -14252,7 +14252,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20972135",
-   "VC NO": "2517085957",
+   "VC No": "2517085957",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "SHIVA",
@@ -14263,7 +14263,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21275768",
-   "VC NO": "2520425571",
+   "VC No": "2520425571",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "MEDIPALLI SIVA",
@@ -14274,7 +14274,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21751825",
-   "VC NO": "2517307160",
+   "VC No": "2517307160",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "MANEMMA",
@@ -14285,7 +14285,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16112174",
-   "VC NO": "1331669621",
+   "VC No": "1331669621",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "KOTI",
@@ -14296,7 +14296,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20026407",
-   "VC NO": "2516005782",
+   "VC No": "2516005782",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "KOTI",
@@ -14307,7 +14307,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21749140",
-   "VC NO": "2517155959",
+   "VC No": "2517155959",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -14318,7 +14318,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20263222",
-   "VC NO": "2516131840",
+   "VC No": "2516131840",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -14329,7 +14329,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20340326",
-   "VC NO": "2516084538",
+   "VC No": "2516084538",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "BOPPANA VENKAT RAO",
@@ -14340,7 +14340,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21127590",
-   "VC NO": "2517319992",
+   "VC No": "2517319992",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "Jeeri mutyala reddy",
@@ -14351,7 +14351,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21056044",
-   "VC NO": "2517160092",
+   "VC No": "2517160092",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "SRINUBODA",
@@ -14362,7 +14362,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21704399",
-   "VC NO": "2517166093",
+   "VC No": "2517166093",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "SHANKER VANGARA",
@@ -14373,7 +14373,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21709715",
-   "VC NO": "2517176517",
+   "VC No": "2517176517",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -14384,7 +14384,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21154266",
-   "VC NO": "2517074448",
+   "VC No": "2517074448",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "SRINUBODA",
@@ -14395,7 +14395,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21596692",
-   "VC NO": "2520443458",
+   "VC No": "2520443458",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "kanuku sammaya",
@@ -14406,7 +14406,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21697375",
-   "VC NO": "2517172239",
+   "VC No": "2517172239",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -14417,7 +14417,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21786755",
-   "VC NO": "2517234523",
+   "VC No": "2517234523",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -14428,7 +14428,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22838841",
-   "VC NO": "2560055974",
+   "VC No": "2560055974",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "J SRINIVASU",
@@ -14439,7 +14439,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "11349714",
-   "VC NO": "1766534156",
+   "VC No": "1766534156",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "bhagavan",
@@ -14450,7 +14450,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20260648",
-   "VC NO": "2516012553",
+   "VC No": "2516012553",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -14461,7 +14461,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20260991",
-   "VC NO": "2515970809",
+   "VC No": "2515970809",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -14472,7 +14472,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20307218",
-   "VC NO": "2516185174",
+   "VC No": "2516185174",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "CHARLA",
@@ -14483,7 +14483,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21056008",
-   "VC NO": "2517160453",
+   "VC No": "2517160453",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "SRINUBODA",
@@ -14494,7 +14494,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21524827",
-   "VC NO": "2517148511",
+   "VC No": "2517148511",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "VENKATESWARLU",
@@ -14505,7 +14505,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21694922",
-   "VC NO": "2517173689",
+   "VC No": "2517173689",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -14516,7 +14516,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21786802",
-   "VC NO": "2517234785",
+   "VC No": "2517234785",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -14527,7 +14527,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16920803",
-   "VC NO": "1331699654",
+   "VC No": "1331699654",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "Koti Cable Network",
@@ -14538,7 +14538,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20263291",
-   "VC NO": "2516131853",
+   "VC No": "2516131853",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -14549,7 +14549,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21116529",
-   "VC NO": "2517295067",
+   "VC No": "2517295067",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -14560,7 +14560,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21709775",
-   "VC NO": "2517172098",
+   "VC No": "2517172098",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -14571,7 +14571,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21751857",
-   "VC NO": "2517307247",
+   "VC No": "2517307247",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -14582,7 +14582,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495894",
-   "VC NO": "1769333804",
+   "VC No": "1769333804",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "KSiva Rama Krishna",
@@ -14593,7 +14593,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20200097",
-   "VC NO": "2520815517",
+   "VC No": "2520815517",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "KOTI",
@@ -14604,7 +14604,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21697371",
-   "VC NO": "2517184525",
+   "VC No": "2517184525",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -14615,7 +14615,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21704503",
-   "VC NO": "2517166136",
+   "VC No": "2517166136",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -14626,7 +14626,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21786750",
-   "VC NO": "2517234530",
+   "VC No": "2517234530",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -14637,7 +14637,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21154193",
-   "VC NO": "2517074410",
+   "VC No": "2517074410",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "SRINUBODA",
@@ -14648,7 +14648,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21525857",
-   "VC NO": "2517396075",
+   "VC No": "2517396075",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "MARLAPATI SRIKANTH",
@@ -14659,7 +14659,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20307214",
-   "VC NO": "2516185177",
+   "VC No": "2516185177",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "CHARLA",
@@ -14670,7 +14670,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484370",
-   "VC NO": "1769419833",
+   "VC No": "1769419833",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "MUCHAPOTHULA SAIDAMMA",
@@ -14681,7 +14681,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496300",
-   "VC NO": "1769420012",
+   "VC No": "1769420012",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "BOPPANA VENKATARAMANA",
@@ -14692,7 +14692,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21765498",
-   "VC NO": "2517307207",
+   "VC No": "2517307207",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "SANGEETHA",
@@ -14703,7 +14703,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21116535",
-   "VC NO": "2517301030",
+   "VC No": "2517301030",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "RAVIGINNARAPU",
@@ -14714,7 +14714,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496617",
-   "VC NO": "1769419942",
+   "VC No": "1769419942",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "LNM Kamalakara rao",
@@ -14725,7 +14725,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20745482",
-   "VC NO": "2520407473",
+   "VC No": "2520407473",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "Gudla srinivasa reddy",
@@ -14736,7 +14736,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13087016",
-   "VC NO": "1769148762",
+   "VC No": "1769148762",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "bhagavan",
@@ -14747,7 +14747,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20019585",
-   "VC NO": "2515890213",
+   "VC No": "2515890213",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "KOTI",
@@ -14758,7 +14758,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20019589",
-   "VC NO": "2515890211",
+   "VC No": "2515890211",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "KOTI",
@@ -14769,7 +14769,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20263799",
-   "VC NO": "2516187694",
+   "VC No": "2516187694",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -14780,7 +14780,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20268263",
-   "VC NO": "2516184948",
+   "VC No": "2516184948",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -14791,7 +14791,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21729609",
-   "VC NO": "2517188658",
+   "VC No": "2517188658",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -14802,7 +14802,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21056024",
-   "VC NO": "2517163342",
+   "VC No": "2517163342",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "SRINUBODA",
@@ -14813,7 +14813,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21704567",
-   "VC NO": "2517086821",
+   "VC No": "2517086821",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "DURGAPRASAD MUNCIPALITY",
@@ -14824,7 +14824,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21751827",
-   "VC NO": "2517307178",
+   "VC No": "2517307178",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -14835,7 +14835,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20306964",
-   "VC NO": "2516184973",
+   "VC No": "2516184973",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "CHARLA",
@@ -14846,7 +14846,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496437",
-   "VC NO": "1769420177",
+   "VC No": "1769420177",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "SIVA RAMA KRISHNA",
@@ -14857,7 +14857,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20359160",
-   "VC NO": "2516000204",
+   "VC No": "2516000204",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "charla",
@@ -14868,7 +14868,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21704557",
-   "VC NO": "2517086786",
+   "VC No": "2517086786",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "RAMCHANDHER NAYAK",
@@ -14879,7 +14879,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21751854",
-   "VC NO": "2517307259",
+   "VC No": "2517307259",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -14890,7 +14890,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21786774",
-   "VC NO": "2517226427",
+   "VC No": "2517226427",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -14901,7 +14901,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21981851",
-   "VC NO": "2520444304",
+   "VC No": "2520444304",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "MADDUKURI VIDHAYASAGAR",
@@ -14912,7 +14912,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20260769",
-   "VC NO": "2516000803",
+   "VC No": "2516000803",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -14923,7 +14923,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20260920",
-   "VC NO": "2515970785",
+   "VC No": "2515970785",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -14934,7 +14934,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20749154",
-   "VC NO": "2520449893",
+   "VC No": "2520449893",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "mallaya",
@@ -14945,7 +14945,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21704523",
-   "VC NO": "2517166109",
+   "VC No": "2517166109",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -14956,7 +14956,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22744683",
-   "VC NO": "2560042435",
+   "VC No": "2560042435",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "B KOTI REDDY",
@@ -14967,7 +14967,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20359451",
-   "VC NO": "2516000220",
+   "VC No": "2516000220",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "charla",
@@ -14978,7 +14978,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21697397",
-   "VC NO": "2517299270",
+   "VC No": "2517299270",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -14989,7 +14989,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12582075",
-   "VC NO": "1768480837",
+   "VC No": "1768480837",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "yetapaka sabstation",
@@ -15000,7 +15000,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20268307",
-   "VC NO": "2516184950",
+   "VC No": "2516184950",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -15011,7 +15011,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20307919",
-   "VC NO": "2516185204",
+   "VC No": "2516185204",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "CHARLA",
@@ -15022,7 +15022,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21279586",
-   "VC NO": "2517301432",
+   "VC No": "2517301432",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "HARI",
@@ -15033,7 +15033,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22804174",
-   "VC NO": "2560042602",
+   "VC No": "2560042602",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "akkisetti sai reddy",
@@ -15044,7 +15044,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20639045",
-   "VC NO": "2520469901",
+   "VC No": "2520469901",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -15055,7 +15055,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21055460",
-   "VC NO": "2517163168",
+   "VC No": "2517163168",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "Srinu boda",
@@ -15066,7 +15066,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21697356",
-   "VC NO": "2517173046",
+   "VC No": "2517173046",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "gollapalli satyashiva harikrishna",
@@ -15077,7 +15077,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20359642",
-   "VC NO": "2516000270",
+   "VC No": "2516000270",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "charla",
@@ -15088,7 +15088,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21537492",
-   "VC NO": "2520443468",
+   "VC No": "2520443468",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "KOMPERLA SUJATHA",
@@ -15099,7 +15099,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20260669",
-   "VC NO": "2516012565",
+   "VC No": "2516012565",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -15110,7 +15110,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21697350",
-   "VC NO": "2517173128",
+   "VC No": "2517173128",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "WAHEED",
@@ -15121,7 +15121,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21751850",
-   "VC NO": "2517307249",
+   "VC No": "2517307249",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -15132,7 +15132,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21786806",
-   "VC NO": "2517234787",
+   "VC No": "2517234787",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "KATIBOINA SARVESWARAO",
@@ -15143,7 +15143,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20805026",
-   "VC NO": "2520426231",
+   "VC No": "2520426231",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "venkanna",
@@ -15154,7 +15154,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21116539",
-   "VC NO": "2517301002",
+   "VC No": "2517301002",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "BALAKRISHNA PAPPU",
@@ -15165,7 +15165,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21704405",
-   "VC NO": "2517166046",
+   "VC No": "2517166046",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -15176,7 +15176,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13086986",
-   "VC NO": "1769148757",
+   "VC No": "1769148757",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "bhagavan",
@@ -15187,7 +15187,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "17055734",
-   "VC NO": "1331699168",
+   "VC No": "1331699168",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "koti",
@@ -15198,7 +15198,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20235025",
-   "VC NO": "2516187827",
+   "VC No": "2516187827",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "THURUBAKAB",
@@ -15209,7 +15209,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20760145",
-   "VC NO": "2520394947",
+   "VC No": "2520394947",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "ILAIAH",
@@ -15220,7 +15220,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21704373",
-   "VC NO": "2517165444",
+   "VC No": "2517165444",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -15231,7 +15231,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20449445",
-   "VC NO": "2516001216",
+   "VC No": "2516001216",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "uday",
@@ -15242,7 +15242,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21056055",
-   "VC NO": "2517163114",
+   "VC No": "2517163114",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "SRINUBODA",
@@ -15253,7 +15253,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22505083",
-   "VC NO": "2560037589",
+   "VC No": "2560037589",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "K Thirunadu reddy",
@@ -15264,7 +15264,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "14040334",
-   "VC NO": "1769186014",
+   "VC No": "1769186014",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "bhagavan",
@@ -15275,7 +15275,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16531334",
-   "VC NO": "1331698698",
+   "VC No": "1331698698",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "MADEPALLI LAKSHMAIAH",
@@ -15286,7 +15286,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20306993",
-   "VC NO": "2516184955",
+   "VC No": "2516184955",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "CHARLA",
@@ -15297,7 +15297,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21696477",
-   "VC NO": "2517301123",
+   "VC No": "2517301123",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -15308,7 +15308,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21729604",
-   "VC NO": "2517188654",
+   "VC No": "2517188654",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -15319,7 +15319,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13491024",
-   "VC NO": "1769495156",
+   "VC No": "1769495156",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "SUDHIREDDY RAJU",
@@ -15330,7 +15330,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21765147",
-   "VC NO": "2520425581",
+   "VC No": "2520425581",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "kanuku ramarao",
@@ -15341,7 +15341,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20260697",
-   "VC NO": "2516000749",
+   "VC No": "2516000749",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -15352,7 +15352,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20260925",
-   "VC NO": "2515970789",
+   "VC No": "2515970789",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -15363,7 +15363,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20307106",
-   "VC NO": "2516184974",
+   "VC No": "2516184974",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "CHARLA",
@@ -15374,7 +15374,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20311264",
-   "VC NO": "2516084284",
+   "VC No": "2516084284",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "KOTI",
@@ -15385,7 +15385,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21051067",
-   "VC NO": "2520445288",
+   "VC No": "2520445288",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "REDDY",
@@ -15396,7 +15396,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20486392",
-   "VC NO": "2520458866",
+   "VC No": "2520458866",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "Bagyanagar Thanda",
@@ -15407,7 +15407,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21247405",
-   "VC NO": "2520439219",
+   "VC No": "2520439219",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "B VIJAY LAXMI",
@@ -15418,7 +15418,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21310835",
-   "VC NO": "2520443471",
+   "VC No": "2520443471",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "T KIRAN",
@@ -15429,7 +15429,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21477115",
-   "VC NO": "2520401262",
+   "VC No": "2520401262",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "p krishna",
@@ -15440,7 +15440,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21704376",
-   "VC NO": "2517166209",
+   "VC No": "2517166209",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "SHOUKATH",
@@ -15451,7 +15451,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20261029",
-   "VC NO": "2515970818",
+   "VC No": "2515970818",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -15462,7 +15462,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20263314",
-   "VC NO": "2516131854",
+   "VC No": "2516131854",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -15473,7 +15473,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21477092",
-   "VC NO": "2520426554",
+   "VC No": "2520426554",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "k bargavu",
@@ -15484,7 +15484,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21709725",
-   "VC NO": "2517176543",
+   "VC No": "2517176543",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -15495,7 +15495,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20263174",
-   "VC NO": "2516131834",
+   "VC No": "2516131834",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -15506,7 +15506,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21056049",
-   "VC NO": "2517163300",
+   "VC No": "2517163300",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "SRINUBODA",
@@ -15517,7 +15517,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21709776",
-   "VC NO": "2517172144",
+   "VC No": "2517172144",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "HARI",
@@ -15528,7 +15528,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15901892",
-   "VC NO": "1331358837",
+   "VC No": "1331358837",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "sathya prasad",
@@ -15539,7 +15539,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21056032",
-   "VC NO": "2517163346",
+   "VC No": "2517163346",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "SRINUBODA",
@@ -15550,7 +15550,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21227687",
-   "VC NO": "2520433147",
+   "VC No": "2520433147",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "bola venkateswarlu",
@@ -15561,7 +15561,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20260756",
-   "VC NO": "2516000794",
+   "VC No": "2516000794",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -15572,7 +15572,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21709733",
-   "VC NO": "2517172186",
+   "VC No": "2517172186",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "SKYAKUB",
@@ -15583,7 +15583,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21740606",
-   "VC NO": "2517117587",
+   "VC No": "2517117587",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -15594,7 +15594,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20096528",
-   "VC NO": "2516066676",
+   "VC No": "2516066676",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "Koti",
@@ -15605,7 +15605,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501729",
-   "VC NO": "1769332956",
+   "VC No": "1769332956",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "SOWJANYA",
@@ -15616,7 +15616,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458249",
-   "VC NO": "2516026445",
+   "VC No": "2516026445",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "p ramarao",
@@ -15627,7 +15627,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21307734",
-   "VC NO": "2517165552",
+   "VC No": "2517165552",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "VENKANNA",
@@ -15638,7 +15638,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22507877",
-   "VC NO": "2560037600",
+   "VC No": "2560037600",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "G Ramesh",
@@ -15649,7 +15649,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20019696",
-   "VC NO": "2516001352",
+   "VC No": "2516001352",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "KOTI",
@@ -15660,7 +15660,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20019724",
-   "VC NO": "2516001368",
+   "VC No": "2516001368",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "KOTI",
@@ -15671,7 +15671,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20263700",
-   "VC NO": "2516187676",
+   "VC No": "2516187676",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -15682,7 +15682,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20307007",
-   "VC NO": "2516184961",
+   "VC No": "2516184961",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "CHARLA",
@@ -15693,7 +15693,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21780578",
-   "VC NO": "2517228208",
+   "VC No": "2517228208",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "MADHU BABU",
@@ -15704,7 +15704,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13486793",
-   "VC NO": "1769094493",
+   "VC No": "1769094493",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "DEEPTHI",
@@ -15715,7 +15715,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21697419",
-   "VC NO": "2517301084",
+   "VC No": "2517301084",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -15726,7 +15726,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20307949",
-   "VC NO": "2516185222",
+   "VC No": "2516185222",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "CHARLA",
@@ -15737,7 +15737,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21056074",
-   "VC NO": "2517163152",
+   "VC No": "2517163152",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "SRINUBODA",
@@ -15748,7 +15748,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20949606",
-   "VC NO": "2517081248",
+   "VC No": "2517081248",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -15759,7 +15759,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20260722",
-   "VC NO": "2516000769",
+   "VC No": "2516000769",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -15770,7 +15770,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13252481",
-   "VC NO": "1768910390",
+   "VC No": "1768910390",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "SAI",
@@ -15781,7 +15781,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20263775",
-   "VC NO": "2516187684",
+   "VC No": "2516187684",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -15792,7 +15792,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20947474",
-   "VC NO": "2517336020",
+   "VC No": "2517336020",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "SRINU BODA",
@@ -15803,7 +15803,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496484",
-   "VC NO": "1769420211",
+   "VC No": "1769420211",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "SIVA RAMA KRISHNA",
@@ -15814,7 +15814,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20804975",
-   "VC NO": "2520407495",
+   "VC No": "2520407495",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "venkanna",
@@ -15825,7 +15825,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20833948",
-   "VC NO": "2520401820",
+   "VC No": "2520401820",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "uday",
@@ -15836,7 +15836,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21264561",
-   "VC NO": "2520439458",
+   "VC No": "2520439458",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "putti sagar",
@@ -15847,7 +15847,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21740669",
-   "VC NO": "2517187383",
+   "VC No": "2517187383",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -15858,7 +15858,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21154172",
-   "VC NO": "2517074489",
+   "VC No": "2517074489",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "Rahul",
@@ -15869,7 +15869,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21154019",
-   "VC NO": "2517080538",
+   "VC No": "2517080538",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "SRINUBODA",
@@ -15880,7 +15880,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21059291",
-   "VC NO": "2520441593",
+   "VC No": "2520441593",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "Kattam kondaiah",
@@ -15891,7 +15891,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22744672",
-   "VC NO": "2560042431",
+   "VC No": "2560042431",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "KUNJA BALAKRISHNA",
@@ -15902,7 +15902,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21779513",
-   "VC NO": "2517228195",
+   "VC No": "2517228195",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "SRI MANOJA",
@@ -15913,7 +15913,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20745809",
-   "VC NO": "2520449935",
+   "VC No": "2520449935",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "MALLAYA",
@@ -15924,7 +15924,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21278550",
-   "VC NO": "2520425551",
+   "VC No": "2520425551",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "K VEERA BHADRACHALAM",
@@ -15935,7 +15935,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21709714",
-   "VC NO": "2517176759",
+   "VC No": "2517176759",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "JOHNY TRS",
@@ -15946,7 +15946,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21749201",
-   "VC NO": "2517156479",
+   "VC No": "2517156479",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -15957,7 +15957,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21524922",
-   "VC NO": "2517147815",
+   "VC No": "2517147815",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "Sauori",
@@ -15968,7 +15968,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21697328",
-   "VC NO": "2517173104",
+   "VC No": "2517173104",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -15979,7 +15979,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16607080",
-   "VC NO": "1331700598",
+   "VC No": "1331700598",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "koti",
@@ -15990,7 +15990,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458230",
-   "VC NO": "2516003455",
+   "VC No": "2516003455",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "ramana",
@@ -16001,7 +16001,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21056060",
-   "VC NO": "2517163197",
+   "VC No": "2517163197",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "SRINUBODA",
@@ -16012,7 +16012,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21749155",
-   "VC NO": "2517158619",
+   "VC No": "2517158619",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -16023,7 +16023,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20657393",
-   "VC NO": "2520393608",
+   "VC No": "2520393608",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -16034,7 +16034,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20972116",
-   "VC NO": "2517085974",
+   "VC No": "2517085974",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "SHIVA",
@@ -16045,7 +16045,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15423646",
-   "VC NO": "1330158495",
+   "VC No": "1330158495",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "Satyaprasad",
@@ -16056,7 +16056,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20359217",
-   "VC NO": "2516000210",
+   "VC No": "2516000210",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "charla",
@@ -16067,7 +16067,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20461984",
-   "VC NO": "2516001236",
+   "VC No": "2516001236",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "thriveni",
@@ -16078,7 +16078,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21055999",
-   "VC NO": "2517160208",
+   "VC No": "2517160208",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "SRINUBODA",
@@ -16089,7 +16089,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20263781",
-   "VC NO": "2516187689",
+   "VC No": "2516187689",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -16100,7 +16100,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21056001",
-   "VC NO": "2517163191",
+   "VC No": "2517163191",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "SRINUBODA",
@@ -16111,7 +16111,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21404764",
-   "VC NO": "2520410067",
+   "VC No": "2520410067",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "MOTHUKURI NARASIHARAO",
@@ -16122,7 +16122,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21751838",
-   "VC NO": "2517306984",
+   "VC No": "2517306984",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -16133,7 +16133,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20694188",
-   "VC NO": "2520464604",
+   "VC No": "2520464604",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "SRINU",
@@ -16144,7 +16144,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20307017",
-   "VC NO": "2516184953",
+   "VC No": "2516184953",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "CHARLA",
@@ -16155,7 +16155,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "17142037",
-   "VC NO": "1331700454",
+   "VC No": "1331700454",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "koti",
@@ -16166,7 +16166,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20307000",
-   "VC NO": "2516184960",
+   "VC No": "2516184960",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "CHARLA",
@@ -16177,7 +16177,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16769725",
-   "VC NO": "1331699456",
+   "VC No": "1331699456",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "B Sathayanarayana",
@@ -16188,7 +16188,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21709709",
-   "VC NO": "2517176716",
+   "VC No": "2517176716",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -16199,7 +16199,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "17077778",
-   "VC NO": "1331699549",
+   "VC No": "1331699549",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "koti",
@@ -16210,7 +16210,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21786798",
-   "VC NO": "2517228123",
+   "VC No": "2517228123",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "gopi",
@@ -16221,7 +16221,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16366998",
-   "VC NO": "1331390413",
+   "VC No": "1331390413",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "OBINENI MUTTAYA",
@@ -16232,7 +16232,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20263806",
-   "VC NO": "2516187748",
+   "VC No": "2516187748",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -16243,7 +16243,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13728265",
-   "VC NO": "1766843391",
+   "VC No": "1766843391",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "SARIYAM NAGESH",
@@ -16254,7 +16254,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20263296",
-   "VC NO": "2516131850",
+   "VC No": "2516131850",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -16265,7 +16265,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496710",
-   "VC NO": "1769333915",
+   "VC No": "1769333915",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "TELAM BALAKRISHNA",
@@ -16276,7 +16276,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "10733039",
-   "VC NO": "1766265752",
+   "VC No": "1766265752",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "KANTHI",
@@ -16287,7 +16287,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21343525",
-   "VC NO": "2520426515",
+   "VC No": "2520426515",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "kanuku ganesh",
@@ -16298,7 +16298,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13009029",
-   "VC NO": "1768385088",
+   "VC No": "1768385088",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "bhagavan",
@@ -16309,7 +16309,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20263674",
-   "VC NO": "2516187672",
+   "VC No": "2516187672",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -16320,7 +16320,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20357333",
-   "VC NO": "2516177051",
+   "VC No": "2516177051",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "THURUBAKAB",
@@ -16331,7 +16331,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20357347",
-   "VC NO": "2516177042",
+   "VC No": "2516177042",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "THURUBAKAB",
@@ -16342,7 +16342,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20260986",
-   "VC NO": "2515970807",
+   "VC No": "2515970807",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -16353,7 +16353,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20260945",
-   "VC NO": "2515970797",
+   "VC No": "2515970797",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -16364,7 +16364,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21929593",
-   "VC NO": "2520447519",
+   "VC No": "2520447519",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "garapati srimathi",
@@ -16375,7 +16375,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12536232",
-   "VC NO": "1768384001",
+   "VC No": "1768384001",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "subbu",
@@ -16386,7 +16386,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20752908",
-   "VC NO": "2520442108",
+   "VC No": "2520442108",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "MALLAYA",
@@ -16397,7 +16397,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20415403",
-   "VC NO": "2516001214",
+   "VC No": "2516001214",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "kapavaram",
@@ -16408,7 +16408,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20260637",
-   "VC NO": "2516012546",
+   "VC No": "2516012546",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -16419,7 +16419,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13251725",
-   "VC NO": "1768910361",
+   "VC No": "1768910361",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "SAI",
@@ -16430,7 +16430,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20310896",
-   "VC NO": "2516084299",
+   "VC No": "2516084299",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "KOTI",
@@ -16441,7 +16441,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21280061",
-   "VC NO": "2520443491",
+   "VC No": "2520443491",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "k santhosh",
@@ -16452,7 +16452,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20307127",
-   "VC NO": "2516184978",
+   "VC No": "2516184978",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "CHARLA",
@@ -16463,7 +16463,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21250229",
-   "VC NO": "2520440343",
+   "VC No": "2520440343",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "PUSAM SARVESWRAO",
@@ -16474,7 +16474,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20263668",
-   "VC NO": "2516187668",
+   "VC No": "2516187668",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -16485,7 +16485,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16607186",
-   "VC NO": "1331700594",
+   "VC No": "1331700594",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "k ramesh",
@@ -16496,7 +16496,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20260937",
-   "VC NO": "2515970796",
+   "VC No": "2515970796",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -16507,7 +16507,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20263229",
-   "VC NO": "2516131836",
+   "VC No": "2516131836",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -16518,7 +16518,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20260707",
-   "VC NO": "2516000759",
+   "VC No": "2516000759",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -16529,7 +16529,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20359565",
-   "VC NO": "2516000243",
+   "VC No": "2516000243",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "charla",
@@ -16540,7 +16540,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21247489",
-   "VC NO": "2520440381",
+   "VC No": "2520440381",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "g venkatanarasiha",
@@ -16551,7 +16551,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13542774",
-   "VC NO": "1769494636",
+   "VC No": "1769494636",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "SOWJANYA",
@@ -16562,7 +16562,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20019634",
-   "VC NO": "2515890333",
+   "VC No": "2515890333",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "NAKARAKANTI PULLARAO",
@@ -16573,7 +16573,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15421340",
-   "VC NO": "1331057748",
+   "VC No": "1331057748",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "Satyaprasad",
@@ -16584,7 +16584,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20260748",
-   "VC NO": "2516000788",
+   "VC No": "2516000788",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -16595,7 +16595,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21247370",
-   "VC NO": "2520440442",
+   "VC No": "2520440442",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "KARALA MOHANRAO",
@@ -16606,7 +16606,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20260742",
-   "VC NO": "2516000783",
+   "VC No": "2516000783",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -16617,7 +16617,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458192",
-   "VC NO": "2516003446",
+   "VC No": "2516003446",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "line inspector",
@@ -16628,7 +16628,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458212",
-   "VC NO": "2516003451",
+   "VC No": "2516003451",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "g venkateswarlu",
@@ -16639,7 +16639,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458235",
-   "VC NO": "2516003457",
+   "VC No": "2516003457",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "jagannadham peda muthaiah",
@@ -16650,7 +16650,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458316",
-   "VC NO": "2516026469",
+   "VC No": "2516026469",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "devanaboina vasubabu",
@@ -16661,7 +16661,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458354",
-   "VC NO": "2516026490",
+   "VC No": "2516026490",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "m durgarao welder",
@@ -16672,7 +16672,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458484",
-   "VC NO": "2516121422",
+   "VC No": "2516121422",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "sk ajmeel",
@@ -16683,7 +16683,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458558",
-   "VC NO": "2516106626",
+   "VC No": "2516106626",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "manmidi sai",
@@ -16694,7 +16694,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21250217",
-   "VC NO": "2520440344",
+   "VC No": "2520440344",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "PUSAM KRISHNA",
@@ -16705,7 +16705,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20307924",
-   "VC NO": "2516185212",
+   "VC No": "2516185212",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "CHARLA",
@@ -16716,7 +16716,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458547",
-   "VC NO": "2516106613",
+   "VC No": "2516106613",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "jagannadha jhothi",
@@ -16727,7 +16727,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13086998",
-   "VC NO": "1768964181",
+   "VC No": "1768964181",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "PUNNEM NARASIMHARAO",
@@ -16738,7 +16738,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20261004",
-   "VC NO": "2515970812",
+   "VC No": "2515970812",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -16749,7 +16749,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20263744",
-   "VC NO": "2516187681",
+   "VC No": "2516187681",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -16760,7 +16760,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458159",
-   "VC NO": "2516003437",
+   "VC No": "2516003437",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "latha",
@@ -16771,7 +16771,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458279",
-   "VC NO": "2516026459",
+   "VC No": "2516026459",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "b v v sagar",
@@ -16782,7 +16782,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12455911",
-   "VC NO": "1768652942",
+   "VC No": "1768652942",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "Katiboyina Arjun Thegada",
@@ -16793,7 +16793,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458573",
-   "VC NO": "2516106650",
+   "VC No": "2516106650",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "a sheshubabu",
@@ -16804,7 +16804,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458158",
-   "VC NO": "2516003436",
+   "VC No": "2516003436",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "s saidulu",
@@ -16815,7 +16815,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458535",
-   "VC NO": "2516121424",
+   "VC No": "2516121424",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "m krishna",
@@ -16826,7 +16826,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20359623",
-   "VC NO": "2516000267",
+   "VC No": "2516000267",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "charla",
@@ -16837,7 +16837,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13007591",
-   "VC NO": "1768385074",
+   "VC No": "1768385074",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "bhagavan",
@@ -16848,7 +16848,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15902240",
-   "VC NO": "1331431151",
+   "VC No": "1331431151",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "Koti Cable Network",
@@ -16859,7 +16859,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20307243",
-   "VC NO": "2516185190",
+   "VC No": "2516185190",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "CHARLA",
@@ -16870,7 +16870,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20307251",
-   "VC NO": "2516185194",
+   "VC No": "2516185194",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "CHARLA",
@@ -16881,7 +16881,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458296",
-   "VC NO": "2516026464",
+   "VC No": "2516026464",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "y laxmikantham",
@@ -16892,7 +16892,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458323",
-   "VC NO": "2516026474",
+   "VC No": "2516026474",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "koti",
@@ -16903,7 +16903,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458516",
-   "VC NO": "2516121409",
+   "VC No": "2516121409",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "p narsimha rao",
@@ -16914,7 +16914,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16769645",
-   "VC NO": "1331699461",
+   "VC No": "1331699461",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "Sathya Prasad",
@@ -16925,7 +16925,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20263693",
-   "VC NO": "2516187667",
+   "VC No": "2516187667",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -16936,7 +16936,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20263708",
-   "VC NO": "2516187673",
+   "VC No": "2516187673",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -16947,7 +16947,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458491",
-   "VC NO": "2516121403",
+   "VC No": "2516121403",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "m bhupathirao",
@@ -16958,7 +16958,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458500",
-   "VC NO": "2516121361",
+   "VC No": "2516121361",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "a srinivasa rao",
@@ -16969,7 +16969,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458351",
-   "VC NO": "2516026488",
+   "VC No": "2516026488",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "bolla rani",
@@ -16980,7 +16980,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458368",
-   "VC NO": "2516121386",
+   "VC No": "2516121386",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "y sathyanarayana",
@@ -16991,7 +16991,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458432",
-   "VC NO": "2516121367",
+   "VC No": "2516121367",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "g punnam chandar",
@@ -17002,7 +17002,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20359527",
-   "VC NO": "2516000234",
+   "VC No": "2516000234",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "charla",
@@ -17013,7 +17013,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20359574",
-   "VC NO": "2516000247",
+   "VC No": "2516000247",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "charla",
@@ -17024,7 +17024,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458111",
-   "VC NO": "2516003428",
+   "VC No": "2516003428",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "slaft eletric",
@@ -17035,7 +17035,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458142",
-   "VC NO": "2516003434",
+   "VC No": "2516003434",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "s saidul",
@@ -17046,7 +17046,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458267",
-   "VC NO": "2516026452",
+   "VC No": "2516026452",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "g sathyanarayana",
@@ -17057,7 +17057,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458635",
-   "VC NO": "2516106667",
+   "VC No": "2516106667",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "b ravi",
@@ -17068,7 +17068,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20260703",
-   "VC NO": "2516000755",
+   "VC No": "2516000755",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -17079,7 +17079,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458344",
-   "VC NO": "2516026483",
+   "VC No": "2516026483",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "t raju",
@@ -17090,7 +17090,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458466",
-   "VC NO": "2516121331",
+   "VC No": "2516121331",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "ch sathish kumar",
@@ -17101,7 +17101,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458521",
-   "VC NO": "2516121457",
+   "VC No": "2516121457",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "ramaiah",
@@ -17112,7 +17112,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458204",
-   "VC NO": "2516003447",
+   "VC No": "2516003447",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "jampulu",
@@ -17123,7 +17123,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458214",
-   "VC NO": "2516003453",
+   "VC No": "2516003453",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "yedari tataji",
@@ -17134,7 +17134,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20260971",
-   "VC NO": "2515970806",
+   "VC No": "2515970806",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -17145,7 +17145,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458423",
-   "VC NO": "2516121436",
+   "VC No": "2516121436",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "s rushikumar",
@@ -17156,7 +17156,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458507",
-   "VC NO": "2516121450",
+   "VC No": "2516121450",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "s raju",
@@ -17167,7 +17167,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15226282",
-   "VC NO": "1330158789",
+   "VC No": "1330158789",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "KURASAM PRASAD",
@@ -17178,7 +17178,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20307121",
-   "VC NO": "2516184970",
+   "VC No": "2516184970",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "CHARLA",
@@ -17189,7 +17189,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20260656",
-   "VC NO": "2516012559",
+   "VC No": "2516012559",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -17200,7 +17200,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13484150",
-   "VC NO": "1769419792",
+   "VC No": "1769419792",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "DEEPTHI",
@@ -17211,7 +17211,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501713",
-   "VC NO": "1769332953",
+   "VC No": "1769332953",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "SOWJANYA",
@@ -17222,7 +17222,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458264",
-   "VC NO": "2516026448",
+   "VC No": "2516026448",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "g dhanaraju",
@@ -17233,7 +17233,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21523145",
-   "VC NO": "2520443520",
+   "VC No": "2520443520",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "HARIKRISHNA",
@@ -17244,7 +17244,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12864764",
-   "VC NO": "1768383931",
+   "VC No": "1768383931",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "laxmi",
@@ -17255,7 +17255,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13237240",
-   "VC NO": "1769130845",
+   "VC No": "1769130845",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "Koti Cable Network",
@@ -17266,7 +17266,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15443398",
-   "VC NO": "1330118541",
+   "VC No": "1330118541",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "Satyaprasad",
@@ -17277,7 +17277,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20260644",
-   "VC NO": "2516012551",
+   "VC No": "2516012551",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -17288,7 +17288,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20260759",
-   "VC NO": "2516000797",
+   "VC No": "2516000797",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -17299,7 +17299,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495808",
-   "VC NO": "1769333796",
+   "VC No": "1769333796",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "KSiva Rama Krishna",
@@ -17310,7 +17310,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20246101",
-   "VC NO": "2520759737",
+   "VC No": "2520759737",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "koti",
@@ -17321,7 +17321,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458132",
-   "VC NO": "2516003432",
+   "VC No": "2516003432",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "p gopalam",
@@ -17332,7 +17332,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458160",
-   "VC NO": "2517197496",
+   "VC No": "2517197496",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "devanaboina ramulu",
@@ -17343,7 +17343,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458210",
-   "VC NO": "2516003449",
+   "VC No": "2516003449",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "gajarajula mallesh",
@@ -17354,7 +17354,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458305",
-   "VC NO": "2516026466",
+   "VC No": "2516026466",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "devanaboina gataiah",
@@ -17365,7 +17365,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458347",
-   "VC NO": "2516026485",
+   "VC No": "2516026485",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "t manohar",
@@ -17376,7 +17376,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458392",
-   "VC NO": "2516121354",
+   "VC No": "2516121354",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "t bhaskar reddy",
@@ -17387,7 +17387,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458643",
-   "VC NO": "2516106683",
+   "VC No": "2516106683",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "ch sai gem",
@@ -17398,7 +17398,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21232180",
-   "VC NO": "2520433168",
+   "VC No": "2520433168",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "GURRALA RAMAKRISHNA",
@@ -17409,7 +17409,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21276484",
-   "VC NO": "2520443479",
+   "VC No": "2520443479",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "THOTA SRINU",
@@ -17420,7 +17420,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21304952",
-   "VC NO": "2520443502",
+   "VC No": "2520443502",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "chenna",
@@ -17431,7 +17431,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21981872",
-   "VC NO": "2520447663",
+   "VC No": "2520447663",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "Pavan",
@@ -17442,7 +17442,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13087186",
-   "VC NO": "1769251056",
+   "VC No": "1769251056",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "bhagavan",
@@ -17453,7 +17453,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13491021",
-   "VC NO": "1769495155",
+   "VC No": "1769495155",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "bhagavan",
@@ -17464,7 +17464,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20260639",
-   "VC NO": "2516012548",
+   "VC No": "2516012548",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -17475,7 +17475,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20260695",
-   "VC NO": "2516000745",
+   "VC No": "2516000745",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -17486,7 +17486,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20260700",
-   "VC NO": "2516000752",
+   "VC No": "2516000752",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -17497,7 +17497,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20260713",
-   "VC NO": "2516000762",
+   "VC No": "2516000762",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -17508,7 +17508,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20260963",
-   "VC NO": "2515970804",
+   "VC No": "2515970804",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -17519,7 +17519,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20263724",
-   "VC NO": "2516187683",
+   "VC No": "2516187683",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -17530,7 +17530,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20263735",
-   "VC NO": "2516187680",
+   "VC No": "2516187680",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -17541,7 +17541,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20263756",
-   "VC NO": "2516187691",
+   "VC No": "2516187691",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -17552,7 +17552,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20307044",
-   "VC NO": "2516184954",
+   "VC No": "2516184954",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "CHARLA",
@@ -17563,7 +17563,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20307071",
-   "VC NO": "2516184967",
+   "VC No": "2516184967",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "CHARLA",
@@ -17574,7 +17574,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20307236",
-   "VC NO": "2516185185",
+   "VC No": "2516185185",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "CHARLA",
@@ -17585,7 +17585,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20307912",
-   "VC NO": "2516185198",
+   "VC No": "2516185198",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "CHARLA",
@@ -17596,7 +17596,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20307929",
-   "VC NO": "2516185210",
+   "VC No": "2516185210",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "CHARLA",
@@ -17607,7 +17607,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13487012",
-   "VC NO": "1769094525",
+   "VC No": "1769094525",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "DEEPTHI",
@@ -17618,7 +17618,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13501750",
-   "VC NO": "1769333738",
+   "VC No": "1769333738",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "DEEPTHI",
@@ -17629,7 +17629,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16903578",
-   "VC NO": "1331697686",
+   "VC No": "1331697686",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "koti",
@@ -17640,7 +17640,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20359195",
-   "VC NO": "2516000207",
+   "VC No": "2516000207",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "charla",
@@ -17651,7 +17651,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20359249",
-   "VC NO": "2516000213",
+   "VC No": "2516000213",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "charla",
@@ -17662,7 +17662,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20359476",
-   "VC NO": "2516000224",
+   "VC No": "2516000224",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "charla",
@@ -17673,7 +17673,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20359587",
-   "VC NO": "2516000249",
+   "VC No": "2516000249",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "charla",
@@ -17684,7 +17684,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458319",
-   "VC NO": "2516026472",
+   "VC No": "2516026472",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "seethamma",
@@ -17695,7 +17695,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458357",
-   "VC NO": "2516026493",
+   "VC No": "2516026493",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "yammayya",
@@ -17706,7 +17706,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458417",
-   "VC NO": "2516121312",
+   "VC No": "2516121312",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "dr sathish",
@@ -17717,7 +17717,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458472",
-   "VC NO": "2516121438",
+   "VC No": "2516121438",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "sk gagger",
@@ -17728,7 +17728,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458588",
-   "VC NO": "2516106642",
+   "VC No": "2516106642",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "m srinivasa rao",
@@ -17739,7 +17739,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458623",
-   "VC NO": "2516106662",
+   "VC No": "2516106662",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "k ramabrahmam",
@@ -17750,7 +17750,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458639",
-   "VC NO": "2516106682",
+   "VC No": "2516106682",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "g srivas",
@@ -17761,7 +17761,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458647",
-   "VC NO": "2516106679",
+   "VC No": "2516106679",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "p anjibabu",
@@ -17772,7 +17772,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20782181",
-   "VC NO": "2520450025",
+   "VC No": "2520450025",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "MALLAY",
@@ -17783,7 +17783,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20359496",
-   "VC NO": "2516000228",
+   "VC No": "2516000228",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "charla",
@@ -17794,7 +17794,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21306499",
-   "VC NO": "2520425567",
+   "VC No": "2520425567",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "murali dr",
@@ -17805,7 +17805,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16273678",
-   "VC NO": "1331697857",
+   "VC No": "1331697857",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "KOTI",
@@ -17816,7 +17816,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458170",
-   "VC NO": "2516003443",
+   "VC No": "2516003443",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "golusula venkateswarlu",
@@ -17827,7 +17827,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458223",
-   "VC NO": "2516003454",
+   "VC No": "2516003454",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "yedari krishnamurthy",
@@ -17838,7 +17838,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21765487",
-   "VC NO": "2517306972",
+   "VC No": "2517306972",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "AATHEESH",
@@ -17849,7 +17849,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "12990317",
-   "VC NO": "1332784756",
+   "VC No": "1332784756",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "bhagavan",
@@ -17860,7 +17860,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13008905",
-   "VC NO": "1768385101",
+   "VC No": "1768385101",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "bhagavan",
@@ -17871,7 +17871,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13008918",
-   "VC NO": "1768385099",
+   "VC No": "1768385099",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "bhagavan",
@@ -17882,7 +17882,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13032579",
-   "VC NO": "1769148738",
+   "VC No": "1769148738",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "bhagavan",
@@ -17893,7 +17893,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13034407",
-   "VC NO": "1769251041",
+   "VC No": "1769251041",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "bhagavan",
@@ -17904,7 +17904,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13066184",
-   "VC NO": "1769251083",
+   "VC No": "1769251083",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "bhagavan",
@@ -17915,7 +17915,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13066447",
-   "VC NO": "1769250920",
+   "VC No": "1769250920",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "bhagavan",
@@ -17926,7 +17926,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13087176",
-   "VC NO": "1769251055",
+   "VC No": "1769251055",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "bhagavan",
@@ -17937,7 +17937,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13164308",
-   "VC NO": "1769148969",
+   "VC No": "1769148969",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "bhagavan",
@@ -17948,7 +17948,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13326822",
-   "VC NO": "1769132132",
+   "VC No": "1769132132",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "bhagavan",
@@ -17959,7 +17959,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13327198",
-   "VC NO": "1768910255",
+   "VC No": "1768910255",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "bhagavan",
@@ -17970,7 +17970,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13491050",
-   "VC NO": "1769495150",
+   "VC No": "1769495150",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "bhagavan",
@@ -17981,7 +17981,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13525515",
-   "VC NO": "1769495100",
+   "VC No": "1769495100",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "bhagavan",
@@ -17992,7 +17992,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16573482",
-   "VC NO": "1331698978",
+   "VC No": "1331698978",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "koti",
@@ -18003,7 +18003,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20025194",
-   "VC NO": "2516013769",
+   "VC No": "2516013769",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "Koti",
@@ -18014,7 +18014,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20260652",
-   "VC NO": "2516012557",
+   "VC No": "2516012557",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -18025,7 +18025,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20306970",
-   "VC NO": "2516184982",
+   "VC No": "2516184982",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "CHARLA",
@@ -18036,7 +18036,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20307207",
-   "VC NO": "2516185179",
+   "VC No": "2516185179",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "CHARLA",
@@ -18047,7 +18047,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20765227",
-   "VC NO": "2517341605",
+   "VC No": "2517341605",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "Uivdy",
@@ -18058,7 +18058,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20778112",
-   "VC NO": "2520449938",
+   "VC No": "2520449938",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "NANI",
@@ -18069,7 +18069,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21176439",
-   "VC NO": "2520451267",
+   "VC No": "2520451267",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "g venta rathanam",
@@ -18080,7 +18080,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15465323",
-   "VC NO": "1330926640",
+   "VC No": "1330926640",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "Koti Cable Network",
@@ -18091,7 +18091,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16111855",
-   "VC NO": "1331543713",
+   "VC No": "1331543713",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "Koti Cable Network",
@@ -18102,7 +18102,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20260927",
-   "VC NO": "2515970791",
+   "VC No": "2515970791",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -18113,7 +18113,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20260994",
-   "VC NO": "2515970811",
+   "VC No": "2515970811",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -18124,7 +18124,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20263192",
-   "VC NO": "2516131839",
+   "VC No": "2516131839",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -18135,7 +18135,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20263715",
-   "VC NO": "2516187678",
+   "VC No": "2516187678",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -18146,7 +18146,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20263749",
-   "VC NO": "2516187703",
+   "VC No": "2516187703",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -18157,7 +18157,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20307231",
-   "VC NO": "2516185184",
+   "VC No": "2516185184",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "CHARLA",
@@ -18168,7 +18168,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20359323",
-   "VC NO": "2516000216",
+   "VC No": "2516000216",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "charla",
@@ -18179,7 +18179,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20359515",
-   "VC NO": "2516000231",
+   "VC No": "2516000231",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "charla",
@@ -18190,7 +18190,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20359617",
-   "VC NO": "2516000262",
+   "VC No": "2516000262",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "charla",
@@ -18201,7 +18201,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21276494",
-   "VC NO": "2520443504",
+   "VC No": "2520443504",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "P SOMARAJU",
@@ -18212,7 +18212,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21302886",
-   "VC NO": "2520443490",
+   "VC No": "2520443490",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "hari",
@@ -18223,7 +18223,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21537198",
-   "VC NO": "2520425553",
+   "VC No": "2520425553",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "PANUGANTI NAGARAJU",
@@ -18234,7 +18234,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21617720",
-   "VC NO": "2520443484",
+   "VC No": "2520443484",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "venat",
@@ -18245,7 +18245,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21302907",
-   "VC NO": "2520443495",
+   "VC No": "2520443495",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "T SOBAN BABU",
@@ -18256,7 +18256,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21525849",
-   "VC NO": "2520442929",
+   "VC No": "2520442929",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "CHANDRUKONDA RAMMANAMMA",
@@ -18267,7 +18267,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21573291",
-   "VC NO": "2520443197",
+   "VC No": "2520443197",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "Mulishetti mallikarjunarao",
@@ -18278,7 +18278,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21663986",
-   "VC NO": "2520425595",
+   "VC No": "2520425595",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "PRABAKAR G",
@@ -18289,7 +18289,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21929620",
-   "VC NO": "2520444105",
+   "VC No": "2520444105",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "ch abiram",
@@ -18300,7 +18300,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20263204",
-   "VC NO": "2516131837",
+   "VC No": "2516131837",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -18311,7 +18311,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495837",
-   "VC NO": "1769333815",
+   "VC No": "1769333815",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "KSiva Rama Krishna",
@@ -18322,7 +18322,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496295",
-   "VC NO": "1769419976",
+   "VC No": "1769419976",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "KSiva Rama Krishna",
@@ -18333,7 +18333,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16892021",
-   "VC NO": "1331723469",
+   "VC No": "1331723469",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "ravi bcm",
@@ -18344,7 +18344,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20359555",
-   "VC NO": "2516000241",
+   "VC No": "2516000241",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "charla",
@@ -18355,7 +18355,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20359595",
-   "VC NO": "2516000256",
+   "VC No": "2516000256",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "charla",
@@ -18366,7 +18366,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20385405",
-   "VC NO": "2520476738",
+   "VC No": "2520476738",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "thurubaka",
@@ -18377,7 +18377,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458101",
-   "VC NO": "2516003427",
+   "VC No": "2516003427",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "g kondaiah",
@@ -18388,7 +18388,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458116",
-   "VC NO": "2516003431",
+   "VC No": "2516003431",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "k venkateswar rao",
@@ -18399,7 +18399,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458165",
-   "VC NO": "2516003441",
+   "VC No": "2516003441",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "devanaboina venkatwsarlu",
@@ -18410,7 +18410,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458174",
-   "VC NO": "2516003445",
+   "VC No": "2516003445",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "gosula buchaiah",
@@ -18421,7 +18421,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458245",
-   "VC NO": "2516106617",
+   "VC No": "2516106617",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "manikyarao laxmaiah",
@@ -18432,7 +18432,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458273",
-   "VC NO": "2516026454",
+   "VC No": "2516026454",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "n venkateswarlu",
@@ -18443,7 +18443,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458291",
-   "VC NO": "2516026461",
+   "VC No": "2516026461",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "g raghavulu",
@@ -18454,7 +18454,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458328",
-   "VC NO": "2516026477",
+   "VC No": "2516026477",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "goli gopaiah",
@@ -18465,7 +18465,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458335",
-   "VC NO": "2516026480",
+   "VC No": "2516026480",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "girija",
@@ -18476,7 +18476,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458400",
-   "VC NO": "2516121335",
+   "VC No": "2516121335",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "g narsimha rao",
@@ -18487,7 +18487,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458439",
-   "VC NO": "2516121400",
+   "VC No": "2516121400",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "k sommaiah",
@@ -18498,7 +18498,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458450",
-   "VC NO": "2516121349",
+   "VC No": "2516121349",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "p abhiram enterprises",
@@ -18509,7 +18509,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458494",
-   "VC NO": "2516121380",
+   "VC No": "2516121380",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "b thirumala",
@@ -18520,7 +18520,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458529",
-   "VC NO": "2516121397",
+   "VC No": "2516121397",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "m keshavaraju",
@@ -18531,7 +18531,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458554",
-   "VC NO": "2516106622",
+   "VC No": "2516106622",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "kandela saraiah",
@@ -18542,7 +18542,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458566",
-   "VC NO": "2516106630",
+   "VC No": "2516106630",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "p ramarao",
@@ -18553,7 +18553,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458577",
-   "VC NO": "2516106647",
+   "VC No": "2516106647",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "g seetharavamma",
@@ -18564,7 +18564,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458594",
-   "VC NO": "2516106649",
+   "VC No": "2516106649",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "a anasuya",
@@ -18575,7 +18575,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458599",
-   "VC NO": "2516106637",
+   "VC No": "2516106637",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "d sreenu",
@@ -18586,7 +18586,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458610",
-   "VC NO": "2516106664",
+   "VC No": "2516106664",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "j immaniyeiu",
@@ -18597,7 +18597,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458612",
-   "VC NO": "2516106656",
+   "VC No": "2516106656",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "j anasuya",
@@ -18608,7 +18608,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458652",
-   "VC NO": "2516106687",
+   "VC No": "2516106687",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "k veerbadrar rao",
@@ -18619,7 +18619,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458663",
-   "VC NO": "2516026440",
+   "VC No": "2516026440",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "t ramesh",
@@ -18630,7 +18630,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21283008",
-   "VC NO": "2520425574",
+   "VC No": "2520425574",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "k bhadramma",
@@ -18641,7 +18641,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "16997944",
-   "VC NO": "1331723464",
+   "VC No": "1331723464",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "koti",
@@ -18652,7 +18652,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13252384",
-   "VC NO": "1768910400",
+   "VC No": "1768910400",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "SAI",
@@ -18663,7 +18663,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20869341",
-   "VC NO": "2517075196",
+   "VC No": "2517075196",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "SRINU BODA",
@@ -18674,7 +18674,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20639286",
-   "VC NO": "2520469921",
+   "VC No": "2520469921",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -18685,7 +18685,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21154237",
-   "VC NO": "2517074392",
+   "VC No": "2517074392",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "SRINUBODA",
@@ -18696,7 +18696,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21154287",
-   "VC NO": "2517074398",
+   "VC No": "2517074398",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "SRINUBODA",
@@ -18707,7 +18707,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21345194",
-   "VC NO": "2517165275",
+   "VC No": "2517165275",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "VENKANNA",
@@ -18718,7 +18718,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13008967",
-   "VC NO": "1768385095",
+   "VC No": "1768385095",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "bhagavan",
@@ -18729,7 +18729,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13492885",
-   "VC NO": "1769495038",
+   "VC No": "1769495038",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "bhagavan",
@@ -18740,7 +18740,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21751756",
-   "VC NO": "2517117651",
+   "VC No": "2517117651",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -18751,7 +18751,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21704609",
-   "VC NO": "2517086773",
+   "VC No": "2517086773",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -18762,7 +18762,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20260735",
-   "VC NO": "2516000778",
+   "VC No": "2516000778",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -18773,7 +18773,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21696474",
-   "VC NO": "2517301133",
+   "VC No": "2517301133",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "BALAKRISHNA",
@@ -18784,7 +18784,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458628",
-   "VC NO": "2516106681",
+   "VC No": "2516106681",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "k v n narsimharao",
@@ -18795,7 +18795,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20458092",
-   "VC NO": "2516003425",
+   "VC No": "2516003425",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "pmadhusudhan rao",
@@ -18806,7 +18806,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20263787",
-   "VC NO": "2516187692",
+   "VC No": "2516187692",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -18817,7 +18817,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20260746",
-   "VC NO": "2516000785",
+   "VC No": "2516000785",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -18828,7 +18828,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20260951",
-   "VC NO": "2515970800",
+   "VC No": "2515970800",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -18839,7 +18839,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20261018",
-   "VC NO": "2515970816",
+   "VC No": "2515970816",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "charla",
@@ -18850,7 +18850,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15901570",
-   "VC NO": "1331502962",
+   "VC No": "1331502962",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "sathya prasad",
@@ -18861,7 +18861,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20307096",
-   "VC NO": "2516184966",
+   "VC No": "2516184966",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "CHARLA",
@@ -18872,7 +18872,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496430",
-   "VC NO": "1769420064",
+   "VC No": "1769420064",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "BAIREDDY VENKATARAMANA",
@@ -18883,7 +18883,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13548128",
-   "VC NO": "1769495176",
+   "VC No": "1769495176",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "DEEPTHI",
@@ -18894,7 +18894,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20307966",
-   "VC NO": "2516185217",
+   "VC No": "2516185217",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "CHARLA",
@@ -18905,7 +18905,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496313",
-   "VC NO": "1769420199",
+   "VC No": "1769420199",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "SIVA RAMA KRISHNA",
@@ -18916,7 +18916,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13327493",
-   "VC NO": "1768910271",
+   "VC No": "1768910271",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "bhagavan",
@@ -18927,7 +18927,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13445109",
-   "VC NO": "1769494970",
+   "VC No": "1769494970",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "bhagavan",
@@ -18938,7 +18938,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20307056",
-   "VC NO": "2516184965",
+   "VC No": "2516184965",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "CHARLA",
@@ -18949,7 +18949,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13495935",
-   "VC NO": "1769333833",
+   "VC No": "1769333833",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "KSiva Rama Krishna",
@@ -18960,7 +18960,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496692",
-   "VC NO": "1769419955",
+   "VC No": "1769419955",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "LNM Kamalakara rao",
@@ -18971,7 +18971,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13066341",
-   "VC NO": "1769250929",
+   "VC No": "1769250929",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "bhagavan",
@@ -18982,7 +18982,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "17157466",
-   "VC NO": "1331699973",
+   "VC No": "1331699973",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "koti",
@@ -18993,7 +18993,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "10478165",
-   "VC NO": "1332810030",
+   "VC No": "1332810030",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "M Yugandhar Reddy",
@@ -19004,7 +19004,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "10478218",
-   "VC NO": "1766198506",
+   "VC No": "1766198506",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "M Yugandhar Reddy",
@@ -19015,7 +19015,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "10479405",
-   "VC NO": "1766197706",
+   "VC No": "1766197706",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "M Yugandhar Reddy, Gadagotti Padma Sri, Seelam Vee",
@@ -19026,7 +19026,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "13496219",
-   "VC NO": "1769420204",
+   "VC No": "1769420204",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "SIVA RAMA KRISHNA",
@@ -19037,7 +19037,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "15625367",
-   "VC NO": "1330986372",
+   "VC No": "1330986372",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "sivaramakrishna K",
@@ -19048,7 +19048,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22964770",
-   "VC NO": "2560071866",
+   "VC No": "2560071866",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "koteswarao",
@@ -19059,7 +19059,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22964777",
-   "VC NO": "2560072168",
+   "VC No": "2560072168",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "Payam Baalu",
@@ -19070,7 +19070,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22972155",
-   "VC NO": "2560071882",
+   "VC No": "2560071882",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "KAAKA KAMAIAH",
@@ -19081,7 +19081,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22977200",
-   "VC NO": "2560071846",
+   "VC No": "2560071846",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "GUNDE DURAGARAO",
@@ -19092,7 +19092,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22977413",
-   "VC NO": "2560072218",
+   "VC No": "2560072218",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "DGM SI GAARU",
@@ -19103,7 +19103,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22978093",
-   "VC NO": "2560071852",
+   "VC No": "2560071852",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "PADHAM VENU",
@@ -19114,7 +19114,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22977816",
-   "VC NO": "2560072222",
+   "VC No": "2560072222",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "DURAGA NAGESWARAO",
@@ -19125,7 +19125,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22986741",
-   "VC NO": "2560072107",
+   "VC No": "2560072107",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "padegapati baskar reddy",
@@ -19136,7 +19136,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22993556",
-   "VC NO": "2560072160",
+   "VC No": "2560072160",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "KATIBOINA LAXMAIAH",
@@ -19147,7 +19147,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22995008",
-   "VC NO": "2560072147",
+   "VC No": "2560072147",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "KURASAM NARESH",
@@ -19158,7 +19158,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23056234",
-   "VC NO": "2560079807",
+   "VC No": "2560079807",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "Maloth srinivas",
@@ -19169,7 +19169,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23056431",
-   "VC NO": "2561185446",
+   "VC No": "2561185446",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "Korss Laxme",
@@ -19180,7 +19180,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23056058",
-   "VC NO": "2560078040",
+   "VC No": "2560078040",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "soyam rajesh",
@@ -19191,7 +19191,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23056131",
-   "VC NO": "2560079084",
+   "VC No": "2560079084",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "soyam nagesh",
@@ -19202,7 +19202,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23056143",
-   "VC NO": "2560078891",
+   "VC No": "2560078891",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "bums peddi reddy",
@@ -19213,7 +19213,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23058874",
-   "VC NO": "2561185387",
+   "VC No": "2561185387",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "Anjireddy Madde",
@@ -19224,7 +19224,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23061992",
-   "VC NO": "2560077498",
+   "VC No": "2560077498",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "padham sai",
@@ -19235,7 +19235,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23062328",
-   "VC NO": "2560077976",
+   "VC No": "2560077976",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "govardhan",
@@ -19246,7 +19246,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23063663",
-   "VC NO": "2560078018",
+   "VC No": "2560078018",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "k Nageswara Rao",
@@ -19257,7 +19257,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23012156",
-   "VC NO": "2560079770",
+   "VC No": "2560079770",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "Alladi venkata ramana",
@@ -19268,7 +19268,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23067905",
-   "VC NO": "2560078487",
+   "VC No": "2560078487",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "B Krishna Reddy",
@@ -19279,7 +19279,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23070412",
-   "VC NO": "2560078474",
+   "VC No": "2560078474",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "m ramireddy",
@@ -19290,7 +19290,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23071875",
-   "VC NO": "2561185538",
+   "VC No": "2561185538",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "Dantll Anrada",
@@ -19301,7 +19301,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23072512",
-   "VC NO": "2561185526",
+   "VC No": "2561185526",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "KANUKU VENKATESWARLU",
@@ -19312,7 +19312,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23072599",
-   "VC NO": "2561185556",
+   "VC No": "2561185556",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "Madde Nagalaxme",
@@ -19323,7 +19323,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23072833",
-   "VC NO": "2560077618",
+   "VC No": "2560077618",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "BABU K",
@@ -19334,7 +19334,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23020321",
-   "VC NO": "2561185522",
+   "VC No": "2561185522",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "Neta Prasad M",
@@ -19345,7 +19345,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23023365",
-   "VC NO": "2561185472",
+   "VC No": "2561185472",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "L Ram prasad",
@@ -19356,7 +19356,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23081020",
-   "VC NO": "2561182141",
+   "VC No": "2561182141",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "B Sihachalmm",
@@ -19367,7 +19367,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23023919",
-   "VC NO": "2560079983",
+   "VC No": "2560079983",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "Jrishna Reddy",
@@ -19378,7 +19378,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23080509",
-   "VC NO": "2561185534",
+   "VC No": "2561185534",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "MIDIAM SHEKHAR",
@@ -19389,7 +19389,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23026627",
-   "VC NO": "2560079475",
+   "VC No": "2560079475",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "podiyam sagar",
@@ -19400,7 +19400,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23024156",
-   "VC NO": "2561185557",
+   "VC No": "2561185557",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "B Praven",
@@ -19411,7 +19411,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23083690",
-   "VC NO": "2561193584",
+   "VC No": "2561193584",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "m Durgarao",
@@ -19422,7 +19422,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23085098",
-   "VC NO": "2561193588",
+   "VC No": "2561193588",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "B Rambabu",
@@ -19433,7 +19433,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23087647",
-   "VC NO": "2561193284",
+   "VC No": "2561193284",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "B Bujegarao",
@@ -19444,7 +19444,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23034119",
-   "VC NO": "2561185512",
+   "VC No": "2561185512",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "VEERLA PADMA",
@@ -19455,7 +19455,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23090523",
-   "VC NO": "1765915185",
+   "VC No": "1765915185",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "kursam ramakrishna",
@@ -19466,7 +19466,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23090533",
-   "VC NO": "1768479515",
+   "VC No": "1768479515",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "kurasam ramudu",
@@ -19477,7 +19477,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23091354",
-   "VC NO": "2561193587",
+   "VC No": "2561193587",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "Chlla AdeLaxe",
@@ -19488,7 +19488,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23030248",
-   "VC NO": "2560078868",
+   "VC No": "2560078868",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "Kunja rajarathnam",
@@ -19499,7 +19499,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23038695",
-   "VC NO": "2560078928",
+   "VC No": "2560078928",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "padham shakar",
@@ -19510,7 +19510,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23035128",
-   "VC NO": "2560078860",
+   "VC No": "2560078860",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "b Peddi reddy",
@@ -19521,7 +19521,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23095388",
-   "VC NO": "1768607883",
+   "VC No": "1768607883",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "eswar reddy",
@@ -19532,7 +19532,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23096953",
-   "VC NO": "2561181717",
+   "VC No": "2561181717",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "S V vjayakumar",
@@ -19543,7 +19543,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23041181",
-   "VC NO": "2560078886",
+   "VC No": "2560078886",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "podiyam sammaiah",
@@ -19554,7 +19554,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23098945",
-   "VC NO": "2561189535",
+   "VC No": "2561189535",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "P Ramacharao",
@@ -19565,7 +19565,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22996713",
-   "VC NO": "2560071566",
+   "VC No": "2560071566",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "Kunja Ramarao Maredu Bata",
@@ -19576,7 +19576,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23050473",
-   "VC NO": "2560079018",
+   "VC No": "2560079018",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "Gunde Padma",
@@ -19587,7 +19587,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23050508",
-   "VC NO": "2560079051",
+   "VC No": "2560079051",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "kursam Ramakrishna",
@@ -19598,7 +19598,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23038528",
-   "VC NO": "2560078851",
+   "VC No": "2560078851",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "kadhula mukkati reddy",
@@ -19609,7 +19609,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23051971",
-   "VC NO": "2560078919",
+   "VC No": "2560078919",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "soyam Balakrishnan",
@@ -19620,7 +19620,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "22996689",
-   "VC NO": "2560072295",
+   "VC No": "2560072295",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "B Narsi Reddy RK Puram",
@@ -19631,7 +19631,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23049321",
-   "VC NO": "2561185514",
+   "VC No": "2561185514",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "Dhanalaxmi Godaparthi",
@@ -19642,7 +19642,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21278550",
-   "VC NO": "2516312181",
+   "VC No": "2516312181",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "K VEERA BHADRACHALAM",
@@ -19653,7 +19653,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23108330",
-   "VC NO": "2561193595",
+   "VC No": "2561193595",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "B Aruna",
@@ -19664,7 +19664,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20806850",
-   "VC NO": "2517308294",
+   "VC No": "2517308294",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "Pavani",
@@ -19675,7 +19675,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20388289",
-   "VC NO": "2517536687",
+   "VC No": "2517536687",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "satya",
@@ -19686,7 +19686,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20388342",
-   "VC NO": "2517536817",
+   "VC No": "2517536817",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "satya",
@@ -19697,7 +19697,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21767714",
-   "VC NO": "2517268973",
+   "VC No": "2517268973",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "satya",
@@ -19708,7 +19708,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20388375",
-   "VC NO": "2517536907",
+   "VC No": "2517536907",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "Satya",
@@ -19719,7 +19719,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23116142",
-   "VC NO": "2561193592",
+   "VC No": "2561193592",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "M D Ushpbaig",
@@ -19730,7 +19730,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20912727",
-   "VC NO": "2517340639",
+   "VC No": "2517340639",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "Venkateswarlu",
@@ -19741,7 +19741,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21109742",
-   "VC NO": "2517065304",
+   "VC No": "2517065304",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "Pavani",
@@ -19752,7 +19752,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20334047",
-   "VC NO": "2517015087",
+   "VC No": "2517015087",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "Satya",
@@ -19763,7 +19763,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20486934",
-   "VC NO": "2517543953",
+   "VC No": "2517543953",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "satya",
@@ -19774,7 +19774,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20155551",
-   "VC NO": "2516293232",
+   "VC No": "2516293232",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "Venkateswarlu",
@@ -19785,7 +19785,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23126705",
-   "VC NO": "2561193602",
+   "VC No": "2561193602",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "A prashanth",
@@ -19796,7 +19796,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23131076",
-   "VC NO": "2561185521",
+   "VC No": "2561185521",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "THOTA PULLAIAH",
@@ -19807,7 +19807,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20388312",
-   "VC NO": "2517536784",
+   "VC No": "2517536784",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "satya",
@@ -19818,7 +19818,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20334016",
-   "VC NO": "2517017005",
+   "VC No": "2517017005",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "Satya",
@@ -19829,7 +19829,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20388309",
-   "VC NO": "2517536861",
+   "VC No": "2517536861",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "satya",
@@ -19840,7 +19840,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "20334030",
-   "VC NO": "2517016913",
+   "VC No": "2517016913",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "Satya",
@@ -19851,7 +19851,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "21767649",
-   "VC NO": "2517269044",
+   "VC No": "2517269044",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "Satya",
@@ -19862,7 +19862,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23153855",
-   "VC NO": "2560145951",
+   "VC No": "2560145951",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "Kunja suresh",
@@ -19873,7 +19873,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23155795",
-   "VC NO": "2560146307",
+   "VC No": "2560146307",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "Kunja srinu",
@@ -19884,7 +19884,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23157516",
-   "VC NO": "2560146277",
+   "VC No": "2560146277",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "Sondhi jogayya",
@@ -19895,7 +19895,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23173764",
-   "VC NO": "2561185930",
+   "VC No": "2561185930",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "V Sernuvasu",
@@ -19906,7 +19906,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23173617",
-   "VC NO": "2561186188",
+   "VC No": "2561186188",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "J Sankat",
@@ -19917,7 +19917,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23169470",
-   "VC NO": "2561185624",
+   "VC No": "2561185624",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "P Muthyavali",
@@ -19928,7 +19928,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23162368",
-   "VC NO": "2561185547",
+   "VC No": "2561185547",
    "LCO ID": 42112,
    "CARD NO": "",
    "NAME": "GADDAM SATHYANARAYANA",
@@ -19939,7 +19939,7 @@ var cust_DB=[
  },
  {
    "Sms ID": "23170263",
-   "VC NO": "2561185513",
+   "VC No": "2561185513",
    "LCO ID": 39627,
    "CARD NO": "",
    "NAME": "THATI RAMU",
