@@ -19938,17 +19938,6 @@ var cust_DB=[
    "Status": "active"
  },
  {
-   "Sms ID": "23170263",
-   "VC No": "2561185513",
-   "LCO ID": 39627,
-   "CARD NO": "",
-   "NAME": "THATI RAMU",
-   "Area": "",
-   "Cel 1": "9704463739",
-   "Due Date": "05-Sep-20",
-   "Status": "active"
- },
- {
    "Sms ID": "",
    "VC No": "9999999999",
    "LCO ID": null,
@@ -19958,6 +19947,17 @@ var cust_DB=[
    "Cel 1": "",
    "Due Date": "",
    "Status": ""
+ },
+ {
+   "Sms ID": "23170263",
+   "VC No": "2561185513",
+   "LCO ID": 39627,
+   "CARD NO": "",
+   "NAME": "THATI RAMU",
+   "Area": "",
+   "Cel 1": "9704463739",
+   "Due Date": "05-Sep-20",
+   "Status": "active"
  }
 ]
 
