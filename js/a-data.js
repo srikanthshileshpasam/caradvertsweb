@@ -19902,7 +19902,7 @@ var cust_DB=[
    "Area": "",
    "Cel 1": "9959951074",
    "Due Date": "07-Sep-20",
-   "Status": "N/C"
+   "Status": "active"
  },
  {
    "Sms ID": "23173617",
@@ -19913,7 +19913,7 @@ var cust_DB=[
    "Area": "",
    "Cel 1": "9908571079",
    "Due Date": "07-Sep-20",
-   "Status": "N/C"
+   "Status": "active"
  },
  {
    "Sms ID": "23169470",
@@ -19924,7 +19924,7 @@ var cust_DB=[
    "Area": "",
    "Cel 1": "9000314891",
    "Due Date": "04-Sep-20",
-   "Status": "N/C"
+   "Status": "active"
  },
  {
    "Sms ID": "23162368",
@@ -19935,7 +19935,7 @@ var cust_DB=[
    "Area": "",
    "Cel 1": "8465875217",
    "Due Date": "01-Sep-20",
-   "Status": "N/C"
+   "Status": "active"
  },
  {
    "Sms ID": "23170263",
@@ -19946,7 +19946,18 @@ var cust_DB=[
    "Area": "",
    "Cel 1": "9704463739",
    "Due Date": "05-Sep-20",
-   "Status": "N/C"
+   "Status": "active"
+ },
+ {
+   "Sms ID": "",
+   "VC No": "9999999999",
+   "LCO ID": null,
+   "CARD NO": "",
+   "NAME": "Spare / Migrate Box",
+   "Area": "",
+   "Cel 1": "",
+   "Due Date": "",
+   "Status": ""
  }
 ]
 
