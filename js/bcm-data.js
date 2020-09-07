@@ -5,30 +5,6 @@ window.onload = function() {
 };
 
 var cust_DB=[
-  {
-    "SMS ID": 99,
-    "VC No": 9999999999,
-    "LCO ID": 42095,
-    "Subscriber Name": "Spare / Migrate Box",
-    "Card No": "60",
-    "Name": "Spare / Migrate Box",
-    "Area": "",
-    "Cel 1": "",
-    "Status": "",
-    "Due Date": ""
-  },
- {
-   "SMS ID": 11906159,
-   "VC No": 1767412709,
-   "LCO ID": 42095,
-   "Subscriber Name": "KAKA NAGESWARAOROAD",
-   "Card No": "60",
-   "Name": "KAKA NAGESWARAO(ROAD)",
-   "Area": "Murumuru",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "26-Jun-20"
- },
  {
    "SMS ID": 13485083,
    "VC No": 1769095098,
@@ -38,32 +14,20 @@ var cust_DB=[
    "Name": "ENDLA SRAVANI",
    "Area": "Awer Colony",
    "Cel 1": "",
-   "Status": "active",
-   "Due Date": "16-Jun-20"
- },
- {
-   "SMS ID": 13496021,
-   "VC No": 1769420099,
-   "LCO ID": 42095,
-   "Subscriber Name": "Siva Rama Krishna",
-   "Card No": "85",
-   "Name": "KAKANI KUMARI",
-   "Area": "Gannerukoyyapadu",
-   "Cel 1": "7729849865",
-   "Status": "active",
-   "Due Date": "4-Jun-20"
- },
- {
-   "SMS ID": 13496341,
-   "VC No": 1769420245,
-   "LCO ID": 42095,
-   "Subscriber Name": "VARAKA CHITHANYA",
-   "Card No": "138",
-   "Name": "VARAKA CHITHANYA",
-   "Area": "Murumuru",
-   "Cel 1": "9502347782",
    "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Due Date": "16-Aug-20"
+ },
+ {
+   "SMS ID": null,
+   "VC No": 9999999999,
+   "LCO ID": 42095,
+   "Subscriber Name": "Spare / Migrate Box",
+   "Card No": "",
+   "Name": "Spare / Migrate Box",
+   "Area": "",
+   "Cel 1": "",
+   "Status": "",
+   "Due Date": ""
  },
  {
    "SMS ID": 13496532,
@@ -75,7 +39,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "9618412155",
    "Status": "active",
-   "Due Date": "20-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 13501813,
@@ -87,7 +51,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "20-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 13503248,
@@ -98,8 +62,8 @@ var cust_DB=[
    "Name": "CHALLA NARESH",
    "Area": "Patimalagudem",
    "Cel 1": "9550623960",
-   "Status": "Inactive",
-   "Due Date": "27-May-20"
+   "Status": "active",
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 13503285,
@@ -110,8 +74,8 @@ var cust_DB=[
    "Name": "PURETI CHALAMAIAH",
    "Area": "Rayanapeta",
    "Cel 1": "8374295211",
-   "Status": "Inactive",
-   "Due Date": "21-May-20"
+   "Status": "active",
+   "Due Date": "13-Sep-20"
  },
  {
    "SMS ID": 15389643,
@@ -123,7 +87,7 @@ var cust_DB=[
    "Area": "Gowridevipeta",
    "Cel 1": "8978961930",
    "Status": "active",
-   "Due Date": "30-Jun-20"
+   "Due Date": "28-Sep-20"
  },
  {
    "SMS ID": 15421762,
@@ -135,7 +99,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "0",
    "Status": "active",
-   "Due Date": "1-Jun-20"
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 15421895,
@@ -147,7 +111,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9502886539",
    "Status": "active",
-   "Due Date": "29-Jun-20"
+   "Due Date": "27-Sep-20"
  },
  {
    "SMS ID": 15440009,
@@ -158,8 +122,8 @@ var cust_DB=[
    "Name": "AKULA VENKATA RAMARAO",
    "Area": "Gannerukoyyapadu",
    "Cel 1": "9110350309",
-   "Status": "active",
-   "Due Date": "29-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "29-Aug-20"
  },
  {
    "SMS ID": 15447602,
@@ -171,7 +135,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "24-May-20"
+   "Due Date": "31-Aug-20"
  },
  {
    "SMS ID": 15447800,
@@ -179,23 +143,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "JAMMI SHESHAMMA",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "JAMMI SHESHAMMA",
    "Area": "#N/A",
    "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "2-Jan-20"
- },
- {
-   "SMS ID": 15447879,
-   "VC No": 1330117765,
-   "LCO ID": 42095,
-   "Subscriber Name": "ASU RAMESH",
-   "Card No": "87",
-   "Name": "ASU RAMESH",
-   "Area": "Murumuru",
-   "Cel 1": "9652443483",
    "Status": "active",
-   "Due Date": "9-Jun-20"
+   "Due Date": "27-Sep-20"
  },
  {
    "SMS ID": 15448499,
@@ -207,7 +159,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "9704802821",
    "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 15468917,
@@ -218,8 +170,8 @@ var cust_DB=[
    "Name": "CHUNDRU NAGAMANI",
    "Area": "Kapugompalli",
    "Cel 1": "8886945225",
-   "Status": "active",
-   "Due Date": "1-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "01-Aug-20"
  },
  {
    "SMS ID": 15469151,
@@ -231,7 +183,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9666062544",
    "Status": "active",
-   "Due Date": "12-Jun-20"
+   "Due Date": "12-Sep-20"
  },
  {
    "SMS ID": 15862598,
@@ -243,19 +195,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9010900241",
    "Status": "active",
-   "Due Date": "1-Jun-20"
- },
- {
-   "SMS ID": 15862708,
-   "VC No": 1331356790,
-   "LCO ID": 42095,
-   "Subscriber Name": "sathya prasad",
-   "Card No": "1167",
-   "Name": "SODE RAMU",
-   "Area": "Pandurangapuram",
-   "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 16273371,
@@ -267,7 +207,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "29-Jun-20"
+   "Due Date": "27-Sep-20"
  },
  {
    "SMS ID": 16436207,
@@ -279,7 +219,7 @@ var cust_DB=[
    "Area": "Kapugompalli",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "4-Jun-20"
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 16484135,
@@ -291,7 +231,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "8333861068",
    "Status": "active",
-   "Due Date": "9-Jun-20"
+   "Due Date": "07-Sep-20"
  },
  {
    "SMS ID": 16484212,
@@ -303,7 +243,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "8247633930",
    "Status": "active",
-   "Due Date": "9-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 16484218,
@@ -315,7 +255,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "8500977278",
    "Status": "active",
-   "Due Date": "5-Jun-20"
+   "Due Date": "05-Sep-20"
  },
  {
    "SMS ID": 16499713,
@@ -327,7 +267,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "9989048993",
    "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 16770504,
@@ -338,8 +278,8 @@ var cust_DB=[
    "Name": "GUDIMASU SEETHARAMAIAH",
    "Area": "Awer Colony",
    "Cel 1": "9676744239",
-   "Status": "Inactive",
-   "Due Date": "25-May-20"
+   "Status": "active",
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 17146856,
@@ -350,8 +290,8 @@ var cust_DB=[
    "Name": "SOMINI SUBBAIAH",
    "Area": "Awer Colony",
    "Cel 1": "8179829362",
-   "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Status": "active",
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 17155026,
@@ -363,7 +303,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "0",
    "Status": "active",
-   "Due Date": "29-Jun-20"
+   "Due Date": "27-Sep-20"
  },
  {
    "SMS ID": 19983921,
@@ -375,43 +315,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "7680951942",
    "Status": "active",
-   "Due Date": "25-Jun-20"
- },
- {
-   "SMS ID": 20019730,
-   "VC No": 2516001372,
-   "LCO ID": 42095,
-   "Subscriber Name": "PARITALA VASANTHAVIJAY",
-   "Card No": "6",
-   "Name": "PARITALA VASANTHA-VIJAY",
-   "Area": "Murumuru",
-   "Cel 1": "8374037979",
-   "Status": "Inactive",
-   "Due Date": "23-Apr-20"
- },
- {
-   "SMS ID": 20020852,
-   "VC No": 2516001379,
-   "LCO ID": 42095,
-   "Subscriber Name": "PADALA CHANDHRA SHEKAR",
-   "Card No": "13",
-   "Name": "PADALA CHANDHRA SHEKAR",
-   "Area": "Murumuru",
-   "Cel 1": "9133274715",
-   "Status": "Inactive",
-   "Due Date": "1-Jun-20"
- },
- {
-   "SMS ID": 20026416,
-   "VC No": 2516005792,
-   "LCO ID": 42095,
-   "Subscriber Name": "KOTI",
-   "Card No": "697",
-   "Name": "MARMMAM PRASAD",
-   "Area": "Bhemavaram",
-   "Cel 1": "9502381510",
-   "Status": "active",
-   "Due Date": "12-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 20261076,
@@ -423,7 +327,7 @@ var cust_DB=[
    "Area": "Gowridevipeta",
    "Cel 1": "8247588130 & 9440080234",
    "Status": "active",
-   "Due Date": "26-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 20356839,
@@ -435,31 +339,7 @@ var cust_DB=[
    "Area": "Venkatareddypeta",
    "Cel 1": "7658949073",
    "Status": "active",
-   "Due Date": "3-Jun-20"
- },
- {
-   "SMS ID": 20396014,
-   "VC No": 2516015785,
-   "LCO ID": 42095,
-   "Subscriber Name": "thriveni",
-   "Card No": "72",
-   "Name": "DEGALA VENKATESH(PURNA)",
-   "Area": "Murumuru",
-   "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "16-May-20"
- },
- {
-   "SMS ID": 20542957,
-   "VC No": 2520426105,
-   "LCO ID": 42095,
-   "Subscriber Name": "thriveni",
-   "Card No": "78.A",
-   "Name": "ASU RAJULU(CHUKKAMMA)",
-   "Area": "Murumuru",
-   "Cel 1": "0",
-   "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Due Date": "12-Sep-20"
  },
  {
    "SMS ID": 20661791,
@@ -471,7 +351,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "9441507291",
    "Status": "active",
-   "Due Date": "1-Jun-20"
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 20719062,
@@ -483,19 +363,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "6304980217",
    "Status": "active",
-   "Due Date": "1-Jun-20"
- },
- {
-   "SMS ID": 20741647,
-   "VC No": 2520444704,
-   "LCO ID": 42095,
-   "Subscriber Name": "PENUBALLI NAGESWARA RAO",
-   "Card No": "71.B",
-   "Name": "PENUBALLI NAGESWARA RAO",
-   "Area": "Murumuru",
-   "Cel 1": "8790263402",
-   "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 20754383,
@@ -507,7 +375,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "0",
    "Status": "active",
-   "Due Date": "6-Jun-20"
+   "Due Date": "05-Sep-20"
  },
  {
    "SMS ID": 21983446,
@@ -519,7 +387,7 @@ var cust_DB=[
    "Area": "Patimalagudem",
    "Cel 1": "8466935039",
    "Status": "active",
-   "Due Date": "14-Jun-20"
+   "Due Date": "13-Sep-20"
  },
  {
    "SMS ID": 11907085,
@@ -530,8 +398,8 @@ var cust_DB=[
    "Name": "GUJJULA KAMESWARAO",
    "Area": "Gannerukoyyapadu",
    "Cel 1": "9949166164",
-   "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Status": "active",
+   "Due Date": "28-Sep-20"
  },
  {
    "SMS ID": 11910717,
@@ -543,7 +411,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9603330977",
    "Status": "active",
-   "Due Date": "2-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 11917816,
@@ -555,7 +423,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "9646317542",
    "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 13088936,
@@ -566,8 +434,8 @@ var cust_DB=[
    "Name": "KANITHI VEERABADRAM",
    "Area": "Pandurangapuram",
    "Cel 1": "7658953551 & 7995617930",
-   "Status": "Inactive",
-   "Due Date": "30-May-20"
+   "Status": "active",
+   "Due Date": "13-Sep-20"
  },
  {
    "SMS ID": 13195592,
@@ -579,7 +447,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9866752921",
    "Status": "active",
-   "Due Date": "17-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 13484162,
@@ -590,8 +458,8 @@ var cust_DB=[
    "Name": "MARLAPATI LAKSHMI(VENKANNABABU)",
    "Area": "Venkatareddypeta",
    "Cel 1": "9100326358",
-   "Status": "Inactive",
-   "Due Date": "9-Apr-20"
+   "Status": "active",
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 13496138,
@@ -603,7 +471,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "5-Jun-20"
+   "Due Date": "05-Sep-20"
  },
  {
    "SMS ID": 13502005,
@@ -615,7 +483,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "8374067287",
    "Status": "active",
-   "Due Date": "2-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 15207333,
@@ -626,8 +494,8 @@ var cust_DB=[
    "Name": "DHODDI SATHYANARAYANA",
    "Area": "Seethapuram",
    "Cel 1": "7989418666",
-   "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Status": "active",
+   "Due Date": "28-Sep-20"
  },
  {
    "SMS ID": 15389597,
@@ -638,8 +506,8 @@ var cust_DB=[
    "Name": "KUCHALAPATI MANOHAR",
    "Area": "Gannerukoyyapadu",
    "Cel 1": "9908318444",
-   "Status": "active",
-   "Due Date": "27-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "30-Aug-20"
  },
  {
    "SMS ID": 15446621,
@@ -651,7 +519,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9963654694",
    "Status": "active",
-   "Due Date": "6-Jun-20"
+   "Due Date": "05-Sep-20"
  },
  {
    "SMS ID": 15446672,
@@ -663,7 +531,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9912726081",
    "Status": "active",
-   "Due Date": "19-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 15446867,
@@ -675,19 +543,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "9573815931",
    "Status": "active",
-   "Due Date": "13-Jun-20"
- },
- {
-   "SMS ID": 15446876,
-   "VC No": 1331056638,
-   "LCO ID": 42095,
-   "Subscriber Name": "MALLELA SATHYANARAYANA",
-   "Card No": "421",
-   "Name": "MALLELA SATHYANARAYANA",
-   "Area": "Murumuru",
-   "Cel 1": "9652995610",
-   "Status": "active",
-   "Due Date": "17-Jun-20"
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 15446971,
@@ -699,7 +555,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "9951589434",
    "Status": "active",
-   "Due Date": "9-Jun-20"
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 15447112,
@@ -710,8 +566,8 @@ var cust_DB=[
    "Name": "SAYAD MOHIDHIN(BHAJI)",
    "Area": "Nellipaka",
    "Cel 1": "9701356041",
-   "Status": "active",
-   "Due Date": "26-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "10-Aug-20"
  },
  {
    "SMS ID": 15464076,
@@ -723,7 +579,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "8008511363",
    "Status": "active",
-   "Due Date": "2-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 15465265,
@@ -735,7 +591,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "9440417325",
    "Status": "active",
-   "Due Date": "12-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 16113679,
@@ -745,9 +601,9 @@ var cust_DB=[
    "Card No": "619",
    "Name": "SANDHI VEERA BHADRA RAO",
    "Area": "Rayanapeta",
-   "Cel 1": "0",
+   "Cel 1": "9959332235",
    "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Due Date": "18-Sep-20"
  },
  {
    "SMS ID": 16436747,
@@ -758,8 +614,8 @@ var cust_DB=[
    "Name": "GADASARI MANGAIAH",
    "Area": "Seethapuram",
    "Cel 1": "9492938329",
-   "Status": "active",
-   "Due Date": "4-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "05-Jul-20"
  },
  {
    "SMS ID": 16484071,
@@ -771,7 +627,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "8186906564",
    "Status": "active",
-   "Due Date": "2-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 16484208,
@@ -783,19 +639,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "7702110601",
    "Status": "active",
-   "Due Date": "5-Jun-20"
- },
- {
-   "SMS ID": 16769767,
-   "VC No": 1331699417,
-   "LCO ID": 42095,
-   "Subscriber Name": "PENUBALLI VAJRAMMA",
-   "Card No": "37",
-   "Name": "PENUBALLI VAJRAMMA",
-   "Area": "Murumuru",
-   "Cel 1": "9553043313",
-   "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 17146828,
@@ -807,7 +651,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "9652535009",
    "Status": "active",
-   "Due Date": "10-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 20019719,
@@ -818,8 +662,8 @@ var cust_DB=[
    "Name": "V.V.S.SRINIVASARAO (A B N)",
    "Area": "Nellipaka",
    "Cel 1": "9912350152",
-   "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Status": "active",
+   "Due Date": "28-Sep-20"
  },
  {
    "SMS ID": 20185200,
@@ -831,7 +675,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "7093292702",
    "Status": "active",
-   "Due Date": "5-Jun-20"
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 20262323,
@@ -843,19 +687,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9133743867",
    "Status": "active",
-   "Due Date": "10-Jun-20"
- },
- {
-   "SMS ID": 20326311,
-   "VC No": 2516018194,
-   "LCO ID": 42095,
-   "Subscriber Name": "THRIVENI",
-   "Card No": "972.C",
-   "Name": "RAMBALA SRINU",
-   "Area": "Palamadugu",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "1-Jun-20"
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 20461979,
@@ -867,7 +699,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9542093502",
    "Status": "active",
-   "Due Date": "2-Jun-20"
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 20471068,
@@ -879,7 +711,7 @@ var cust_DB=[
    "Area": "seethapuram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "25-Jun-20"
+   "Due Date": "27-Sep-20"
  },
  {
    "SMS ID": 20481557,
@@ -891,7 +723,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "9494318852",
    "Status": "active",
-   "Due Date": "9-Jun-20"
+   "Due Date": "09-Sep-20"
  },
  {
    "SMS ID": 20498265,
@@ -902,8 +734,8 @@ var cust_DB=[
    "Name": "MARLAPATI VENKATA SATYAM",
    "Area": "Venkatareddypeta",
    "Cel 1": "9701408714",
-   "Status": "active",
-   "Due Date": "5-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "10-Aug-20"
  },
  {
    "SMS ID": 20549122,
@@ -914,8 +746,8 @@ var cust_DB=[
    "Name": "SURINENI SHEKHAR (RANI)",
    "Area": "Venkatareddypeta",
    "Cel 1": "9951921633",
-   "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Status": "active",
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 20746433,
@@ -926,20 +758,8 @@ var cust_DB=[
    "Name": "YASANI HANUMANTHA RAO",
    "Area": "Nellipaka",
    "Cel 1": "9000860477",
-   "Status": "Inactive",
-   "Due Date": "1-Jun-20"
- },
- {
-   "SMS ID": 20767717,
-   "VC No": 2520451300,
-   "LCO ID": 42095,
-   "Subscriber Name": "ramakrishana",
-   "Card No": "84",
-   "Name": "PODIYAM YEDUKONDALU",
-   "Area": "Gommukoyagudem",
-   "Cel 1": "8504503345",
    "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 20856194,
@@ -951,7 +771,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9640105110",
    "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Due Date": "20-Aug-20"
  },
  {
    "SMS ID": 21104125,
@@ -975,7 +795,7 @@ var cust_DB=[
    "Area": "Kapugompalli",
    "Cel 1": "9550175211",
    "Status": "Inactive",
-   "Due Date": "3-Jan-20"
+   "Due Date": "03-Jan-20"
  },
  {
    "SMS ID": 21703373,
@@ -987,7 +807,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9505464299",
    "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 21953361,
@@ -999,7 +819,7 @@ var cust_DB=[
    "Area": "Gannerukoyyapadu",
    "Cel 1": "9160585446 & 9705518113",
    "Status": "Inactive",
-   "Due Date": "18-May-20"
+   "Due Date": "16-Aug-20"
  },
  {
    "SMS ID": 13485020,
@@ -1011,7 +831,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "1-Jun-20"
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 13485159,
@@ -1022,8 +842,8 @@ var cust_DB=[
    "Name": "PULIPATI PRASAD",
    "Area": "Awer Colony",
    "Cel 1": "9652541797",
-   "Status": "active",
-   "Due Date": "2-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 15207353,
@@ -1035,7 +855,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "9948589952",
    "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 15210190,
@@ -1047,7 +867,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "5-Jun-20"
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 15389614,
@@ -1058,8 +878,8 @@ var cust_DB=[
    "Name": "KUCHALAPATI BHADHRAM",
    "Area": "Gannerukoyyapadu",
    "Cel 1": "9959575473",
-   "Status": "active",
-   "Due Date": "1-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "31-Aug-20"
  },
  {
    "SMS ID": 15427796,
@@ -1071,7 +891,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9959203432",
    "Status": "active",
-   "Due Date": "1-Jun-20"
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 15447052,
@@ -1083,7 +903,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "7674306203",
    "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 15447561,
@@ -1094,8 +914,8 @@ var cust_DB=[
    "Name": "CHUKKA APPALA REDDY",
    "Area": "Seethapuram",
    "Cel 1": "9701494263",
-   "Status": "active",
-   "Due Date": "1-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "01-Aug-20"
  },
  {
    "SMS ID": 15448227,
@@ -1107,7 +927,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "7382857126",
    "Status": "active",
-   "Due Date": "10-Jun-20"
+   "Due Date": "11-Sep-20"
  },
  {
    "SMS ID": 15464052,
@@ -1119,7 +939,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9542780054",
    "Status": "active",
-   "Due Date": "1-Jun-20"
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 15623133,
@@ -1131,19 +951,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "8106822177",
    "Status": "active",
-   "Due Date": "6-Jun-20"
- },
- {
-   "SMS ID": 15851254,
-   "VC No": 1331503404,
-   "LCO ID": 42095,
-   "Subscriber Name": "sathya prasad",
-   "Card No": "948",
-   "Name": "KOPPULA ARUNKUMAR",
-   "Area": "Palamadugu",
-   "Cel 1": "9100323365",
-   "Status": "active",
-   "Due Date": "11-Jun-20"
+   "Due Date": "07-Sep-20"
  },
  {
    "SMS ID": 15851550,
@@ -1154,8 +962,8 @@ var cust_DB=[
    "Name": "KONNE YELLAIAH",
    "Area": "Gannerukoyyapadu",
    "Cel 1": "9701119450",
-   "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Status": "active",
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 15851569,
@@ -1166,8 +974,8 @@ var cust_DB=[
    "Name": "THUNGALA NARASIMHARAO",
    "Area": "Gannerukoyyapadu",
    "Cel 1": "9676385060",
-   "Status": "Inactive",
-   "Due Date": "4-Jan-20"
+   "Status": "active",
+   "Due Date": "12-Sep-20"
  },
  {
    "SMS ID": 15851589,
@@ -1179,7 +987,7 @@ var cust_DB=[
    "Area": "Gowridevipeta",
    "Cel 1": "8978687842 & 9502464983",
    "Status": "active",
-   "Due Date": "20-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 15852722,
@@ -1191,19 +999,7 @@ var cust_DB=[
    "Area": "Gannerukoyyapadu",
    "Cel 1": "0",
    "Status": "active",
-   "Due Date": "5-Jun-20"
- },
- {
-   "SMS ID": 15852728,
-   "VC No": 1331357576,
-   "LCO ID": 42095,
-   "Subscriber Name": "sathya prasad",
-   "Card No": "421/A",
-   "Name": "MALLELA RAMESH",
-   "Area": "Murumuru",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "17-Jun-20"
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 15901025,
@@ -1215,19 +1011,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "0",
    "Status": "active",
-   "Due Date": "3-Jun-20"
- },
- {
-   "SMS ID": 15901113,
-   "VC No": 1331503108,
-   "LCO ID": 42095,
-   "Subscriber Name": "KAKA SATHYANARAYANA",
-   "Card No": "68",
-   "Name": "KAKA SATHYANARAYANA",
-   "Area": "Murumuru",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "1-Jul-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 15902186,
@@ -1239,7 +1023,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "9177170095",
    "Status": "active",
-   "Due Date": "4-Jun-20"
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 16111799,
@@ -1251,19 +1035,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "8106633250",
    "Status": "active",
-   "Due Date": "4-Jun-20"
- },
- {
-   "SMS ID": 16112247,
-   "VC No": 1331430132,
-   "LCO ID": 42095,
-   "Subscriber Name": "GANJI EMANIYALU",
-   "Card No": "89",
-   "Name": "GANJI EMANIYALU",
-   "Area": "Murumuru",
-   "Cel 1": "9550225181",
-   "Status": "active",
-   "Due Date": "4-Jun-20"
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 16114068,
@@ -1275,7 +1047,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "7382338526",
    "Status": "active",
-   "Due Date": "6-Jun-20"
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 16438139,
@@ -1286,8 +1058,8 @@ var cust_DB=[
    "Name": "GOLLA VEERABABU",
    "Area": "Seethapuram",
    "Cel 1": "9652995640",
-   "Status": "active",
-   "Due Date": "6-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "09-Jul-20"
  },
  {
    "SMS ID": 16439058,
@@ -1299,7 +1071,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "7036887991",
    "Status": "active",
-   "Due Date": "12-Jun-20"
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 16484102,
@@ -1311,7 +1083,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "9542059986",
    "Status": "active",
-   "Due Date": "5-Jun-20"
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 16709686,
@@ -1319,11 +1091,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "KOTI",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "goli ragavalu sakkubai",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "17-Jun-20"
+   "Due Date": "06-Sep-20"
  },
  {
    "SMS ID": 16769941,
@@ -1335,7 +1107,7 @@ var cust_DB=[
    "Area": "Pandurangapuram",
    "Cel 1": "8790659620",
    "Status": "active",
-   "Due Date": "6-Jun-20"
+   "Due Date": "06-Sep-20"
  },
  {
    "SMS ID": 19983999,
@@ -1346,8 +1118,8 @@ var cust_DB=[
    "Name": "MORAMPALLI RATHAIAH",
    "Area": "Gannavaram",
    "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "14-May-20"
+   "Status": "active",
+   "Due Date": "28-Sep-20"
  },
  {
    "SMS ID": 20026476,
@@ -1359,7 +1131,7 @@ var cust_DB=[
    "Area": "Gannerukoyyapadu",
    "Cel 1": "7659861435",
    "Status": "Inactive",
-   "Due Date": "4-Jan-20"
+   "Due Date": "04-Jan-20"
  },
  {
    "SMS ID": 20388737,
@@ -1367,11 +1139,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "charla",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "charla",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "4-Jun-20"
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 20461992,
@@ -1383,7 +1155,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9177648081",
    "Status": "active",
-   "Due Date": "14-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 20486013,
@@ -1394,8 +1166,8 @@ var cust_DB=[
    "Name": "MARLAPATI VENKATESWARAO",
    "Area": "Seethapuram",
    "Cel 1": "9618687705",
-   "Status": "Inactive",
-   "Due Date": "20-May-20"
+   "Status": "active",
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 20486023,
@@ -1407,7 +1179,7 @@ var cust_DB=[
    "Area": "Venkatareddypeta",
    "Cel 1": "9121904382",
    "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "05-Sep-20"
  },
  {
    "SMS ID": 20498274,
@@ -1419,7 +1191,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "9948497203",
    "Status": "active",
-   "Due Date": "27-Jun-20"
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 20729342,
@@ -1431,7 +1203,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "0",
    "Status": "Inactive",
-   "Due Date": "2-May-20"
+   "Due Date": "02-May-20"
  },
  {
    "SMS ID": 20741911,
@@ -1443,7 +1215,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "5-May-20"
+   "Due Date": "05-May-20"
  },
  {
    "SMS ID": 20754306,
@@ -1454,8 +1226,8 @@ var cust_DB=[
    "Name": "MARLAPATI VENKANNA",
    "Area": "Awer Colony",
    "Cel 1": "6302437540",
-   "Status": "Inactive",
-   "Due Date": "27-May-20"
+   "Status": "active",
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 20819298,
@@ -1466,8 +1238,8 @@ var cust_DB=[
    "Name": "NAGARATNAM(KIRANA)",
    "Area": "Nellipaka",
    "Cel 1": "",
-   "Status": "active",
-   "Due Date": "12-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "10-Aug-20"
  },
  {
    "SMS ID": 20819375,
@@ -1479,7 +1251,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9491053049",
    "Status": "active",
-   "Due Date": "5-Jun-20"
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 21104105,
@@ -1491,7 +1263,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "9494297356",
    "Status": "active",
-   "Due Date": "5-Jun-20"
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 21537138,
@@ -1502,8 +1274,8 @@ var cust_DB=[
    "Name": "MORAM PALLI SHARABATH",
    "Area": "Seethapuram",
    "Cel 1": "8184825130",
-   "Status": "active",
-   "Due Date": "1-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "01-Aug-20"
  },
  {
    "SMS ID": 21549701,
@@ -1514,20 +1286,8 @@ var cust_DB=[
    "Name": "SANKA RAVI KUMAR",
    "Area": "Thotapalli",
    "Cel 1": "9000091405",
-   "Status": "Inactive",
-   "Due Date": "3-Feb-20"
- },
- {
-   "SMS ID": 21752752,
-   "VC No": 2520435923,
-   "LCO ID": 42095,
-   "Subscriber Name": "Buyyana Laxmi",
-   "Card No": "412",
-   "Name": "BUYYANA ADHI LAXMI",
-   "Area": "Murumuru",
-   "Cel 1": "9848195800",
-   "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Status": "active",
+   "Due Date": "28-Sep-20"
  },
  {
    "SMS ID": 22031943,
@@ -1539,7 +1299,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "8106932073",
    "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "07-Sep-20"
  },
  {
    "SMS ID": 22066220,
@@ -1550,8 +1310,8 @@ var cust_DB=[
    "Name": "SANI SRINU",
    "Area": "Venkatareddypeta",
    "Cel 1": "6302455159",
-   "Status": "active",
-   "Due Date": "17-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "31-Aug-20"
  },
  {
    "SMS ID": 22078978,
@@ -1563,19 +1323,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9676676144",
    "Status": "active",
-   "Due Date": "11-Jun-20"
- },
- {
-   "SMS ID": 12535409,
-   "VC No": 1768481786,
-   "LCO ID": 42095,
-   "Subscriber Name": "KANITHI SAI BABU",
-   "Card No": "39",
-   "Name": "KANITHI SAI BABU",
-   "Area": "Murumuru",
-   "Cel 1": "7036057324",
-   "Status": "active",
-   "Due Date": "20-Jun-20"
+   "Due Date": "10-Sep-20"
  },
  {
    "SMS ID": 13496242,
@@ -1587,7 +1335,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "4-Jun-20"
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 13496389,
@@ -1598,20 +1346,8 @@ var cust_DB=[
    "Name": "KARRY SATYANNARAYANA",
    "Area": "Nellipaka",
    "Cel 1": "9912143858",
-   "Status": "active",
-   "Due Date": "2-Jun-20"
- },
- {
-   "SMS ID": 13496405,
-   "VC No": 1769420044,
-   "LCO ID": 42095,
-   "Subscriber Name": "KSiva Rama Krishna",
-   "Card No": "857.A",
-   "Name": "BHADEPUDI VENKATA NARASAIAH",
-   "Area": "Laxmipuram",
-   "Cel 1": "9963238326",
-   "Status": "active",
-   "Due Date": "22-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 13496422,
@@ -1622,8 +1358,8 @@ var cust_DB=[
    "Name": "PINGALI JOGARAO(RAM BABU)",
    "Area": "Nellipaka",
    "Cel 1": "9505458400",
-   "Status": "active",
-   "Due Date": "20-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "25-Aug-20"
  },
  {
    "SMS ID": 13503550,
@@ -1635,7 +1371,7 @@ var cust_DB=[
    "Area": "Gowridevipeta",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "9-Jun-20"
+   "Due Date": "13-Sep-20"
  },
  {
    "SMS ID": 15207534,
@@ -1647,7 +1383,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "9492312296",
    "Status": "active",
-   "Due Date": "7-Jun-20"
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 15208271,
@@ -1658,8 +1394,8 @@ var cust_DB=[
    "Name": "GADHALA CHAKRAVARTHI",
    "Area": "Nellipaka",
    "Cel 1": "7729051713",
-   "Status": "active",
-   "Due Date": "9-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "26-Aug-20"
  },
  {
    "SMS ID": 15422944,
@@ -1670,8 +1406,8 @@ var cust_DB=[
    "Name": "DHUDHUKURI SIMHADRI",
    "Area": "Nellipaka",
    "Cel 1": "9951274639",
-   "Status": "Inactive",
-   "Due Date": "5-Apr-20"
+   "Status": "active",
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 15422954,
@@ -1683,7 +1419,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9951274639",
    "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "06-Sep-20"
  },
  {
    "SMS ID": 15447589,
@@ -1695,7 +1431,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9347527377",
    "Status": "active",
-   "Due Date": "6-Jun-20"
+   "Due Date": "10-Sep-20"
  },
  {
    "SMS ID": 15447658,
@@ -1707,31 +1443,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "8328563960",
    "Status": "active",
-   "Due Date": "2-Jun-20"
- },
- {
-   "SMS ID": 15447861,
-   "VC No": 1330117773,
-   "LCO ID": 42095,
-   "Subscriber Name": "PADALA CHINNA VENKATESWARLU",
-   "Card No": "21",
-   "Name": "PADALA CHINNA VENKATESWARLU",
-   "Area": "Murumuru",
-   "Cel 1": "9705176290",
-   "Status": "active",
-   "Due Date": "3-Jun-20"
- },
- {
-   "SMS ID": 15447884,
-   "VC No": 1330117768,
-   "LCO ID": 42095,
-   "Subscriber Name": "ASU RAJULU",
-   "Card No": "78",
-   "Name": "ASU RAJULU",
-   "Area": "Murumuru",
-   "Cel 1": "9553286521",
-   "Status": "active",
-   "Due Date": "5-Jun-20"
+   "Due Date": "30-Sep-20"
  },
  {
    "SMS ID": 15448508,
@@ -1743,7 +1455,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 15460281,
@@ -1755,7 +1467,7 @@ var cust_DB=[
    "Area": "Venkatareddypeta",
    "Cel 1": "9866553182",
    "Status": "active",
-   "Due Date": "9-Jun-20"
+   "Due Date": "10-Sep-20"
  },
  {
    "SMS ID": 15460312,
@@ -1765,9 +1477,9 @@ var cust_DB=[
    "Card No": "1157",
    "Name": "BORRA VENKATESH",
    "Area": "Pandurangapuram",
-   "Cel 1": "",
+   "Cel 1": "9346020584",
    "Status": "active",
-   "Due Date": "6-Jun-20"
+   "Due Date": "07-Sep-20"
  },
  {
    "SMS ID": 15464120,
@@ -1779,7 +1491,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9866540521",
    "Status": "active",
-   "Due Date": "9-Jun-20"
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 15465260,
@@ -1791,7 +1503,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "9441312748",
    "Status": "Inactive",
-   "Due Date": "8-May-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 15851343,
@@ -1802,8 +1514,8 @@ var cust_DB=[
    "Name": "ALLADI ANASURYA",
    "Area": "Seethapuram",
    "Cel 1": "8600316592",
-   "Status": "active",
-   "Due Date": "2-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 15901042,
@@ -1815,7 +1527,7 @@ var cust_DB=[
    "Area": "Kapugompalli",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "13-Jun-20"
+   "Due Date": "09-Sep-20"
  },
  {
    "SMS ID": 15901132,
@@ -1826,8 +1538,8 @@ var cust_DB=[
    "Name": "VASANTHALA BABU",
    "Area": "Gannerukoyyapadu",
    "Cel 1": "9701414193",
-   "Status": "Inactive",
-   "Due Date": "20-May-20"
+   "Status": "active",
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 15901164,
@@ -1839,7 +1551,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "8500038184",
    "Status": "active",
-   "Due Date": "10-Jun-20"
+   "Due Date": "10-Sep-20"
  },
  {
    "SMS ID": 15901851,
@@ -1851,7 +1563,7 @@ var cust_DB=[
    "Area": "Kapugompalli",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "5-Jun-20"
+   "Due Date": "05-Sep-20"
  },
  {
    "SMS ID": 16113658,
@@ -1862,8 +1574,8 @@ var cust_DB=[
    "Name": "PERALLA MOHANA RAO(VELUGU)",
    "Area": "Chodavaram",
    "Cel 1": "9912088718",
-   "Status": "Inactive",
-   "Due Date": "19-Mar-20"
+   "Status": "active",
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 16113683,
@@ -1875,7 +1587,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "9640565765",
    "Status": "active",
-   "Due Date": "5-Jun-20"
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 16113689,
@@ -1885,9 +1597,9 @@ var cust_DB=[
    "Card No": "1136",
    "Name": "YASAM RAJULU",
    "Area": "Pandurangapuram",
-   "Cel 1": "",
+   "Cel 1": "8700783150",
    "Status": "active",
-   "Due Date": "10-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 16114966,
@@ -1899,7 +1611,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "8500394980",
    "Status": "active",
-   "Due Date": "7-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 16484079,
@@ -1911,7 +1623,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9133455719",
    "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "11-Sep-20"
  },
  {
    "SMS ID": 16501014,
@@ -1923,31 +1635,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "8106925183",
    "Status": "Inactive",
-   "Due Date": "8-May-20"
- },
- {
-   "SMS ID": 16501131,
-   "VC No": 1331699979,
-   "LCO ID": 42095,
-   "Subscriber Name": "PALLANTI CHITTI BABU",
-   "Card No": "81",
-   "Name": "PALLANTI CHITTI BABU",
-   "Area": "Murumuru",
-   "Cel 1": "9676371863",
-   "Status": "active",
-   "Due Date": "5-Jun-20"
- },
- {
-   "SMS ID": 16502499,
-   "VC No": 1331699236,
-   "LCO ID": 42095,
-   "Subscriber Name": "CHALLA TRIVENI",
-   "Card No": "#N/A",
-   "Name": "CHALLA TRIVENI",
-   "Area": "murumuru",
-   "Cel 1": "7013394179",
-   "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Due Date": "08-May-20"
  },
  {
    "SMS ID": 16503093,
@@ -1959,7 +1647,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "7661952612",
    "Status": "active",
-   "Due Date": "6-Jun-20"
+   "Due Date": "05-Sep-20"
  },
  {
    "SMS ID": 16769882,
@@ -1970,8 +1658,8 @@ var cust_DB=[
    "Name": "DHUDHUKURI NAGESH",
    "Area": "Nellipaka",
    "Cel 1": "",
-   "Status": "active",
-   "Due Date": "25-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 17038890,
@@ -1983,7 +1671,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "9100264014",
    "Status": "active",
-   "Due Date": "5-Jun-20"
+   "Due Date": "14-Sep-20"
  },
  {
    "SMS ID": 17146094,
@@ -1994,8 +1682,8 @@ var cust_DB=[
    "Name": "RAYALA ESWARA RAO",
    "Area": "Nellipaka",
    "Cel 1": "8186858766",
-   "Status": "Inactive",
-   "Due Date": "27-May-20"
+   "Status": "active",
+   "Due Date": "28-Sep-20"
  },
  {
    "SMS ID": 17147003,
@@ -2007,7 +1695,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9502466241",
    "Status": "active",
-   "Due Date": "4-Jun-20"
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 20026349,
@@ -2019,7 +1707,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "8500616652",
    "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 20026523,
@@ -2031,7 +1719,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "9133593378",
    "Status": "active",
-   "Due Date": "2-Jun-20"
+   "Due Date": "30-Sep-20"
  },
  {
    "SMS ID": 20396006,
@@ -2042,8 +1730,8 @@ var cust_DB=[
    "Name": "SOYAM RAM MURTHI",
    "Area": "Pandurangapuram",
    "Cel 1": "0",
-   "Status": "active",
-   "Due Date": "19-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "20-Jun-20"
  },
  {
    "SMS ID": 20543149,
@@ -2055,7 +1743,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9603568342",
    "Status": "active",
-   "Due Date": "2-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 20554650,
@@ -2067,7 +1755,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9490381411",
    "Status": "active",
-   "Due Date": "6-Jun-20"
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 20641255,
@@ -2078,8 +1766,8 @@ var cust_DB=[
    "Name": "SOYAM TIRAPATAIAH",
    "Area": "thotapalli",
    "Cel 1": "9494156132",
-   "Status": "active",
-   "Due Date": "2-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 20721031,
@@ -2089,9 +1777,9 @@ var cust_DB=[
    "Card No": "56",
    "Name": "PUSA BHASKAR RAO",
    "Area": "Gannavaram",
-   "Cel 1": "",
+   "Cel 1": "9963394585",
    "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 21125701,
@@ -2102,8 +1790,8 @@ var cust_DB=[
    "Name": "MADAKAM NARSIMHULU",
    "Area": "Gowridevipeta",
    "Cel 1": "7997293384",
-   "Status": "Inactive",
-   "Due Date": "15-May-20"
+   "Status": "active",
+   "Due Date": "05-Sep-20"
  },
  {
    "SMS ID": 21206807,
@@ -2115,7 +1803,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "9963734324",
    "Status": "active",
-   "Due Date": "25-Jun-20"
+   "Due Date": "27-Sep-20"
  },
  {
    "SMS ID": 21560517,
@@ -2126,8 +1814,8 @@ var cust_DB=[
    "Name": "TIPAVATRI BASKAR RAO",
    "Area": "Rayanapeta",
    "Cel 1": "9463040982 & 9876543265",
-   "Status": "active",
-   "Due Date": "2-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 21707734,
@@ -2139,7 +1827,7 @@ var cust_DB=[
    "Area": "Gannerukoyyapadu",
    "Cel 1": "9959547670",
    "Status": "Inactive",
-   "Due Date": "8-Apr-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 21864584,
@@ -2151,19 +1839,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9849927043",
    "Status": "active",
-   "Due Date": "24-Jun-20"
- },
- {
-   "SMS ID": 21909145,
-   "VC No": 2520409429,
-   "LCO ID": 42095,
-   "Subscriber Name": "Uk Arun",
-   "Card No": "220.A",
-   "Name": "UKE ARUNA",
-   "Area": "Gommu Kothagudem",
-   "Cel 1": "9000422782",
-   "Status": "active",
-   "Due Date": "14-Jun-20"
+   "Due Date": "06-Sep-20"
  },
  {
    "SMS ID": 11910705,
@@ -2175,7 +1851,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "13-May-20"
+   "Due Date": "27-Jul-20"
  },
  {
    "SMS ID": 13086907,
@@ -2186,8 +1862,8 @@ var cust_DB=[
    "Name": "DASARI PAVAN KALYAN",
    "Area": "Patimalagudem",
    "Cel 1": "7330608852",
-   "Status": "active",
-   "Due Date": "15-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "24-Aug-20"
  },
  {
    "SMS ID": 13194933,
@@ -2199,19 +1875,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9701841280",
    "Status": "active",
-   "Due Date": "10-Jun-20"
- },
- {
-   "SMS ID": 15422909,
-   "VC No": 1330159506,
-   "LCO ID": 42095,
-   "Subscriber Name": "Satyaprasad",
-   "Card No": "705",
-   "Name": "GONDI VENKATARAMANA",
-   "Area": "Bhemavaram",
-   "Cel 1": "9618209828",
-   "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 15422963,
@@ -2223,7 +1887,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "7095520289",
    "Status": "active",
-   "Due Date": "20-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 15422986,
@@ -2235,7 +1899,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9652361784",
    "Status": "active",
-   "Due Date": "9-Jun-20"
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 15440768,
@@ -2247,7 +1911,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "7680072483",
    "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 15440827,
@@ -2259,19 +1923,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "9949154261",
    "Status": "active",
-   "Due Date": "6-Jun-20"
- },
- {
-   "SMS ID": 15446922,
-   "VC No": 1331056635,
-   "LCO ID": 42095,
-   "Subscriber Name": "Sambasivarao",
-   "Card No": "51",
-   "Name": "CHALLAKOTI NARASIMHARAO",
-   "Area": "Murumuru",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 15448439,
@@ -2281,21 +1933,9 @@ var cust_DB=[
    "Card No": "1132",
    "Name": "BORRA RAVI",
    "Area": "Pandurangapuram",
-   "Cel 1": "",
+   "Cel 1": "6559910546",
    "Status": "active",
-   "Due Date": "6-Jun-20"
- },
- {
-   "SMS ID": 15460298,
-   "VC No": 1330927168,
-   "LCO ID": 42095,
-   "Subscriber Name": "Uma Kilaru",
-   "Card No": "682",
-   "Name": "PENUBALLY BABURAO",
-   "Area": "Bhemavaram",
-   "Cel 1": "7893041060",
-   "Status": "active",
-   "Due Date": "11-Jun-20"
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 15465243,
@@ -2307,7 +1947,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "7993596681",
    "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 15521226,
@@ -2319,31 +1959,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "8179350732",
    "Status": "active",
-   "Due Date": "9-Jun-20"
- },
- {
-   "SMS ID": 15851407,
-   "VC No": 1331483589,
-   "LCO ID": 42095,
-   "Subscriber Name": "KAKA SEETHARAMMA",
-   "Card No": "47",
-   "Name": "KAKA SEETHARAMMA",
-   "Area": "Murumuru",
-   "Cel 1": "9963050806",
-   "Status": "active",
-   "Due Date": "18-Jun-20"
- },
- {
-   "SMS ID": 15901861,
-   "VC No": 1331358834,
-   "LCO ID": 42095,
-   "Subscriber Name": "sathya prasad",
-   "Card No": "186",
-   "Name": "UKE RAVI",
-   "Area": "Gommu Kothagudem",
-   "Cel 1": "9010837203",
-   "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "12-Sep-20"
  },
  {
    "SMS ID": 16113640,
@@ -2355,19 +1971,7 @@ var cust_DB=[
    "Area": "Venkatareddypeta",
    "Cel 1": "9848475623",
    "Status": "active",
-   "Due Date": "4-Jun-20"
- },
- {
-   "SMS ID": 16273447,
-   "VC No": 1331698271,
-   "LCO ID": 42095,
-   "Subscriber Name": "KOTI",
-   "Card No": "912.E",
-   "Name": "BABA HOTEL",
-   "Area": "Laxmipuram",
-   "Cel 1": "9701413932",
-   "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 16483828,
@@ -2379,7 +1983,7 @@ var cust_DB=[
    "Area": "Venkatareddypeta",
    "Cel 1": "9100042835",
    "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 16483847,
@@ -2391,7 +1995,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "12-Jun-20"
+   "Due Date": "14-Sep-20"
  },
  {
    "SMS ID": 16484001,
@@ -2403,7 +2007,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9848954377",
    "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 16484094,
@@ -2415,7 +2019,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "8106292468",
    "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 16769904,
@@ -2427,19 +2031,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "7036351505",
    "Status": "active",
-   "Due Date": "12-Jun-20"
- },
- {
-   "SMS ID": 16783089,
-   "VC No": 1331723225,
-   "LCO ID": 42095,
-   "Subscriber Name": "KUCHALAPATI BHUSHANAM",
-   "Card No": "79",
-   "Name": "KUCHALAPATI BHUSHANAM",
-   "Area": "Murumuru",
-   "Cel 1": "8897374997",
-   "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Due Date": "10-Sep-20"
  },
  {
    "SMS ID": 17077875,
@@ -2451,7 +2043,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "9491053049",
    "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Due Date": "14-Sep-20"
  },
  {
    "SMS ID": 17146697,
@@ -2463,7 +2055,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "9704482859",
    "Status": "active",
-   "Due Date": "13-Jun-20"
+   "Due Date": "12-Sep-20"
  },
  {
    "SMS ID": 20026394,
@@ -2475,7 +2067,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9908162194",
    "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 20498286,
@@ -2487,7 +2079,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "14-Jun-20"
+   "Due Date": "18-Sep-20"
  },
  {
    "SMS ID": 20554582,
@@ -2499,7 +2091,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9963835671",
    "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 20608275,
@@ -2511,7 +2103,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "9492053681",
    "Status": "active",
-   "Due Date": "6-Jun-20"
+   "Due Date": "09-Sep-20"
  },
  {
    "SMS ID": 20806900,
@@ -2522,32 +2114,8 @@ var cust_DB=[
    "Name": "ALAVALA KOTESWARAO",
    "Area": "Gannavaram",
    "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "30-May-20"
- },
- {
-   "SMS ID": 20819105,
-   "VC No": 2520411513,
-   "LCO ID": 42095,
-   "Subscriber Name": "panuganti",
-   "Card No": "857.B",
-   "Name": "PIRRANGI VEERASWAMI",
-   "Area": "Laxmipuram",
-   "Cel 1": "7989676863 & 7013817430",
    "Status": "active",
-   "Due Date": "11-Jun-20"
- },
- {
-   "SMS ID": 20856339,
-   "VC No": 2520425939,
-   "LCO ID": 42095,
-   "Subscriber Name": "PANUGANTI",
-   "Card No": "912.F",
-   "Name": "PARAVATHI KANTHAMMA",
-   "Area": "Laxmipuram",
-   "Cel 1": "8384654711",
-   "Status": "active",
-   "Due Date": "18-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 20894159,
@@ -2559,7 +2127,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "9603246343",
    "Status": "active",
-   "Due Date": "9-Jun-20"
+   "Due Date": "12-Sep-20"
  },
  {
    "SMS ID": 20969515,
@@ -2570,8 +2138,8 @@ var cust_DB=[
    "Name": "KASIMALLA SUBBARAO",
    "Area": "Kapugompalli",
    "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "27-May-20"
+   "Status": "active",
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 21005696,
@@ -2583,7 +2151,7 @@ var cust_DB=[
    "Area": "Gowridevipeta",
    "Cel 1": "8979323940",
    "Status": "Inactive",
-   "Due Date": "27-May-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 21091450,
@@ -2595,7 +2163,7 @@ var cust_DB=[
    "Area": "GPWRIDAVIPETA",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "14-Jun-20"
+   "Due Date": "14-Sep-20"
  },
  {
    "SMS ID": 21115708,
@@ -2607,7 +2175,7 @@ var cust_DB=[
    "Area": "Gowridevipeta",
    "Cel 1": "9704423466",
    "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 21549719,
@@ -2619,43 +2187,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "8332058198",
    "Status": "Inactive",
-   "Due Date": "1-May-20"
- },
- {
-   "SMS ID": 21889905,
-   "VC No": 2520457286,
-   "LCO ID": 42095,
-   "Subscriber Name": "panuganit",
-   "Card No": "911.A",
-   "Name": "SK JAHANGEER HUSSEN",
-   "Area": "Laxmipuram",
-   "Cel 1": "9963948252",
-   "Status": "active",
-   "Due Date": "15-Jun-20"
- },
- {
-   "SMS ID": 21917827,
-   "VC No": 2520426952,
-   "LCO ID": 42095,
-   "Subscriber Name": "ravu nandeswari",
-   "Card No": "912.G",
-   "Name": "RAAVULA NAMDISWARI",
-   "Area": "Laxmipuram",
-   "Cel 1": "6305387063",
-   "Status": "Inactive",
-   "Due Date": "6-Mar-20"
- },
- {
-   "SMS ID": 22713111,
-   "VC No": 2550172384,
-   "LCO ID": 42095,
-   "Subscriber Name": "Gundi Venkanna",
-   "Card No": "#N/A",
-   "Name": "gude venkatesh",
-   "Area": "pandurangapuram",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 11907232,
@@ -2667,7 +2199,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "8500569856",
    "Status": "active",
-   "Due Date": "19-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 11917771,
@@ -2679,7 +2211,7 @@ var cust_DB=[
    "Area": "Gannerukoyyapadu",
    "Cel 1": "9553270944",
    "Status": "Inactive",
-   "Due Date": "31-May-20"
+   "Due Date": "13-Aug-20"
  },
  {
    "SMS ID": 13496485,
@@ -2702,8 +2234,8 @@ var cust_DB=[
    "Name": "LAKKAMALLA PEDHABABU AMANI",
    "Area": "Rayanapeta",
    "Cel 1": "",
-   "Status": "active",
-   "Due Date": "23-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "27-Aug-20"
  },
  {
    "SMS ID": 15207586,
@@ -2715,7 +2247,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "9908962157",
    "Status": "active",
-   "Due Date": "6-Jun-20"
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 15208267,
@@ -2727,19 +2259,7 @@ var cust_DB=[
    "Area": "NELLIPAKA",
    "Cel 1": "7702659247",
    "Status": "active",
-   "Due Date": "6-Jun-20"
- },
- {
-   "SMS ID": 15422364,
-   "VC No": 1330159510,
-   "LCO ID": 42095,
-   "Subscriber Name": "Satyaprasad",
-   "Card No": "780",
-   "Name": "BODA LINGAIAH",
-   "Area": "Buruguvai Tanda",
-   "Cel 1": "9502575241",
-   "Status": "active",
-   "Due Date": "6-Jun-20"
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 15427732,
@@ -2751,7 +2271,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9701913580",
    "Status": "active",
-   "Due Date": "12-Jun-20"
+   "Due Date": "11-Sep-20"
  },
  {
    "SMS ID": 15427790,
@@ -2763,7 +2283,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9676513505",
    "Status": "Inactive",
-   "Due Date": "6-Feb-20"
+   "Due Date": "06-Feb-20"
  },
  {
    "SMS ID": 15439937,
@@ -2775,7 +2295,7 @@ var cust_DB=[
    "Area": "Gannerukoyyapadu",
    "Cel 1": "7659008887",
    "Status": "active",
-   "Due Date": "10-Jun-20"
+   "Due Date": "09-Sep-20"
  },
  {
    "SMS ID": 15446965,
@@ -2787,7 +2307,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "9963763573",
    "Status": "active",
-   "Due Date": "18-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 15460311,
@@ -2797,21 +2317,9 @@ var cust_DB=[
    "Card No": "1137",
    "Name": "YASAM RAMESH",
    "Area": "Pandurangapuram",
-   "Cel 1": "0",
-   "Status": "Inactive",
-   "Due Date": "28-May-20"
- },
- {
-   "SMS ID": 15460561,
-   "VC No": 1331056751,
-   "LCO ID": 42095,
-   "Subscriber Name": "Uma Kilaru",
-   "Card No": "806",
-   "Name": "JATHOD KOTESWARAO",
-   "Area": "Buruguvai Tanda",
-   "Cel 1": "9963881700",
+   "Cel 1": "8700783150",
    "Status": "active",
-   "Due Date": "24-Jun-20"
+   "Due Date": "18-Sep-20"
  },
  {
    "SMS ID": 15460649,
@@ -2823,7 +2331,7 @@ var cust_DB=[
    "Area": "thotapalli",
    "Cel 1": "9908257934",
    "Status": "active",
-   "Due Date": "6-Jun-20"
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 15464079,
@@ -2835,19 +2343,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9652978793",
    "Status": "active",
-   "Due Date": "3-Jun-20"
- },
- {
-   "SMS ID": 15850891,
-   "VC No": 1331503077,
-   "LCO ID": 42095,
-   "Subscriber Name": "sathya prasad",
-   "Card No": "182",
-   "Name": "UKE SEETHA RAMAIAH",
-   "Area": "Gommu Kothagudem",
-   "Cel 1": "9490226538",
-   "Status": "active",
-   "Due Date": "6-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 15851357,
@@ -2859,7 +2355,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9491580978",
    "Status": "active",
-   "Due Date": "5-Jun-20"
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 15852768,
@@ -2870,8 +2366,8 @@ var cust_DB=[
    "Name": "V.NAGESWARA RAO(VENKATA RAMANA)",
    "Area": "Venkatareddypeta",
    "Cel 1": "6304765367",
-   "Status": "active",
-   "Due Date": "5-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "31-Aug-20"
  },
  {
    "SMS ID": 15863091,
@@ -2883,7 +2379,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "8500324983",
    "Status": "active",
-   "Due Date": "13-Jun-20"
+   "Due Date": "12-Sep-20"
  },
  {
    "SMS ID": 15901714,
@@ -2895,19 +2391,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "0",
    "Status": "Inactive",
-   "Due Date": "7-Mar-20"
- },
- {
-   "SMS ID": 16113993,
-   "VC No": 1331431109,
-   "LCO ID": 42095,
-   "Subscriber Name": "KOTI",
-   "Card No": "231",
-   "Name": "PANDE RAMARAO",
-   "Area": "Gommu Kothagudem",
-   "Cel 1": "9959432956",
-   "Status": "active",
-   "Due Date": "10-Jun-20"
+   "Due Date": "10-Jul-20"
  },
  {
    "SMS ID": 16483917,
@@ -2919,7 +2403,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "8186043288",
    "Status": "active",
-   "Due Date": "4-Jun-20"
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 16769774,
@@ -2931,7 +2415,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9912186252",
    "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 17146276,
@@ -2942,8 +2426,8 @@ var cust_DB=[
    "Name": "PUSA NAGARAJU(AUTO)",
    "Area": "Nellipaka",
    "Cel 1": "9666058390",
-   "Status": "active",
-   "Due Date": "23-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "24-Aug-20"
  },
  {
    "SMS ID": 19984017,
@@ -2955,7 +2439,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9848788749",
    "Status": "active",
-   "Due Date": "9-Jun-20"
+   "Due Date": "12-Sep-20"
  },
  {
    "SMS ID": 20392507,
@@ -2966,8 +2450,8 @@ var cust_DB=[
    "Name": "BAKKA ESWARAYAH",
    "Area": "Chodavaram",
    "Cel 1": "9866175833",
-   "Status": "Inactive",
-   "Due Date": "26-May-20"
+   "Status": "active",
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 20498345,
@@ -2979,7 +2463,7 @@ var cust_DB=[
    "Area": "Gowridevipeta",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "20-Jun-20"
+   "Due Date": "28-Sep-20"
  },
  {
    "SMS ID": 20588278,
@@ -2990,8 +2474,8 @@ var cust_DB=[
    "Name": "KANURI TULASAMMA",
    "Area": "Gannerukoyyapadu",
    "Cel 1": "9963849925",
-   "Status": "Inactive",
-   "Due Date": "20-May-20"
+   "Status": "active",
+   "Due Date": "11-Sep-20"
  },
  {
    "SMS ID": 20721041,
@@ -3003,19 +2487,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "9-Jun-20"
- },
- {
-   "SMS ID": 20741626,
-   "VC No": 2520439648,
-   "LCO ID": 42095,
-   "Subscriber Name": "VINOD",
-   "Card No": "171",
-   "Name": "THURRAM RAMAIAH",
-   "Area": "Gommu Kothagudem",
-   "Cel 1": "9909052518",
-   "Status": "active",
-   "Due Date": "28-Jun-20"
+   "Due Date": "11-Sep-20"
  },
  {
    "SMS ID": 20758111,
@@ -3027,7 +2499,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "8500569856",
    "Status": "Inactive",
-   "Due Date": "8-Mar-20"
+   "Due Date": "08-Mar-20"
  },
  {
    "SMS ID": 21535712,
@@ -3038,8 +2510,8 @@ var cust_DB=[
    "Name": "RAVI RAMACHANDHAR RAO",
    "Area": "Gannavaram",
    "Cel 1": "9849152658",
-   "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "02-Jul-20"
  },
  {
    "SMS ID": 21648831,
@@ -3051,19 +2523,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9441457791",
    "Status": "active",
-   "Due Date": "5-Jun-20"
- },
- {
-   "SMS ID": 21669073,
-   "VC No": 2520409246,
-   "LCO ID": 42095,
-   "Subscriber Name": "PADALA BASHAKAR",
-   "Card No": "436",
-   "Name": "PADALA BHASKAR",
-   "Area": "Murumuru",
-   "Cel 1": "6284234773 & 6281234773",
-   "Status": "active",
-   "Due Date": "15-Jun-20"
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 21695936,
@@ -3075,7 +2535,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "9949504631",
    "Status": "active",
-   "Due Date": "17-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 11907391,
@@ -3087,7 +2547,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9573615267",
    "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "09-Sep-20"
  },
  {
    "SMS ID": 11918023,
@@ -3099,7 +2559,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "7093847744",
    "Status": "active",
-   "Due Date": "7-Jun-20"
+   "Due Date": "05-Sep-20"
  },
  {
    "SMS ID": 13251614,
@@ -3111,19 +2571,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "8106745769",
    "Status": "active",
-   "Due Date": "7-Jun-20"
- },
- {
-   "SMS ID": 13445053,
-   "VC No": 1769494974,
-   "LCO ID": 42095,
-   "Subscriber Name": "PADALA RAMESHVEERAMANI",
-   "Card No": "8.A",
-   "Name": "PADALA RAMESH(VEERAMANI)(27.7.17)",
-   "Area": "Murumuru",
-   "Cel 1": "9010291476",
-   "Status": "Inactive",
-   "Due Date": "14-Apr-20"
+   "Due Date": "05-Sep-20"
  },
  {
    "SMS ID": 13484318,
@@ -3134,8 +2582,8 @@ var cust_DB=[
    "Name": "PALANANTI KONDA(VENKATESH)",
    "Area": "Rayanapeta",
    "Cel 1": "8790783168",
-   "Status": "active",
-   "Due Date": "14-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "17-Aug-20"
  },
  {
    "SMS ID": 13496259,
@@ -3170,8 +2618,8 @@ var cust_DB=[
    "Name": "YEDIDHA SUBBARAO",
    "Area": "Gannavaram",
    "Cel 1": "",
-   "Status": "active",
-   "Due Date": "6-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "09-Aug-20"
  },
  {
    "SMS ID": 15210223,
@@ -3183,7 +2631,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "9676014645",
    "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "06-Sep-20"
  },
  {
    "SMS ID": 15427770,
@@ -3195,19 +2643,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9100348346",
    "Status": "Inactive",
-   "Due Date": "7-Apr-20"
- },
- {
-   "SMS ID": 15447868,
-   "VC No": 1330117766,
-   "LCO ID": 42095,
-   "Subscriber Name": "ASU CHANDHU",
-   "Card No": "88",
-   "Name": "ASU CHANDHU",
-   "Area": "Murumuru",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "18-Jun-20"
+   "Due Date": "07-Apr-20"
  },
  {
    "SMS ID": 15468726,
@@ -3217,9 +2653,9 @@ var cust_DB=[
    "Card No": "604",
    "Name": "MUVVA KOTESWARA RAO",
    "Area": "Rayanapeta",
-   "Cel 1": "",
+   "Cel 1": "9912363408",
    "Status": "active",
-   "Due Date": "18-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 15788468,
@@ -3231,7 +2667,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "7997292396",
    "Status": "active",
-   "Due Date": "7-Jun-20"
+   "Due Date": "05-Sep-20"
  },
  {
    "SMS ID": 15851422,
@@ -3243,7 +2679,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "7702437228",
    "Status": "active",
-   "Due Date": "15-Jun-20"
+   "Due Date": "13-Sep-20"
  },
  {
    "SMS ID": 16113633,
@@ -3255,7 +2691,7 @@ var cust_DB=[
    "Area": "Pandurangapuram",
    "Cel 1": "9676329787",
    "Status": "active",
-   "Due Date": "17-Jun-20"
+   "Due Date": "21-Sep-20"
  },
  {
    "SMS ID": 16436141,
@@ -3267,7 +2703,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9502620618",
    "Status": "active",
-   "Due Date": "10-Jun-20"
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 16483928,
@@ -3279,7 +2715,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9701408597",
    "Status": "active",
-   "Due Date": "5-Jun-20"
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 16484017,
@@ -3291,7 +2727,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "7680052810",
    "Status": "active",
-   "Due Date": "5-Jun-20"
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 16484253,
@@ -3302,8 +2738,8 @@ var cust_DB=[
    "Name": "KOTTE MUDHU KRISHNA",
    "Area": "Seethapuram",
    "Cel 1": "8688092067",
-   "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "24-Aug-20"
  },
  {
    "SMS ID": 16502760,
@@ -3315,7 +2751,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9951943220",
    "Status": "active",
-   "Due Date": "6-Jun-20"
+   "Due Date": "05-Sep-20"
  },
  {
    "SMS ID": 16782082,
@@ -3338,20 +2774,8 @@ var cust_DB=[
    "Name": "UKE RAMESH",
    "Area": "Thotapalli",
    "Cel 1": "7893287148",
-   "Status": "active",
-   "Due Date": "8-Jun-20"
- },
- {
-   "SMS ID": 17146641,
-   "VC No": 1331699112,
-   "LCO ID": 42095,
-   "Subscriber Name": "koti",
-   "Card No": "830",
-   "Name": "UNDETI BABU",
-   "Area": "Laxmipuram",
-   "Cel 1": "8179929472",
-   "Status": "active",
-   "Due Date": "23-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "11-Aug-20"
  },
  {
    "SMS ID": 17147032,
@@ -3362,8 +2786,8 @@ var cust_DB=[
    "Name": "CHANILLA RAJASHEKAR",
    "Area": "Seethapuram",
    "Cel 1": "9704191791",
-   "Status": "Inactive",
-   "Due Date": "27-Mar-20"
+   "Status": "active",
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 20153699,
@@ -3375,7 +2799,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 20153742,
@@ -3387,7 +2811,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "9-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 20297366,
@@ -3399,7 +2823,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "9676974087",
    "Status": "Inactive",
-   "Due Date": "25-May-20"
+   "Due Date": "10-Aug-20"
  },
  {
    "SMS ID": 20303326,
@@ -3410,8 +2834,8 @@ var cust_DB=[
    "Name": "PIDIYALA NAGESH",
    "Area": "Nellipaka",
    "Cel 1": "8186092973",
-   "Status": "Inactive",
-   "Due Date": "19-May-20"
+   "Status": "active",
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 20326306,
@@ -3423,7 +2847,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "8179821856",
    "Status": "active",
-   "Due Date": "12-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 20395997,
@@ -3433,21 +2857,9 @@ var cust_DB=[
    "Card No": "1148.A",
    "Name": "PAYAM DHARMAIAH(SAROJINI)",
    "Area": "Pandurangapuram",
-   "Cel 1": "",
+   "Cel 1": "6302197941",
    "Status": "active",
-   "Due Date": "8-Jun-20"
- },
- {
-   "SMS ID": 20462019,
-   "VC No": 2516001248,
-   "LCO ID": 42095,
-   "Subscriber Name": "thriveni",
-   "Card No": "822.A",
-   "Name": "BHADAVTH RAMU",
-   "Area": "Buruguvai Tanda",
-   "Cel 1": "6302249573",
-   "Status": "active",
-   "Due Date": "10-Jun-20"
+   "Due Date": "12-Sep-20"
  },
  {
    "SMS ID": 20554253,
@@ -3459,7 +2871,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "7675084753",
    "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "07-Sep-20"
  },
  {
    "SMS ID": 20658677,
@@ -3471,31 +2883,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "9441118956",
    "Status": "active",
-   "Due Date": "5-Jun-20"
- },
- {
-   "SMS ID": 21654521,
-   "VC No": 2517329826,
-   "LCO ID": 42095,
-   "Subscriber Name": "HARI",
-   "Card No": "167",
-   "Name": "KOVVALA NAGARAJU",
-   "Area": "Kachavaram",
-   "Cel 1": "7702251258",
-   "Status": "active",
-   "Due Date": "11-Jun-20"
- },
- {
-   "SMS ID": 21827217,
-   "VC No": 2520457303,
-   "LCO ID": 42095,
-   "Subscriber Name": "Attay Veraiah",
-   "Card No": "696.B",
-   "Name": "VETTI VEERAIAH",
-   "Area": "Bhemavaram",
-   "Cel 1": "9948120576 & 9705039104",
-   "Status": "active",
-   "Due Date": "5-Jun-20"
+   "Due Date": "07-Sep-20"
  },
  {
    "SMS ID": 21890329,
@@ -3506,8 +2894,8 @@ var cust_DB=[
    "Name": "PALLANTI SRINU (MESTRI)",
    "Area": "Rayanapeta",
    "Cel 1": "6305492774",
-   "Status": "active",
-   "Due Date": "12-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "16-Aug-20"
  },
  {
    "SMS ID": 22078900,
@@ -3519,7 +2907,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9010631669",
    "Status": "active",
-   "Due Date": "5-Jun-20"
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 22121719,
@@ -3531,7 +2919,7 @@ var cust_DB=[
    "Area": "nellipaka",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "5-Jun-20"
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 22720732,
@@ -3539,11 +2927,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "Dudhukuri Baburao",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "Dudhukuri Baburao",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "17-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 11907097,
@@ -3555,7 +2943,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "8897077223",
    "Status": "active",
-   "Due Date": "7-Jun-20"
+   "Due Date": "05-Sep-20"
  },
  {
    "SMS ID": 11910698,
@@ -3567,7 +2955,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "9573929365",
    "Status": "active",
-   "Due Date": "7-Jun-20"
+   "Due Date": "05-Sep-20"
  },
  {
    "SMS ID": 11917864,
@@ -3579,7 +2967,7 @@ var cust_DB=[
    "Area": "Kapugompalli",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "6-Jun-20"
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 12582467,
@@ -3602,8 +2990,8 @@ var cust_DB=[
    "Name": "KOYALA SAVITHRI",
    "Area": "Awer Colony",
    "Cel 1": "7997283662",
-   "Status": "Inactive",
-   "Due Date": "21-Mar-20"
+   "Status": "active",
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 13496448,
@@ -3614,8 +3002,8 @@ var cust_DB=[
    "Name": "KONDRU NARASIMHARAO",
    "Area": "Venkatareddypeta",
    "Cel 1": "9705304827",
-   "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Status": "active",
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 13496481,
@@ -3627,19 +3015,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "9676355032",
    "Status": "active",
-   "Due Date": "22-Jun-20"
- },
- {
-   "SMS ID": 13497417,
-   "VC No": 1769494686,
-   "LCO ID": 42095,
-   "Subscriber Name": "PARITALA VENKANNA KALPANA NC",
-   "Card No": "7/A",
-   "Name": "PARITALA VENKANNA (KALPANA)22/6/17 N/C",
-   "Area": "Murumuru",
-   "Cel 1": "9703783887",
-   "Status": "active",
-   "Due Date": "10-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 13910284,
@@ -3651,7 +3027,7 @@ var cust_DB=[
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "4-Jun-20"
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 15207363,
@@ -3662,8 +3038,8 @@ var cust_DB=[
    "Name": "SUDHIPAKA ROSHAIAH",
    "Area": "Seethapuram",
    "Cel 1": "9502043437",
-   "Status": "Inactive",
-   "Due Date": "29-May-20"
+   "Status": "active",
+   "Due Date": "11-Sep-20"
  },
  {
    "SMS ID": 15208230,
@@ -3675,31 +3051,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "8501884951",
    "Status": "active",
-   "Due Date": "6-Jun-20"
- },
- {
-   "SMS ID": 15422253,
-   "VC No": 1330159513,
-   "LCO ID": 42095,
-   "Subscriber Name": "Satyaprasad",
-   "Card No": "779.A",
-   "Name": "GUGULOTH SRINU",
-   "Area": "Buruguvai Tanda",
-   "Cel 1": "8790258581",
-   "Status": "active",
-   "Due Date": "6-Jun-20"
- },
- {
-   "SMS ID": 15422354,
-   "VC No": 1330159511,
-   "LCO ID": 42095,
-   "Subscriber Name": "Satyaprasad",
-   "Card No": "824.D",
-   "Name": "GUGULOTH NAVEEN",
-   "Area": "Buruguvai Tanda",
-   "Cel 1": "9121458898",
-   "Status": "active",
-   "Due Date": "6-Jun-20"
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 15422969,
@@ -3711,7 +3063,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9912643869 & 9381524196",
    "Status": "active",
-   "Due Date": "6-Jun-20"
+   "Due Date": "05-Sep-20"
  },
  {
    "SMS ID": 15440449,
@@ -3723,7 +3075,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "7658915548",
    "Status": "active",
-   "Due Date": "13-Jun-20"
+   "Due Date": "12-Sep-20"
  },
  {
    "SMS ID": 15446926,
@@ -3735,7 +3087,7 @@ var cust_DB=[
    "Area": "Gannerukoyyapadu",
    "Cel 1": "8374882539",
    "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "06-Sep-20"
  },
  {
    "SMS ID": 15447627,
@@ -3747,19 +3099,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "9701445520",
    "Status": "active",
-   "Due Date": "9-Jun-20"
- },
- {
-   "SMS ID": 15459670,
-   "VC No": 1331068141,
-   "LCO ID": 42095,
-   "Subscriber Name": "Uma kilau",
-   "Card No": "949",
-   "Name": "KOPPULA VENKATARATNAM",
-   "Area": "Palamadugu",
-   "Cel 1": "9618527096",
-   "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "09-Sep-20"
  },
  {
    "SMS ID": 15460578,
@@ -3783,7 +3123,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "7702397534",
    "Status": "active",
-   "Due Date": "17-Jun-20"
+   "Due Date": "14-Sep-20"
  },
  {
    "SMS ID": 15464603,
@@ -3795,7 +3135,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "6-Jun-20"
+   "Due Date": "07-Sep-20"
  },
  {
    "SMS ID": 15521469,
@@ -3807,19 +3147,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "9492319698",
    "Status": "active",
-   "Due Date": "7-Jun-20"
- },
- {
-   "SMS ID": 15850904,
-   "VC No": 1331503079,
-   "LCO ID": 42095,
-   "Subscriber Name": "sathya prasad",
-   "Card No": "159",
-   "Name": "UKE LAXMAIAH",
-   "Area": "Gommu Kothagudem",
-   "Cel 1": "7337595887",
-   "Status": "active",
-   "Due Date": "25-Jun-20"
+   "Due Date": "06-Sep-20"
  },
  {
    "SMS ID": 15862780,
@@ -3831,19 +3159,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "7286046822",
    "Status": "active",
-   "Due Date": "6-Jun-20"
- },
- {
-   "SMS ID": 15900837,
-   "VC No": 1331668722,
-   "LCO ID": 42095,
-   "Subscriber Name": "sathya prasad",
-   "Card No": "54",
-   "Name": "KATHULA RAJASHEKAR",
-   "Area": "Gogubaka",
-   "Cel 1": "8978796135",
-   "Status": "active",
-   "Due Date": "6-Jun-20"
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 16111836,
@@ -3855,7 +3171,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "12-Jun-20"
+   "Due Date": "12-Sep-20"
  },
  {
    "SMS ID": 16484181,
@@ -3867,7 +3183,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9912643869",
    "Status": "active",
-   "Due Date": "6-Jun-20"
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 16812308,
@@ -3878,8 +3194,8 @@ var cust_DB=[
    "Name": "MUDHIGONDA SOMAIAH-2",
    "Area": "Thotapalli",
    "Cel 1": "9866537507",
-   "Status": "Inactive",
-   "Due Date": "22-May-20"
+   "Status": "active",
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 20261082,
@@ -3891,7 +3207,7 @@ var cust_DB=[
    "Area": "Gowridevipeta",
    "Cel 1": "7337597325",
    "Status": "active",
-   "Due Date": "6-Jun-20"
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 20481578,
@@ -3903,7 +3219,7 @@ var cust_DB=[
    "Area": "Gannerukoyyapadu",
    "Cel 1": "6281302766",
    "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "26-Sep-20"
  },
  {
    "SMS ID": 20542975,
@@ -3915,7 +3231,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "8367335402",
    "Status": "Inactive",
-   "Due Date": "26-May-20"
+   "Due Date": "31-Aug-20"
  },
  {
    "SMS ID": 20608501,
@@ -3927,7 +3243,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9010251056",
    "Status": "active",
-   "Due Date": "23-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 20695755,
@@ -3939,19 +3255,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "9704216493",
    "Status": "active",
-   "Due Date": "8-Jun-20"
- },
- {
-   "SMS ID": 20741666,
-   "VC No": 2520438533,
-   "LCO ID": 42095,
-   "Subscriber Name": "VINOD",
-   "Card No": "196",
-   "Name": "APAKA RAMDASU",
-   "Area": "Gommu Kothagudem",
-   "Cel 1": "9603803349",
-   "Status": "active",
-   "Due Date": "6-Jun-20"
+   "Due Date": "06-Sep-20"
  },
  {
    "SMS ID": 20754282,
@@ -3963,7 +3267,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "23-Jun-20"
+   "Due Date": "09-Sep-20"
  },
  {
    "SMS ID": 11918009,
@@ -3975,7 +3279,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9985555507",
    "Status": "active",
-   "Due Date": "7-Jun-20"
+   "Due Date": "05-Sep-20"
  },
  {
    "SMS ID": 13086738,
@@ -3985,9 +3289,9 @@ var cust_DB=[
    "Card No": "583",
    "Name": "LAKKUMALLA HARIKRISHNA",
    "Area": "Rayanapeta",
-   "Cel 1": "0",
-   "Status": "Inactive",
-   "Due Date": "29-May-20"
+   "Cel 1": "9177023930",
+   "Status": "active",
+   "Due Date": "27-Sep-20"
  },
  {
    "SMS ID": 13496372,
@@ -3999,7 +3303,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "7997291152",
    "Status": "active",
-   "Due Date": "1-Jun-20"
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 13503012,
@@ -4007,11 +3311,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "SOWJANYA",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "SOWJANYA",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "06-Sep-20"
  },
  {
    "SMS ID": 15421919,
@@ -4023,7 +3327,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "7382018980",
    "Status": "active",
-   "Due Date": "9-Jun-20"
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 15422092,
@@ -4035,7 +3339,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "7702915277",
    "Status": "active",
-   "Due Date": "28-Jun-20"
+   "Due Date": "26-Sep-20"
  },
  {
    "SMS ID": 15422914,
@@ -4047,19 +3351,7 @@ var cust_DB=[
    "Area": "Venkatareddypeta",
    "Cel 1": "9949287202",
    "Status": "active",
-   "Due Date": "17-Jun-20"
- },
- {
-   "SMS ID": 15440075,
-   "VC No": 1330692538,
-   "LCO ID": 42095,
-   "Subscriber Name": "NEERUDU SRINU",
-   "Card No": "427",
-   "Name": "NEERUDU SRINU",
-   "Area": "Murumuru",
-   "Cel 1": "8008076915",
-   "Status": "active",
-   "Due Date": "10-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 15447622,
@@ -4071,7 +3363,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "9550770889",
    "Status": "active",
-   "Due Date": "27-Jun-20"
+   "Due Date": "26-Sep-20"
  },
  {
    "SMS ID": 15464045,
@@ -4083,7 +3375,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "7731944779",
    "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "07-Sep-20"
  },
  {
    "SMS ID": 15862529,
@@ -4095,7 +3387,7 @@ var cust_DB=[
    "Area": "Yarraboru",
    "Cel 1": "9502231364",
    "Status": "active",
-   "Due Date": "14-Jun-20"
+   "Due Date": "14-Sep-20"
  },
  {
    "SMS ID": 15900844,
@@ -4107,7 +3399,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "7-Jun-20"
+   "Due Date": "06-Sep-20"
  },
  {
    "SMS ID": 15901108,
@@ -4118,8 +3410,8 @@ var cust_DB=[
    "Name": "PASUPULETI SATHYAM",
    "Area": "Kapugompalli",
    "Cel 1": "",
-   "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "18-Aug-20"
  },
  {
    "SMS ID": 15901484,
@@ -4131,19 +3423,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "9010178245",
    "Status": "active",
-   "Due Date": "24-Jun-20"
- },
- {
-   "SMS ID": 16112139,
-   "VC No": 1331358970,
-   "LCO ID": 42095,
-   "Subscriber Name": "KOTI",
-   "Card No": "706.D",
-   "Name": "PONDI JAYALAXMI",
-   "Area": "Bhemavaram",
-   "Cel 1": "8790574784",
-   "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 16112502,
@@ -4155,7 +3435,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "7-Jun-20"
+   "Due Date": "05-Sep-20"
  },
  {
    "SMS ID": 16113627,
@@ -4166,8 +3446,8 @@ var cust_DB=[
    "Name": "BUDHURI MURALI (FREE) Supervisoure",
    "Area": "Rayanapeta",
    "Cel 1": "9502607501",
-   "Status": "active",
-   "Due Date": "9-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "10-Aug-20"
  },
  {
    "SMS ID": 16114028,
@@ -4179,19 +3459,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "22-May-20"
- },
- {
-   "SMS ID": 16483876,
-   "VC No": 1331699295,
-   "LCO ID": 42095,
-   "Subscriber Name": "koti",
-   "Card No": "80",
-   "Name": "GUNDUPUDI KAMESWARAO(NODE)",
-   "Area": "Gommukoyagudem",
-   "Cel 1": "9989668325",
-   "Status": "Inactive",
-   "Due Date": "11-Mar-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 16484037,
@@ -4203,7 +3471,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "7680819398",
    "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 16484043,
@@ -4215,19 +3483,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "7732033638",
    "Status": "active",
-   "Due Date": "7-Jun-20"
- },
- {
-   "SMS ID": 16484119,
-   "VC No": 1331735871,
-   "LCO ID": 42095,
-   "Subscriber Name": "DASARI VANKATAKRISHNA",
-   "Card No": "300.A",
-   "Name": "DASARI VANKATAKRISHNA",
-   "Area": "Murumuru",
-   "Cel 1": "9553948709",
-   "Status": "Inactive",
-   "Due Date": "22-May-20"
+   "Due Date": "05-Sep-20"
  },
  {
    "SMS ID": 17146664,
@@ -4239,7 +3495,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "9704354707",
    "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "06-Sep-20"
  },
  {
    "SMS ID": 20020858,
@@ -4251,7 +3507,7 @@ var cust_DB=[
    "Area": "Kistaram",
    "Cel 1": "8897136550",
    "Status": "active",
-   "Due Date": "23-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 20297377,
@@ -4263,19 +3519,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "0",
    "Status": "Inactive",
-   "Due Date": "26-Mar-20"
- },
- {
-   "SMS ID": 20303314,
-   "VC No": 2516029801,
-   "LCO ID": 42095,
-   "Subscriber Name": "THRIVENI",
-   "Card No": "699",
-   "Name": "GONDI BAJJI(LAXMI)",
-   "Area": "Bhemavaram",
-   "Cel 1": "9502337312",
-   "Status": "Inactive",
-   "Due Date": "9-May-20"
+   "Due Date": "30-Aug-20"
  },
  {
    "SMS ID": 20388703,
@@ -4283,11 +3527,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "charla",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "charla",
    "Area": "#N/A",
    "Cel 1": "",
-   "Status": "active",
-   "Due Date": "10-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "12-Jul-20"
  },
  {
    "SMS ID": 20392510,
@@ -4299,43 +3543,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "9704084251",
    "Status": "active",
-   "Due Date": "9-Jun-20"
- },
- {
-   "SMS ID": 20462011,
-   "VC No": 2516001244,
-   "LCO ID": 42095,
-   "Subscriber Name": "thriveni",
-   "Card No": "706.E",
-   "Name": "PENUBALLI KATAIAH",
-   "Area": "Bhemavaram",
-   "Cel 1": "9701078879",
-   "Status": "active",
-   "Due Date": "11-Jun-20"
- },
- {
-   "SMS ID": 20462015,
-   "VC No": 2516001246,
-   "LCO ID": 42095,
-   "Subscriber Name": "thriveni",
-   "Card No": "695.A",
-   "Name": "SONDE VENKATESH",
-   "Area": "Bhemavaram",
-   "Cel 1": "7729063810",
-   "Status": "active",
-   "Due Date": "11-Jun-20"
- },
- {
-   "SMS ID": 20498318,
-   "VC No": 2516010069,
-   "LCO ID": 42095,
-   "Subscriber Name": "thriveni",
-   "Card No": "33",
-   "Name": "MEKA VENKATESWARLU",
-   "Area": "Murumuru",
-   "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "22-May-20"
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 20695690,
@@ -4347,43 +3555,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "8374854276",
    "Status": "active",
-   "Due Date": "9-Jun-20"
- },
- {
-   "SMS ID": 20746223,
-   "VC No": 2520474166,
-   "LCO ID": 42095,
-   "Subscriber Name": "PANUGANTI",
-   "Card No": "824.G",
-   "Name": "JAGROTH HARILAALU",
-   "Area": "Buruguvai Tanda",
-   "Cel 1": "7995461730",
-   "Status": "active",
-   "Due Date": "14-Jun-20"
- },
- {
-   "SMS ID": 20819353,
-   "VC No": 2520425702,
-   "LCO ID": 42095,
-   "Subscriber Name": "PUSAM NAGESWARAO",
-   "Card No": "229/A",
-   "Name": "PUSAM NAGESWARAO",
-   "Area": "Murumuru",
-   "Cel 1": "9989291564",
-   "Status": "active",
-   "Due Date": "12-Jun-20"
- },
- {
-   "SMS ID": 21023109,
-   "VC No": 2520474195,
-   "LCO ID": 42095,
-   "Subscriber Name": "PANUGANTI",
-   "Card No": "699.A",
-   "Name": "GNNDI BABU",
-   "Area": "Bhemavaram",
-   "Cel 1": "9502931047",
-   "Status": "active",
-   "Due Date": "11-Jun-20"
+   "Due Date": "07-Sep-20"
  },
  {
    "SMS ID": 21096471,
@@ -4391,23 +3563,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "ANJIBABU",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "SRIDHARLA NAGESWARA",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "13-Jun-20"
- },
- {
-   "SMS ID": 21098385,
-   "VC No": 2517324811,
-   "LCO ID": 42095,
-   "Subscriber Name": "RAJU",
-   "Card No": "48",
-   "Name": "ALURI SATHAVATHI(FREE)(NODE)",
-   "Area": "Kachavaram",
-   "Cel 1": "9550679701",
-   "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "12-Sep-20"
  },
  {
    "SMS ID": 21176539,
@@ -4419,7 +3579,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "7981754268",
    "Status": "active",
-   "Due Date": "11-Jun-20"
+   "Due Date": "20-Sep-20"
  },
  {
    "SMS ID": 21714729,
@@ -4431,7 +3591,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9963161841",
    "Status": "active",
-   "Due Date": "9-Jun-20"
+   "Due Date": "07-Sep-20"
  },
  {
    "SMS ID": 22550641,
@@ -4439,11 +3599,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "vellanki nagesh",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "vellanki nagesh",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "6-Jun-20"
+   "Due Date": "05-Sep-20"
  },
  {
    "SMS ID": 22553887,
@@ -4451,7 +3611,7 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "K challanna dora",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "K challanna dora",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -4467,7 +3627,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9550125883",
    "Status": "active",
-   "Due Date": "9-Jun-20"
+   "Due Date": "07-Sep-20"
  },
  {
    "SMS ID": 12582496,
@@ -4479,7 +3639,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "7702142230",
    "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "06-Sep-20"
  },
  {
    "SMS ID": 13485036,
@@ -4491,7 +3651,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9912281288",
    "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "06-Sep-20"
  },
  {
    "SMS ID": 13485115,
@@ -4503,7 +3663,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "9573194402",
    "Status": "active",
-   "Due Date": "11-Jun-20"
+   "Due Date": "10-Sep-20"
  },
  {
    "SMS ID": 13501847,
@@ -4515,7 +3675,7 @@ var cust_DB=[
    "Area": "Venkatareddypeta",
    "Cel 1": "9182364573",
    "Status": "active",
-   "Due Date": "17-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 13503543,
@@ -4526,20 +3686,8 @@ var cust_DB=[
    "Name": "KAKA RAJESWARI",
    "Area": "Pandurangapuram",
    "Cel 1": "0",
-   "Status": "active",
-   "Due Date": "8-Jun-20"
- },
- {
-   "SMS ID": 13542088,
-   "VC No": 1769494980,
-   "LCO ID": 42095,
-   "Subscriber Name": "MULISETTY BADRAKELISANDYA",
-   "Card No": "25.A",
-   "Name": "MULISETTY BADRAKELI(SANDYA)(6.8.17)",
-   "Area": "Murumuru",
-   "Cel 1": "9505180615",
-   "Status": "active",
-   "Due Date": "29-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "09-Jul-20"
  },
  {
    "SMS ID": 15422994,
@@ -4551,7 +3699,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9912489067",
    "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "06-Sep-20"
  },
  {
    "SMS ID": 15440022,
@@ -4563,43 +3711,7 @@ var cust_DB=[
    "Area": "Gannerukoyyapadu",
    "Cel 1": "0",
    "Status": "active",
-   "Due Date": "9-Jun-20"
- },
- {
-   "SMS ID": 15447846,
-   "VC No": 1330117769,
-   "LCO ID": 42095,
-   "Subscriber Name": "PADALA SATYANARAYANA",
-   "Card No": "41",
-   "Name": "PADALA SATYANARAYANA",
-   "Area": "Murumuru",
-   "Cel 1": "9989144404",
-   "Status": "active",
-   "Due Date": "9-Jun-20"
- },
- {
-   "SMS ID": 15459637,
-   "VC No": 1331068143,
-   "LCO ID": 42095,
-   "Subscriber Name": "Uma kilau",
-   "Card No": "937",
-   "Name": "TALLARI PRABAKAR",
-   "Area": "Palamadugu",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "9-Jun-20"
- },
- {
-   "SMS ID": 15459978,
-   "VC No": 1330781633,
-   "LCO ID": 42095,
-   "Subscriber Name": "P ASHOK",
-   "Card No": "80",
-   "Name": "P ASHOK",
-   "Area": "Murumuru",
-   "Cel 1": "9959364997",
-   "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "26-Sep-20"
  },
  {
    "SMS ID": 15469135,
@@ -4623,7 +3735,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "8008370554",
    "Status": "active",
-   "Due Date": "12-Jun-20"
+   "Due Date": "12-Sep-20"
  },
  {
    "SMS ID": 15901122,
@@ -4635,7 +3747,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "9912608492",
    "Status": "active",
-   "Due Date": "11-Jun-20"
+   "Due Date": "09-Sep-20"
  },
  {
    "SMS ID": 15901146,
@@ -4647,7 +3759,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "9494254304",
    "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 15901279,
@@ -4658,8 +3770,8 @@ var cust_DB=[
    "Name": "BIRE MUTHAIAH(RAJESH)",
    "Area": "Awer Colony",
    "Cel 1": "8500661985",
-   "Status": "active",
-   "Due Date": "19-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "19-Aug-20"
  },
  {
    "SMS ID": 15901553,
@@ -4670,20 +3782,8 @@ var cust_DB=[
    "Name": "GURRAM BUJJI",
    "Area": "Nellipaka",
    "Cel 1": "8465937989",
-   "Status": "Inactive",
-   "Due Date": "31-May-20"
- },
- {
-   "SMS ID": 16483896,
-   "VC No": 1331700439,
-   "LCO ID": 42095,
-   "Subscriber Name": "koti",
-   "Card No": "696.A",
-   "Name": "GONDI BHAYAMMA",
-   "Area": "Bhemavaram",
-   "Cel 1": "9866013910",
    "Status": "active",
-   "Due Date": "18-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 16483983,
@@ -4695,7 +3795,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9908915042",
    "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "06-Sep-20"
  },
  {
    "SMS ID": 16484141,
@@ -4707,7 +3807,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9553150467",
    "Status": "active",
-   "Due Date": "10-Jun-20"
+   "Due Date": "06-Sep-20"
  },
  {
    "SMS ID": 16664305,
@@ -4719,7 +3819,7 @@ var cust_DB=[
    "Area": "Venkatareddypeta",
    "Cel 1": "9908219434",
    "Status": "active",
-   "Due Date": "24-Jun-20"
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 17146880,
@@ -4731,7 +3831,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "7093485104",
    "Status": "active",
-   "Due Date": "13-Jun-20"
+   "Due Date": "11-Sep-20"
  },
  {
    "SMS ID": 19983995,
@@ -4742,8 +3842,8 @@ var cust_DB=[
    "Name": "MULAKALAPALLI KAMALA",
    "Area": "Gannerukoyyapadu",
    "Cel 1": "9121421695",
-   "Status": "Inactive",
-   "Due Date": "15-May-20"
+   "Status": "active",
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 20020877,
@@ -4755,7 +3855,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "16-May-20"
+   "Due Date": "15-Aug-20"
  },
  {
    "SMS ID": 20026389,
@@ -4767,7 +3867,7 @@ var cust_DB=[
    "Area": "Yarraboru",
    "Cel 1": "6281419510",
    "Status": "active",
-   "Due Date": "15-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 20153663,
@@ -4779,7 +3879,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "6304851308",
    "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 20356772,
@@ -4790,8 +3890,8 @@ var cust_DB=[
    "Name": "GOLI BADRAKELI",
    "Area": "Rayanapeta",
    "Cel 1": "8186977045",
-   "Status": "Inactive",
-   "Due Date": "16-May-20"
+   "Status": "active",
+   "Due Date": "12-Sep-20"
  },
  {
    "SMS ID": 20388747,
@@ -4799,11 +3899,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "charla",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "charla",
    "Area": "#N/A",
    "Cel 1": "",
-   "Status": "active",
-   "Due Date": "22-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "26-Aug-20"
  },
  {
    "SMS ID": 20388753,
@@ -4811,11 +3911,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "charla",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "charla",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "17-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 20742872,
@@ -4827,7 +3927,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9492279716",
    "Status": "active",
-   "Due Date": "19-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 20746181,
@@ -4839,7 +3939,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "20-Jun-20"
+   "Due Date": "27-Sep-20"
  },
  {
    "SMS ID": 20746455,
@@ -4850,20 +3950,8 @@ var cust_DB=[
    "Name": "BASINA NARASIMHA RAO",
    "Area": "Nellipaka",
    "Cel 1": "7661819015",
-   "Status": "Inactive",
-   "Due Date": "29-Apr-20"
- },
- {
-   "SMS ID": 20856279,
-   "VC No": 2520425942,
-   "LCO ID": 42095,
-   "Subscriber Name": "PANUGANTI",
-   "Card No": "83",
-   "Name": "PODIYAM LAXMAIAH",
-   "Area": "Gommukoyagudem",
-   "Cel 1": "8501843345",
    "Status": "active",
-   "Due Date": "10-Jun-20"
+   "Due Date": "10-Sep-20"
  },
  {
    "SMS ID": 21206822,
@@ -4874,8 +3962,8 @@ var cust_DB=[
    "Name": "VALLABANENI NARASIMHARAO (RAMESH)",
    "Area": "Thotapalli",
    "Cel 1": "7288984615",
-   "Status": "Inactive",
-   "Due Date": "30-Apr-20"
+   "Status": "active",
+   "Due Date": "07-Sep-20"
  },
  {
    "SMS ID": 21734689,
@@ -4899,7 +3987,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "9963800080",
    "Status": "Inactive",
-   "Due Date": "4-May-20"
+   "Due Date": "04-May-20"
  },
  {
    "SMS ID": 11907352,
@@ -4911,7 +3999,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "9908586762",
    "Status": "active",
-   "Due Date": "21-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 13484167,
@@ -4922,8 +4010,8 @@ var cust_DB=[
    "Name": "N.CHINA RATHAYAH(KUMARI)",
    "Area": "Venkatareddypeta",
    "Cel 1": "9705919733",
-   "Status": "active",
-   "Due Date": "17-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "18-Jun-20"
  },
  {
    "SMS ID": 13496075,
@@ -4934,8 +4022,8 @@ var cust_DB=[
    "Name": "MOTHUKURI CHANDRAMMA",
    "Area": "Rayanapeta",
    "Cel 1": "8978514382",
-   "Status": "active",
-   "Due Date": "28-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 13496275,
@@ -4947,7 +4035,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "27-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 15448472,
@@ -4958,20 +4046,8 @@ var cust_DB=[
    "Name": "MARLAPATI VENKATESWARA RAO(RAJESWARI)",
    "Area": "Venkatareddypeta",
    "Cel 1": "6300413722",
-   "Status": "Inactive",
-   "Due Date": "15-Mar-20"
- },
- {
-   "SMS ID": 15460294,
-   "VC No": 1330927167,
-   "LCO ID": 42095,
-   "Subscriber Name": "Uma Kilaru",
-   "Card No": "765",
-   "Name": "PENUBALLY LAXMANRAO",
-   "Area": "Bandaluru",
-   "Cel 1": "9612098484",
    "Status": "active",
-   "Due Date": "27-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 15460490,
@@ -4981,9 +4057,9 @@ var cust_DB=[
    "Card No": "539",
    "Name": "PADALA RAM MOHAN RAO",
    "Area": "Rayanapeta",
-   "Cel 1": "",
+   "Cel 1": "9502607501",
    "Status": "active",
-   "Due Date": "9-Jun-20"
+   "Due Date": "07-Sep-20"
  },
  {
    "SMS ID": 15460618,
@@ -4995,7 +4071,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "8500657572",
    "Status": "active",
-   "Due Date": "10-Jun-20"
+   "Due Date": "09-Sep-20"
  },
  {
    "SMS ID": 15468797,
@@ -5007,19 +4083,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "19-May-20"
- },
- {
-   "SMS ID": 15900954,
-   "VC No": 1331668634,
-   "LCO ID": 42095,
-   "Subscriber Name": "anil",
-   "Card No": "55/D",
-   "Name": "VADAPALLI VEERAMMA",
-   "Area": "Murumuru",
-   "Cel 1": "0",
-   "Status": "active",
-   "Due Date": "11-Jun-20"
+   "Due Date": "15-Aug-20"
  },
  {
    "SMS ID": 15901192,
@@ -5030,32 +4094,8 @@ var cust_DB=[
    "Name": "P.RAJAMANI(NURSE)",
    "Area": "Thotapalli",
    "Cel 1": "9440989808",
-   "Status": "Inactive",
-   "Due Date": "22-May-20"
- },
- {
-   "SMS ID": 16483932,
-   "VC No": 1331700438,
-   "LCO ID": 42095,
-   "Subscriber Name": "koti",
-   "Card No": "830.A",
-   "Name": "GUVVALA BULAXMI",
-   "Area": "Laxmipuram",
-   "Cel 1": "7032687572",
    "Status": "active",
-   "Due Date": "9-Jun-20"
- },
- {
-   "SMS ID": 17146587,
-   "VC No": 1331699113,
-   "LCO ID": 42095,
-   "Subscriber Name": "koti",
-   "Card No": "858",
-   "Name": "VARADA BRAMMA",
-   "Area": "Laxmipuram",
-   "Cel 1": "9652409263",
-   "Status": "active",
-   "Due Date": "10-Jun-20"
+   "Due Date": "10-Sep-20"
  },
  {
    "SMS ID": 20481605,
@@ -5066,8 +4106,8 @@ var cust_DB=[
    "Name": "MULLA KRISHNA",
    "Area": "Chodavaram",
    "Cel 1": "0",
-   "Status": "Inactive",
-   "Due Date": "31-May-20"
+   "Status": "active",
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 20486028,
@@ -5079,7 +4119,7 @@ var cust_DB=[
    "Area": "Venkatareddypeta",
    "Cel 1": "8978519488",
    "Status": "active",
-   "Due Date": "21-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 20693947,
@@ -5091,19 +4131,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "9948056047",
    "Status": "active",
-   "Due Date": "16-Jun-20"
- },
- {
-   "SMS ID": 20695716,
-   "VC No": 2520474189,
-   "LCO ID": 42095,
-   "Subscriber Name": "paanuganti",
-   "Card No": "824.H",
-   "Name": "BUKEYA SRINIVASH",
-   "Area": "Buruguvai Tanda",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "11-Jun-20"
+   "Due Date": "14-Sep-20"
  },
  {
    "SMS ID": 20885625,
@@ -5126,8 +4154,8 @@ var cust_DB=[
    "Name": "MORAMPALLY SAIB",
    "Area": "Rayanapeta",
    "Cel 1": "9951036125",
-   "Status": "Inactive",
-   "Due Date": "28-May-20"
+   "Status": "active",
+   "Due Date": "05-Sep-20"
  },
  {
    "SMS ID": 11907101,
@@ -5139,7 +4167,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9704203475",
    "Status": "active",
-   "Due Date": "13-Jun-20"
+   "Due Date": "27-Sep-20"
  },
  {
    "SMS ID": 11907251,
@@ -5151,7 +4179,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "9701109705",
    "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Due Date": "14-Sep-20"
  },
  {
    "SMS ID": 11917828,
@@ -5163,7 +4191,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "7893613018",
    "Status": "active",
-   "Due Date": "4-Jun-20"
+   "Due Date": "09-Sep-20"
  },
  {
    "SMS ID": 11917977,
@@ -5175,7 +4203,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9010002644",
    "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Due Date": "28-Sep-20"
  },
  {
    "SMS ID": 13238534,
@@ -5187,7 +4215,7 @@ var cust_DB=[
    "Area": "Gowridevipeta",
    "Cel 1": "8374287398",
    "Status": "active",
-   "Due Date": "12-Jun-20"
+   "Due Date": "11-Sep-20"
  },
  {
    "SMS ID": 13247584,
@@ -5199,7 +4227,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9951012143",
    "Status": "active",
-   "Due Date": "10-Jun-20"
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 13251491,
@@ -5210,8 +4238,8 @@ var cust_DB=[
    "Name": "JAKKULA PRASAD",
    "Area": "Seethapuram",
    "Cel 1": "9490381411",
-   "Status": "active",
-   "Due Date": "13-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "15-Aug-20"
  },
  {
    "SMS ID": 13484161,
@@ -5223,7 +4251,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "8897819677",
    "Status": "Inactive",
-   "Due Date": "28-May-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 13496285,
@@ -5235,7 +4263,7 @@ var cust_DB=[
    "Area": "Venkatareddypeta",
    "Cel 1": "9703891631",
    "Status": "active",
-   "Due Date": "20-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 13496428,
@@ -5247,7 +4275,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "7993053861",
    "Status": "active",
-   "Due Date": "28-Jun-20"
+   "Due Date": "26-Sep-20"
  },
  {
    "SMS ID": 13496611,
@@ -5257,9 +4285,9 @@ var cust_DB=[
    "Card No": "553",
    "Name": "KUCHALAPATI SIDHAIAH",
    "Area": "Rayanapeta",
-   "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "25-May-20"
+   "Cel 1": "6304947854",
+   "Status": "active",
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 14040336,
@@ -5270,8 +4298,8 @@ var cust_DB=[
    "Name": "MOTA ANJANA RAO",
    "Area": "Gannavaram",
    "Cel 1": "7660847773",
-   "Status": "Inactive",
-   "Due Date": "18-May-20"
+   "Status": "active",
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 15207511,
@@ -5283,7 +4311,7 @@ var cust_DB=[
    "Area": "Kistaram",
    "Cel 1": "9949424454",
    "Status": "active",
-   "Due Date": "10-Jun-20"
+   "Due Date": "09-Sep-20"
  },
  {
    "SMS ID": 15207569,
@@ -5295,7 +4323,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "9866537507",
    "Status": "active",
-   "Due Date": "10-Jun-20"
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 15208116,
@@ -5307,7 +4335,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "8790629792",
    "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 15210178,
@@ -5319,7 +4347,7 @@ var cust_DB=[
    "Area": "Gowridevipeta",
    "Cel 1": "9550778577",
    "Status": "active",
-   "Due Date": "17-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 15421751,
@@ -5331,7 +4359,7 @@ var cust_DB=[
    "Area": "Kistaram",
    "Cel 1": "9849595074",
    "Status": "Inactive",
-   "Due Date": "26-May-20"
+   "Due Date": "14-Aug-20"
  },
  {
    "SMS ID": 15447823,
@@ -5342,20 +4370,8 @@ var cust_DB=[
    "Name": "NACHU VENKANNA",
    "Area": "Seethapuram",
    "Cel 1": "9676602106",
-   "Status": "Inactive",
-   "Due Date": "27-May-20"
- },
- {
-   "SMS ID": 15447889,
-   "VC No": 1330117767,
-   "LCO ID": 42095,
-   "Subscriber Name": "ASU RAMAKRISHNA",
-   "Card No": "92",
-   "Name": "ASU RAMAKRISHNA",
-   "Area": "Murumuru",
-   "Cel 1": "7702390210",
    "Status": "active",
-   "Due Date": "11-Jun-20"
+   "Due Date": "07-Sep-20"
  },
  {
    "SMS ID": 15448248,
@@ -5367,7 +4383,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "10-Jun-20"
+   "Due Date": "26-Sep-20"
  },
  {
    "SMS ID": 15464597,
@@ -5378,8 +4394,8 @@ var cust_DB=[
    "Name": "PALLANTI SURESH",
    "Area": "Rayanapeta",
    "Cel 1": "9640084668",
-   "Status": "Inactive",
-   "Due Date": "28-Apr-20"
+   "Status": "active",
+   "Due Date": "28-Sep-20"
  },
  {
    "SMS ID": 15464849,
@@ -5391,7 +4407,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "9493872776",
    "Status": "active",
-   "Due Date": "10-Jun-20"
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 15468754,
@@ -5403,7 +4419,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "8008474667",
    "Status": "active",
-   "Due Date": "10-Jun-20"
+   "Due Date": "12-Sep-20"
  },
  {
    "SMS ID": 15468784,
@@ -5414,8 +4430,8 @@ var cust_DB=[
    "Name": "B.THATHAJI",
    "Area": "Rayanapeta",
    "Cel 1": "7702437052",
-   "Status": "active",
-   "Due Date": "10-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "14-Aug-20"
  },
  {
    "SMS ID": 15521479,
@@ -5427,31 +4443,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "8500611602",
    "Status": "active",
-   "Due Date": "12-Jun-20"
- },
- {
-   "SMS ID": 15852693,
-   "VC No": 1331357580,
-   "LCO ID": 42095,
-   "Subscriber Name": "sathya prasad",
-   "Card No": "821",
-   "Name": "GUGULOTH RADHA",
-   "Area": "Buruguvai Tanda",
-   "Cel 1": "6302341748",
-   "Status": "active",
-   "Due Date": "11-Jun-20"
- },
- {
-   "SMS ID": 15862217,
-   "VC No": 1331430027,
-   "LCO ID": 42095,
-   "Subscriber Name": "CHALLAKOTI VEERANNA",
-   "Card No": "49",
-   "Name": "CHALLAKOTI VEERANNA",
-   "Area": "Murumuru",
-   "Cel 1": "9542744764",
-   "Status": "active",
-   "Due Date": "18-Jun-20"
+   "Due Date": "10-Sep-20"
  },
  {
    "SMS ID": 15862629,
@@ -5463,7 +4455,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "8500915455",
    "Status": "active",
-   "Due Date": "10-Jun-20"
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 15900657,
@@ -5475,19 +4467,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9603014611",
    "Status": "active",
-   "Due Date": "13-Jun-20"
- },
- {
-   "SMS ID": 15900857,
-   "VC No": 1331668719,
-   "LCO ID": 42095,
-   "Subscriber Name": "sathya prasad",
-   "Card No": "49",
-   "Name": "KURRAM CHANDHRAMMA",
-   "Area": "Gogubaka",
-   "Cel 1": "9640158285",
-   "Status": "active",
-   "Due Date": "15-Jun-20"
+   "Due Date": "13-Sep-20"
  },
  {
    "SMS ID": 16114085,
@@ -5499,7 +4479,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "9493278544",
    "Status": "active",
-   "Due Date": "27-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 16483969,
@@ -5510,8 +4490,8 @@ var cust_DB=[
    "Name": "VASANTHALA SAIBABU",
    "Area": "Gannavaram",
    "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "13-May-20"
+   "Status": "active",
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 16502670,
@@ -5523,19 +4503,7 @@ var cust_DB=[
    "Area": "Murumuru",
    "Cel 1": "9000224173",
    "Status": "active",
-   "Due Date": "8-Sep-20"
- },
- {
-   "SMS ID": 17159007,
-   "VC No": 1331723602,
-   "LCO ID": 42095,
-   "Subscriber Name": "DEGALA VANDHANAM",
-   "Card No": "82",
-   "Name": "DEGALA VANDHANAM",
-   "Area": "Murumuru",
-   "Cel 1": "9502465943",
-   "Status": "active",
-   "Due Date": "10-Jun-20"
+   "Due Date": "08-Oct-20"
  },
  {
    "SMS ID": 19983919,
@@ -5546,68 +4514,8 @@ var cust_DB=[
    "Name": "CHANILLA PRAVEEN",
    "Area": "Seethapuram",
    "Cel 1": "9505495814",
-   "Status": "Inactive",
-   "Due Date": "22-May-20"
- },
- {
-   "SMS ID": 19984016,
-   "VC No": 2515924766,
-   "LCO ID": 42095,
-   "Subscriber Name": "VANAPARTHI KRISHNA",
-   "Card No": "417.A",
-   "Name": "VANAPARTHI KRISHNA",
-   "Area": "Murumuru",
-   "Cel 1": "7036197278",
    "Status": "active",
-   "Due Date": "13-Jun-20"
- },
- {
-   "SMS ID": 20019708,
-   "VC No": 2516001358,
-   "LCO ID": 42095,
-   "Subscriber Name": "KOTI",
-   "Card No": "700",
-   "Name": "SODA PEDDAIAH(SADAIAH)",
-   "Area": "Bhemavaram",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "27-Jun-20"
- },
- {
-   "SMS ID": 20153852,
-   "VC No": 2516169827,
-   "LCO ID": 42095,
-   "Subscriber Name": "thriveni",
-   "Card No": "871",
-   "Name": "BOPPANI BHAGYAMMA",
-   "Area": "Laxmipuram",
-   "Cel 1": "9866320353",
-   "Status": "active",
-   "Due Date": "10-Jun-20"
- },
- {
-   "SMS ID": 20190411,
-   "VC No": 2516169862,
-   "LCO ID": 42095,
-   "Subscriber Name": "MOYYA MANOHAR",
-   "Card No": "402",
-   "Name": "MOYYA MANOHAR",
-   "Area": "Murumuru",
-   "Cel 1": "9963097749",
-   "Status": "active",
-   "Due Date": "16-Jun-20"
- },
- {
-   "SMS ID": 20486705,
-   "VC No": 2516010049,
-   "LCO ID": 42095,
-   "Subscriber Name": "thriveni",
-   "Card No": "186.A",
-   "Name": "SAIBABU",
-   "Area": "Gommu Kothagudem",
-   "Cel 1": "7382876602",
-   "Status": "active",
-   "Due Date": "14-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 20486723,
@@ -5618,8 +4526,8 @@ var cust_DB=[
    "Name": "DHUDHUKURI NARASIMHARAO",
    "Area": "Nellipaka",
    "Cel 1": "9705133201",
-   "Status": "active",
-   "Due Date": "11-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "12-Aug-20"
  },
  {
    "SMS ID": 20498355,
@@ -5630,8 +4538,8 @@ var cust_DB=[
    "Name": "CHINTHA ANJANA RAO",
    "Area": "Gowridevipeta",
    "Cel 1": "",
-   "Status": "active",
-   "Due Date": "14-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "16-Aug-20"
  },
  {
    "SMS ID": 20503605,
@@ -5642,20 +4550,8 @@ var cust_DB=[
    "Name": "DHUDUKURI NAGAMANI(HOTEL)",
    "Area": "Nellipaka",
    "Cel 1": "9542061366",
-   "Status": "active",
-   "Due Date": "10-Jun-20"
- },
- {
-   "SMS ID": 20542925,
-   "VC No": 2520401878,
-   "LCO ID": 42095,
-   "Subscriber Name": "PENUBALI GANAPATHI",
-   "Card No": "86",
-   "Name": "PENUBALI GANAPATHI",
-   "Area": "Murumuru",
-   "Cel 1": "9182301157",
    "Status": "Inactive",
-   "Due Date": "25-May-20"
+   "Due Date": "10-Aug-20"
  },
  {
    "SMS ID": 20661857,
@@ -5667,7 +4563,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "7093493578",
    "Status": "active",
-   "Due Date": "10-Jun-20"
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 21549607,
@@ -5679,7 +4575,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "7702483878",
    "Status": "active",
-   "Due Date": "23-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 22735534,
@@ -5687,11 +4583,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "Lakkumalla Venkatesh",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "lakumalla.venkatesh",
    "Area": "#N/A",
-   "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "15-May-20"
+   "Cel 1": "7013174960",
+   "Status": "active",
+   "Due Date": "28-Sep-20"
  },
  {
    "SMS ID": 22735544,
@@ -5699,23 +4595,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "Pallanti Rajashakar",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "Pallanti Rajashakar",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
    "Due Date": "13-Jan-20"
- },
- {
-   "SMS ID": 11906288,
-   "VC No": 1767412701,
-   "LCO ID": 42095,
-   "Subscriber Name": "samba",
-   "Card No": "767",
-   "Name": "PENUBALLY RAJU(SURIBABU)",
-   "Area": "Bandaluru",
-   "Cel 1": "9963065051",
-   "Status": "active",
-   "Due Date": "16-Jun-20"
  },
  {
    "SMS ID": 11907365,
@@ -5726,8 +4610,8 @@ var cust_DB=[
    "Name": "MALLARAPU NARAHARI",
    "Area": "Ayyavaripeta",
    "Cel 1": "9701328573",
-   "Status": "active",
-   "Due Date": "4-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "19-Aug-20"
  },
  {
    "SMS ID": 12582508,
@@ -5751,7 +4635,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "22-Jun-20"
+   "Due Date": "26-Sep-20"
  },
  {
    "SMS ID": 13485138,
@@ -5763,7 +4647,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "11-Jun-20"
+   "Due Date": "09-Sep-20"
  },
  {
    "SMS ID": 13487006,
@@ -5775,7 +4659,7 @@ var cust_DB=[
    "Area": "Kapugompalli",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "17-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 15440466,
@@ -5787,7 +4671,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "9573639264",
    "Status": "active",
-   "Due Date": "11-Jun-20"
+   "Due Date": "10-Sep-20"
  },
  {
    "SMS ID": 15448521,
@@ -5798,8 +4682,8 @@ var cust_DB=[
    "Name": "MORAMPALLI BHASKAR",
    "Area": "Gannavaram",
    "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "15-May-20"
+   "Status": "active",
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 15460615,
@@ -5811,19 +4695,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9959426501",
    "Status": "active",
-   "Due Date": "14-Jun-20"
- },
- {
-   "SMS ID": 15464591,
-   "VC No": 1330784536,
-   "LCO ID": 42095,
-   "Subscriber Name": "Shanthi Dandamudi",
-   "Card No": "768.A",
-   "Name": "PENUBALLINAGARAJU(NAGENDRA)",
-   "Area": "Bandaluru",
-   "Cel 1": "9959626757",
-   "Status": "Inactive",
-   "Due Date": "25-Mar-20"
+   "Due Date": "14-Sep-20"
  },
  {
    "SMS ID": 15468759,
@@ -5835,31 +4707,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "9704012856",
    "Status": "active",
-   "Due Date": "14-Jun-20"
- },
- {
-   "SMS ID": 15862238,
-   "VC No": 1331430025,
-   "LCO ID": 42095,
-   "Subscriber Name": "sathya prasad",
-   "Card No": "433",
-   "Name": "NAMALA KRISHNA",
-   "Area": "Murumuru",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "22-Jun-20"
- },
- {
-   "SMS ID": 15862642,
-   "VC No": 1331359449,
-   "LCO ID": 42095,
-   "Subscriber Name": "sathya prasad",
-   "Card No": "135",
-   "Name": "PRAGALA ANASURYA",
-   "Area": "Gogubaka",
-   "Cel 1": "0",
-   "Status": "active",
-   "Due Date": "10-Jun-20"
+   "Due Date": "13-Sep-20"
  },
  {
    "SMS ID": 15901216,
@@ -5871,7 +4719,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "9959139389",
    "Status": "active",
-   "Due Date": "14-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 15901710,
@@ -5886,30 +4734,6 @@ var cust_DB=[
    "Due Date": "14-Jan-20"
  },
  {
-   "SMS ID": 15902363,
-   "VC No": 1331358995,
-   "LCO ID": 42095,
-   "Subscriber Name": "sathya prasad",
-   "Card No": "763",
-   "Name": "PENUBALLY ARJUN",
-   "Area": "Bandaluru",
-   "Cel 1": "9603705426",
-   "Status": "active",
-   "Due Date": "19-Jun-20"
- },
- {
-   "SMS ID": 16273421,
-   "VC No": 1331698273,
-   "LCO ID": 42095,
-   "Subscriber Name": "KOTI",
-   "Card No": "971",
-   "Name": "AMMADALA KANTHARAO",
-   "Area": "Palamadugu",
-   "Cel 1": "8008821040",
-   "Status": "active",
-   "Due Date": "14-Jun-20"
- },
- {
    "SMS ID": 16273437,
    "VC No": 1331698272,
    "LCO ID": 42095,
@@ -5919,7 +4743,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Due Date": "26-Sep-20"
  },
  {
    "SMS ID": 16483958,
@@ -5931,7 +4755,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "9959814900",
    "Status": "active",
-   "Due Date": "14-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 16709616,
@@ -5942,8 +4766,8 @@ var cust_DB=[
    "Name": "JAMMU SRINU",
    "Area": "Gannavaram",
    "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "27-May-20"
+   "Status": "active",
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 16741994,
@@ -5955,19 +4779,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9659809284 & 9948896836",
    "Status": "active",
-   "Due Date": "12-Jun-20"
- },
- {
-   "SMS ID": 17146155,
-   "VC No": 1331699568,
-   "LCO ID": 42095,
-   "Subscriber Name": "koti",
-   "Card No": "63",
-   "Name": "DEGALA VENKATESWARLU",
-   "Area": "Murumuru",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "4-Jun-20"
+   "Due Date": "09-Sep-20"
  },
  {
    "SMS ID": 20026358,
@@ -5979,19 +4791,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9100735805",
    "Status": "Inactive",
-   "Due Date": "29-May-20"
- },
- {
-   "SMS ID": 20356751,
-   "VC No": 2516018176,
-   "LCO ID": 42095,
-   "Subscriber Name": "thriveni",
-   "Card No": "1171.A",
-   "Name": "SUNNAM SHANKAR",
-   "Area": "Pandurangapuram",
-   "Cel 1": "9573640845",
-   "Status": "active",
-   "Due Date": "10-Jun-20"
+   "Due Date": "31-Aug-20"
  },
  {
    "SMS ID": 20481630,
@@ -6003,7 +4803,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "16-Mar-20"
+   "Due Date": "22-Aug-20"
  },
  {
    "SMS ID": 20548752,
@@ -6014,8 +4814,8 @@ var cust_DB=[
    "Name": "TALLUTI VENKATESH",
    "Area": "Gannerukoyyapadu",
    "Cel 1": "8374028927",
-   "Status": "Inactive",
-   "Due Date": "22-May-20"
+   "Status": "active",
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 20591012,
@@ -6026,8 +4826,8 @@ var cust_DB=[
    "Name": "MADIPALLI CHITTAMMA",
    "Area": "Gannavaram",
    "Cel 1": "",
-   "Status": "active",
-   "Due Date": "17-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "18-Jul-20"
  },
  {
    "SMS ID": 20741902,
@@ -6047,11 +4847,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "SRINUBODA",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "SRINUBODA",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Due Date": "14-Sep-20"
  },
  {
    "SMS ID": 22645921,
@@ -6063,19 +4863,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "11-Jun-20"
- },
- {
-   "SMS ID": 22738172,
-   "VC No": 2561186647,
-   "LCO ID": 42095,
-   "Subscriber Name": "Perumalla nagesh",
-   "Card No": "#N/A",
-   "Name": "naresh",
-   "Area": "palamadugu",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Due Date": "09-Sep-20"
  },
  {
    "SMS ID": 11907123,
@@ -6087,7 +4875,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "7702988391",
    "Status": "active",
-   "Due Date": "18-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 11907368,
@@ -6099,7 +4887,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "13-Jun-20"
+   "Due Date": "13-Sep-20"
  },
  {
    "SMS ID": 11917767,
@@ -6134,8 +4922,8 @@ var cust_DB=[
    "Name": "GADHALA SRINU",
    "Area": "Nellipaka",
    "Cel 1": "7675836797",
-   "Status": "active",
-   "Due Date": "14-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 13252328,
@@ -6147,7 +4935,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9959575423",
    "Status": "active",
-   "Due Date": "28-Jun-20"
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 13485125,
@@ -6159,7 +4947,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "8500343351",
    "Status": "active",
-   "Due Date": "6-Jun-20"
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 13496280,
@@ -6171,7 +4959,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "9550819142",
    "Status": "active",
-   "Due Date": "13-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 13496314,
@@ -6182,8 +4970,8 @@ var cust_DB=[
    "Name": "Gadhala krishna",
    "Area": "Nellipaka",
    "Cel 1": "7702660421",
-   "Status": "active",
-   "Due Date": "4-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "12-Aug-20"
  },
  {
    "SMS ID": 13496325,
@@ -6195,7 +4983,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "0",
    "Status": "active",
-   "Due Date": "18-Jun-20"
+   "Due Date": "27-Sep-20"
  },
  {
    "SMS ID": 13501794,
@@ -6207,19 +4995,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "8523021223",
    "Status": "active",
-   "Due Date": "13-Jun-20"
- },
- {
-   "SMS ID": 13502140,
-   "VC No": 1769333427,
-   "LCO ID": 42095,
-   "Subscriber Name": "SAI",
-   "Card No": "706.C",
-   "Name": "KUNJA VENKATESH(KAMALAMMA)",
-   "Area": "Bhemavaram",
-   "Cel 1": "7995228727 & 9966655552",
-   "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "11-Sep-20"
  },
  {
    "SMS ID": 13539910,
@@ -6231,7 +5007,7 @@ var cust_DB=[
    "Area": "Kapugompalli",
    "Cel 1": "9502079721",
    "Status": "active",
-   "Due Date": "18-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 15389607,
@@ -6243,7 +5019,7 @@ var cust_DB=[
    "Area": "Gannerukoyyapadu",
    "Cel 1": "9908759735",
    "Status": "active",
-   "Due Date": "18-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 15421907,
@@ -6254,8 +5030,8 @@ var cust_DB=[
    "Name": "THANTHENAPALLI RAMBABU GOUD",
    "Area": "Seethapuram",
    "Cel 1": "8331878584",
-   "Status": "active",
-   "Due Date": "13-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "13-Aug-20"
  },
  {
    "SMS ID": 15445665,
@@ -6266,8 +5042,8 @@ var cust_DB=[
    "Name": "SOYAM DHARMAIAH",
    "Area": "Pandurangapuram",
    "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "28-May-20"
+   "Status": "active",
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 15446743,
@@ -6279,7 +5055,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "9666559774",
    "Status": "active",
-   "Due Date": "2-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 15447140,
@@ -6291,7 +5067,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9676308618",
    "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 15447333,
@@ -6303,7 +5079,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9492267810",
    "Status": "active",
-   "Due Date": "24-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 15447667,
@@ -6315,7 +5091,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "9666136776",
    "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 15448305,
@@ -6326,20 +5102,8 @@ var cust_DB=[
    "Name": "SOYAM CHITTAIAH",
    "Area": "Pandurangapuram",
    "Cel 1": "9502898631",
-   "Status": "Inactive",
-   "Due Date": "30-May-20"
- },
- {
-   "SMS ID": 15460495,
-   "VC No": 1331056747,
-   "LCO ID": 42095,
-   "Subscriber Name": "Uma Kilaru",
-   "Card No": "666",
-   "Name": "THELLAM NARSIMHARAO",
-   "Area": "Bhemavaram",
-   "Cel 1": "8008585617",
    "Status": "active",
-   "Due Date": "27-Jun-20"
+   "Due Date": "07-Sep-20"
  },
  {
    "SMS ID": 15460584,
@@ -6351,7 +5115,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9704038116",
    "Status": "active",
-   "Due Date": "11-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 15464131,
@@ -6363,7 +5127,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9000230079",
    "Status": "active",
-   "Due Date": "24-Jun-20"
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 15469106,
@@ -6374,8 +5138,8 @@ var cust_DB=[
    "Name": "NALLAJALA SATYANNARAYANA",
    "Area": "Nellipaka",
    "Cel 1": "8106549880",
-   "Status": "Inactive",
-   "Due Date": "17-May-20"
+   "Status": "active",
+   "Due Date": "13-Sep-20"
  },
  {
    "SMS ID": 15851581,
@@ -6390,18 +5154,6 @@ var cust_DB=[
    "Due Date": "15-Jan-20"
  },
  {
-   "SMS ID": 15862324,
-   "VC No": 1331430029,
-   "LCO ID": 42095,
-   "Subscriber Name": "SIMHADHRI RAMA DEVI",
-   "Card No": "39",
-   "Name": "SIMHADHRI RAMA DEVI",
-   "Area": "Murumuru",
-   "Cel 1": "8978968816",
-   "Status": "Inactive",
-   "Due Date": "3-Apr-20"
- },
- {
    "SMS ID": 15862561,
    "VC No": 1331358670,
    "LCO ID": 42095,
@@ -6411,7 +5163,7 @@ var cust_DB=[
    "Area": "Ayyavaripeta",
    "Cel 1": "NO",
    "Status": "active",
-   "Due Date": "21-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 15901290,
@@ -6423,7 +5175,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "9618207643",
    "Status": "active",
-   "Due Date": "12-Jun-20"
+   "Due Date": "11-Sep-20"
  },
  {
    "SMS ID": 15901847,
@@ -6435,7 +5187,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9866670538 & 9652639823",
    "Status": "active",
-   "Due Date": "20-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 16111655,
@@ -6447,7 +5199,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "9676835164",
    "Status": "active",
-   "Due Date": "12-Jun-20"
+   "Due Date": "10-Sep-20"
  },
  {
    "SMS ID": 16113542,
@@ -6458,8 +5210,8 @@ var cust_DB=[
    "Name": "TIMMU LAKSHMI",
    "Area": "Nellipaka",
    "Cel 1": "0",
-   "Status": "Inactive",
-   "Due Date": "2-May-20"
+   "Status": "active",
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 16113559,
@@ -6467,11 +5219,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "KOTI",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "KOTI",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "10-Jun-20"
+   "Due Date": "26-Sep-20"
  },
  {
    "SMS ID": 16113618,
@@ -6483,7 +5235,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9666418624",
    "Status": "active",
-   "Due Date": "13-Jun-20"
+   "Due Date": "11-Sep-20"
  },
  {
    "SMS ID": 16114080,
@@ -6495,19 +5247,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "8332058389",
    "Status": "active",
-   "Due Date": "16-Jun-20"
- },
- {
-   "SMS ID": 16435983,
-   "VC No": 1331698932,
-   "LCO ID": 42095,
-   "Subscriber Name": "koti",
-   "Card No": "911",
-   "Name": "GADE SRINU(RMP)",
-   "Area": "Laxmipuram",
-   "Cel 1": "9676383150",
-   "Status": "active",
-   "Due Date": "21-Jun-20"
+   "Due Date": "14-Sep-20"
  },
  {
    "SMS ID": 16483864,
@@ -6518,8 +5258,8 @@ var cust_DB=[
    "Name": "YEPPURI JAYALAKSHMI",
    "Area": "Nellipaka",
    "Cel 1": "9640821739",
-   "Status": "Inactive",
-   "Due Date": "24-May-20"
+   "Status": "active",
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 16500751,
@@ -6531,7 +5271,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9951119047",
    "Status": "active",
-   "Due Date": "14-Jun-20"
+   "Due Date": "12-Sep-20"
  },
  {
    "SMS ID": 17146415,
@@ -6543,7 +5283,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9550847151",
    "Status": "active",
-   "Due Date": "26-Jun-20"
+   "Due Date": "28-Sep-20"
  },
  {
    "SMS ID": 19983911,
@@ -6555,7 +5295,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "7702445962",
    "Status": "active",
-   "Due Date": "14-Jun-20"
+   "Due Date": "12-Sep-20"
  },
  {
    "SMS ID": 19984008,
@@ -6567,7 +5307,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "7382018668",
    "Status": "active",
-   "Due Date": "18-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 20026448,
@@ -6579,7 +5319,7 @@ var cust_DB=[
    "Area": "Gowridevipeta",
    "Cel 1": "6300767423",
    "Status": "active",
-   "Due Date": "28-Jun-20"
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 20326287,
@@ -6591,7 +5331,7 @@ var cust_DB=[
    "Area": "SEETHAPURAM",
    "Cel 1": "9701265357",
    "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Due Date": "14-Sep-20"
  },
  {
    "SMS ID": 20356848,
@@ -6599,7 +5339,7 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "thriveni",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "thriveni",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -6615,7 +5355,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "20-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 20543166,
@@ -6627,7 +5367,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "7997815893",
    "Status": "active",
-   "Due Date": "21-Jun-20"
+   "Due Date": "27-Sep-20"
  },
  {
    "SMS ID": 20856303,
@@ -6639,7 +5379,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "9948056047",
    "Status": "active",
-   "Due Date": "13-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 21104169,
@@ -6651,7 +5391,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "13-Jun-20"
+   "Due Date": "11-Sep-20"
  },
  {
    "SMS ID": 21279550,
@@ -6663,7 +5403,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "15-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 21624487,
@@ -6674,8 +5414,8 @@ var cust_DB=[
    "Name": "MOGILI BHADHAR RAO",
    "Area": "Gowridevipeta",
    "Cel 1": "8106200452",
-   "Status": "active",
-   "Due Date": "1-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "10-Aug-20"
  },
  {
    "SMS ID": 21704451,
@@ -6683,11 +5423,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "HARI",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "k.ramana.",
    "Area": "#N/A",
    "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "28-May-20"
+   "Status": "active",
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 22552133,
@@ -6695,11 +5435,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "Thiruvedhula mallikarjurao",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "Thiruvedhula mallikarjurao",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "13-Jun-20"
+   "Due Date": "12-Sep-20"
  },
  {
    "SMS ID": 22648913,
@@ -6711,7 +5451,7 @@ var cust_DB=[
    "Area": "nellipaka",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "12-Jun-20"
+   "Due Date": "10-Sep-20"
  },
  {
    "SMS ID": 11907313,
@@ -6723,19 +5463,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9652791492",
    "Status": "active",
-   "Due Date": "19-Jun-20"
- },
- {
-   "SMS ID": 13087091,
-   "VC No": 1769251061,
-   "LCO ID": 42095,
-   "Subscriber Name": "bhagavan",
-   "Card No": "1188",
-   "Name": "KANGALA JAYALAXMI",
-   "Area": "Pandurangapuram",
-   "Cel 1": "6305213197",
-   "Status": "active",
-   "Due Date": "17-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 13496031,
@@ -6747,19 +5475,7 @@ var cust_DB=[
    "Area": "Venkatareddypeta",
    "Cel 1": "9542404574",
    "Status": "active",
-   "Due Date": "16-Jun-20"
- },
- {
-   "SMS ID": 13502116,
-   "VC No": 1769333441,
-   "LCO ID": 42095,
-   "Subscriber Name": "SAI",
-   "Card No": "74",
-   "Name": "KOYALA DURGA RAO",
-   "Area": "Gogubaka",
-   "Cel 1": "9963893993",
-   "Status": "Inactive",
-   "Due Date": "30-May-20"
+   "Due Date": "28-Sep-20"
  },
  {
    "SMS ID": 15447687,
@@ -6770,8 +5486,8 @@ var cust_DB=[
    "Name": "FIDHA RAMABABU",
    "Area": "Yarraboru",
    "Cel 1": "0",
-   "Status": "Inactive",
-   "Due Date": "2-May-20"
+   "Status": "active",
+   "Due Date": "11-Sep-20"
  },
  {
    "SMS ID": 15447770,
@@ -6782,8 +5498,8 @@ var cust_DB=[
    "Name": "SAMPATH NARASIMHARAO",
    "Area": "Seethapuram",
    "Cel 1": "9963246701",
-   "Status": "Inactive",
-   "Due Date": "24-May-20"
+   "Status": "active",
+   "Due Date": "28-Sep-20"
  },
  {
    "SMS ID": 15447787,
@@ -6794,8 +5510,8 @@ var cust_DB=[
    "Name": "SUNNAM VEERABABU",
    "Area": "Regadigattu",
    "Cel 1": "9676359973",
-   "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "17-Jul-20"
  },
  {
    "SMS ID": 15448199,
@@ -6806,8 +5522,8 @@ var cust_DB=[
    "Name": "NALAJALA PRASAD",
    "Area": "Thotapalli",
    "Cel 1": "9989892262",
-   "Status": "Inactive",
-   "Due Date": "17-Mar-20"
+   "Status": "active",
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 15448213,
@@ -6819,7 +5535,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "8897111048",
    "Status": "active",
-   "Due Date": "19-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 15448461,
@@ -6831,19 +5547,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "9618162797",
    "Status": "active",
-   "Due Date": "16-Jun-20"
- },
- {
-   "SMS ID": 15460485,
-   "VC No": 1331056749,
-   "LCO ID": 42095,
-   "Subscriber Name": "Uma Kilaru",
-   "Card No": "819",
-   "Name": "BUKYA ALLU NAYAK",
-   "Area": "Buruguvai Tanda",
-   "Cel 1": "8106498628",
-   "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Due Date": "13-Sep-20"
  },
  {
    "SMS ID": 15460636,
@@ -6855,7 +5559,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "8374075510",
    "Status": "active",
-   "Due Date": "18-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 15464093,
@@ -6867,7 +5571,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9640765009",
    "Status": "active",
-   "Due Date": "13-Jun-20"
+   "Due Date": "11-Sep-20"
  },
  {
    "SMS ID": 15464137,
@@ -6879,7 +5583,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 15469203,
@@ -6891,7 +5595,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9848246974",
    "Status": "Inactive",
-   "Due Date": "24-May-20"
+   "Due Date": "31-Aug-20"
  },
  {
    "SMS ID": 15469214,
@@ -6902,8 +5606,8 @@ var cust_DB=[
    "Name": "SD.MOHIDHIN",
    "Area": "Nellipaka",
    "Cel 1": "9652863553",
-   "Status": "Inactive",
-   "Due Date": "22-Apr-20"
+   "Status": "active",
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 15521439,
@@ -6915,7 +5619,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "9491951737",
    "Status": "active",
-   "Due Date": "13-Jun-20"
+   "Due Date": "11-Sep-20"
  },
  {
    "SMS ID": 15521445,
@@ -6927,7 +5631,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "8500405399",
    "Status": "active",
-   "Due Date": "14-Jun-20"
+   "Due Date": "12-Sep-20"
  },
  {
    "SMS ID": 15862550,
@@ -6939,7 +5643,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9490814843",
    "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Due Date": "14-Sep-20"
  },
  {
    "SMS ID": 15900848,
@@ -6950,8 +5654,8 @@ var cust_DB=[
    "Name": "NANDYALA MOHAN RAO",
    "Area": "Gannavaram",
    "Cel 1": "7702933581",
-   "Status": "Inactive",
-   "Due Date": "24-Apr-20"
+   "Status": "active",
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 15901031,
@@ -6963,7 +5667,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "13-Jun-20"
+   "Due Date": "12-Sep-20"
  },
  {
    "SMS ID": 15902195,
@@ -6975,7 +5679,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9121390907",
    "Status": "active",
-   "Due Date": "23-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 16113587,
@@ -6987,7 +5691,7 @@ var cust_DB=[
    "Area": "Kapugompalli",
    "Cel 1": "9502364332",
    "Status": "active",
-   "Due Date": "25-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 16113692,
@@ -6998,8 +5702,8 @@ var cust_DB=[
    "Name": "VANAMA RAMBABU",
    "Area": "Nellipaka",
    "Cel 1": "8790775060",
-   "Status": "Inactive",
-   "Due Date": "17-May-20"
+   "Status": "active",
+   "Due Date": "12-Sep-20"
  },
  {
    "SMS ID": 16114058,
@@ -7011,7 +5715,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "9491854299",
    "Status": "active",
-   "Due Date": "14-Jun-20"
+   "Due Date": "12-Sep-20"
  },
  {
    "SMS ID": 16273355,
@@ -7023,7 +5727,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "9502928949",
    "Status": "active",
-   "Due Date": "4-Jun-20"
+   "Due Date": "11-Sep-20"
  },
  {
    "SMS ID": 16483947,
@@ -7034,8 +5738,8 @@ var cust_DB=[
    "Name": "BHUJJIBABU",
    "Area": "Nellipaka",
    "Cel 1": "6305392519",
-   "Status": "active",
-   "Due Date": "13-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "14-Jul-20"
  },
  {
    "SMS ID": 16483977,
@@ -7047,19 +5751,7 @@ var cust_DB=[
    "Area": "Kapugompalli",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "9-Jun-20"
- },
- {
-   "SMS ID": 16484174,
-   "VC No": 1331735867,
-   "LCO ID": 42095,
-   "Subscriber Name": "koti",
-   "Card No": "706.A",
-   "Name": "KUNJA SARITHA",
-   "Area": "Bhemavaram",
-   "Cel 1": "7032687423",
-   "Status": "active",
-   "Due Date": "23-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 16484201,
@@ -7070,8 +5762,8 @@ var cust_DB=[
    "Name": "CHALLAGURUGULA RAMAKRISHNA",
    "Area": "Seethapuram",
    "Cel 1": "7661096389",
-   "Status": "Inactive",
-   "Due Date": "27-May-20"
+   "Status": "active",
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 16503138,
@@ -7083,7 +5775,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9010329740",
    "Status": "active",
-   "Due Date": "9-Jun-20"
+   "Due Date": "07-Sep-20"
  },
  {
    "SMS ID": 16769911,
@@ -7095,7 +5787,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "8096389775",
    "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "07-Sep-20"
  },
  {
    "SMS ID": 16771419,
@@ -7107,7 +5799,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "9542371425",
    "Status": "active",
-   "Due Date": "13-Jun-20"
+   "Due Date": "11-Sep-20"
  },
  {
    "SMS ID": 19983926,
@@ -7119,7 +5811,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "0",
    "Status": "active",
-   "Due Date": "14-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 19984021,
@@ -7131,7 +5823,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "5-Jun-20"
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 20026507,
@@ -7143,7 +5835,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "19-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 20026537,
@@ -7155,7 +5847,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9849216889",
    "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "11-Sep-20"
  },
  {
    "SMS ID": 20297411,
@@ -7167,7 +5859,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9505672253",
    "Status": "active",
-   "Due Date": "18-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 20392491,
@@ -7178,8 +5870,8 @@ var cust_DB=[
    "Name": "PUSA BHADHRAMMA",
    "Area": "Gannavaram",
    "Cel 1": "0",
-   "Status": "active",
-   "Due Date": "9-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "10-Jun-20"
  },
  {
    "SMS ID": 20481617,
@@ -7191,7 +5883,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "7036332305",
    "Status": "active",
-   "Due Date": "13-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 20714728,
@@ -7203,55 +5895,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9490795112",
    "Status": "active",
-   "Due Date": "25-Jun-20"
- },
- {
-   "SMS ID": 20856314,
-   "VC No": 2520425928,
-   "LCO ID": 42095,
-   "Subscriber Name": "PANUGANTI",
-   "Card No": "843.B",
-   "Name": "UNDETI RAMESH",
-   "Area": "Laxmipuram",
-   "Cel 1": "9949408952",
-   "Status": "active",
-   "Due Date": "18-Jun-20"
- },
- {
-   "SMS ID": 21549743,
-   "VC No": 2520443218,
-   "LCO ID": 42095,
-   "Subscriber Name": "N PURANACHANDHAR RAO",
-   "Card No": "11461.a",
-   "Name": "NALAJAL PURNACHANDHARAO-2",
-   "Area": "Thotapalli",
-   "Cel 1": "9652605283",
-   "Status": "Inactive",
-   "Due Date": "16-May-20"
- },
- {
-   "SMS ID": 21864556,
-   "VC No": 2520457275,
-   "LCO ID": 42095,
-   "Subscriber Name": "M LAXMIHA",
-   "Card No": "665.B",
-   "Name": "MUSUGU LAXMAIAH",
-   "Area": "Bhemavaram",
-   "Cel 1": "DTH",
-   "Status": "active",
-   "Due Date": "7-Jun-20"
- },
- {
-   "SMS ID": 22078911,
-   "VC No": 1760442614,
-   "LCO ID": 42095,
-   "Subscriber Name": "TALLARI DAVEED",
-   "Card No": "936",
-   "Name": "TALLARI DAVEED",
-   "Area": "Palamadugu",
-   "Cel 1": "9666586139",
-   "Status": "active",
-   "Due Date": "14-Jun-20"
+   "Due Date": "05-Sep-20"
  },
  {
    "SMS ID": 12582102,
@@ -7263,7 +5907,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "9704609837",
    "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 13247734,
@@ -7275,7 +5919,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9177423256",
    "Status": "active",
-   "Due Date": "23-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 13251565,
@@ -7286,8 +5930,8 @@ var cust_DB=[
    "Name": "LADE VENKATAMMA",
    "Area": "Seethapuram",
    "Cel 1": "9502968134",
-   "Status": "Inactive",
-   "Due Date": "30-May-20"
+   "Status": "active",
+   "Due Date": "11-Sep-20"
  },
  {
    "SMS ID": 13496095,
@@ -7299,7 +5943,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "9705473406",
    "Status": "active",
-   "Due Date": "26-Jun-20"
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 13496568,
@@ -7310,8 +5954,8 @@ var cust_DB=[
    "Name": "KILARI JOGARAO",
    "Area": "Nellipaka",
    "Cel 1": "9010162203",
-   "Status": "Inactive",
-   "Due Date": "28-May-20"
+   "Status": "active",
+   "Due Date": "27-Sep-20"
  },
  {
    "SMS ID": 13503546,
@@ -7322,8 +5966,8 @@ var cust_DB=[
    "Name": "GANJI RAGHAVULU",
    "Area": "Nellipaka",
    "Cel 1": "9573834258",
-   "Status": "active",
-   "Due Date": "17-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "21-Aug-20"
  },
  {
    "SMS ID": 15421889,
@@ -7335,7 +5979,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "8500571765",
    "Status": "active",
-   "Due Date": "14-Jun-20"
+   "Due Date": "12-Sep-20"
  },
  {
    "SMS ID": 15440734,
@@ -7358,8 +6002,8 @@ var cust_DB=[
    "Name": "SOMINI PRABAKAR",
    "Area": "Thotapalli",
    "Cel 1": "7729056854",
-   "Status": "active",
-   "Due Date": "20-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "31-Aug-20"
  },
  {
    "SMS ID": 15448277,
@@ -7371,19 +6015,7 @@ var cust_DB=[
    "Area": "Pandurangapuram",
    "Cel 1": "9502380821",
    "Status": "active",
-   "Due Date": "21-Jun-20"
- },
- {
-   "SMS ID": 15460110,
-   "VC No": 1330781626,
-   "LCO ID": 42095,
-   "Subscriber Name": "JEDDI SURESH",
-   "Card No": "453",
-   "Name": "JEDDI SURESH",
-   "Area": "Murumuru",
-   "Cel 1": "8500686035",
-   "Status": "active",
-   "Due Date": "19-Jun-20"
+   "Due Date": "07-Sep-20"
  },
  {
    "SMS ID": 15469221,
@@ -7395,19 +6027,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "7036016540",
    "Status": "active",
-   "Due Date": "17-Jun-20"
- },
- {
-   "SMS ID": 15850932,
-   "VC No": 1331503075,
-   "LCO ID": 42095,
-   "Subscriber Name": "sathya prasad",
-   "Card No": "160",
-   "Name": "UKE JOGARAO",
-   "Area": "Gommu Kothagudem",
-   "Cel 1": "9133881407",
-   "Status": "active",
-   "Due Date": "19-Jun-20"
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 15851430,
@@ -7419,7 +6039,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "0",
    "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 15901179,
@@ -7430,8 +6050,8 @@ var cust_DB=[
    "Name": "K.RANGARAO",
    "Area": "Thotapalli",
    "Cel 1": "7893644803",
-   "Status": "Inactive",
-   "Due Date": "5-Mar-20"
+   "Status": "active",
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 15902331,
@@ -7443,7 +6063,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9542688192",
    "Status": "active",
-   "Due Date": "18-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 16111826,
@@ -7454,8 +6074,8 @@ var cust_DB=[
    "Name": "PIDIYALA SRINU",
    "Area": "Nellipaka",
    "Cel 1": "9492460452",
-   "Status": "Inactive",
-   "Due Date": "18-May-20"
+   "Status": "active",
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 16111983,
@@ -7467,7 +6087,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9502660617",
    "Status": "active",
-   "Due Date": "1-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 16113652,
@@ -7479,7 +6099,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "9553793196",
    "Status": "active",
-   "Due Date": "14-Jun-20"
+   "Due Date": "12-Sep-20"
  },
  {
    "SMS ID": 16114014,
@@ -7490,8 +6110,8 @@ var cust_DB=[
    "Name": "DHUDHUKURI SEETHAIAH",
    "Area": "Thotapalli",
    "Cel 1": "8106459745",
-   "Status": "active",
-   "Due Date": "27-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "29-Aug-20"
  },
  {
    "SMS ID": 16483888,
@@ -7503,7 +6123,7 @@ var cust_DB=[
    "Area": "Kapugompalli",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "18-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 16483910,
@@ -7515,7 +6135,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "8790783315",
    "Status": "active",
-   "Due Date": "15-Jun-20"
+   "Due Date": "13-Sep-20"
  },
  {
    "SMS ID": 16503337,
@@ -7526,20 +6146,8 @@ var cust_DB=[
    "Name": "KOPPULA PULLAIAH",
    "Area": "Awer Colony",
    "Cel 1": "9490155738",
-   "Status": "Inactive",
-   "Due Date": "28-May-20"
- },
- {
-   "SMS ID": 17039923,
-   "VC No": 1331699969,
-   "LCO ID": 42095,
-   "Subscriber Name": "K Ramudu",
-   "Card No": "60",
-   "Name": "NUKALA VEERASWAMY",
-   "Area": "Gogubaka",
-   "Cel 1": "9618684322 & 7674804059",
    "Status": "active",
-   "Due Date": "23-Jun-20"
+   "Due Date": "13-Sep-20"
  },
  {
    "SMS ID": 17153726,
@@ -7551,7 +6159,7 @@ var cust_DB=[
    "Area": "Venkatareddypeta",
    "Cel 1": "9502646747",
    "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 19983935,
@@ -7563,7 +6171,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "15-Jun-20"
+   "Due Date": "14-Sep-20"
  },
  {
    "SMS ID": 19984029,
@@ -7575,7 +6183,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9989361831",
    "Status": "active",
-   "Due Date": "7-Jun-20"
+   "Due Date": "12-Sep-20"
  },
  {
    "SMS ID": 20153752,
@@ -7587,7 +6195,7 @@ var cust_DB=[
    "Area": "Kapugompalli",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "4-Jun-20"
+   "Due Date": "13-Sep-20"
  },
  {
    "SMS ID": 20261096,
@@ -7599,7 +6207,7 @@ var cust_DB=[
    "Area": "Gowridevipeta",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "23-May-20"
+   "Due Date": "30-Aug-20"
  },
  {
    "SMS ID": 20262281,
@@ -7610,8 +6218,8 @@ var cust_DB=[
    "Name": "GODETTI NAGARAJU",
    "Area": "Chodavaram",
    "Cel 1": "8106916659",
-   "Status": "Inactive",
-   "Due Date": "31-May-20"
+   "Status": "active",
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 20356789,
@@ -7635,7 +6243,7 @@ var cust_DB=[
    "Area": "Gannerukoyyapadu",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "27-Jun-20"
+   "Due Date": "26-Sep-20"
  },
  {
    "SMS ID": 20392485,
@@ -7646,8 +6254,8 @@ var cust_DB=[
    "Name": "MULAKALAPALLI RAMESH",
    "Area": "Gannerukoyyapadu",
    "Cel 1": "6300642647",
-   "Status": "active",
-   "Due Date": "15-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "18-Aug-20"
  },
  {
    "SMS ID": 20392499,
@@ -7659,7 +6267,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "8074411501",
    "Status": "active",
-   "Due Date": "19-Jun-20"
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 20396026,
@@ -7670,8 +6278,8 @@ var cust_DB=[
    "Name": "MARLAPATI VEERAJU",
    "Area": "Seethapuram",
    "Cel 1": "9000230199",
-   "Status": "active",
-   "Due Date": "18-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "24-Jul-20"
  },
  {
    "SMS ID": 20486731,
@@ -7683,7 +6291,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9848371037",
    "Status": "active",
-   "Due Date": "14-Jun-20"
+   "Due Date": "12-Sep-20"
  },
  {
    "SMS ID": 20503582,
@@ -7695,7 +6303,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 20548980,
@@ -7707,7 +6315,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "9959836422",
    "Status": "active",
-   "Due Date": "11-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 20644414,
@@ -7719,7 +6327,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9676828064",
    "Status": "active",
-   "Due Date": "15-Jun-20"
+   "Due Date": "14-Sep-20"
  },
  {
    "SMS ID": 20658696,
@@ -7730,8 +6338,8 @@ var cust_DB=[
    "Name": "BUDHA RAMANAIAH",
    "Area": "Thotapalli",
    "Cel 1": "0",
-   "Status": "Inactive",
-   "Due Date": "28-May-20"
+   "Status": "active",
+   "Due Date": "07-Sep-20"
  },
  {
    "SMS ID": 20661454,
@@ -7742,8 +6350,8 @@ var cust_DB=[
    "Name": "MODHUGA VENKATESWARLU",
    "Area": "Gannavaram",
    "Cel 1": "",
-   "Status": "active",
-   "Due Date": "19-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "31-Aug-20"
  },
  {
    "SMS ID": 20721008,
@@ -7755,7 +6363,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 20742889,
@@ -7767,7 +6375,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9133849578",
    "Status": "active",
-   "Due Date": "19-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 21537160,
@@ -7778,8 +6386,8 @@ var cust_DB=[
    "Name": "AKULA SAROJINI",
    "Area": "Seethapuram",
    "Cel 1": "9398314093",
-   "Status": "Inactive",
-   "Due Date": "31-May-20"
+   "Status": "active",
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 21913732,
@@ -7790,8 +6398,8 @@ var cust_DB=[
    "Name": "PAYAM BHADRAYAH",
    "Area": "Nellipaka",
    "Cel 1": "6304092038",
-   "Status": "active",
-   "Due Date": "25-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "31-Aug-20"
  },
  {
    "SMS ID": 13496391,
@@ -7803,7 +6411,7 @@ var cust_DB=[
    "Area": "Venkatareddypeta",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "19-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 15207356,
@@ -7815,7 +6423,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9704716630",
    "Status": "active",
-   "Due Date": "19-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 15208217,
@@ -7826,8 +6434,8 @@ var cust_DB=[
    "Name": "YONNAM SEETHA RAMAIAH",
    "Area": "Gannerukoyyapadu",
    "Cel 1": "7893617023",
-   "Status": "active",
-   "Due Date": "20-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "21-Aug-20"
  },
  {
    "SMS ID": 15208238,
@@ -7839,7 +6447,7 @@ var cust_DB=[
    "Area": "Gannerukoyyapadu",
    "Cel 1": "9959951143",
    "Status": "active",
-   "Due Date": "19-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 15208259,
@@ -7850,32 +6458,8 @@ var cust_DB=[
    "Name": "THURRAM CHITTIAH",
    "Area": "Kapugompalli",
    "Cel 1": "9652590525",
-   "Status": "active",
-   "Due Date": "17-Jun-20"
- },
- {
-   "SMS ID": 15217208,
-   "VC No": 1330915276,
-   "LCO ID": 42095,
-   "Subscriber Name": "KANITHI RAMULU",
-   "Card No": "64",
-   "Name": "KANITHI RAMULU",
-   "Area": "Murumuru",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "23-Jun-20"
- },
- {
-   "SMS ID": 15447331,
-   "VC No": 1331058763,
-   "LCO ID": 42095,
-   "Subscriber Name": "NAMALA SHIVA",
-   "Card No": "434.A",
-   "Name": "NAMALA SHIVA",
-   "Area": "Murumuru",
-   "Cel 1": "9542906815",
-   "Status": "active",
-   "Due Date": "25-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "17-Aug-20"
  },
  {
    "SMS ID": 15862264,
@@ -7886,20 +6470,8 @@ var cust_DB=[
    "Name": "GUNDEPUDI RAMULU",
    "Area": "Gannerukoyyapadu",
    "Cel 1": "8179565954",
-   "Status": "active",
-   "Due Date": "21-Jun-20"
- },
- {
-   "SMS ID": 15901155,
-   "VC No": 1331503107,
-   "LCO ID": 42095,
-   "Subscriber Name": "MUTHYAPU APPALA SWAMI",
-   "Card No": "432",
-   "Name": "MUTHYAPU APPALA SWAMI",
-   "Area": "Murumuru",
-   "Cel 1": "9951575694",
-   "Status": "active",
-   "Due Date": "24-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "22-Jul-20"
  },
  {
    "SMS ID": 15901727,
@@ -7910,8 +6482,8 @@ var cust_DB=[
    "Name": "VETAGANI MANGAPATI",
    "Area": "Seethapuram",
    "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "30-May-20"
+   "Status": "active",
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 15902206,
@@ -7922,8 +6494,8 @@ var cust_DB=[
    "Name": "MUKKERA PEDHA VENKANNA",
    "Area": "Kapugompalli",
    "Cel 1": "9502074509",
-   "Status": "Inactive",
-   "Due Date": "23-May-20"
+   "Status": "active",
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 16112490,
@@ -7935,7 +6507,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "9912088718",
    "Status": "active",
-   "Due Date": "19-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 16113669,
@@ -7947,7 +6519,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "9440860937",
    "Status": "active",
-   "Due Date": "2-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 16436667,
@@ -7959,31 +6531,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "9959086719",
    "Status": "active",
-   "Due Date": "16-Jun-20"
- },
- {
-   "SMS ID": 16483860,
-   "VC No": 1331699301,
-   "LCO ID": 42095,
-   "Subscriber Name": "koti",
-   "Card No": "918",
-   "Name": "BOLLEDULA BABU",
-   "Area": "Palamadugu",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "16-Jun-20"
- },
- {
-   "SMS ID": 16484028,
-   "VC No": 1331699845,
-   "LCO ID": 42095,
-   "Subscriber Name": "NALLAGONDA SRINU",
-   "Card No": "99",
-   "Name": "NALLAGONDA SRINU",
-   "Area": "Murumuru",
-   "Cel 1": "9959589812",
-   "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 16561167,
@@ -7995,7 +6543,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9963051935",
    "Status": "active",
-   "Due Date": "17-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 16561243,
@@ -8006,8 +6554,8 @@ var cust_DB=[
    "Name": "PERALLA SRINU (ARUNA)",
    "Area": "Chodavaram",
    "Cel 1": "9494384100",
-   "Status": "Inactive",
-   "Due Date": "14-May-20"
+   "Status": "active",
+   "Due Date": "05-Sep-20"
  },
  {
    "SMS ID": 16769891,
@@ -8019,7 +6567,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9553672745",
    "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Due Date": "14-Sep-20"
  },
  {
    "SMS ID": 16769931,
@@ -8030,8 +6578,8 @@ var cust_DB=[
    "Name": "GAVARLA BABJI",
    "Area": "Gannavaram",
    "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Status": "active",
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 20481546,
@@ -8043,19 +6591,7 @@ var cust_DB=[
    "Area": "Gowridevipeta",
    "Cel 1": "9949553679",
    "Status": "active",
-   "Due Date": "26-Jun-20"
- },
- {
-   "SMS ID": 20543024,
-   "VC No": 2520426125,
-   "LCO ID": 42095,
-   "Subscriber Name": "thriveni",
-   "Card No": "38",
-   "Name": "PERAMALLA SRINU",
-   "Area": "Murumuru",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "25-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 20693920,
@@ -8079,19 +6615,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "28-May-20"
- },
- {
-   "SMS ID": 20856270,
-   "VC No": 2520425909,
-   "LCO ID": 42095,
-   "Subscriber Name": "PANUGANTI",
-   "Card No": "62",
-   "Name": "DEGALA NAGESWARA RAO",
-   "Area": "Murumuru",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 21096376,
@@ -8103,7 +6627,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "4-Jun-20"
+   "Due Date": "05-Sep-20"
  },
  {
    "SMS ID": 22566902,
@@ -8115,7 +6639,7 @@ var cust_DB=[
    "Area": "sethapuram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "27-Jun-20"
+   "Due Date": "28-Sep-20"
  },
  {
    "SMS ID": 11907258,
@@ -8126,8 +6650,8 @@ var cust_DB=[
    "Name": "NARENDHRA SARVESWARAO",
    "Area": "Seethapuram",
    "Cel 1": "7995228547",
-   "Status": "Inactive",
-   "Due Date": "25-Apr-20"
+   "Status": "active",
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 11907265,
@@ -8138,8 +6662,8 @@ var cust_DB=[
    "Name": "GOLLA VENKATRAO",
    "Area": "Seethapuram",
    "Cel 1": "9542784825 & 7013032715",
-   "Status": "Inactive",
-   "Due Date": "20-May-20"
+   "Status": "active",
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 11907385,
@@ -8151,19 +6675,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9912253465",
    "Status": "active",
-   "Due Date": "22-Jun-20"
- },
- {
-   "SMS ID": 11910752,
-   "VC No": 1767213659,
-   "LCO ID": 42095,
-   "Subscriber Name": "akhil",
-   "Card No": "39.A",
-   "Name": "PADALA GOPI(MALLURU)",
-   "Area": "Murumuru",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "18-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 11917971,
@@ -8178,18 +6690,6 @@ var cust_DB=[
    "Due Date": "24-Mar-20"
  },
  {
-   "SMS ID": 13086917,
-   "VC No": 1769148436,
-   "LCO ID": 42095,
-   "Subscriber Name": "bhagavan",
-   "Card No": "935",
-   "Name": "TALLARI SHEKAR(ANAND)",
-   "Area": "Palamadugu",
-   "Cel 1": "8309403864",
-   "Status": "Inactive",
-   "Due Date": "18-Feb-20"
- },
- {
    "SMS ID": 13237613,
    "VC No": 1769130746,
    "LCO ID": 42095,
@@ -8198,8 +6698,8 @@ var cust_DB=[
    "Name": "KAMPATI SATHYANARAYANA",
    "Area": "Seethapuram",
    "Cel 1": "9652495796",
-   "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "24-Aug-20"
  },
  {
    "SMS ID": 15207518,
@@ -8211,7 +6711,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9912257224",
    "Status": "Inactive",
-   "Due Date": "26-Apr-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 15440727,
@@ -8222,8 +6722,8 @@ var cust_DB=[
    "Name": "pirala musalaiah",
    "Area": "chodavaram",
    "Cel 1": "8333958262",
-   "Status": "Inactive",
-   "Due Date": "21-May-20"
+   "Status": "active",
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 15445712,
@@ -8235,7 +6735,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "7995884577",
    "Status": "active",
-   "Due Date": "6-Jun-20"
+   "Due Date": "27-Sep-20"
  },
  {
    "SMS ID": 15448482,
@@ -8247,7 +6747,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "22-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 15464065,
@@ -8259,7 +6759,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9494040431",
    "Status": "active",
-   "Due Date": "19-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 15464086,
@@ -8270,8 +6770,8 @@ var cust_DB=[
    "Name": "MANIKALA RAJA",
    "Area": "Nellipaka",
    "Cel 1": "9912570317",
-   "Status": "active",
-   "Due Date": "26-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "30-Aug-20"
  },
  {
    "SMS ID": 15468814,
@@ -8283,7 +6783,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "4-Jun-20"
+   "Due Date": "06-Sep-20"
  },
  {
    "SMS ID": 15521521,
@@ -8294,32 +6794,8 @@ var cust_DB=[
    "Name": "SANKA BHASKAR RAO",
    "Area": "Thotapalli",
    "Cel 1": "9963258752",
-   "Status": "Inactive",
-   "Due Date": "31-May-20"
- },
- {
-   "SMS ID": 15862680,
-   "VC No": 1331359452,
-   "LCO ID": 42095,
-   "Subscriber Name": "sathya prasad",
-   "Card No": "52",
-   "Name": "DHAYAM SUDHAKAR",
-   "Area": "Gogubaka",
-   "Cel 1": "9441787806",
    "Status": "active",
-   "Due Date": "16-Jun-20"
- },
- {
-   "SMS ID": 15900627,
-   "VC No": 1331357721,
-   "LCO ID": 42095,
-   "Subscriber Name": "PADALA PRASAD",
-   "Card No": "7",
-   "Name": "PADALA PRASAD",
-   "Area": "Murumuru",
-   "Cel 1": "7337599645",
-   "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Due Date": "10-Sep-20"
  },
  {
    "SMS ID": 15900713,
@@ -8331,7 +6807,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "7382124382 & 9977807118",
    "Status": "active",
-   "Due Date": "23-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 15901000,
@@ -8343,7 +6819,7 @@ var cust_DB=[
    "Area": "Kistaram",
    "Cel 1": "9676321975",
    "Status": "active",
-   "Due Date": "24-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 16112160,
@@ -8355,7 +6831,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9704177457",
    "Status": "active",
-   "Due Date": "20-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 16500467,
@@ -8367,7 +6843,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9949007077",
    "Status": "active",
-   "Due Date": "17-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 16812197,
@@ -8379,7 +6855,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 17146731,
@@ -8391,7 +6867,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "7702615706",
    "Status": "active",
-   "Due Date": "20-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 19984011,
@@ -8402,8 +6878,8 @@ var cust_DB=[
    "Name": "YESUBAKA VENKATESWARAO",
    "Area": "Gannavaram",
    "Cel 1": "9502463088",
-   "Status": "active",
-   "Due Date": "27-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 20261191,
@@ -8415,7 +6891,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "18-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 20396057,
@@ -8427,7 +6903,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9346281750",
    "Status": "active",
-   "Due Date": "23-Jun-20"
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 20498311,
@@ -8438,20 +6914,8 @@ var cust_DB=[
    "Name": "UBBA VEERA BABU",
    "Area": "Yarraboru",
    "Cel 1": "8179299774",
-   "Status": "Inactive",
-   "Due Date": "26-May-20"
- },
- {
-   "SMS ID": 20542992,
-   "VC No": 2520426088,
-   "LCO ID": 42095,
-   "Subscriber Name": "thriveni",
-   "Card No": "37",
-   "Name": "PERAMALLA PEDHULU",
-   "Area": "Murumuru",
-   "Cel 1": "",
    "Status": "active",
-   "Due Date": "21-Jun-20"
+   "Due Date": "28-Sep-20"
  },
  {
    "SMS ID": 20861147,
@@ -8475,7 +6939,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "8367004659",
    "Status": "active",
-   "Due Date": "18-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 21904599,
@@ -8487,19 +6951,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "8142874937",
    "Status": "active",
-   "Due Date": "25-Jun-20"
- },
- {
-   "SMS ID": 22118050,
-   "VC No": 1761345883,
-   "LCO ID": 42095,
-   "Subscriber Name": "T Jai Raj",
-   "Card No": "920",
-   "Name": "TUMMALA JAYARAJU",
-   "Area": "Palamadugu",
-   "Cel 1": "9959589831 & 8222076070",
-   "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 22646510,
@@ -8507,23 +6959,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "Thumb Narasimharao",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "THUMU NARASIMHA RAO",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "17-Jun-20"
- },
- {
-   "SMS ID": 12582352,
-   "VC No": 1768480839,
-   "LCO ID": 42095,
-   "Subscriber Name": "KURAM KANNAIAH",
-   "Card No": "442",
-   "Name": "KURAM KANNAIAH",
-   "Area": "Murumuru",
-   "Cel 1": "9494976196",
-   "Status": "active",
-   "Due Date": "24-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 13251584,
@@ -8534,8 +6974,8 @@ var cust_DB=[
    "Name": "CHANDRUGODA DURGHA PRASAD",
    "Area": "Venkatareddypeta",
    "Cel 1": "9652606854",
-   "Status": "Inactive",
-   "Due Date": "31-May-20"
+   "Status": "active",
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 13484381,
@@ -8546,8 +6986,8 @@ var cust_DB=[
    "Name": "G.PUSHPAVATHI",
    "Area": "Awer Colony",
    "Cel 1": "3636363636",
-   "Status": "active",
-   "Due Date": "17-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "17-Aug-20"
  },
  {
    "SMS ID": 13503554,
@@ -8559,7 +6999,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9618293007",
    "Status": "active",
-   "Due Date": "29-Jun-20"
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 13503555,
@@ -8570,8 +7010,8 @@ var cust_DB=[
    "Name": "GURRAM RAMESH",
    "Area": "Nellipaka",
    "Cel 1": "8919737303",
-   "Status": "Inactive",
-   "Due Date": "23-May-20"
+   "Status": "active",
+   "Due Date": "07-Sep-20"
  },
  {
    "SMS ID": 13547460,
@@ -8582,8 +7022,8 @@ var cust_DB=[
    "Name": "GODETI PEDHA SATHYAM",
    "Area": "Seethapuram",
    "Cel 1": "9652376959",
-   "Status": "active",
-   "Due Date": "21-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "22-Jul-20"
  },
  {
    "SMS ID": 15001642,
@@ -8595,31 +7035,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9666767627",
    "Status": "active",
-   "Due Date": "18-Jun-20"
- },
- {
-   "SMS ID": 15389656,
-   "VC No": 1331058651,
-   "LCO ID": 42095,
-   "Subscriber Name": "CHALLAKOTI RAMBABU",
-   "Card No": "53",
-   "Name": "CHALLAKOTI RAMBABU",
-   "Area": "Murumuru",
-   "Cel 1": "7095788489",
-   "Status": "active",
-   "Due Date": "20-Jun-20"
- },
- {
-   "SMS ID": 15389666,
-   "VC No": 1331058650,
-   "LCO ID": 42095,
-   "Subscriber Name": "NEERUDU LAXMI NARAYANA",
-   "Card No": "426",
-   "Name": "NEERUDU LAXMI NARAYANA",
-   "Area": "Murumuru",
-   "Cel 1": "9704710507",
-   "Status": "active",
-   "Due Date": "6-Jun-20"
+   "Due Date": "17-Sep-20"
  },
  {
    "SMS ID": 15447118,
@@ -8631,7 +7047,7 @@ var cust_DB=[
    "Area": "Pandurangapuram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "19-Jun-20"
+   "Due Date": "18-Sep-20"
  },
  {
    "SMS ID": 15460609,
@@ -8643,7 +7059,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "8008370554 & 7658906703",
    "Status": "active",
-   "Due Date": "20-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 15464151,
@@ -8655,19 +7071,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "8297874790",
    "Status": "active",
-   "Due Date": "17-Jun-20"
- },
- {
-   "SMS ID": 15464582,
-   "VC No": 1330784543,
-   "LCO ID": 42095,
-   "Subscriber Name": "MEDIPALLI KONDAIAH",
-   "Card No": "407",
-   "Name": "MEDIPALLI KONDAIAH",
-   "Area": "Murumuru",
-   "Cel 1": "9908948510",
-   "Status": "active",
-   "Due Date": "24-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 15521474,
@@ -8679,19 +7083,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "9441553971",
    "Status": "Inactive",
-   "Due Date": "27-May-20"
- },
- {
-   "SMS ID": 15851633,
-   "VC No": 1331357582,
-   "LCO ID": 42095,
-   "Subscriber Name": "KANITHI LAXMAN",
-   "Card No": "65",
-   "Name": "KANITHI LAXMAN",
-   "Area": "Murumuru",
-   "Cel 1": "8367512135",
-   "Status": "active",
-   "Due Date": "23-Jun-20"
+   "Due Date": "31-Aug-20"
  },
  {
    "SMS ID": 15862287,
@@ -8703,7 +7095,7 @@ var cust_DB=[
    "Area": "Gowridevipeta",
    "Cel 1": "7382306801",
    "Status": "active",
-   "Due Date": "4-Jun-20"
+   "Due Date": "11-Sep-20"
  },
  {
    "SMS ID": 15862619,
@@ -8714,20 +7106,8 @@ var cust_DB=[
    "Name": "ADHAMKI VENKATA SURYANARAYANA",
    "Area": "Awer Colony",
    "Cel 1": "8008473775",
-   "Status": "Inactive",
-   "Due Date": "19-May-20"
- },
- {
-   "SMS ID": 15862696,
-   "VC No": 1331359448,
-   "LCO ID": 42095,
-   "Subscriber Name": "sathya prasad",
-   "Card No": "70.A",
-   "Name": "SOMINI POSHAMMA(kamalamma)",
-   "Area": "Gogubaka",
-   "Cel 1": "9705498641",
    "Status": "active",
-   "Due Date": "17-Jun-20"
+   "Due Date": "06-Sep-20"
  },
  {
    "SMS ID": 16111847,
@@ -8739,7 +7119,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9502181242",
    "Status": "active",
-   "Due Date": "20-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 16770595,
@@ -8751,7 +7131,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "25-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 16770773,
@@ -8763,19 +7143,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "8500927291",
    "Status": "active",
-   "Due Date": "17-Jun-20"
- },
- {
-   "SMS ID": 20026419,
-   "VC No": 2516005795,
-   "LCO ID": 42095,
-   "Subscriber Name": "KOTI",
-   "Card No": "812.A",
-   "Name": "JATHOTH VENKANNA",
-   "Area": "Buruguvai Tanda",
-   "Cel 1": "6303533607",
-   "Status": "active",
-   "Due Date": "22-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 20184143,
@@ -8786,8 +7154,8 @@ var cust_DB=[
    "Name": "PUSA SATHI BABU",
    "Area": "Gannavaram",
    "Cel 1": "",
-   "Status": "active",
-   "Due Date": "23-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "26-Jul-20"
  },
  {
    "SMS ID": 20189392,
@@ -8798,8 +7166,8 @@ var cust_DB=[
    "Name": "GOLLAPALLI PRATHAP",
    "Area": "Gowridevipeta",
    "Cel 1": "7702870015",
-   "Status": "active",
-   "Due Date": "24-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "27-Aug-20"
  },
  {
    "SMS ID": 20262267,
@@ -8811,7 +7179,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "5-Jun-20"
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 20262294,
@@ -8822,8 +7190,8 @@ var cust_DB=[
    "Name": "KOYYALA RAJABABU",
    "Area": "Thotapalli",
    "Cel 1": "7036746371",
-   "Status": "Inactive",
-   "Due Date": "23-May-20"
+   "Status": "active",
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 20481625,
@@ -8834,8 +7202,8 @@ var cust_DB=[
    "Name": "MARLAPATI CHINNA BABU",
    "Area": "Seethapuram",
    "Cel 1": "9640425220",
-   "Status": "Inactive",
-   "Due Date": "29-May-20"
+   "Status": "active",
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 20587159,
@@ -8846,8 +7214,8 @@ var cust_DB=[
    "Name": "CHINTHA SANYASI RAO",
    "Area": "Gannavaram",
    "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "31-May-20"
+   "Status": "active",
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 20608484,
@@ -8859,7 +7227,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "6301517263 & 8978346755",
    "Status": "active",
-   "Due Date": "18-Jun-20"
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 20640981,
@@ -8871,7 +7239,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "23-Jun-20"
+   "Due Date": "27-Sep-20"
  },
  {
    "SMS ID": 20640984,
@@ -8882,32 +7250,8 @@ var cust_DB=[
    "Name": "MARLAPATI ESWAR",
    "Area": "Awer Colony",
    "Cel 1": "8367512133",
-   "Status": "Inactive",
-   "Due Date": "24-May-20"
- },
- {
-   "SMS ID": 20985218,
-   "VC No": 2520443016,
-   "LCO ID": 42095,
-   "Subscriber Name": "DEGALA HARINADH",
-   "Card No": "58",
-   "Name": "DEGALA HARINADH",
-   "Area": "Murumuru",
-   "Cel 1": "9493808170",
    "Status": "active",
-   "Due Date": "23-Jun-20"
- },
- {
-   "SMS ID": 21668974,
-   "VC No": 2520426951,
-   "LCO ID": 42095,
-   "Subscriber Name": "BALLEM SARASAVATHI",
-   "Card No": "67",
-   "Name": "BALLEM SARASWATHI",
-   "Area": "Murumuru",
-   "Cel 1": "8464822356",
-   "Status": "Inactive",
-   "Due Date": "22-Apr-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 21680800,
@@ -8918,8 +7262,8 @@ var cust_DB=[
    "Name": "LAKKUMALLA KALYANI",
    "Area": "Rayanapeta",
    "Cel 1": "7989550979",
-   "Status": "active",
-   "Due Date": "14-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "30-Aug-20"
  },
  {
    "SMS ID": 11917819,
@@ -8931,7 +7275,7 @@ var cust_DB=[
    "Area": "Gannerukoyyapadu",
    "Cel 1": "9951815933",
    "Status": "active",
-   "Due Date": "1-Jun-20"
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 13484469,
@@ -8943,7 +7287,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9985102207",
    "Status": "active",
-   "Due Date": "23-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 13496305,
@@ -8955,7 +7299,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "20-Jun-20"
+   "Due Date": "18-Sep-20"
  },
  {
    "SMS ID": 15207390,
@@ -8966,8 +7310,8 @@ var cust_DB=[
    "Name": "THATI VERAIAH",
    "Area": "Regadigattu",
    "Cel 1": "9709716459",
-   "Status": "active",
-   "Due Date": "21-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "22-Aug-20"
  },
  {
    "SMS ID": 15389536,
@@ -8978,8 +7322,8 @@ var cust_DB=[
    "Name": "YONNAM RAGAVENDHAR RAO",
    "Area": "Gannerukoyyapadu",
    "Cel 1": "9989330246",
-   "Status": "active",
-   "Due Date": "29-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "30-Aug-20"
  },
  {
    "SMS ID": 15421760,
@@ -8990,20 +7334,8 @@ var cust_DB=[
    "Name": "PUNUGUPATI SHEKAR",
    "Area": "Gannavaram",
    "Cel 1": "9492428427",
-   "Status": "active",
-   "Due Date": "16-Jun-20"
- },
- {
-   "SMS ID": 15422265,
-   "VC No": 1330159512,
-   "LCO ID": 42095,
-   "Subscriber Name": "Satyaprasad",
-   "Card No": "803",
-   "Name": "BODA SEETA",
-   "Area": "Buruguvai Tanda",
-   "Cel 1": "8919594209",
-   "Status": "active",
-   "Due Date": "26-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "22-Aug-20"
  },
  {
    "SMS ID": 15448162,
@@ -9015,19 +7347,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "8500663827",
    "Status": "active",
-   "Due Date": "18-Jun-20"
- },
- {
-   "SMS ID": 15459716,
-   "VC No": 1331068134,
-   "LCO ID": 42095,
-   "Subscriber Name": "Uma kilau",
-   "Card No": "738",
-   "Name": "PENUBALLY SRINU",
-   "Area": "Bandaluru",
-   "Cel 1": "9849843655",
-   "Status": "active",
-   "Due Date": "18-Jun-20"
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 16114040,
@@ -9039,7 +7359,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "9949494838",
    "Status": "active",
-   "Due Date": "23-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 16436031,
@@ -9051,7 +7371,7 @@ var cust_DB=[
    "Area": "Kapugompalli",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "23-Jun-20"
+   "Due Date": "12-Sep-20"
  },
  {
    "SMS ID": 16436118,
@@ -9063,7 +7383,7 @@ var cust_DB=[
    "Area": "Kapugompalli",
    "Cel 1": "8897124180",
    "Status": "active",
-   "Due Date": "4-Jun-20"
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 16483878,
@@ -9075,7 +7395,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "0",
    "Status": "active",
-   "Due Date": "5-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 16503369,
@@ -9087,7 +7407,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "9502652182",
    "Status": "active",
-   "Due Date": "1-Jun-20"
+   "Due Date": "11-Sep-20"
  },
  {
    "SMS ID": 16503528,
@@ -9098,8 +7418,8 @@ var cust_DB=[
    "Name": "KUCHALAPATI KONDAIAH",
    "Area": "Seethapuram",
    "Cel 1": "9963761938 & 7036147974",
-   "Status": "active",
-   "Due Date": "20-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "21-Aug-20"
  },
  {
    "SMS ID": 16769856,
@@ -9111,7 +7431,7 @@ var cust_DB=[
    "Area": "Kapugompalli",
    "Cel 1": "9949789406",
    "Status": "active",
-   "Due Date": "27-Jun-20"
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 19983931,
@@ -9134,8 +7454,8 @@ var cust_DB=[
    "Name": "AMARAVARAPU LAXMANRAO",
    "Area": "Gowridevipeta",
    "Cel 1": "7702615482",
-   "Status": "Inactive",
-   "Due Date": "24-May-20"
+   "Status": "active",
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 20356784,
@@ -9147,7 +7467,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "21-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 20549181,
@@ -9159,19 +7479,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "7702779957",
    "Status": "active",
-   "Due Date": "19-Jun-20"
- },
- {
-   "SMS ID": 20746485,
-   "VC No": 2520474192,
-   "LCO ID": 42095,
-   "Subscriber Name": "PADALA NAVEEN",
-   "Card No": "9.A",
-   "Name": "PADALA NAVEEN",
-   "Area": "Murumuru",
-   "Cel 1": "9247883925",
-   "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Due Date": "27-Sep-20"
  },
  {
    "SMS ID": 20806925,
@@ -9195,7 +7503,7 @@ var cust_DB=[
    "Area": "Gowridevipeta",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "23-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 21164197,
@@ -9207,7 +7515,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "9949681537",
    "Status": "active",
-   "Due Date": "22-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 21525899,
@@ -9218,8 +7526,8 @@ var cust_DB=[
    "Name": "KouluriVenakata chari",
    "Area": "Gowridevipeta",
    "Cel 1": "7036012488",
-   "Status": "Inactive",
-   "Due Date": "26-May-20"
+   "Status": "active",
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 22752704,
@@ -9230,8 +7538,8 @@ var cust_DB=[
    "Name": "MADAKAM RAJU",
    "Area": "GANNAVARAM",
    "Cel 1": "",
-   "Status": "active",
-   "Due Date": "7-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "19-Aug-20"
  },
  {
    "SMS ID": 11906848,
@@ -9242,20 +7550,8 @@ var cust_DB=[
    "Name": "MANIKALA RATNAM",
    "Area": "Nellipaka",
    "Cel 1": "9177692623",
-   "Status": "active",
-   "Due Date": "24-Jun-20"
- },
- {
-   "SMS ID": 11907115,
-   "VC No": 1767266499,
-   "LCO ID": 42095,
-   "Subscriber Name": "ASU KAMALA",
-   "Card No": "71.A",
-   "Name": "ASU KAMALA",
-   "Area": "Murumuru",
-   "Cel 1": "9704482552",
    "Status": "Inactive",
-   "Due Date": "23-May-20"
+   "Due Date": "31-Aug-20"
  },
  {
    "SMS ID": 11907142,
@@ -9267,7 +7563,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9908816351",
    "Status": "active",
-   "Due Date": "20-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 11907336,
@@ -9279,19 +7575,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "8179356126",
    "Status": "active",
-   "Due Date": "25-Jun-20"
- },
- {
-   "SMS ID": 12535248,
-   "VC No": 1768481783,
-   "LCO ID": 42095,
-   "Subscriber Name": "subbu",
-   "Card No": "211",
-   "Name": "UKE KOTESWARAO",
-   "Area": "Gommu Kothagudem",
-   "Cel 1": "8185876938",
-   "Status": "active",
-   "Due Date": "29-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 12581968,
@@ -9303,7 +7587,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "9493379060",
    "Status": "active",
-   "Due Date": "21-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 13496103,
@@ -9315,7 +7599,7 @@ var cust_DB=[
    "Area": "Kapugompalli",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "21-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 13496743,
@@ -9327,7 +7611,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "7995801609",
    "Status": "active",
-   "Due Date": "11-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 15207521,
@@ -9339,7 +7623,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9912979325",
    "Status": "active",
-   "Due Date": "21-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 15397454,
@@ -9347,11 +7631,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "Soundarya",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "Soundarya",
    "Area": "#N/A",
    "Cel 1": "",
-   "Status": "active",
-   "Due Date": "21-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "26-Aug-20"
  },
  {
    "SMS ID": 15421757,
@@ -9363,19 +7647,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9553773037",
    "Status": "active",
-   "Due Date": "25-Jun-20"
- },
- {
-   "SMS ID": 15422922,
-   "VC No": 1330159507,
-   "LCO ID": 42095,
-   "Subscriber Name": "Satyaprasad",
-   "Card No": "695",
-   "Name": "MADAKAM ANIL",
-   "Area": "Bhemavaram",
-   "Cel 1": "8790462944",
-   "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 15427723,
@@ -9387,31 +7659,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9618152965",
    "Status": "active",
-   "Due Date": "20-Jun-20"
- },
- {
-   "SMS ID": 15440015,
-   "VC No": 1330692540,
-   "LCO ID": 42095,
-   "Subscriber Name": "BOMMA RAMANA",
-   "Card No": "434",
-   "Name": "BOMMA RAMANA",
-   "Area": "Murumuru",
-   "Cel 1": "7997435783",
-   "Status": "active",
-   "Due Date": "22-Jun-20"
- },
- {
-   "SMS ID": 15440035,
-   "VC No": 1330692536,
-   "LCO ID": 42095,
-   "Subscriber Name": "KUNJA SAROJINI",
-   "Card No": "450",
-   "Name": "KUNJA SAROJINI",
-   "Area": "Murumuru",
-   "Cel 1": "8008162028",
-   "Status": "active",
-   "Due Date": "21-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 15445685,
@@ -9423,7 +7671,7 @@ var cust_DB=[
    "Area": "Venkatareddypeta",
    "Cel 1": "9666419672",
    "Status": "active",
-   "Due Date": "25-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 15445690,
@@ -9435,7 +7683,7 @@ var cust_DB=[
    "Area": "Venkatareddypeta",
    "Cel 1": "9618163184",
    "Status": "active",
-   "Due Date": "25-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 15448296,
@@ -9446,8 +7694,8 @@ var cust_DB=[
    "Name": "B.LAKSHMI(LAKSHMAYAH)",
    "Area": "Chodavaram",
    "Cel 1": "8499068326",
-   "Status": "active",
-   "Due Date": "20-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "31-Aug-20"
  },
  {
    "SMS ID": 15448541,
@@ -9459,31 +7707,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "9-Jun-20"
- },
- {
-   "SMS ID": 15460095,
-   "VC No": 1330781628,
-   "LCO ID": 42095,
-   "Subscriber Name": "PALANTI KRISHNARJUNARAO",
-   "Card No": "96",
-   "Name": "PALANTI KRISHNARJUNARAO",
-   "Area": "Murumuru",
-   "Cel 1": "9553842103",
-   "Status": "active",
-   "Due Date": "25-Jun-20"
- },
- {
-   "SMS ID": 15464061,
-   "VC No": 1331057790,
-   "LCO ID": 42095,
-   "Subscriber Name": "Shanthi Dandamudi",
-   "Card No": "58",
-   "Name": "NUKALA VEERAIAH",
-   "Area": "Gogubaka",
-   "Cel 1": "8106290732",
-   "Status": "active",
-   "Due Date": "24-Jun-20"
+   "Due Date": "12-Sep-20"
  },
  {
    "SMS ID": 15464146,
@@ -9495,7 +7719,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9502193460",
    "Status": "active",
-   "Due Date": "26-Jun-20"
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 15468897,
@@ -9507,7 +7731,7 @@ var cust_DB=[
    "Area": "Kapugompalli",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "26-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 15851060,
@@ -9519,7 +7743,7 @@ var cust_DB=[
    "Area": "Gowridevipeta",
    "Cel 1": "9494716047",
    "Status": "active",
-   "Due Date": "22-Jun-20"
+   "Due Date": "26-Sep-20"
  },
  {
    "SMS ID": 15851283,
@@ -9531,7 +7755,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "6301236127",
    "Status": "active",
-   "Due Date": "20-Jun-20"
+   "Due Date": "21-Sep-20"
  },
  {
    "SMS ID": 15862393,
@@ -9543,7 +7767,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9908878560",
    "Status": "active",
-   "Due Date": "26-Jun-20"
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 15862647,
@@ -9554,8 +7778,8 @@ var cust_DB=[
    "Name": "MORAMPALLY SRINU",
    "Area": "Gannavaram",
    "Cel 1": "",
-   "Status": "active",
-   "Due Date": "26-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "31-Aug-20"
  },
  {
    "SMS ID": 16113526,
@@ -9566,8 +7790,8 @@ var cust_DB=[
    "Name": "VANAPARTHI GOURAMMA",
    "Area": "Gowridevipeta",
    "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Status": "active",
+   "Due Date": "13-Sep-20"
  },
  {
    "SMS ID": 16113686,
@@ -9579,7 +7803,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "9704253793",
    "Status": "active",
-   "Due Date": "20-Jun-20"
+   "Due Date": "21-Sep-20"
  },
  {
    "SMS ID": 16438489,
@@ -9591,7 +7815,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9618060254",
    "Status": "active",
-   "Due Date": "9-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 16483939,
@@ -9603,7 +7827,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "8790237151",
    "Status": "active",
-   "Due Date": "26-Jun-20"
+   "Due Date": "26-Sep-20"
  },
  {
    "SMS ID": 16769877,
@@ -9615,7 +7839,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "7036190738",
    "Status": "active",
-   "Due Date": "2-Jun-20"
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 16770664,
@@ -9627,7 +7851,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "8500365291",
    "Status": "Inactive",
-   "Due Date": "26-May-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 19983912,
@@ -9639,7 +7863,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "21-Jun-20"
+   "Due Date": "26-Sep-20"
  },
  {
    "SMS ID": 20019714,
@@ -9651,7 +7875,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9908420157 & 9346305292",
    "Status": "active",
-   "Due Date": "21-Jun-20"
+   "Due Date": "28-Sep-20"
  },
  {
    "SMS ID": 20020865,
@@ -9663,7 +7887,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "21-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 20026509,
@@ -9674,8 +7898,8 @@ var cust_DB=[
    "Name": "PINGALI RAMANAYAH",
    "Area": "Nellipaka",
    "Cel 1": "7729937715",
-   "Status": "Inactive",
-   "Due Date": "26-May-20"
+   "Status": "active",
+   "Due Date": "03-Oct-20"
  },
  {
    "SMS ID": 20153710,
@@ -9687,7 +7911,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "8501905399",
    "Status": "active",
-   "Due Date": "20-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 20184136,
@@ -9699,7 +7923,7 @@ var cust_DB=[
    "Area": "Gowridevipeta",
    "Cel 1": "9963853551",
    "Status": "active",
-   "Due Date": "20-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 20392497,
@@ -9710,8 +7934,8 @@ var cust_DB=[
    "Name": "KOMARAJUAPPAYAH",
    "Area": "Nellipaka",
    "Cel 1": "8790229102",
-   "Status": "active",
-   "Due Date": "23-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "31-Aug-20"
  },
  {
    "SMS ID": 20396048,
@@ -9722,8 +7946,8 @@ var cust_DB=[
    "Name": "DHANE DHARMARAJU",
    "Area": "Kistaram",
    "Cel 1": "",
-   "Status": "active",
-   "Due Date": "26-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "29-Aug-20"
  },
  {
    "SMS ID": 20503620,
@@ -9735,31 +7959,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "9491063205",
    "Status": "active",
-   "Due Date": "20-Jun-20"
- },
- {
-   "SMS ID": 20543048,
-   "VC No": 2520426093,
-   "LCO ID": 42095,
-   "Subscriber Name": "DEGALA MOHAN RAO",
-   "Card No": "59",
-   "Name": "DEGALA MOHAN RAO",
-   "Area": "Murumuru",
-   "Cel 1": "7893194417",
-   "Status": "Inactive",
-   "Due Date": "14-May-20"
- },
- {
-   "SMS ID": 20543138,
-   "VC No": 2520426084,
-   "LCO ID": 42095,
-   "Subscriber Name": "thriveni",
-   "Card No": "73",
-   "Name": "MADIVI CHINNAKKA",
-   "Area": "Murumuru",
-   "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "27-May-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 20640978,
@@ -9771,7 +7971,7 @@ var cust_DB=[
    "Area": "Gannerukoyyapadu",
    "Cel 1": "9493820565",
    "Status": "active",
-   "Due Date": "21-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 20640983,
@@ -9782,8 +7982,8 @@ var cust_DB=[
    "Name": "U.K CHINNA RAGAVULU",
    "Area": "Regadigattu",
    "Cel 1": "9493872460",
-   "Status": "Inactive",
-   "Due Date": "29-Apr-20"
+   "Status": "active",
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 20819212,
@@ -9795,7 +7995,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "9515545250",
    "Status": "active",
-   "Due Date": "23-Jun-20"
+   "Due Date": "18-Sep-20"
  },
  {
    "SMS ID": 21525292,
@@ -9806,8 +8006,8 @@ var cust_DB=[
    "Name": "MALLELA VENKATESWARAO",
    "Area": "Gannavaram",
    "Cel 1": "9652938592",
-   "Status": "Inactive",
-   "Due Date": "23-May-20"
+   "Status": "active",
+   "Due Date": "07-Sep-20"
  },
  {
    "SMS ID": 21923814,
@@ -9818,8 +8018,8 @@ var cust_DB=[
    "Name": "KOULURI SAROJINI",
    "Area": "Gannavaram",
    "Cel 1": "9133243619",
-   "Status": "Inactive",
-   "Due Date": "24-Apr-20"
+   "Status": "active",
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 22558585,
@@ -9827,35 +8027,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "MORAMPALLI BUSHANAM",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "MORAMPALLI BUSHANAM",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "13-Jun-20"
- },
- {
-   "SMS ID": 11917811,
-   "VC No": 1767201890,
-   "LCO ID": 42095,
-   "Subscriber Name": "akhil",
-   "Card No": "1187",
-   "Name": "KUNJA SIDDU",
-   "Area": "Pandurangapuram",
-   "Cel 1": "9908257659",
-   "Status": "active",
-   "Due Date": "27-Jun-20"
- },
- {
-   "SMS ID": 11917822,
-   "VC No": 1767201897,
-   "LCO ID": 42095,
-   "Subscriber Name": "KANITHI SEETHAMMA",
-   "Card No": "71",
-   "Name": "KANITHI SEETHAMMA",
-   "Area": "Murumuru",
-   "Cel 1": "7287821296",
-   "Status": "active",
-   "Due Date": "22-Jun-20"
+   "Due Date": "11-Sep-20"
  },
  {
    "SMS ID": 12582268,
@@ -9867,7 +8043,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "9701409525",
    "Status": "active",
-   "Due Date": "25-Jun-20"
+   "Due Date": "20-Sep-20"
  },
  {
    "SMS ID": 12582536,
@@ -9878,20 +8054,8 @@ var cust_DB=[
    "Name": "Y.SANKARAM",
    "Area": "Rayanapeta",
    "Cel 1": "8008324269 & 9908345927",
-   "Status": "Inactive",
-   "Due Date": "22-May-20"
- },
- {
-   "SMS ID": 13195273,
-   "VC No": 1768915594,
-   "LCO ID": 42095,
-   "Subscriber Name": "MUDAGANI KOTESWAR RAO",
-   "Card No": "431",
-   "Name": "MUDAGANI KOTESWAR RAO",
-   "Area": "Murumuru",
-   "Cel 1": "9640351191",
    "Status": "active",
-   "Due Date": "27-Jun-20"
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 13347391,
@@ -9903,7 +8067,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "7674806179",
    "Status": "active",
-   "Due Date": "22-Jun-20"
+   "Due Date": "27-Sep-20"
  },
  {
    "SMS ID": 13486990,
@@ -9915,7 +8079,7 @@ var cust_DB=[
    "Area": "Kapugompalli",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "25-Jun-20"
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 13490941,
@@ -9927,7 +8091,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "9505960959",
    "Status": "active",
-   "Due Date": "6-Jun-20"
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 13496190,
@@ -9939,7 +8103,7 @@ var cust_DB=[
    "Area": "Venkatareddypeta",
    "Cel 1": "7702988381",
    "Status": "Inactive",
-   "Due Date": "7-May-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 15207560,
@@ -9951,7 +8115,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "9949695617",
    "Status": "active",
-   "Due Date": "4-Jun-20"
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 15439953,
@@ -9963,7 +8127,7 @@ var cust_DB=[
    "Area": "Gannerukoyyapadu",
    "Cel 1": "8500019224",
    "Status": "active",
-   "Due Date": "26-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 15448320,
@@ -9975,7 +8139,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "9177641453",
    "Status": "active",
-   "Due Date": "21-Jun-20"
+   "Due Date": "21-Sep-20"
  },
  {
    "SMS ID": 15460628,
@@ -9986,8 +8150,8 @@ var cust_DB=[
    "Name": "CHITTALA SRINIVASARAO",
    "Area": "Seethapuram",
    "Cel 1": "9949947011",
-   "Status": "active",
-   "Due Date": "2-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 15468741,
@@ -9998,8 +8162,8 @@ var cust_DB=[
    "Name": "SAGURTHI PULLAYAH",
    "Area": "Rayanapeta",
    "Cel 1": "8106771679",
-   "Status": "Inactive",
-   "Due Date": "16-May-20"
+   "Status": "active",
+   "Due Date": "18-Sep-20"
  },
  {
    "SMS ID": 15468771,
@@ -10011,19 +8175,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9177683211",
    "Status": "active",
-   "Due Date": "20-Jun-20"
- },
- {
-   "SMS ID": 15862685,
-   "VC No": 1331503109,
-   "LCO ID": 42095,
-   "Subscriber Name": "sathya prasam",
-   "Card No": "204",
-   "Name": "SUNNAM RAMU",
-   "Area": "Gommu Kothagudem",
-   "Cel 1": "PHONE LEDU",
-   "Status": "active",
-   "Due Date": "22-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 15862727,
@@ -10035,7 +8187,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "8500663053",
    "Status": "active",
-   "Due Date": "22-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 16112453,
@@ -10046,8 +8198,8 @@ var cust_DB=[
    "Name": "SK.VAALI",
    "Area": "Nellipaka",
    "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "31-May-20"
+   "Status": "active",
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 16273459,
@@ -10059,7 +8211,7 @@ var cust_DB=[
    "Area": "Buruguvai Tanda",
    "Cel 1": "8374742934",
    "Status": "Inactive",
-   "Due Date": "28-May-20"
+   "Due Date": "06-Aug-20"
  },
  {
    "SMS ID": 16502397,
@@ -10071,7 +8223,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9000033341",
    "Status": "active",
-   "Due Date": "20-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 19983917,
@@ -10083,7 +8235,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9963852439",
    "Status": "active",
-   "Due Date": "18-Jun-20"
+   "Due Date": "26-Sep-20"
  },
  {
    "SMS ID": 20026437,
@@ -10095,7 +8247,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "0",
    "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 20297386,
@@ -10107,7 +8259,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "7893112370",
    "Status": "active",
-   "Due Date": "12-Jun-20"
+   "Due Date": "18-Sep-20"
  },
  {
    "SMS ID": 20303335,
@@ -10119,7 +8271,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "24-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 20554381,
@@ -10131,7 +8283,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "7032192505",
    "Status": "active",
-   "Due Date": "21-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 20641228,
@@ -10143,7 +8295,7 @@ var cust_DB=[
    "Area": "Gommu Kothagudem",
    "Cel 1": "DTH",
    "Status": "active",
-   "Due Date": "9-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 20644369,
@@ -10155,19 +8307,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "8106420169",
    "Status": "active",
-   "Due Date": "28-Jun-20"
- },
- {
-   "SMS ID": 20661974,
-   "VC No": 2517243264,
-   "LCO ID": 42095,
-   "Subscriber Name": "triveni",
-   "Card No": "178",
-   "Name": "MEDIPALLI SRINU",
-   "Area": "Gommu Kothagudem",
-   "Cel 1": "9010186182",
-   "Status": "active",
-   "Due Date": "21-Jun-20"
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 20720988,
@@ -10179,7 +8319,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "1-Jun-20"
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 20956153,
@@ -10191,19 +8331,7 @@ var cust_DB=[
    "Area": "Regadigattu",
    "Cel 1": "8333808574",
    "Status": "active",
-   "Due Date": "26-Jun-20"
- },
- {
-   "SMS ID": 21104117,
-   "VC No": 2520444679,
-   "LCO ID": 42095,
-   "Subscriber Name": "PANUGANTI",
-   "Card No": "415.A",
-   "Name": "GAMPALA LAXMAN",
-   "Area": "Murumuru",
-   "Cel 1": "9640862615",
-   "Status": "Inactive",
-   "Due Date": "31-May-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 21176376,
@@ -10215,7 +8343,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "9701281128",
    "Status": "active",
-   "Due Date": "9-Jun-20"
+   "Due Date": "13-Sep-20"
  },
  {
    "SMS ID": 12536000,
@@ -10227,7 +8355,7 @@ var cust_DB=[
    "Area": "THOTAPALLI",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "23-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 13195605,
@@ -10238,20 +8366,8 @@ var cust_DB=[
    "Name": "SOYAM REVATHI",
    "Area": "Chodavaram",
    "Cel 1": "9505662815",
-   "Status": "Inactive",
-   "Due Date": "1-Jun-20"
- },
- {
-   "SMS ID": 15422854,
-   "VC No": 1330159509,
-   "LCO ID": 42095,
-   "Subscriber Name": "Satyaprasad",
-   "Card No": "768",
-   "Name": "PENUBALLY RAMURTHI",
-   "Area": "Bandaluru",
-   "Cel 1": "8790085430",
-   "Status": "Inactive",
-   "Due Date": "28-May-20"
+   "Status": "active",
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 15427783,
@@ -10263,19 +8379,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9603534346",
    "Status": "active",
-   "Due Date": "6-Jun-20"
- },
- {
-   "SMS ID": 15446562,
-   "VC No": 1331031229,
-   "LCO ID": 42095,
-   "Subscriber Name": "Sambasivarao",
-   "Card No": "1166",
-   "Name": "KORSA GOPALRAO",
-   "Area": "Pandurangapuram",
-   "Cel 1": "9618163277",
-   "Status": "active",
-   "Due Date": "26-Jun-20"
+   "Due Date": "11-Sep-20"
  },
  {
    "SMS ID": 15446579,
@@ -10286,20 +8390,8 @@ var cust_DB=[
    "Name": "MUDIGONDA SATYANNARAYANA",
    "Area": "Nellipaka",
    "Cel 1": "NO",
-   "Status": "Inactive",
-   "Due Date": "27-May-20"
- },
- {
-   "SMS ID": 15446642,
-   "VC No": 1330925709,
-   "LCO ID": 42095,
-   "Subscriber Name": "PRASADBUNK",
-   "Card No": "191",
-   "Name": "PRASAD(BUNK)",
-   "Area": "Nellipaka",
-   "Cel 1": "",
    "Status": "active",
-   "Due Date": "2-Jun-20"
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 15446696,
@@ -10311,7 +8403,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9640989424",
    "Status": "active",
-   "Due Date": "2-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 15446889,
@@ -10319,7 +8411,7 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "Sambasivarao",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "Sambasivarao",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -10334,32 +8426,8 @@ var cust_DB=[
    "Name": "PERALLA VENKATESWARLU(swapana)",
    "Area": "Chodavaram",
    "Cel 1": "9676535734",
-   "Status": "active",
-   "Due Date": "2-Jun-20"
- },
- {
-   "SMS ID": 15459691,
-   "VC No": 1331068137,
-   "LCO ID": 42095,
-   "Subscriber Name": "Uma kilau",
-   "Card No": "964",
-   "Name": "KOTTE JARJI",
-   "Area": "Palamadugu",
-   "Cel 1": "9959491322",
-   "Status": "active",
-   "Due Date": "21-Jun-20"
- },
- {
-   "SMS ID": 15459698,
-   "VC No": 1331068136,
-   "LCO ID": 42095,
-   "Subscriber Name": "Uma kilau",
-   "Card No": "939",
-   "Name": "KANDULA KIRAN",
-   "Area": "Palamadugu",
-   "Cel 1": "9959342681",
    "Status": "Inactive",
-   "Due Date": "24-May-20"
+   "Due Date": "03-Jun-20"
  },
  {
    "SMS ID": 15460612,
@@ -10371,7 +8439,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "8978287284",
    "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "07-Sep-20"
  },
  {
    "SMS ID": 15468767,
@@ -10382,32 +8450,8 @@ var cust_DB=[
    "Name": "SAGURTHI NARASIMHA RAO",
    "Area": "Rayanapeta",
    "Cel 1": "9704690879",
-   "Status": "Inactive",
-   "Due Date": "27-May-20"
- },
- {
-   "SMS ID": 15851350,
-   "VC No": 1331503464,
-   "LCO ID": 42095,
-   "Subscriber Name": "PAYAM NAGARAJU",
-   "Card No": "288",
-   "Name": "PAYAM NAGARAJU",
-   "Area": "Kapugompalli",
-   "Cel 1": "9912798436",
    "Status": "active",
-   "Due Date": "25-Jun-20"
- },
- {
-   "SMS ID": 15852764,
-   "VC No": 1331357961,
-   "LCO ID": 42095,
-   "Subscriber Name": "sathya prasad",
-   "Card No": "763.A",
-   "Name": "PENUBALLI SURESH",
-   "Area": "Bandaluru",
-   "Cel 1": "9652638269",
-   "Status": "active",
-   "Due Date": "26-Jun-20"
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 15862355,
@@ -10419,7 +8463,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9701616811",
    "Status": "active",
-   "Due Date": "23-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 15862406,
@@ -10431,7 +8475,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "7730023642 & 9618054528",
    "Status": "active",
-   "Due Date": "27-Jun-20"
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 15862688,
@@ -10442,8 +8486,8 @@ var cust_DB=[
    "Name": "MALLELA MALLESWARAO",
    "Area": "Gannavaram",
    "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "28-May-20"
+   "Status": "active",
+   "Due Date": "13-Sep-20"
  },
  {
    "SMS ID": 15862841,
@@ -10455,7 +8499,7 @@ var cust_DB=[
    "Area": "Gannerukoyyapadu",
    "Cel 1": "8374286682",
    "Status": "active",
-   "Due Date": "23-Jun-20"
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 15900978,
@@ -10466,8 +8510,8 @@ var cust_DB=[
    "Name": "BADHE VASU",
    "Area": "Kapugompalli",
    "Cel 1": "",
-   "Status": "active",
-   "Due Date": "26-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "26-Aug-20"
  },
  {
    "SMS ID": 16503277,
@@ -10479,7 +8523,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "8897112988",
    "Status": "active",
-   "Due Date": "24-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 16561195,
@@ -10491,7 +8535,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "8985442501",
    "Status": "active",
-   "Due Date": "21-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 16770853,
@@ -10503,7 +8547,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9849951086 & 7674012534",
    "Status": "active",
-   "Due Date": "23-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 17146950,
@@ -10515,7 +8559,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "8790629840",
    "Status": "active",
-   "Due Date": "25-Jun-20"
+   "Due Date": "26-Sep-20"
  },
  {
    "SMS ID": 17153579,
@@ -10527,7 +8571,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9866510428",
    "Status": "active",
-   "Due Date": "25-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 19984025,
@@ -10539,7 +8583,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "6301893744",
    "Status": "active",
-   "Due Date": "13-Jun-20"
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 20020861,
@@ -10550,56 +8594,8 @@ var cust_DB=[
    "Name": "AKULA PURUSHOTHAM",
    "Area": "Gowridevipeta",
    "Cel 1": "7702615482",
-   "Status": "Inactive",
-   "Due Date": "9-May-20"
- },
- {
-   "SMS ID": 20020873,
-   "VC No": 2516001387,
-   "LCO ID": 42095,
-   "Subscriber Name": "SOYAM KAMALA",
-   "Card No": "48",
-   "Name": "SOYAM KAMALA",
-   "Area": "Murumuru",
-   "Cel 1": "9177064272",
-   "Status": "Inactive",
-   "Due Date": "1-May-20"
- },
- {
-   "SMS ID": 20026411,
-   "VC No": 2516005787,
-   "LCO ID": 42095,
-   "Subscriber Name": "KOTI",
-   "Card No": "793",
-   "Name": "THEJAVATH KAMALA",
-   "Area": "Buruguvai Tanda",
-   "Cel 1": "9989329044",
-   "Status": "Inactive",
-   "Due Date": "24-Jan-20"
- },
- {
-   "SMS ID": 20026414,
-   "VC No": 2516005790,
-   "LCO ID": 42095,
-   "Subscriber Name": "KOTI",
-   "Card No": "796.A",
-   "Name": "B.MURALI",
-   "Area": "Buruguvai Tanda",
-   "Cel 1": "7993370530",
    "Status": "active",
-   "Due Date": "26-Jun-20"
- },
- {
-   "SMS ID": 20326321,
-   "VC No": 2516018199,
-   "LCO ID": 42095,
-   "Subscriber Name": "THRIVENI",
-   "Card No": "14",
-   "Name": "PADALA SEETHARAMMA",
-   "Area": "Murumuru",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "21-Jun-20"
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 20486680,
@@ -10611,7 +8607,7 @@ var cust_DB=[
    "Area": "murumuru",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "29-Jun-20"
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 20554163,
@@ -10622,8 +8618,8 @@ var cust_DB=[
    "Name": "PERUMALLA CHINNA VENKATESWARLU",
    "Area": "Seethapuram",
    "Cel 1": "7993809045",
-   "Status": "active",
-   "Due Date": "24-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "27-Aug-20"
  },
  {
    "SMS ID": 20719082,
@@ -10635,7 +8631,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "7337596609",
    "Status": "active",
-   "Due Date": "23-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 20719097,
@@ -10646,8 +8642,8 @@ var cust_DB=[
    "Name": "SHESAREDDY (HOSPETAL)",
    "Area": "Nellipaka",
    "Cel 1": "8247358688",
-   "Status": "active",
-   "Due Date": "26-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "28-Aug-20"
  },
  {
    "SMS ID": 20746284,
@@ -10658,8 +8654,8 @@ var cust_DB=[
    "Name": "KARAM VARALAXMI",
    "Area": "NEllipaka",
    "Cel 1": "",
-   "Status": "active",
-   "Due Date": "25-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "30-Aug-20"
  },
  {
    "SMS ID": 20754370,
@@ -10670,8 +8666,8 @@ var cust_DB=[
    "Name": "LINGALA VENKANNA",
    "Area": "Seethapuram",
    "Cel 1": "9908882521",
-   "Status": "active",
-   "Due Date": "19-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "19-Aug-20"
  },
  {
    "SMS ID": 20986776,
@@ -10683,7 +8679,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Due Date": "05-Aug-20"
  },
  {
    "SMS ID": 21109363,
@@ -10695,19 +8691,7 @@ var cust_DB=[
    "Area": "Kistaram",
    "Cel 1": "7997463675 & 9188888888",
    "Status": "active",
-   "Due Date": "3-Jun-20"
- },
- {
-   "SMS ID": 22188571,
-   "VC No": 2520409877,
-   "LCO ID": 42095,
-   "Subscriber Name": "Buyani vekatadri",
-   "Card No": "#N/A",
-   "Name": "bayyane venkatadri",
-   "Area": "polipaka",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "21-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 13066302,
@@ -10719,7 +8703,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "25-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 13237624,
@@ -10743,19 +8727,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9573294345",
    "Status": "active",
-   "Due Date": "23-Jun-20"
- },
- {
-   "SMS ID": 14974290,
-   "VC No": 1767218144,
-   "LCO ID": 42095,
-   "Subscriber Name": "CHALLAKOTI RAMADEVI",
-   "Card No": "45",
-   "Name": "CHALLAKOTI RAMADEVI",
-   "Area": "Murumuru",
-   "Cel 1": "8790400170",
-   "Status": "active",
-   "Due Date": "10-Jun-20"
+   "Due Date": "26-Sep-20"
  },
  {
    "SMS ID": 15427855,
@@ -10766,8 +8738,8 @@ var cust_DB=[
    "Name": "K.DHANA LAKSHMI",
    "Area": "Nellipaka",
    "Cel 1": "8185805886",
-   "Status": "active",
-   "Due Date": "24-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "31-Aug-20"
  },
  {
    "SMS ID": 15445717,
@@ -10778,8 +8750,8 @@ var cust_DB=[
    "Name": "MARLAPATI VENKANNA",
    "Area": "Awer Colony",
    "Cel 1": "NO PHINE",
-   "Status": "Inactive",
-   "Due Date": "24-May-20"
+   "Status": "active",
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 15446931,
@@ -10791,7 +8763,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "6301116568",
    "Status": "active",
-   "Due Date": "22-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 15447662,
@@ -10802,20 +8774,8 @@ var cust_DB=[
    "Name": "G.NAGESWARARAO",
    "Area": "Chodavaram",
    "Cel 1": "9908727404",
-   "Status": "Inactive",
-   "Due Date": "27-May-20"
- },
- {
-   "SMS ID": 15447871,
-   "VC No": 1330117764,
-   "LCO ID": 42095,
-   "Subscriber Name": "KHAMMAMPATI HIMAVATHI",
-   "Card No": "18",
-   "Name": "KHAMMAMPATI HIMAVATHI",
-   "Area": "Murumuru",
-   "Cel 1": "9951437394",
-   "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Status": "active",
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 15448269,
@@ -10826,8 +8786,8 @@ var cust_DB=[
    "Name": "YALABAKA RAMA KRISHNA",
    "Area": "Rayanapeta",
    "Cel 1": "",
-   "Status": "active",
-   "Due Date": "5-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "06-Jun-20"
  },
  {
    "SMS ID": 15448306,
@@ -10839,31 +8799,7 @@ var cust_DB=[
    "Area": "Pandurangapuram",
    "Cel 1": "8790245665",
    "Status": "active",
-   "Due Date": "4-Jun-20"
- },
- {
-   "SMS ID": 15459672,
-   "VC No": 1331068139,
-   "LCO ID": 42095,
-   "Subscriber Name": "Uma kilau",
-   "Card No": "668",
-   "Name": "SONDEY ADAMMA RAJU",
-   "Area": "Bhemavaram",
-   "Cel 1": "7995262271",
-   "Status": "active",
-   "Due Date": "2-Jun-20"
- },
- {
-   "SMS ID": 15460107,
-   "VC No": 1330781629,
-   "LCO ID": 42095,
-   "Subscriber Name": "NAMALA KAMESWARARAO",
-   "Card No": "433/A",
-   "Name": "NAMALA KAMESWARARAO",
-   "Area": "Murumuru",
-   "Cel 1": "7659059915",
-   "Status": "active",
-   "Due Date": "27-Jun-20"
+   "Due Date": "05-Sep-20"
  },
  {
    "SMS ID": 15460114,
@@ -10874,20 +8810,8 @@ var cust_DB=[
    "Name": "AKULA PULLA RAO",
    "Area": "Gannerukoyyapadu",
    "Cel 1": "9959125211",
-   "Status": "active",
-   "Due Date": "25-Jun-20"
- },
- {
-   "SMS ID": 15460462,
-   "VC No": 1331056753,
-   "LCO ID": 42095,
-   "Subscriber Name": "Uma Kilaru",
-   "Card No": "#N/A",
-   "Name": "chandulalu",
-   "Area": "tanda",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "22-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "25-Aug-20"
  },
  {
    "SMS ID": 15464586,
@@ -10899,7 +8823,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "9912396057",
    "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "05-Sep-20"
  },
  {
    "SMS ID": 15901826,
@@ -10911,7 +8835,7 @@ var cust_DB=[
    "Area": "Gowridevipeta",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "25-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 16438661,
@@ -10922,8 +8846,8 @@ var cust_DB=[
    "Name": "MACHARLA SRINU",
    "Area": "Seethapuram",
    "Cel 1": "9963852747",
-   "Status": "active",
-   "Due Date": "25-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "22-Aug-20"
  },
  {
    "SMS ID": 16484052,
@@ -10935,19 +8859,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9542191498 & 7659019250",
    "Status": "active",
-   "Due Date": "23-Jun-20"
- },
- {
-   "SMS ID": 16484127,
-   "VC No": 1331735872,
-   "LCO ID": 42095,
-   "Subscriber Name": "koti",
-   "Card No": "926",
-   "Name": "KOKATLA VENKATESWARLU(NAVEEN)",
-   "Area": "Palamadugu",
-   "Cel 1": "9701066190",
-   "Status": "active",
-   "Due Date": "26-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 16502862,
@@ -10959,19 +8871,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9912186252",
    "Status": "active",
-   "Due Date": "5-Jun-20"
- },
- {
-   "SMS ID": 16502974,
-   "VC No": 1331699239,
-   "LCO ID": 42095,
-   "Subscriber Name": "SAIKH RASUL",
-   "Card No": "400",
-   "Name": "SK.RASOOL",
-   "Area": "Murumuru",
-   "Cel 1": "0",
-   "Status": "active",
-   "Due Date": "24-Jun-20"
+   "Due Date": "06-Sep-20"
  },
  {
    "SMS ID": 20261183,
@@ -10982,20 +8882,8 @@ var cust_DB=[
    "Name": "KOVULURI SRINU",
    "Area": "Ayyavaripeta",
    "Cel 1": "",
-   "Status": "active",
-   "Due Date": "3-Jun-20"
- },
- {
-   "SMS ID": 20486020,
-   "VC No": 2516003143,
-   "LCO ID": 42095,
-   "Subscriber Name": "thriveni",
-   "Card No": "1181.A",
-   "Name": "KANGALA DURGARAO-2",
-   "Area": "Pandurangapuram",
-   "Cel 1": "7702073120",
    "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Due Date": "08-Aug-20"
  },
  {
    "SMS ID": 20640989,
@@ -11006,32 +8894,8 @@ var cust_DB=[
    "Name": "PACHIKA ROSHAMMA",
    "Area": "Kapugompalli",
    "Cel 1": "0",
-   "Status": "active",
-   "Due Date": "6-Jun-20"
- },
- {
-   "SMS ID": 20857227,
-   "VC No": 2520425922,
-   "LCO ID": 42095,
-   "Subscriber Name": "KAKA NAGESWARAOPULLAMMA",
-   "Card No": "53",
-   "Name": "KAKA NAGESWARAO(PULLAMMA)",
-   "Area": "Murumuru",
-   "Cel 1": "8074530008",
-   "Status": "active",
-   "Due Date": "20-Jun-20"
- },
- {
-   "SMS ID": 21096319,
-   "VC No": 2517087613,
-   "LCO ID": 42095,
-   "Subscriber Name": "ANJIBABU",
-   "Card No": "12",
-   "Name": "GADESULA SATHANARAYANA",
-   "Area": "Kachavaram",
-   "Cel 1": "9908879764",
    "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Due Date": "19-Aug-20"
  },
  {
    "SMS ID": 21280405,
@@ -11043,7 +8907,7 @@ var cust_DB=[
    "Area": "Kapugompalli",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "4-Jun-20"
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 21343730,
@@ -11055,19 +8919,7 @@ var cust_DB=[
    "Area": "Yarraboru",
    "Cel 1": "9492580074",
    "Status": "active",
-   "Due Date": "27-Jun-20"
- },
- {
-   "SMS ID": 21720778,
-   "VC No": 2520440364,
-   "LCO ID": 42095,
-   "Subscriber Name": "Panda sathemma",
-   "Card No": "125",
-   "Name": "PANDA SATHYAMMA",
-   "Area": "Gommukoyagudem",
-   "Cel 1": "7702331727",
-   "Status": "active",
-   "Due Date": "26-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 21950745,
@@ -11079,7 +8931,7 @@ var cust_DB=[
    "Area": "Gannerukoyyapadu",
    "Cel 1": "9989898135",
    "Status": "active",
-   "Due Date": "5-Jun-20"
+   "Due Date": "11-Sep-20"
  },
  {
    "SMS ID": 22077840,
@@ -11091,7 +8943,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "8985398142",
    "Status": "Inactive",
-   "Due Date": "16-May-20"
+   "Due Date": "01-Jul-20"
  },
  {
    "SMS ID": 22550628,
@@ -11099,23 +8951,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "Badavath laxman",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "Badavath laxman",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "1-May-20"
- },
- {
-   "SMS ID": 11917980,
-   "VC No": 1767244177,
-   "LCO ID": 42095,
-   "Subscriber Name": "CHALLAKOTI SRINU",
-   "Card No": "48",
-   "Name": "CHALLAKOTI SRINU",
-   "Area": "Murumuru",
-   "Cel 1": "8106290864",
-   "Status": "active",
-   "Due Date": "9-Jun-20"
+   "Due Date": "03-Aug-20"
  },
  {
    "SMS ID": 12582481,
@@ -11127,19 +8967,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "9701414272",
    "Status": "active",
-   "Due Date": "4-Jun-20"
- },
- {
-   "SMS ID": 12582523,
-   "VC No": 1768480841,
-   "LCO ID": 42095,
-   "Subscriber Name": "subbu",
-   "Card No": "203",
-   "Name": "UKE RAMAIAH",
-   "Area": "Gommu Kothagudem",
-   "Cel 1": "9515228517",
-   "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "10-Sep-20"
  },
  {
    "SMS ID": 13496092,
@@ -11150,8 +8978,8 @@ var cust_DB=[
    "Name": "CHITTI VEERAVENKATA SATYANARAYANA",
    "Area": "Venkatareddypeta",
    "Cel 1": "8179184539",
-   "Status": "Inactive",
-   "Due Date": "22-Apr-20"
+   "Status": "active",
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 15207335,
@@ -11163,7 +8991,7 @@ var cust_DB=[
    "Area": "Regadigattu",
    "Cel 1": "9704415532",
    "Status": "active",
-   "Due Date": "25-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 15427701,
@@ -11174,8 +9002,8 @@ var cust_DB=[
    "Name": "YELURI NARASIMHA RAO",
    "Area": "Nellipaka",
    "Cel 1": "9705840138",
-   "Status": "Inactive",
-   "Due Date": "27-May-20"
+   "Status": "active",
+   "Due Date": "05-Sep-20"
  },
  {
    "SMS ID": 15447616,
@@ -11187,19 +9015,7 @@ var cust_DB=[
    "Area": "Kapugompalli",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "29-Jun-20"
- },
- {
-   "SMS ID": 15460497,
-   "VC No": 1331056746,
-   "LCO ID": 42095,
-   "Subscriber Name": "Uma Kilaru",
-   "Card No": "665",
-   "Name": "PENUBALLU SUBBARAO",
-   "Area": "Bhemavaram",
-   "Cel 1": "9550771015",
-   "Status": "active",
-   "Due Date": "7-Jun-20"
+   "Due Date": "28-Sep-20"
  },
  {
    "SMS ID": 15465232,
@@ -11211,19 +9027,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "9177043716",
    "Status": "active",
-   "Due Date": "23-Jun-20"
- },
- {
-   "SMS ID": 15901842,
-   "VC No": 1331358839,
-   "LCO ID": 42095,
-   "Subscriber Name": "sathya prasad",
-   "Card No": "225",
-   "Name": "PANDA NARAYANA",
-   "Area": "Gommu Kothagudem",
-   "Cel 1": "9701408696",
-   "Status": "active",
-   "Due Date": "13-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 15902375,
@@ -11235,31 +9039,7 @@ var cust_DB=[
    "Area": "Ayyavaripeta",
    "Cel 1": "8978171868",
    "Status": "active",
-   "Due Date": "23-Jun-20"
- },
- {
-   "SMS ID": 16113845,
-   "VC No": 1331430293,
-   "LCO ID": 42095,
-   "Subscriber Name": "MOYYA KRISHNA",
-   "Card No": "403",
-   "Name": "MOYYA KRISHNA",
-   "Area": "Murumuru",
-   "Cel 1": "8790463553",
-   "Status": "active",
-   "Due Date": "23-Jun-20"
- },
- {
-   "SMS ID": 16484189,
-   "VC No": 1331700420,
-   "LCO ID": 42095,
-   "Subscriber Name": "koti",
-   "Card No": "1164",
-   "Name": "PUNNEM VENKATRAO(VEERABABU)",
-   "Area": "Pandurangapuram",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 16641376,
@@ -11271,19 +9051,7 @@ var cust_DB=[
    "Area": "Kapugompalli",
    "Cel 1": "9948914622",
    "Status": "Inactive",
-   "Due Date": "30-May-20"
- },
- {
-   "SMS ID": 16769817,
-   "VC No": 1331699423,
-   "LCO ID": 42095,
-   "Subscriber Name": "Sathya Prasad",
-   "Card No": "228",
-   "Name": "SUNNM SEETHARAMAIAH",
-   "Area": "Gommu Kothagudem",
-   "Cel 1": "9398687839",
-   "Status": "active",
-   "Due Date": "29-Jun-20"
+   "Due Date": "30-Aug-20"
  },
  {
    "SMS ID": 17146919,
@@ -11295,7 +9063,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "7674954017",
    "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 17146977,
@@ -11307,7 +9075,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9866671280",
    "Status": "active",
-   "Due Date": "23-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 20297397,
@@ -11319,7 +9087,7 @@ var cust_DB=[
    "Area": "Venkatareddypeta",
    "Cel 1": "9121904382",
    "Status": "active",
-   "Due Date": "27-Jun-20"
+   "Due Date": "27-Sep-20"
  },
  {
    "SMS ID": 20297432,
@@ -11330,8 +9098,8 @@ var cust_DB=[
    "Name": "PALLANTI RAMU",
    "Area": "Rayanapeta",
    "Cel 1": "0",
-   "Status": "Inactive",
-   "Due Date": "16-May-20"
+   "Status": "active",
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 20303243,
@@ -11343,19 +9111,7 @@ var cust_DB=[
    "Area": "Gowridevipeta",
    "Cel 1": "9963821294",
    "Status": "active",
-   "Due Date": "28-Jun-20"
- },
- {
-   "SMS ID": 20388733,
-   "VC No": 2516124995,
-   "LCO ID": 42095,
-   "Subscriber Name": "charla",
-   "Card No": "#N/A",
-   "Name": "thummala venkateswarlu",
-   "Area": "palamadugu",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "26-Jun-20"
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 20498300,
@@ -11366,8 +9122,8 @@ var cust_DB=[
    "Name": "RAMBABU",
    "Area": "Gannavaram",
    "Cel 1": "9505740503",
-   "Status": "Inactive",
-   "Due Date": "24-May-20"
+   "Status": "active",
+   "Due Date": "11-Sep-20"
  },
  {
    "SMS ID": 20503614,
@@ -11379,7 +9135,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "7995460987",
    "Status": "Inactive",
-   "Due Date": "29-May-20"
+   "Due Date": "08-Aug-20"
  },
  {
    "SMS ID": 20543075,
@@ -11391,7 +9147,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9100856966",
    "Status": "active",
-   "Due Date": "28-Jun-20"
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 20641249,
@@ -11403,7 +9159,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "25-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 20856230,
@@ -11414,8 +9170,8 @@ var cust_DB=[
    "Name": "PAYAM HARIKRISHNA",
    "Area": "Gannavaram",
    "Cel 1": "",
-   "Status": "active",
-   "Due Date": "12-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "23-Aug-20"
  },
  {
    "SMS ID": 21666088,
@@ -11427,7 +9183,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "6305999575",
    "Status": "active",
-   "Due Date": "23-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 21666104,
@@ -11439,7 +9195,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9603794818",
    "Status": "active",
-   "Due Date": "24-Jun-20"
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 21889889,
@@ -11450,20 +9206,8 @@ var cust_DB=[
    "Name": "PADDHAM LAXMI",
    "Area": "Kistaram",
    "Cel 1": "",
-   "Status": "active",
-   "Due Date": "26-Jun-20"
- },
- {
-   "SMS ID": 21909045,
-   "VC No": 2520457558,
-   "LCO ID": 42095,
-   "Subscriber Name": "THATI RAVI",
-   "Card No": "225/A",
-   "Name": "VANDA ANNAPURNA",
-   "Area": "Gommu Kothagudem",
-   "Cel 1": "9394803390 & 8919865618",
-   "Status": "active",
-   "Due Date": "15-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "08-Jun-20"
  },
  {
    "SMS ID": 21917838,
@@ -11475,19 +9219,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "9989495636",
    "Status": "active",
-   "Due Date": "2-Jun-20"
- },
- {
-   "SMS ID": 21983100,
-   "VC No": 2520439148,
-   "LCO ID": 42095,
-   "Subscriber Name": "Kara Durgaiah",
-   "Card No": "229",
-   "Name": "Karam Durgarao",
-   "Area": "Gommu Kothagudem",
-   "Cel 1": "7674812422",
-   "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 22093376,
@@ -11499,7 +9231,7 @@ var cust_DB=[
    "Area": "SEETHAPURAM",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "25-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 22575191,
@@ -11510,8 +9242,8 @@ var cust_DB=[
    "Name": "Bdavath baskar",
    "Area": "thanda",
    "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "27-May-20"
+   "Status": "active",
+   "Due Date": "28-Sep-20"
  },
  {
    "SMS ID": 11910782,
@@ -11523,7 +9255,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "7702342446",
    "Status": "active",
-   "Due Date": "4-Jun-20"
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 11917988,
@@ -11534,8 +9266,8 @@ var cust_DB=[
    "Name": "RAI RAMANARAO",
    "Area": "Seethapuram",
    "Cel 1": "9652711910",
-   "Status": "active",
-   "Due Date": "27-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 11918017,
@@ -11547,7 +9279,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "9989492622",
    "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 13066321,
@@ -11559,7 +9291,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "9550882896",
    "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 13484498,
@@ -11571,7 +9303,7 @@ var cust_DB=[
    "Area": "Kistaram",
    "Cel 1": "0",
    "Status": "active",
-   "Due Date": "27-Jun-20"
+   "Due Date": "27-Sep-20"
  },
  {
    "SMS ID": 13496343,
@@ -11583,7 +9315,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9989755104",
    "Status": "active",
-   "Due Date": "25-Jun-20"
+   "Due Date": "12-Sep-20"
  },
  {
    "SMS ID": 13496401,
@@ -11595,7 +9327,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9000450317",
    "Status": "active",
-   "Due Date": "24-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 13496414,
@@ -11607,7 +9339,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "9550829190",
    "Status": "active",
-   "Due Date": "15-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 13496436,
@@ -11618,8 +9350,8 @@ var cust_DB=[
    "Name": "KUSUMARAJU RAGAVULU(PADMA)",
    "Area": "Thotapalli",
    "Cel 1": "8332987289",
-   "Status": "active",
-   "Due Date": "27-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 15440459,
@@ -11631,7 +9363,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "8500978119",
    "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 15446981,
@@ -11642,8 +9374,8 @@ var cust_DB=[
    "Name": "VASAM DEVI",
    "Area": "Chodavaram",
    "Cel 1": "8185906259",
-   "Status": "Inactive",
-   "Due Date": "31-May-20"
+   "Status": "active",
+   "Due Date": "28-Sep-20"
  },
  {
    "SMS ID": 15447145,
@@ -11654,8 +9386,8 @@ var cust_DB=[
    "Name": "SK.THARABE",
    "Area": "Nellipaka",
    "Cel 1": "9676550160",
-   "Status": "Inactive",
-   "Due Date": "27-Jan-20"
+   "Status": "active",
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 15447574,
@@ -11667,7 +9399,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "8978256545",
    "Status": "active",
-   "Due Date": "25-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 15447595,
@@ -11679,7 +9411,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "8106855668 & 7780307732",
    "Status": "active",
-   "Due Date": "11-Jun-20"
+   "Due Date": "09-Sep-20"
  },
  {
    "SMS ID": 15448170,
@@ -11691,19 +9423,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "23-Apr-20"
- },
- {
-   "SMS ID": 15460286,
-   "VC No": 1330927165,
-   "LCO ID": 42095,
-   "Subscriber Name": "Uma Kilaru",
-   "Card No": "705.A",
-   "Name": "PENUBALLI CHANTI",
-   "Area": "Bhemavaram",
-   "Cel 1": "DTH",
-   "Status": "active",
-   "Due Date": "21-Jun-20"
+   "Due Date": "23-Aug-20"
  },
  {
    "SMS ID": 15460300,
@@ -11715,7 +9435,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "7732028804",
    "Status": "active",
-   "Due Date": "26-Jun-20"
+   "Due Date": "26-Sep-20"
  },
  {
    "SMS ID": 15464575,
@@ -11727,7 +9447,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "9618813009",
    "Status": "active",
-   "Due Date": "5-Jun-20"
+   "Due Date": "06-Sep-20"
  },
  {
    "SMS ID": 15469139,
@@ -11739,7 +9459,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9989113656",
    "Status": "active",
-   "Due Date": "24-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 15851189,
@@ -11750,8 +9470,8 @@ var cust_DB=[
    "Name": "TIRUVEEDULA VENKANNA",
    "Area": "Nellipaka",
    "Cel 1": "7997289514",
-   "Status": "Inactive",
-   "Due Date": "28-May-20"
+   "Status": "active",
+   "Due Date": "28-Sep-20"
  },
  {
    "SMS ID": 15851472,
@@ -11763,7 +9483,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "28-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 15862295,
@@ -11775,7 +9495,7 @@ var cust_DB=[
    "Area": "Gowridevipeta",
    "Cel 1": "9553098672",
    "Status": "active",
-   "Due Date": "25-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 16111707,
@@ -11786,8 +9506,8 @@ var cust_DB=[
    "Name": "MADINENI VENKATESWARA RAO",
    "Area": "Rayanapeta",
    "Cel 1": "9963406266",
-   "Status": "Inactive",
-   "Due Date": "28-May-20"
+   "Status": "active",
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 16502604,
@@ -11798,8 +9518,8 @@ var cust_DB=[
    "Name": "JILAKARI SAMBAIAH",
    "Area": "Nellipaka",
    "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "28-May-20"
+   "Status": "active",
+   "Due Date": "06-Sep-20"
  },
  {
    "SMS ID": 16561657,
@@ -11810,8 +9530,8 @@ var cust_DB=[
    "Name": "MODHUGA CHIRANJEEVI",
    "Area": "Gannavaram",
    "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "29-May-20"
+   "Status": "active",
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 17155111,
@@ -11823,19 +9543,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "7330977661",
    "Status": "active",
-   "Due Date": "1-Jun-20"
- },
- {
-   "SMS ID": 17158691,
-   "VC No": 1331723229,
-   "LCO ID": 42095,
-   "Subscriber Name": "koti",
-   "Card No": "226.A",
-   "Name": "SUNNAM NAGENDRA BABU",
-   "Area": "Gommu Kothagudem",
-   "Cel 1": "9502844535",
-   "Status": "active",
-   "Due Date": "14-Jun-20"
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 20022103,
@@ -11847,7 +9555,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "9618541939",
    "Status": "active",
-   "Due Date": "13-Jun-20"
+   "Due Date": "12-Sep-20"
  },
  {
    "SMS ID": 20026460,
@@ -11858,8 +9566,8 @@ var cust_DB=[
    "Name": "KANITHI ANJALI",
    "Area": "Pandurangapuram",
    "Cel 1": "8501939298",
-   "Status": "Inactive",
-   "Due Date": "28-May-20"
+   "Status": "active",
+   "Due Date": "06-Sep-20"
  },
  {
    "SMS ID": 20182536,
@@ -11870,8 +9578,8 @@ var cust_DB=[
    "Name": "PURETI SRINIVAS(KALAVATHI)",
    "Area": "Rayanapeta",
    "Cel 1": "8374295299",
-   "Status": "Inactive",
-   "Due Date": "31-May-20"
+   "Status": "active",
+   "Due Date": "12-Sep-20"
  },
  {
    "SMS ID": 20262326,
@@ -11883,7 +9591,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "7995470059",
    "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Due Date": "16-Aug-20"
  },
  {
    "SMS ID": 20729345,
@@ -11895,7 +9603,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "8978623291",
    "Status": "active",
-   "Due Date": "14-Jun-20"
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 20768586,
@@ -11907,31 +9615,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "0",
    "Status": "active",
-   "Due Date": "26-Jun-20"
- },
- {
-   "SMS ID": 21098288,
-   "VC No": 2517324864,
-   "LCO ID": 42095,
-   "Subscriber Name": "RAJU",
-   "Card No": "75",
-   "Name": "KOKKINENI SATHYANARAYANA",
-   "Area": "Kachavaram",
-   "Cel 1": "9550738120",
-   "Status": "Inactive",
-   "Due Date": "28-May-20"
- },
- {
-   "SMS ID": 21098301,
-   "VC No": 2517324780,
-   "LCO ID": 42095,
-   "Subscriber Name": "HARI",
-   "Card No": "73",
-   "Name": "KOKINENI RAMARAO",
-   "Area": "Kachavaram",
-   "Cel 1": "9603133132",
-   "Status": "Inactive",
-   "Due Date": "28-May-20"
+   "Due Date": "26-Sep-20"
  },
  {
    "SMS ID": 21176429,
@@ -11943,19 +9627,7 @@ var cust_DB=[
    "Area": "Venkatareddypeta",
    "Cel 1": "9505882280 & 9989666749",
    "Status": "active",
-   "Due Date": "10-Jun-20"
- },
- {
-   "SMS ID": 21307670,
-   "VC No": 2517301611,
-   "LCO ID": 42095,
-   "Subscriber Name": "HARI",
-   "Card No": "#N/A",
-   "Name": "kottey ashok",
-   "Area": "thanda",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "26-Jun-20"
+   "Due Date": "10-Sep-20"
  },
  {
    "SMS ID": 21476426,
@@ -11967,7 +9639,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "9652522124",
    "Status": "active",
-   "Due Date": "28-Jun-20"
+   "Due Date": "28-Sep-20"
  },
  {
    "SMS ID": 21674496,
@@ -11978,8 +9650,8 @@ var cust_DB=[
    "Name": "DHONTHU MANGESWARAO",
    "Area": "Gannerukoyyapadu",
    "Cel 1": "9603197321 & 7036451748",
-   "Status": "active",
-   "Due Date": "5-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "06-Jun-20"
  },
  {
    "SMS ID": 21780788,
@@ -11991,7 +9663,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "9676375820",
    "Status": "active",
-   "Due Date": "25-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 13484314,
@@ -12003,19 +9675,7 @@ var cust_DB=[
    "Area": "Pandurangapuram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "28-Jun-20"
- },
- {
-   "SMS ID": 13496700,
-   "VC No": 1769333922,
-   "LCO ID": 42095,
-   "Subscriber Name": "LNM Kamalakara rao",
-   "Card No": "1181",
-   "Name": "KANGALA KISHOR",
-   "Area": "Pandurangapuram",
-   "Cel 1": "9701692901",
-   "Status": "active",
-   "Due Date": "11-Jun-20"
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 15421972,
@@ -12027,7 +9687,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "0",
    "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 15446568,
@@ -12039,7 +9699,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9848238658",
    "Status": "active",
-   "Due Date": "13-Jun-20"
+   "Due Date": "13-Sep-20"
  },
  {
    "SMS ID": 15447583,
@@ -12051,7 +9711,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9618107745",
    "Status": "Inactive",
-   "Due Date": "29-May-20"
+   "Due Date": "01-Jul-20"
  },
  {
    "SMS ID": 15447632,
@@ -12059,23 +9719,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "Sambasivarao",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "Sambasivarao",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
    "Due Date": "27-Feb-20"
- },
- {
-   "SMS ID": 15447646,
-   "VC No": 1330117798,
-   "LCO ID": 42095,
-   "Subscriber Name": "BACHALAKURA RAMANA",
-   "Card No": "#N/A",
-   "Name": "chintha borraiah",
-   "Area": "kachavaram",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "23-Jun-20"
  },
  {
    "SMS ID": 15447793,
@@ -12086,8 +9734,8 @@ var cust_DB=[
    "Name": "THATI BALARAJU",
    "Area": "Regadigattu",
    "Cel 1": "8333808525",
-   "Status": "active",
-   "Due Date": "7-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "18-Aug-20"
  },
  {
    "SMS ID": 15447798,
@@ -12099,7 +9747,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "8074388838",
    "Status": "active",
-   "Due Date": "26-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 15460605,
@@ -12111,43 +9759,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9963835287",
    "Status": "Inactive",
-   "Due Date": "1-Jun-20"
- },
- {
-   "SMS ID": 15862774,
-   "VC No": 1331356785,
-   "LCO ID": 42095,
-   "Subscriber Name": "sathya prasad",
-   "Card No": "663",
-   "Name": "PENUBALLY GANESH",
-   "Area": "Bhemavaram",
-   "Cel 1": "9550122898",
-   "Status": "active",
-   "Due Date": "6-Jun-20"
- },
- {
-   "SMS ID": 15901092,
-   "VC No": 1331503105,
-   "LCO ID": 42095,
-   "Subscriber Name": "sathya prasad",
-   "Card No": "1182",
-   "Name": "KANGALA",
-   "Area": "Pandurangapuram",
-   "Cel 1": "7702342893",
-   "Status": "active",
-   "Due Date": "28-Jun-20"
- },
- {
-   "SMS ID": 16113665,
-   "VC No": 1331429201,
-   "LCO ID": 42095,
-   "Subscriber Name": "KOTI",
-   "Card No": "63",
-   "Name": "MUKKAVARAPU RAMU",
-   "Area": "Gogubaka",
-   "Cel 1": "7673942706",
-   "Status": "active",
-   "Due Date": "26-Jun-20"
+   "Due Date": "31-Jul-20"
  },
  {
    "SMS ID": 16114049,
@@ -12159,7 +9771,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "9989824133",
    "Status": "active",
-   "Due Date": "1-Jun-20"
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 16483995,
@@ -12171,7 +9783,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 16484260,
@@ -12183,7 +9795,7 @@ var cust_DB=[
    "Area": "Ayyavaripeta",
    "Cel 1": "9676378194",
    "Status": "active",
-   "Due Date": "10-Jun-20"
+   "Due Date": "10-Sep-20"
  },
  {
    "SMS ID": 16561027,
@@ -12195,7 +9807,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9866447906",
    "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 20261159,
@@ -12206,8 +9818,8 @@ var cust_DB=[
    "Name": "JAKKULA SAIBABU",
    "Area": "Seethapuram",
    "Cel 1": "9100569178",
-   "Status": "active",
-   "Due Date": "26-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "29-Aug-20"
  },
  {
    "SMS ID": 20261172,
@@ -12219,7 +9831,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9652328623",
    "Status": "active",
-   "Due Date": "4-Jun-20"
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 20481565,
@@ -12231,19 +9843,7 @@ var cust_DB=[
    "Area": "Gowridevipeta",
    "Cel 1": "9949686946",
    "Status": "active",
-   "Due Date": "26-Jun-20"
- },
- {
-   "SMS ID": 20486665,
-   "VC No": 2516010019,
-   "LCO ID": 42095,
-   "Subscriber Name": "thriveni",
-   "Card No": "#N/A",
-   "Name": "kachavaram",
-   "Area": "#N/A",
-   "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 20548957,
@@ -12255,7 +9855,7 @@ var cust_DB=[
    "Area": "Gowridevipeta",
    "Cel 1": "9550831673",
    "Status": "active",
-   "Due Date": "28-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 20554416,
@@ -12267,7 +9867,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "7095083553",
    "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "07-Sep-20"
  },
  {
    "SMS ID": 20768594,
@@ -12278,8 +9878,8 @@ var cust_DB=[
    "Name": "M.VENKATACHARI",
    "Area": "Gowridevipeta",
    "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Status": "active",
+   "Due Date": "05-Sep-20"
  },
  {
    "SMS ID": 21009720,
@@ -12291,7 +9891,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Due Date": "21-Sep-20"
  },
  {
    "SMS ID": 21100473,
@@ -12303,7 +9903,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "7989294610",
    "Status": "active",
-   "Due Date": "4-Jun-20"
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 21647867,
@@ -12315,7 +9915,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9573702622",
    "Status": "active",
-   "Due Date": "29-Jun-20"
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 21698087,
@@ -12327,19 +9927,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "9908825241",
    "Status": "active",
-   "Due Date": "9-Jun-20"
- },
- {
-   "SMS ID": 21868534,
-   "VC No": 2520457291,
-   "LCO ID": 42095,
-   "Subscriber Name": "P SHIVA",
-   "Card No": "85.A",
-   "Name": "PODIYAM SHIVA",
-   "Area": "Gommukoyagudem",
-   "Cel 1": "7036135073",
-   "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Due Date": "07-Sep-20"
  },
  {
    "SMS ID": 21904593,
@@ -12351,19 +9939,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "6380232055",
    "Status": "active",
-   "Due Date": "3-Jun-20"
- },
- {
-   "SMS ID": 21923727,
-   "VC No": 2520457364,
-   "LCO ID": 42095,
-   "Subscriber Name": "UK ARJUN",
-   "Card No": "220",
-   "Name": "UKE ARJUN",
-   "Area": "Gommu Kothagudem",
-   "Cel 1": "8179195982 & 8179198932",
-   "Status": "active",
-   "Due Date": "15-Jun-20"
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 22168125,
@@ -12375,7 +9951,7 @@ var cust_DB=[
    "Area": "nellipaka",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "28-Jun-20"
+   "Due Date": "27-Sep-20"
  },
  {
    "SMS ID": 11907131,
@@ -12387,7 +9963,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "0",
    "Status": "active",
-   "Due Date": "27-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 11907244,
@@ -12398,8 +9974,8 @@ var cust_DB=[
    "Name": "PASUPULETI VENKATESH",
    "Area": "Kapugompalli",
    "Cel 1": "8179036651",
-   "Status": "Inactive",
-   "Due Date": "10-Apr-20"
+   "Status": "active",
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 13086761,
@@ -12410,8 +9986,8 @@ var cust_DB=[
    "Name": "ANGADI SATYAVATHI",
    "Area": "Nellipaka",
    "Cel 1": "8198859485",
-   "Status": "Inactive",
-   "Due Date": "30-May-20"
+   "Status": "active",
+   "Due Date": "06-Sep-20"
  },
  {
    "SMS ID": 13195251,
@@ -12423,7 +9999,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "8500864327",
    "Status": "active",
-   "Due Date": "26-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 13423509,
@@ -12435,7 +10011,7 @@ var cust_DB=[
    "Area": "Venkatareddypeta",
    "Cel 1": "9550198021",
    "Status": "Inactive",
-   "Due Date": "6-May-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 13485102,
@@ -12447,7 +10023,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9550980682",
    "Status": "active",
-   "Due Date": "26-Jun-20"
+   "Due Date": "28-Sep-20"
  },
  {
    "SMS ID": 13496107,
@@ -12459,7 +10035,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "0",
    "Status": "active",
-   "Due Date": "28-Jun-20"
+   "Due Date": "26-Sep-20"
  },
  {
    "SMS ID": 13496455,
@@ -12471,7 +10047,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "0",
    "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 13546818,
@@ -12483,7 +10059,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "7330984430",
    "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 15207339,
@@ -12495,7 +10071,7 @@ var cust_DB=[
    "Area": "Regadigattu",
    "Cel 1": "8500400987",
    "Status": "active",
-   "Due Date": "9-Jun-20"
+   "Due Date": "09-Sep-20"
  },
  {
    "SMS ID": 15207342,
@@ -12507,19 +10083,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "8790696211",
    "Status": "active",
-   "Due Date": "28-Jun-20"
- },
- {
-   "SMS ID": 15208251,
-   "VC No": 1330920549,
-   "LCO ID": 42095,
-   "Subscriber Name": "RAj",
-   "Card No": "669",
-   "Name": "PENUBALLY BHADRAIAH",
-   "Area": "Bhemavaram",
-   "Cel 1": "8008585617",
-   "Status": "active",
-   "Due Date": "9-Jun-20"
+   "Due Date": "26-Sep-20"
  },
  {
    "SMS ID": 15440042,
@@ -12531,7 +10095,7 @@ var cust_DB=[
    "Area": "Murumuru",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "29-Jun-20"
+   "Due Date": "12-Oct-20"
  },
  {
    "SMS ID": 15447624,
@@ -12555,7 +10119,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "9603330866",
    "Status": "active",
-   "Due Date": "27-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 15448311,
@@ -12567,7 +10131,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "9912363497",
    "Status": "active",
-   "Due Date": "28-Jun-20"
+   "Due Date": "26-Sep-20"
  },
  {
    "SMS ID": 15460639,
@@ -12579,7 +10143,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "8978426845",
    "Status": "active",
-   "Due Date": "27-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 15658423,
@@ -12591,7 +10155,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "8106306721",
    "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "27-Sep-20"
  },
  {
    "SMS ID": 15862614,
@@ -12603,7 +10167,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9493118354",
    "Status": "active",
-   "Due Date": "23-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 15865918,
@@ -12615,7 +10179,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "9-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 16483886,
@@ -12627,7 +10191,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9515896058",
    "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 16502437,
@@ -12638,8 +10202,8 @@ var cust_DB=[
    "Name": "MARLAPATI MALLURAIAH",
    "Area": "Seethapuram",
    "Cel 1": "9949666718",
-   "Status": "active",
-   "Due Date": "29-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "29-Aug-20"
  },
  {
    "SMS ID": 16561522,
@@ -12650,20 +10214,8 @@ var cust_DB=[
    "Name": "MARLAPATI RAMARAO",
    "Area": "Seethapuram",
    "Cel 1": "9652939034",
-   "Status": "Inactive",
-   "Due Date": "1-Jun-20"
- },
- {
-   "SMS ID": 16769754,
-   "VC No": 1331699418,
-   "LCO ID": 42095,
-   "Subscriber Name": "SONDHU MUDHARAJU",
-   "Card No": "96",
-   "Name": "SONDHU MUDHARAJU",
-   "Area": "Murumuru",
-   "Cel 1": "9492274606",
-   "Status": "Inactive",
-   "Due Date": "16-May-20"
+   "Status": "active",
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 19983830,
@@ -12699,7 +10251,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "27-Jun-20"
+   "Due Date": "26-Sep-20"
  },
  {
    "SMS ID": 20026470,
@@ -12711,7 +10263,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "9959103110",
    "Status": "active",
-   "Due Date": "13-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 20262289,
@@ -12723,7 +10275,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9505391696",
    "Status": "active",
-   "Due Date": "6-Jun-20"
+   "Due Date": "12-Sep-20"
  },
  {
    "SMS ID": 20303265,
@@ -12735,7 +10287,7 @@ var cust_DB=[
    "Area": "Gowridevipeta",
    "Cel 1": "7702615482",
    "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "11-Sep-20"
  },
  {
    "SMS ID": 20486684,
@@ -12746,8 +10298,8 @@ var cust_DB=[
    "Name": "MARLAPATI NARASIMHARO",
    "Area": "Seethapuram",
    "Cel 1": "9618498514",
-   "Status": "Inactive",
-   "Due Date": "7-Apr-20"
+   "Status": "active",
+   "Due Date": "14-Sep-20"
  },
  {
    "SMS ID": 20543001,
@@ -12758,8 +10310,8 @@ var cust_DB=[
    "Name": "APKA RAJU",
    "Area": "Chodavaram",
    "Cel 1": "7569790667",
-   "Status": "Inactive",
-   "Due Date": "28-May-20"
+   "Status": "active",
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 20742852,
@@ -12771,7 +10323,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9959139705",
    "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 20746372,
@@ -12783,7 +10335,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9505453430",
    "Status": "active",
-   "Due Date": "24-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 20862207,
@@ -12795,7 +10347,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "7382857016",
    "Status": "active",
-   "Due Date": "26-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 21005702,
@@ -12807,7 +10359,7 @@ var cust_DB=[
    "Area": "Gowridevipeta",
    "Cel 1": "8688182082",
    "Status": "Inactive",
-   "Due Date": "6-Apr-20"
+   "Due Date": "20-Aug-20"
  },
  {
    "SMS ID": 21276675,
@@ -12818,8 +10370,8 @@ var cust_DB=[
    "Name": "GHANTASALA SRINIVAS",
    "Area": "Rayanapeta",
    "Cel 1": "9989564423",
-   "Status": "Inactive",
-   "Due Date": "16-May-20"
+   "Status": "active",
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 21632271,
@@ -12831,7 +10383,7 @@ var cust_DB=[
    "Area": "ve",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "19-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 22024337,
@@ -12843,7 +10395,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9640278415",
    "Status": "active",
-   "Due Date": "27-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 22081385,
@@ -12855,7 +10407,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "8332955158",
    "Status": "active",
-   "Due Date": "28-Jun-20"
+   "Due Date": "26-Sep-20"
  },
  {
    "SMS ID": 22102161,
@@ -12866,20 +10418,8 @@ var cust_DB=[
    "Name": "VALLABANENI SRINIVASARAO",
    "Area": "Thotapalli",
    "Cel 1": "7382634702",
-   "Status": "active",
-   "Due Date": "21-Jun-20"
- },
- {
-   "SMS ID": 11907070,
-   "VC No": 1767266494,
-   "LCO ID": 42095,
-   "Subscriber Name": "akhil",
-   "Card No": "962",
-   "Name": "KOKATLA BHADRAIAH",
-   "Area": "Palamadugu",
-   "Cel 1": "DTH",
-   "Status": "active",
-   "Due Date": "27-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "28-Jul-20"
  },
  {
    "SMS ID": 13247751,
@@ -12891,7 +10431,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9866003963",
    "Status": "active",
-   "Due Date": "5-Jun-20"
+   "Due Date": "06-Sep-20"
  },
  {
    "SMS ID": 13247762,
@@ -12903,7 +10443,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "7660058456",
    "Status": "active",
-   "Due Date": "5-Jun-20"
+   "Due Date": "10-Sep-20"
  },
  {
    "SMS ID": 13470377,
@@ -12915,7 +10455,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "8179517889",
    "Status": "active",
-   "Due Date": "14-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 13485154,
@@ -12927,7 +10467,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9550427635",
    "Status": "active",
-   "Due Date": "2-Jun-20"
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 13496399,
@@ -12938,8 +10478,8 @@ var cust_DB=[
    "Name": "GURRAM RAMAKRISHNA",
    "Area": "Nellipaka",
    "Cel 1": "9603334330",
-   "Status": "Inactive",
-   "Due Date": "28-May-20"
+   "Status": "active",
+   "Due Date": "06-Sep-20"
  },
  {
    "SMS ID": 15210227,
@@ -12951,7 +10491,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "8008492208",
    "Status": "active",
-   "Due Date": "11-Jun-20"
+   "Due Date": "12-Sep-20"
  },
  {
    "SMS ID": 15448285,
@@ -12963,7 +10503,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "2-Jun-20"
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 15468938,
@@ -12974,8 +10514,8 @@ var cust_DB=[
    "Name": "PASUPULETI PRASAD",
    "Area": "Kapugompalli",
    "Cel 1": "9676209925",
-   "Status": "Inactive",
-   "Due Date": "29-May-20"
+   "Status": "active",
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 15521214,
@@ -12987,7 +10527,7 @@ var cust_DB=[
    "Area": "Venkatareddypeta",
    "Cel 1": "9505734044",
    "Status": "active",
-   "Due Date": "27-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 15521243,
@@ -12998,8 +10538,8 @@ var cust_DB=[
    "Name": "GOLLA CHINNA VENKATESWARLU",
    "Area": "Seethapuram",
    "Cel 1": "9441347756",
-   "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Status": "active",
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 15851512,
@@ -13010,32 +10550,8 @@ var cust_DB=[
    "Name": "MOGILI MANGAMMA",
    "Area": "Gannerukoyyapadu",
    "Cel 1": "6302628863",
-   "Status": "Inactive",
-   "Due Date": "7-May-20"
- },
- {
-   "SMS ID": 15862226,
-   "VC No": 1331430026,
-   "LCO ID": 42095,
-   "Subscriber Name": "VANAPARTHI SATYANARAYANA",
-   "Card No": "437/C",
-   "Name": "VANAPARTHI SATYANARAYANA",
-   "Area": "Murumuru",
-   "Cel 1": "9866465692",
    "Status": "active",
-   "Due Date": "2-Jun-20"
- },
- {
-   "SMS ID": 15862253,
-   "VC No": 1331430024,
-   "LCO ID": 42095,
-   "Subscriber Name": "sathya prasad",
-   "Card No": "437/A",
-   "Name": "VANAPARTHI RAMARAO",
-   "Area": "Murumuru",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "19-Jun-20"
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 15862303,
@@ -13047,19 +10563,7 @@ var cust_DB=[
    "Area": "Gannerukoyyapadu",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "31-May-20"
- },
- {
-   "SMS ID": 16114940,
-   "VC No": 1331475331,
-   "LCO ID": 42095,
-   "Subscriber Name": "ALLA NAGAMANI",
-   "Card No": "50",
-   "Name": "ALLA NAGAMANI",
-   "Area": "Murumuru",
-   "Cel 1": "7995461175",
-   "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "31-Aug-20"
  },
  {
    "SMS ID": 16436599,
@@ -13071,7 +10575,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "7702296402",
    "Status": "active",
-   "Due Date": "2-Jun-20"
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 16500560,
@@ -13083,7 +10587,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9912891348",
    "Status": "active",
-   "Due Date": "28-Jun-20"
+   "Due Date": "26-Sep-20"
  },
  {
    "SMS ID": 16770416,
@@ -13095,7 +10599,7 @@ var cust_DB=[
    "Area": "Ayyavaripeta",
    "Cel 1": "9502177432",
    "Status": "active",
-   "Due Date": "4-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 17146183,
@@ -13107,7 +10611,7 @@ var cust_DB=[
    "Area": "Venkatareddypeta",
    "Cel 1": "9951862442",
    "Status": "active",
-   "Due Date": "27-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 17146797,
@@ -13119,19 +10623,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "7702296388",
    "Status": "Inactive",
-   "Due Date": "1-Jun-20"
- },
- {
-   "SMS ID": 17154992,
-   "VC No": 1331723812,
-   "LCO ID": 42095,
-   "Subscriber Name": "BARAPATI VASANTH RAO",
-   "Card No": "428",
-   "Name": "BARAPATI VASANTH RAO",
-   "Area": "Murumuru",
-   "Cel 1": "9989318432",
-   "Status": "Inactive",
-   "Due Date": "3-May-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 19984006,
@@ -13143,7 +10635,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "11-Sep-20"
  },
  {
    "SMS ID": 20261112,
@@ -13155,7 +10647,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "28-Jun-20"
+   "Due Date": "27-Sep-20"
  },
  {
    "SMS ID": 20261137,
@@ -13167,7 +10659,7 @@ var cust_DB=[
    "Area": "Gowridevipeta",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "7-Jun-20"
+   "Due Date": "06-Sep-20"
  },
  {
    "SMS ID": 20640986,
@@ -13175,11 +10667,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "thriveni",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "thriveni",
    "Area": "#N/A",
    "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Status": "active",
+   "Due Date": "14-Sep-20"
  },
  {
    "SMS ID": 20693936,
@@ -13190,8 +10682,8 @@ var cust_DB=[
    "Name": "MUTHYALA SATHYAVATHI-2",
    "Area": "Thotapalli",
    "Cel 1": "9908760445",
-   "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Status": "active",
+   "Due Date": "09-Sep-20"
  },
  {
    "SMS ID": 20767726,
@@ -13199,11 +10691,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "ramakrishana",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "ramakrishana",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "27-Jun-20"
+   "Due Date": "26-Sep-20"
  },
  {
    "SMS ID": 20969487,
@@ -13215,19 +10707,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "9-Jun-20"
- },
- {
-   "SMS ID": 20985226,
-   "VC No": 2520436698,
-   "LCO ID": 42095,
-   "Subscriber Name": "PUTTI PEDHA RADHA",
-   "Card No": "414",
-   "Name": "PUTTI PEDHA RADHA",
-   "Area": "Murumuru",
-   "Cel 1": "9441620922",
-   "Status": "Inactive",
-   "Due Date": "2-May-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 21117527,
@@ -13239,7 +10719,7 @@ var cust_DB=[
    "Area": "Gowridevipeta",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "27-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 21147308,
@@ -13251,7 +10731,7 @@ var cust_DB=[
    "Area": "Yarraboru",
    "Cel 1": "8374870984",
    "Status": "active",
-   "Due Date": "28-Jun-20"
+   "Due Date": "26-Sep-20"
  },
  {
    "SMS ID": 22770062,
@@ -13262,8 +10742,8 @@ var cust_DB=[
    "Name": "SK RAFI",
    "Area": "Seethapuram",
    "Cel 1": "",
-   "Status": "active",
-   "Due Date": "12-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "23-Aug-20"
  },
  {
    "SMS ID": 22770076,
@@ -13271,23 +10751,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "Podiyam RAMAKRISHNA",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "Podiyam RAMAKRISHNA",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "4-Jun-20"
- },
- {
-   "SMS ID": 22770092,
-   "VC No": 2561175823,
-   "LCO ID": 42095,
-   "Subscriber Name": "kangala ramakrishna",
-   "Card No": "#N/A",
-   "Name": "KANGALA RAMAKRISHNA",
-   "Area": "PANDURANGAPURAM",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "28-Jun-20"
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 22770109,
@@ -13295,11 +10763,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "lakkumalla haribabu",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "lakumalla.suryam",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "27-Sep-20"
  },
  {
    "SMS ID": 11917766,
@@ -13311,7 +10779,7 @@ var cust_DB=[
    "Area": "Gowridevipeta",
    "Cel 1": "9849931526",
    "Status": "active",
-   "Due Date": "28-Jun-20"
+   "Due Date": "26-Sep-20"
  },
  {
    "SMS ID": 13496220,
@@ -13323,7 +10791,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "9666529388",
    "Status": "active",
-   "Due Date": "25-Jun-20"
+   "Due Date": "27-Sep-20"
  },
  {
    "SMS ID": 16572301,
@@ -13335,7 +10803,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "1-Jun-20"
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 20019720,
@@ -13347,7 +10815,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "8074075913",
    "Status": "active",
-   "Due Date": "28-Jun-20"
+   "Due Date": "26-Sep-20"
  },
  {
    "SMS ID": 20461999,
@@ -13358,8 +10826,8 @@ var cust_DB=[
    "Name": "YASAM VENKATESH",
    "Area": "Pandurangapuram",
    "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "30-May-20"
+   "Status": "active",
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 11907342,
@@ -13371,7 +10839,7 @@ var cust_DB=[
    "Area": "Gowridevipeta",
    "Cel 1": "9652464913 & 9652594592",
    "Status": "active",
-   "Due Date": "29-Jun-20"
+   "Due Date": "28-Sep-20"
  },
  {
    "SMS ID": 13485024,
@@ -13383,7 +10851,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "0",
    "Status": "active",
-   "Due Date": "30-Jun-20"
+   "Due Date": "28-Sep-20"
  },
  {
    "SMS ID": 21161956,
@@ -13391,35 +10859,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "v shiva",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "v shiva",
    "Area": "#N/A",
    "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "25-Apr-20"
- },
- {
-   "SMS ID": 19984004,
-   "VC No": 2515924750,
-   "LCO ID": 42095,
-   "Subscriber Name": "REDDY",
-   "Card No": "3",
-   "Name": "REDDY",
-   "Area": "Seethapuram",
-   "Cel 1": "9963638530",
    "Status": "active",
-   "Due Date": "27-Jun-20"
- },
- {
-   "SMS ID": 13034467,
-   "VC No": 1769251046,
-   "LCO ID": 42095,
-   "Subscriber Name": "bhagavan",
-   "Card No": "1189",
-   "Name": "GUDE SATYANARAYANA(NODE)",
-   "Area": "Pandurangapuram",
-   "Cel 1": "9550848363",
-   "Status": "active",
-   "Due Date": "2-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 13246081,
@@ -13431,7 +10875,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "8897755806",
    "Status": "active",
-   "Due Date": "18-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 13252364,
@@ -13443,7 +10887,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "8186864757",
    "Status": "active",
-   "Due Date": "29-Jun-20"
+   "Due Date": "27-Sep-20"
  },
  {
    "SMS ID": 13496349,
@@ -13454,8 +10898,8 @@ var cust_DB=[
    "Name": "MULAKALAPALLI RAJESH",
    "Area": "Seethapuram",
    "Cel 1": "8500686058",
-   "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "04-Jun-20"
  },
  {
    "SMS ID": 15207551,
@@ -13466,8 +10910,8 @@ var cust_DB=[
    "Name": "PALLANTI VENKANNA(SRIDEVI)",
    "Area": "Rayanapeta",
    "Cel 1": "9553265216",
-   "Status": "Inactive",
-   "Due Date": "1-Jan-20"
+   "Status": "active",
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 15421982,
@@ -13479,7 +10923,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9701250182",
    "Status": "active",
-   "Due Date": "23-Jun-20"
+   "Due Date": "12-Sep-20"
  },
  {
    "SMS ID": 15422864,
@@ -13491,7 +10935,7 @@ var cust_DB=[
    "Area": "Venkatareddypeta",
    "Cel 1": "6304036978",
    "Status": "active",
-   "Due Date": "28-Jun-20"
+   "Due Date": "28-Sep-20"
  },
  {
    "SMS ID": 15422976,
@@ -13503,7 +10947,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9603047794",
    "Status": "active",
-   "Due Date": "1-Jun-20"
+   "Due Date": "06-Sep-20"
  },
  {
    "SMS ID": 15445669,
@@ -13515,7 +10959,7 @@ var cust_DB=[
    "Area": "Pandurangapuram",
    "Cel 1": "9949241015",
    "Status": "Inactive",
-   "Due Date": "3-Feb-20"
+   "Due Date": "03-Feb-20"
  },
  {
    "SMS ID": 15445678,
@@ -13526,8 +10970,8 @@ var cust_DB=[
    "Name": "MUTYALA SURYANARAYANA",
    "Area": "Venkatareddypeta",
    "Cel 1": "9951920153",
-   "Status": "Inactive",
-   "Due Date": "31-May-20"
+   "Status": "active",
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 15447611,
@@ -13539,19 +10983,7 @@ var cust_DB=[
    "Area": "Kapugompalli",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "26-Jun-20"
- },
- {
-   "SMS ID": 15447914,
-   "VC No": 1330117771,
-   "LCO ID": 42095,
-   "Subscriber Name": "PADALA BADHRA SWAMY",
-   "Card No": "28",
-   "Name": "PADALA BADHRA SWAMY",
-   "Area": "Murumuru",
-   "Cel 1": "9989323848",
-   "Status": "active",
-   "Due Date": "20-Jun-20"
+   "Due Date": "27-Sep-20"
  },
  {
    "SMS ID": 15464105,
@@ -13563,7 +10995,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9959491328",
    "Status": "active",
-   "Due Date": "2-Jun-20"
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 15468823,
@@ -13575,7 +11007,7 @@ var cust_DB=[
    "Area": "Kapugompalli",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "4-Jun-20"
+   "Due Date": "07-Sep-20"
  },
  {
    "SMS ID": 15468893,
@@ -13587,7 +11019,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "9701281128",
    "Status": "active",
-   "Due Date": "7-Jun-20"
+   "Due Date": "06-Sep-20"
  },
  {
    "SMS ID": 15850855,
@@ -13599,7 +11031,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "9705148971",
    "Status": "active",
-   "Due Date": "17-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 15851302,
@@ -13611,7 +11043,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "7036570005",
    "Status": "active",
-   "Due Date": "29-Jun-20"
+   "Due Date": "30-Sep-20"
  },
  {
    "SMS ID": 15851524,
@@ -13623,7 +11055,7 @@ var cust_DB=[
    "Area": "Gannerukoyyapadu",
    "Cel 1": "9963638530",
    "Status": "active",
-   "Due Date": "1-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 15862333,
@@ -13634,8 +11066,8 @@ var cust_DB=[
    "Name": "SRIDHARLA VEERABABU",
    "Area": "Seethapuram",
    "Cel 1": "7285995176",
-   "Status": "Inactive",
-   "Due Date": "15-May-20"
+   "Status": "active",
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 15901013,
@@ -13647,7 +11079,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "9948664584",
    "Status": "active",
-   "Due Date": "4-Jun-20"
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 15901235,
@@ -13659,7 +11091,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "7702794441",
    "Status": "active",
-   "Due Date": "28-Jun-20"
+   "Due Date": "26-Sep-20"
  },
  {
    "SMS ID": 15901453,
@@ -13671,7 +11103,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "28-Jun-20"
+   "Due Date": "26-Sep-20"
  },
  {
    "SMS ID": 15901694,
@@ -13683,7 +11115,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "0",
    "Status": "active",
-   "Due Date": "2-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 16366429,
@@ -13694,8 +11126,8 @@ var cust_DB=[
    "Name": "MUDIGONDA HANUMANTHU",
    "Area": "Nellipaka",
    "Cel 1": "7680839681",
-   "Status": "Inactive",
-   "Due Date": "26-Apr-20"
+   "Status": "active",
+   "Due Date": "07-Sep-20"
  },
  {
    "SMS ID": 16483856,
@@ -13707,7 +11139,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9866606573",
    "Status": "active",
-   "Due Date": "21-Jun-20"
+   "Due Date": "27-Sep-20"
  },
  {
    "SMS ID": 16483991,
@@ -13719,7 +11151,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "27-May-20"
+   "Due Date": "19-Aug-20"
  },
  {
    "SMS ID": 16500884,
@@ -13731,7 +11163,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "7287915241",
    "Status": "active",
-   "Due Date": "28-Jun-20"
+   "Due Date": "26-Sep-20"
  },
  {
    "SMS ID": 16503428,
@@ -13743,7 +11175,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "0",
    "Status": "active",
-   "Due Date": "1-Jun-20"
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 16769984,
@@ -13755,7 +11187,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9652522749",
    "Status": "Inactive",
-   "Due Date": "5-Apr-20"
+   "Due Date": "05-Apr-20"
  },
  {
    "SMS ID": 16770304,
@@ -13766,8 +11198,8 @@ var cust_DB=[
    "Name": "MEDIPALLI NARASIMHARAO",
    "Area": "Seethapuram",
    "Cel 1": "8367512439",
-   "Status": "active",
-   "Due Date": "21-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "15-Aug-20"
  },
  {
    "SMS ID": 16771294,
@@ -13779,7 +11211,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "9491062893",
    "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Due Date": "31-Aug-20"
  },
  {
    "SMS ID": 19983913,
@@ -13791,7 +11223,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9553847192",
    "Status": "active",
-   "Due Date": "10-Jun-20"
+   "Due Date": "10-Sep-20"
  },
  {
    "SMS ID": 20388782,
@@ -13803,7 +11235,7 @@ var cust_DB=[
    "Area": "gannavaram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "2-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 20549221,
@@ -13815,7 +11247,7 @@ var cust_DB=[
    "Area": "Venkatareddypeta",
    "Cel 1": "9949628163",
    "Status": "Inactive",
-   "Due Date": "31-May-20"
+   "Due Date": "31-Aug-20"
  },
  {
    "SMS ID": 20661933,
@@ -13826,8 +11258,8 @@ var cust_DB=[
    "Name": "VASANTHALA UDAY",
    "Area": "Gannavaram",
    "Cel 1": "9704755121",
-   "Status": "active",
-   "Due Date": "28-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "31-Aug-20"
  },
  {
    "SMS ID": 21250301,
@@ -13839,7 +11271,7 @@ var cust_DB=[
    "Area": "Gowridevipeta",
    "Cel 1": "7447532445 & 9866189456",
    "Status": "Inactive",
-   "Due Date": "31-May-20"
+   "Due Date": "31-Jul-20"
  },
  {
    "SMS ID": 21653709,
@@ -13851,7 +11283,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9999999999",
    "Status": "active",
-   "Due Date": "28-Jun-20"
+   "Due Date": "27-Sep-20"
  },
  {
    "SMS ID": 22077971,
@@ -13863,7 +11295,7 @@ var cust_DB=[
    "Area": "Gannerukoyyapadu",
    "Cel 1": "9550409149",
    "Status": "active",
-   "Due Date": "3-Jul-20"
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 15443348,
@@ -13875,7 +11307,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "8978620476",
    "Status": "active",
-   "Due Date": "7-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 15447137,
@@ -13886,8 +11318,8 @@ var cust_DB=[
    "Name": "REPAKU SANKARA RAO",
    "Area": "Nellipaka",
    "Cel 1": "7675907024",
-   "Status": "Inactive",
-   "Due Date": "26-May-20"
+   "Status": "active",
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 15460500,
@@ -13898,8 +11330,8 @@ var cust_DB=[
    "Name": "MUDHIGONDA VENKAIAH",
    "Area": "Seethapuram",
    "Cel 1": "7287805315",
-   "Status": "Inactive",
-   "Due Date": "15-May-20"
+   "Status": "active",
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 15566649,
@@ -13911,7 +11343,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "9441063219",
    "Status": "active",
-   "Due Date": "27-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 20026441,
@@ -13922,8 +11354,8 @@ var cust_DB=[
    "Name": "VARAKA PRAKASH",
    "Area": "Gannerukoyyapadu",
    "Cel 1": "8897124132",
-   "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Status": "active",
+   "Due Date": "05-Sep-20"
  },
  {
    "SMS ID": 20026492,
@@ -13935,31 +11367,7 @@ var cust_DB=[
    "Area": "Venkatareddypeta",
    "Cel 1": "9010503418",
    "Status": "active",
-   "Due Date": "29-Jun-20"
- },
- {
-   "SMS ID": 20543010,
-   "VC No": 2520411754,
-   "LCO ID": 42095,
-   "Subscriber Name": "thriveni",
-   "Card No": "90",
-   "Name": "SOYAM RAMBABU",
-   "Area": "Murumuru",
-   "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "29-May-20"
- },
- {
-   "SMS ID": 20543057,
-   "VC No": 2520426087,
-   "LCO ID": 42095,
-   "Subscriber Name": "thriveni",
-   "Card No": "416",
-   "Name": "KOTA VENKAIAH(KAMALA)",
-   "Area": "Murumuru",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "28-Sep-20"
  },
  {
    "SMS ID": 20543064,
@@ -13970,8 +11378,8 @@ var cust_DB=[
    "Name": "MANDA MURTHEY",
    "Area": "Nellipaka",
    "Cel 1": "",
-   "Status": "active",
-   "Due Date": "5-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "06-Jun-20"
  },
  {
    "SMS ID": 20679402,
@@ -13982,8 +11390,8 @@ var cust_DB=[
    "Name": "DHANE BUJJI",
    "Area": "Kistaram",
    "Cel 1": "8185851749",
-   "Status": "Inactive",
-   "Due Date": "27-May-20"
+   "Status": "active",
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 20695805,
@@ -13994,8 +11402,8 @@ var cust_DB=[
    "Name": "MARLAPATI SRINU(PRABHAVATHI)",
    "Area": "Venkatareddypeta",
    "Cel 1": "9553813795",
-   "Status": "Inactive",
-   "Due Date": "30-May-20"
+   "Status": "active",
+   "Due Date": "11-Sep-20"
  },
  {
    "SMS ID": 20746194,
@@ -14007,19 +11415,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "8309249648",
    "Status": "active",
-   "Due Date": "16-Jun-20"
- },
- {
-   "SMS ID": 21211958,
-   "VC No": 2520440354,
-   "LCO ID": 42095,
-   "Subscriber Name": "K KANNARAO",
-   "Card No": "91",
-   "Name": "KANITHI KANNARAO",
-   "Area": "Murumuru",
-   "Cel 1": "9998866579",
-   "Status": "active",
-   "Due Date": "11-Jun-20"
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 21490942,
@@ -14031,7 +11427,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "9502194834",
    "Status": "Inactive",
-   "Due Date": "5-May-20"
+   "Due Date": "22-Aug-20"
  },
  {
    "SMS ID": 21525242,
@@ -14043,7 +11439,7 @@ var cust_DB=[
    "Area": "Kistaram",
    "Cel 1": "7702972799",
    "Status": "Inactive",
-   "Due Date": "3-May-20"
+   "Due Date": "05-Aug-20"
  },
  {
    "SMS ID": 12535351,
@@ -14054,8 +11450,8 @@ var cust_DB=[
    "Name": "INAMPUDI TIRUPATHI RAJU",
    "Area": "Chodavaram",
    "Cel 1": "9912672349",
-   "Status": "active",
-   "Due Date": "1-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "31-Aug-20"
  },
  {
    "SMS ID": 12582555,
@@ -14067,7 +11463,7 @@ var cust_DB=[
    "Area": "Gannerukoyyapadu",
    "Cel 1": "9908207353 & 9490756301",
    "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Due Date": "02-Jul-20"
  },
  {
    "SMS ID": 13501808,
@@ -14079,7 +11475,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "9505318280",
    "Status": "active",
-   "Due Date": "24-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 15464160,
@@ -14091,7 +11487,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "8897709676",
    "Status": "active",
-   "Due Date": "14-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 17146336,
@@ -14103,19 +11499,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9949240582",
    "Status": "active",
-   "Due Date": "2-Jun-20"
- },
- {
-   "SMS ID": 17154973,
-   "VC No": 1331723811,
-   "LCO ID": 42095,
-   "Subscriber Name": "MOYYA BUPATHIRAO",
-   "Card No": "405",
-   "Name": "MOYYA BUPATHIRAO",
-   "Area": "Murumuru",
-   "Cel 1": "9652267826",
-   "Status": "active",
-   "Due Date": "24-Jun-20"
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 20026516,
@@ -14126,20 +11510,8 @@ var cust_DB=[
    "Name": "MUVVA VENKATESWARA RAO",
    "Area": "Rayanapeta",
    "Cel 1": "9912363498",
-   "Status": "Inactive",
-   "Due Date": "2-Apr-20"
- },
- {
-   "SMS ID": 20543116,
-   "VC No": 2520401925,
-   "LCO ID": 42095,
-   "Subscriber Name": "thriveni",
-   "Card No": "44",
-   "Name": "CHALLAKOTI VENKATESWARLU",
-   "Area": "Murumuru",
-   "Cel 1": "0",
    "Status": "active",
-   "Due Date": "28-Jun-20"
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 13237582,
@@ -14151,19 +11523,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "9505702915",
    "Status": "active",
-   "Due Date": "2-Jun-20"
- },
- {
-   "SMS ID": 14974287,
-   "VC No": 1767218145,
-   "LCO ID": 42095,
-   "Subscriber Name": "ARRAPOTHULA venkatarat nam",
-   "Card No": "83",
-   "Name": "ARRAPOTHULA venkatarat nam",
-   "Area": "Murumuru",
-   "Cel 1": "9966585857",
-   "Status": "Inactive",
-   "Due Date": "28-Apr-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 15902314,
@@ -14175,19 +11535,7 @@ var cust_DB=[
    "Area": "Patimalagudem",
    "Cel 1": "8498042101",
    "Status": "active",
-   "Due Date": "17-Jun-20"
- },
- {
-   "SMS ID": 16561351,
-   "VC No": 1331723684,
-   "LCO ID": 42095,
-   "Subscriber Name": "UYAKA VEERABHADRAMCHINA RAMULU",
-   "Card No": "454",
-   "Name": "UYAKA VEERABHADRAM(CHINA RAMULU)",
-   "Area": "Murumuru",
-   "Cel 1": "9652635805",
-   "Status": "Inactive",
-   "Due Date": "29-Apr-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 16773124,
@@ -14199,7 +11547,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9948994228",
    "Status": "active",
-   "Due Date": "11-Jun-20"
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 20392479,
@@ -14211,7 +11559,7 @@ var cust_DB=[
    "Area": "Gannerukoyyapadu",
    "Cel 1": "8367004355",
    "Status": "active",
-   "Due Date": "13-Jun-20"
+   "Due Date": "27-Sep-20"
  },
  {
    "SMS ID": 21756204,
@@ -14222,20 +11570,8 @@ var cust_DB=[
    "Name": "Dara Suribabu",
    "Area": "gannerukoyyapadu",
    "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "28-May-20"
- },
- {
-   "SMS ID": 22181098,
-   "VC No": 2520426697,
-   "LCO ID": 42095,
-   "Subscriber Name": "NAKKA MUTHYAM",
-   "Card No": "#N/A",
-   "Name": "kachavaram",
-   "Area": "#N/A",
-   "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Status": "active",
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 15464072,
@@ -14246,32 +11582,8 @@ var cust_DB=[
    "Name": "KAKARLA SATYAM",
    "Area": "Nellipaka",
    "Cel 1": "9912457703",
-   "Status": "Inactive",
-   "Due Date": "24-May-20"
- },
- {
-   "SMS ID": 16273390,
-   "VC No": 1331698265,
-   "LCO ID": 42095,
-   "Subscriber Name": "KOTI",
-   "Card No": "815",
-   "Name": "BHADAVATH RAMESH",
-   "Area": "Buruguvai Tanda",
-   "Cel 1": "9381738968",
    "Status": "active",
-   "Due Date": "10-Jun-20"
- },
- {
-   "SMS ID": 16484160,
-   "VC No": 1331735866,
-   "LCO ID": 42095,
-   "Subscriber Name": "koti",
-   "Card No": "672",
-   "Name": "MADAKAM RAMESH(NAGAMANI)",
-   "Area": "Bhemavaram",
-   "Cel 1": "7445228727",
-   "Status": "Inactive",
-   "Due Date": "30-May-20"
+   "Due Date": "28-Sep-20"
  },
  {
    "SMS ID": 16771328,
@@ -14306,20 +11618,8 @@ var cust_DB=[
    "Name": "KURSAM RAJAIAH",
    "Area": "Yarraboru",
    "Cel 1": "9502900232",
-   "Status": "Inactive",
-   "Due Date": "25-May-20"
- },
- {
-   "SMS ID": 17155013,
-   "VC No": 1331723813,
-   "LCO ID": 42095,
-   "Subscriber Name": "SK KASEEM",
-   "Card No": "393",
-   "Name": "SK.KASEEM",
-   "Area": "Murumuru",
-   "Cel 1": "8096436905",
    "Status": "active",
-   "Due Date": "4-Jun-20"
+   "Due Date": "12-Sep-20"
  },
  {
    "SMS ID": 19983927,
@@ -14327,11 +11627,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "KOTI",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "KOTI",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "6-Jun-20"
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 20721018,
@@ -14342,8 +11642,8 @@ var cust_DB=[
    "Name": "MULAKALAPALLI VENKAT RAO",
    "Area": "Gannavaram",
    "Cel 1": "9502361647",
-   "Status": "active",
-   "Due Date": "4-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "07-Aug-20"
  },
  {
    "SMS ID": 21865492,
@@ -14355,43 +11655,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9502620618",
    "Status": "Inactive",
-   "Due Date": "8-May-20"
- },
- {
-   "SMS ID": 22188621,
-   "VC No": 2520426703,
-   "LCO ID": 42095,
-   "Subscriber Name": "OFFICE",
-   "Card No": "#N/A",
-   "Name": "#N/A",
-   "Area": "#N/A",
-   "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "4-May-20"
- },
- {
-   "SMS ID": 15459971,
-   "VC No": 1330781631,
-   "LCO ID": 42095,
-   "Subscriber Name": "KUCHALAPATI SWARAJAYAM",
-   "Card No": "392",
-   "Name": "KUCHALAPATI SWARAJAYAM",
-   "Area": "Murumuru",
-   "Cel 1": "9550242351",
-   "Status": "active",
-   "Due Date": "28-Jun-20"
- },
- {
-   "SMS ID": 15862178,
-   "VC No": 1331430028,
-   "LCO ID": 42095,
-   "Subscriber Name": "SIMHADHRI VENKATESWARLU",
-   "Card No": "34",
-   "Name": "SIMHADHRI VENKATESWARLU",
-   "Area": "Murumuru",
-   "Cel 1": "8897438340",
-   "Status": "active",
-   "Due Date": "29-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 15862504,
@@ -14403,19 +11667,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "9705684846",
    "Status": "active",
-   "Due Date": "16-Jun-20"
- },
- {
-   "SMS ID": 16484224,
-   "VC No": 1331700414,
-   "LCO ID": 42095,
-   "Subscriber Name": "koti",
-   "Card No": "808.A",
-   "Name": "BUKEYA MOHAN",
-   "Area": "Buruguvai Tanda",
-   "Cel 1": "9652543267",
-   "Status": "active",
-   "Due Date": "10-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 20396035,
@@ -14426,8 +11678,8 @@ var cust_DB=[
    "Name": "MARLAPATI NAGESWARAO",
    "Area": "Awer Colony",
    "Cel 1": "7702391288",
-   "Status": "active",
-   "Due Date": "18-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "21-Aug-20"
  },
  {
    "SMS ID": 20754317,
@@ -14438,8 +11690,8 @@ var cust_DB=[
    "Name": "KARAKA RAJAMMA",
    "Area": "Yarraboru",
    "Cel 1": "7093426204",
-   "Status": "Inactive",
-   "Due Date": "20-May-20"
+   "Status": "active",
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 21367758,
@@ -14450,8 +11702,8 @@ var cust_DB=[
    "Name": "KOTTE VENKANNA BABU",
    "Area": "Seethapuram",
    "Cel 1": "9985329792",
-   "Status": "Inactive",
-   "Due Date": "26-May-20"
+   "Status": "active",
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 21549822,
@@ -14463,7 +11715,7 @@ var cust_DB=[
    "Area": "Venkatareddypeta",
    "Cel 1": "7997815319",
    "Status": "active",
-   "Due Date": "21-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 17146062,
@@ -14475,31 +11727,7 @@ var cust_DB=[
    "Area": "Venkatareddypeta",
    "Cel 1": "6300413722",
    "Status": "active",
-   "Due Date": "19-Jun-20"
- },
- {
-   "SMS ID": 17158841,
-   "VC No": 1331723603,
-   "LCO ID": 42095,
-   "Subscriber Name": "koti",
-   "Card No": "196.A",
-   "Name": "APAKA ASHOK",
-   "Area": "Gommu Kothagudem",
-   "Cel 1": "9951640763",
-   "Status": "active",
-   "Due Date": "21-Jun-20"
- },
- {
-   "SMS ID": 17116883,
-   "VC No": 1331699964,
-   "LCO ID": 42095,
-   "Subscriber Name": "P kannaiah",
-   "Card No": "55.C",
-   "Name": "SOYAM KAMALA(pedda kammala)",
-   "Area": "Murumuru",
-   "Cel 1": "7032315342",
-   "Status": "active",
-   "Due Date": "11-Jun-20"
+   "Due Date": "27-Sep-20"
  },
  {
    "SMS ID": 20262285,
@@ -14522,8 +11750,8 @@ var cust_DB=[
    "Name": "KARRI PRABAKAR",
    "Area": "Gannavaram",
    "Cel 1": "9010174060",
-   "Status": "Inactive",
-   "Due Date": "27-May-20"
+   "Status": "active",
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 20554133,
@@ -14535,19 +11763,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "7093299469",
    "Status": "active",
-   "Due Date": "12-Jun-20"
- },
- {
-   "SMS ID": 20554339,
-   "VC No": 2520425838,
-   "LCO ID": 42095,
-   "Subscriber Name": "DEGALA RAMULU",
-   "Card No": "#N/A",
-   "Name": "DEGALA RAMULU",
-   "Area": "POLIPAAKA",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "15-Jun-20"
+   "Due Date": "10-Sep-20"
  },
  {
    "SMS ID": 20741973,
@@ -14559,7 +11775,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "23-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 12535677,
@@ -14583,7 +11799,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 16366654,
@@ -14595,7 +11811,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9553395061",
    "Status": "Inactive",
-   "Due Date": "30-May-20"
+   "Due Date": "31-Aug-20"
  },
  {
    "SMS ID": 19984034,
@@ -14606,8 +11822,8 @@ var cust_DB=[
    "Name": "MANDA PRASAD",
    "Area": "Nellipaka",
    "Cel 1": "9502827383",
-   "Status": "active",
-   "Due Date": "17-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "19-Jul-20"
  },
  {
    "SMS ID": 20026530,
@@ -14619,7 +11835,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9908209903",
    "Status": "active",
-   "Due Date": "6-Jun-20"
+   "Due Date": "09-Sep-20"
  },
  {
    "SMS ID": 20719101,
@@ -14631,7 +11847,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9177035264",
    "Status": "active",
-   "Due Date": "29-Jun-20"
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 11907282,
@@ -14642,8 +11858,8 @@ var cust_DB=[
    "Name": "MULAKA TIRUPATAMMA(BADDI)",
    "Area": "Nellipaka",
    "Cel 1": "8008833002",
-   "Status": "Inactive",
-   "Due Date": "7-May-20"
+   "Status": "active",
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 13485038,
@@ -14655,7 +11871,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "7995228736",
    "Status": "active",
-   "Due Date": "1-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 15421739,
@@ -14667,7 +11883,7 @@ var cust_DB=[
    "Area": "Kistaram",
    "Cel 1": "9701628582",
    "Status": "Inactive",
-   "Due Date": "26-Apr-20"
+   "Due Date": "19-Aug-20"
  },
  {
    "SMS ID": 16769922,
@@ -14678,8 +11894,8 @@ var cust_DB=[
    "Name": "GADIDHA KAMESWARAO",
    "Area": "Seethapuram",
    "Cel 1": "8978346755 & 9133901926",
-   "Status": "Inactive",
-   "Due Date": "22-Dec-19"
+   "Status": "active",
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 16771000,
@@ -14690,8 +11906,8 @@ var cust_DB=[
    "Name": "MANDA BABU",
    "Area": "Nellipaka",
    "Cel 1": "9951285088",
-   "Status": "active",
-   "Due Date": "5-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "06-Jun-20"
  },
  {
    "SMS ID": 20608292,
@@ -14702,8 +11918,8 @@ var cust_DB=[
    "Name": "BIRU SOMAIAH",
    "Area": "Thotapalli",
    "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Status": "active",
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 16113693,
@@ -14715,7 +11931,7 @@ var cust_DB=[
    "Area": "Pandurangapuram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "28-Jun-20"
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 21209145,
@@ -14726,8 +11942,8 @@ var cust_DB=[
    "Name": "KANITI MUTHAIAH",
    "Area": "Kistaram",
    "Cel 1": "8897309496",
-   "Status": "active",
-   "Due Date": "1-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "22-Aug-20"
  },
  {
    "SMS ID": 15447131,
@@ -14739,19 +11955,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9849934798",
    "Status": "active",
-   "Due Date": "3-Jun-20"
- },
- {
-   "SMS ID": 15468928,
-   "VC No": 1330784532,
-   "LCO ID": 42095,
-   "Subscriber Name": "Shanthi Dandamudi",
-   "Card No": "912.I",
-   "Name": "MOHMMAD SHAHAN BEGHAM",
-   "Area": "Laxmipuram",
-   "Cel 1": "9949000540",
-   "Status": "Inactive",
-   "Due Date": "20-Dec-19"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 15521172,
@@ -14763,7 +11967,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9618147857",
    "Status": "Inactive",
-   "Due Date": "10-May-20"
+   "Due Date": "22-Aug-20"
  },
  {
    "SMS ID": 21632228,
@@ -14775,7 +11979,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "9676003832",
    "Status": "active",
-   "Due Date": "13-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 16113494,
@@ -14787,31 +11991,7 @@ var cust_DB=[
    "Area": "Gowridevipeta",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "26-Jun-20"
- },
- {
-   "SMS ID": 20297424,
-   "VC No": 2516029783,
-   "LCO ID": 42095,
-   "Subscriber Name": "thriveni",
-   "Card No": "684",
-   "Name": "KORSA NARAYANA",
-   "Area": "Bhemavaram",
-   "Cel 1": "7674883319",
-   "Status": "active",
-   "Due Date": "10-Jun-20"
- },
- {
-   "SMS ID": 21952138,
-   "VC No": 2520405260,
-   "LCO ID": 42095,
-   "Subscriber Name": "THELLAM VENKAT",
-   "Card No": "706.H",
-   "Name": "TELLAM VENKATESH",
-   "Area": "Bhemavaram",
-   "Cel 1": "9963675692",
-   "Status": "Inactive",
-   "Due Date": "31-May-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 13484523,
@@ -14835,7 +12015,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "0",
    "Status": "Inactive",
-   "Due Date": "6-Feb-20"
+   "Due Date": "06-Feb-20"
  },
  {
    "SMS ID": 17158954,
@@ -14847,7 +12027,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "9505632915",
    "Status": "Inactive",
-   "Due Date": "5-May-20"
+   "Due Date": "05-May-20"
  },
  {
    "SMS ID": 20758100,
@@ -14859,7 +12039,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "7989193593",
    "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 11907396,
@@ -14883,7 +12063,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "9704814857",
    "Status": "active",
-   "Due Date": "7-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 20303282,
@@ -14894,8 +12074,8 @@ var cust_DB=[
    "Name": "GORAPU RAJU",
    "Area": "Gannavaram",
    "Cel 1": "7702796797",
-   "Status": "Inactive",
-   "Due Date": "27-May-20"
+   "Status": "active",
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 20498267,
@@ -14907,19 +12087,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "9573864945",
    "Status": "active",
-   "Due Date": "16-Jun-20"
- },
- {
-   "SMS ID": 16527064,
-   "VC No": 1331723647,
-   "LCO ID": 42095,
-   "Subscriber Name": "koti",
-   "Card No": "762",
-   "Name": "KANGALA RAJU",
-   "Area": "Bandaluru",
-   "Cel 1": "7995987295",
-   "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Due Date": "21-Sep-20"
  },
  {
    "SMS ID": 21098323,
@@ -14927,7 +12095,7 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "RAJU",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "RAJU",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -14942,8 +12110,8 @@ var cust_DB=[
    "Name": "TUMMALA ESWARAIAH",
    "Area": "Patimalagudem",
    "Cel 1": "8179128520",
-   "Status": "Inactive",
-   "Due Date": "19-Apr-20"
+   "Status": "active",
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 15427308,
@@ -14966,20 +12134,8 @@ var cust_DB=[
    "Name": "PUNIKIPATI RAJU",
    "Area": "Seethapuram",
    "Cel 1": "NO",
-   "Status": "Inactive",
-   "Due Date": "1-May-20"
- },
- {
-   "SMS ID": 22131918,
-   "VC No": 2520439082,
-   "LCO ID": 42095,
-   "Subscriber Name": "j murali",
-   "Card No": "857.C",
-   "Name": "TEJUMULLA",
-   "Area": "Laxmipuram",
-   "Cel 1": "7995461331",
-   "Status": "Inactive",
-   "Due Date": "14-Dec-19"
+   "Status": "active",
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 20661879,
@@ -14991,7 +12147,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "9949659186",
    "Status": "active",
-   "Due Date": "4-Jun-20"
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 15468746,
@@ -15003,7 +12159,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "7032687646",
    "Status": "Inactive",
-   "Due Date": "20-May-20"
+   "Due Date": "31-Aug-20"
  },
  {
    "SMS ID": 16769828,
@@ -15015,7 +12171,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9951744771",
    "Status": "active",
-   "Due Date": "6-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 19983997,
@@ -15039,7 +12195,7 @@ var cust_DB=[
    "Area": "Venkatareddypeta",
    "Cel 1": "9573036724",
    "Status": "active",
-   "Due Date": "6-Jun-20"
+   "Due Date": "05-Sep-20"
  },
  {
    "SMS ID": 15446658,
@@ -15051,7 +12207,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9676982703",
    "Status": "Inactive",
-   "Due Date": "26-Apr-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 16771249,
@@ -15062,32 +12218,8 @@ var cust_DB=[
    "Name": "NAKKA MOHAN RAO",
    "Area": "Thotapalli",
    "Cel 1": "9704120262",
-   "Status": "Inactive",
-   "Due Date": "3-Apr-20"
- },
- {
-   "SMS ID": 20153677,
-   "VC No": 2516169715,
-   "LCO ID": 42095,
-   "Subscriber Name": "VANAPARTHI MOHAN RAO",
-   "Card No": "425",
-   "Name": "VANAPARTHI MOHAN RAO",
-   "Area": "Murumuru",
-   "Cel 1": "7889272956",
-   "Status": "Inactive",
-   "Due Date": "1-Jun-20"
- },
- {
-   "SMS ID": 20741593,
-   "VC No": 2520439598,
-   "LCO ID": 42095,
-   "Subscriber Name": "ITHAMRAJU NIRMALA",
-   "Card No": "11",
-   "Name": "ITHAMRAJU NIRMALA",
-   "Area": "Murumuru",
-   "Cel 1": "8790517008",
    "Status": "active",
-   "Due Date": "18-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 20695780,
@@ -15099,7 +12231,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "27-Jun-20"
+   "Due Date": "06-Sep-20"
  },
  {
    "SMS ID": 21176415,
@@ -15111,7 +12243,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "7095318215 & 8798555668",
    "Status": "active",
-   "Due Date": "25-Jun-20"
+   "Due Date": "05-Sep-20"
  },
  {
    "SMS ID": 15464126,
@@ -15122,32 +12254,8 @@ var cust_DB=[
    "Name": "MUTHE SRINU",
    "Area": "Seethapuram",
    "Cel 1": "9502459016",
-   "Status": "active",
-   "Due Date": "27-Jun-20"
- },
- {
-   "SMS ID": 20396019,
-   "VC No": 2516015788,
-   "LCO ID": 42095,
-   "Subscriber Name": "DEGALA RADHA KRISHNA",
-   "Card No": "61",
-   "Name": "DEGALA RADHA KRISHNA",
-   "Area": "Murumuru",
-   "Cel 1": "9908076780",
    "Status": "Inactive",
-   "Due Date": "24-Apr-20"
- },
- {
-   "SMS ID": 13485031,
-   "VC No": 1769095116,
-   "LCO ID": 42095,
-   "Subscriber Name": "koti",
-   "Card No": "877",
-   "Name": "BURAM SRIHARI",
-   "Area": "Laxmipuram",
-   "Cel 1": "9959086979",
-   "Status": "active",
-   "Due Date": "1-Jun-20"
+   "Due Date": "31-Aug-20"
  },
  {
    "SMS ID": 15464110,
@@ -15158,56 +12266,8 @@ var cust_DB=[
    "Name": "PERUMALLA NAVEEN",
    "Area": "Seethapuram",
    "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "28-May-20"
- },
- {
-   "SMS ID": 16113645,
-   "VC No": 1331484245,
-   "LCO ID": 42095,
-   "Subscriber Name": "KOTI",
-   "Card No": "824.B",
-   "Name": "T.KUMARI",
-   "Area": "Buruguvai Tanda",
-   "Cel 1": "9949821025",
-   "Status": "Inactive",
-   "Due Date": "7-Dec-19"
- },
- {
-   "SMS ID": 16113838,
-   "VC No": 1331430291,
-   "LCO ID": 42095,
-   "Subscriber Name": "KOTI",
-   "Card No": "664",
-   "Name": "KORSA BUJJI",
-   "Area": "Bhemavaram",
-   "Cel 1": "9618895528",
-   "Status": "Inactive",
-   "Due Date": "1-Jun-20"
- },
- {
-   "SMS ID": 22086191,
-   "VC No": 2520440342,
-   "LCO ID": 42095,
-   "Subscriber Name": "THOTAMALLA VENKANNA",
-   "Card No": "912.J",
-   "Name": "THOTAMALLA VENKANNA",
-   "Area": "Laxmipuram",
-   "Cel 1": "7032010944",
-   "Status": "Inactive",
-   "Due Date": "10-Mar-20"
- },
- {
-   "SMS ID": 15459968,
-   "VC No": 1330781632,
-   "LCO ID": 42095,
-   "Subscriber Name": "Uma kilau",
-   "Card No": "47",
-   "Name": "CHALLAKOTI SATHYANARAYANA",
-   "Area": "Murumuru",
-   "Cel 1": "0",
-   "Status": "Inactive",
-   "Due Date": "22-Apr-20"
+   "Status": "active",
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 16769843,
@@ -15219,19 +12279,7 @@ var cust_DB=[
    "Area": "Kapugompalli",
    "Cel 1": "9989784840",
    "Status": "active",
-   "Due Date": "11-Jun-20"
- },
- {
-   "SMS ID": 13239541,
-   "VC No": 1769130707,
-   "LCO ID": 42095,
-   "Subscriber Name": "nagababu",
-   "Card No": "24",
-   "Name": "KUNCHA SUBBARAO",
-   "Area": "Murumuru",
-   "Cel 1": "9456456456",
-   "Status": "active",
-   "Due Date": "23-Jun-20"
+   "Due Date": "27-Sep-20"
  },
  {
    "SMS ID": 15851485,
@@ -15243,7 +12291,7 @@ var cust_DB=[
    "Area": "Patimalagudem",
    "Cel 1": "8498926080",
    "Status": "Inactive",
-   "Due Date": "3-Dec-19"
+   "Due Date": "03-Dec-19"
  },
  {
    "SMS ID": 15901172,
@@ -15254,8 +12302,8 @@ var cust_DB=[
    "Name": "GOLKONDA PADMAVATHI",
    "Area": "Thotapalli",
    "Cel 1": "8500898142",
-   "Status": "Inactive",
-   "Due Date": "6-Apr-20"
+   "Status": "active",
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 20741907,
@@ -15266,8 +12314,8 @@ var cust_DB=[
    "Name": "MULISETTI SATYANARAYANA",
    "Area": "Gannavaram",
    "Cel 1": "0",
-   "Status": "active",
-   "Due Date": "14-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "25-Jul-20"
  },
  {
    "SMS ID": 21476456,
@@ -15279,43 +12327,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "9-Jun-20"
- },
- {
-   "SMS ID": 20719005,
-   "VC No": 2520474177,
-   "LCO ID": 42095,
-   "Subscriber Name": "SIMHADHRI NARASIMHARAO",
-   "Card No": "36",
-   "Name": "SIMHADHRI NARASIMHARAO",
-   "Area": "Murumuru",
-   "Cel 1": "9676372185",
-   "Status": "Inactive",
-   "Due Date": "31-May-20"
- },
- {
-   "SMS ID": 20858223,
-   "VC No": 2520425941,
-   "LCO ID": 42095,
-   "Subscriber Name": "PANUGANTI",
-   "Card No": "706.F",
-   "Name": "KORASA VERABHADRAM",
-   "Area": "Bhemavaram",
-   "Cel 1": "8978340455 & 9849719265",
-   "Status": "active",
-   "Due Date": "16-Jun-20"
- },
- {
-   "SMS ID": 16771451,
-   "VC No": 1331699159,
-   "LCO ID": 42095,
-   "Subscriber Name": "koti",
-   "Card No": "1179",
-   "Name": "KANGALA SUBBARAO",
-   "Area": "Pandurangapuram",
-   "Cel 1": "9542853468",
-   "Status": "active",
-   "Due Date": "17-Jun-20"
+   "Due Date": "07-Sep-20"
  },
  {
    "SMS ID": 17146245,
@@ -15327,19 +12339,7 @@ var cust_DB=[
    "Area": "Venkatareddypeta",
    "Cel 1": "9010496198",
    "Status": "active",
-   "Due Date": "12-Jun-20"
- },
- {
-   "SMS ID": 21684673,
-   "VC No": 2520427186,
-   "LCO ID": 42095,
-   "Subscriber Name": "KAKA CHANDRA BABU",
-   "Card No": "66.B",
-   "Name": "KAKA CHANDRA BABU",
-   "Area": "Murumuru",
-   "Cel 1": "0",
-   "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 15862576,
@@ -15363,7 +12363,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "0",
    "Status": "Inactive",
-   "Due Date": "6-Feb-20"
+   "Due Date": "06-Feb-20"
  },
  {
    "SMS ID": 21888830,
@@ -15375,7 +12375,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "7702404966",
    "Status": "active",
-   "Due Date": "11-Jun-20"
+   "Due Date": "12-Sep-20"
  },
  {
    "SMS ID": 19984012,
@@ -15390,30 +12390,6 @@ var cust_DB=[
    "Due Date": "26-Nov-19"
  },
  {
-   "SMS ID": 13496470,
-   "VC No": 1769420028,
-   "LCO ID": 42095,
-   "Subscriber Name": "KSiva Rama Krishna",
-   "Card No": "46",
-   "Name": "BUYYANI SURESH",
-   "Area": "Gogubaka",
-   "Cel 1": "7095667697",
-   "Status": "Inactive",
-   "Due Date": "24-Nov-19"
- },
- {
-   "SMS ID": 15459684,
-   "VC No": 1331068138,
-   "LCO ID": 42095,
-   "Subscriber Name": "PODIAM RAMAKRISHNA",
-   "Card No": "277.B",
-   "Name": "PODIAM RAMAKRISHNA",
-   "Area": "Kapugompalli",
-   "Cel 1": "7674958636",
-   "Status": "#N/A",
-   "Due Date": "#N/A"
- },
- {
    "SMS ID": 21164717,
    "VC No": 2520439557,
    "LCO ID": 42095,
@@ -15423,7 +12399,7 @@ var cust_DB=[
    "Area": "Gowridevipeta",
    "Cel 1": "8106552409",
    "Status": "active",
-   "Due Date": "9-Jun-20"
+   "Due Date": "11-Sep-20"
  },
  {
    "SMS ID": 15902386,
@@ -15450,18 +12426,6 @@ var cust_DB=[
    "Due Date": "18-May-20"
  },
  {
-   "SMS ID": 20392501,
-   "VC No": 2516015765,
-   "LCO ID": 42095,
-   "Subscriber Name": "thriveni",
-   "Card No": "695.B",
-   "Name": "KANGALA RAMANAIAH",
-   "Area": "Bhemavaram",
-   "Cel 1": "8500686058",
-   "Status": "Inactive",
-   "Due Date": "20-Nov-19"
- },
- {
    "SMS ID": 15446650,
    "VC No": 1330925708,
    "LCO ID": 42095,
@@ -15482,8 +12446,8 @@ var cust_DB=[
    "Name": "TIRUVEEDULA MAHA LAKSHMAYAH",
    "Area": "Nellipaka",
    "Cel 1": "0",
-   "Status": "active",
-   "Due Date": "23-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "12-Aug-20"
  },
  {
    "SMS ID": 21176506,
@@ -15495,7 +12459,7 @@ var cust_DB=[
    "Area": "Venkatareddypeta",
    "Cel 1": "8008066589",
    "Status": "active",
-   "Due Date": "23-Jun-20"
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 15447106,
@@ -15506,8 +12470,8 @@ var cust_DB=[
    "Name": "VENKATESWARA RAO(CURRENT) Free",
    "Area": "Nellipaka",
    "Cel 1": "9676379838",
-   "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Status": "active",
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 13496274,
@@ -15518,8 +12482,8 @@ var cust_DB=[
    "Name": "GONDELA RAVI SANKAR(PAN SHOP)",
    "Area": "Nellipaka",
    "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Status": "active",
+   "Due Date": "28-Sep-20"
  },
  {
    "SMS ID": 15421741,
@@ -15531,7 +12495,7 @@ var cust_DB=[
    "Area": "Kapugompalli",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "2-Feb-20"
+   "Due Date": "02-Feb-20"
  },
  {
    "SMS ID": 16484013,
@@ -15543,7 +12507,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9846909095",
    "Status": "Inactive",
-   "Due Date": "3-Apr-20"
+   "Due Date": "21-Jul-20"
  },
  {
    "SMS ID": 21476472,
@@ -15567,7 +12531,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "766084777",
    "Status": "active",
-   "Due Date": "7-Jun-20"
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 13484106,
@@ -15580,18 +12544,6 @@ var cust_DB=[
    "Cel 1": "",
    "Status": "Inactive",
    "Due Date": "13-Nov-19"
- },
- {
-   "SMS ID": 17154926,
-   "VC No": 1331723809,
-   "LCO ID": 42095,
-   "Subscriber Name": "BARAPATI SRINIVAS RAO",
-   "Card No": "429",
-   "Name": "BARAPATI SRINIVAS RAO",
-   "Area": "Murumuru",
-   "Cel 1": "9989318432",
-   "Status": "active",
-   "Due Date": "15-Jun-20"
  },
  {
    "SMS ID": 20640980,
@@ -15614,8 +12566,8 @@ var cust_DB=[
    "Name": "SOYAM JAYABABU",
    "Area": "Pandurangapuram",
    "Cel 1": "0",
-   "Status": "Inactive",
-   "Due Date": "13-May-20"
+   "Status": "active",
+   "Due Date": "07-Sep-20"
  },
  {
    "SMS ID": 20486675,
@@ -15623,11 +12575,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "thriveni",
    "Card No": "#N/A",
-   "Name": "#N/A",
-   "Area": "#N/A",
+   "Name": "Gummadi Sambhayya",
+   "Area": "Sethapuram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "20-Jun-20"
+   "Due Date": "27-Sep-20"
  },
  {
    "SMS ID": 21653701,
@@ -15635,11 +12587,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "HARI",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "pallanti.venkanna",
    "Area": "#N/A",
    "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "8-Apr-20"
+   "Status": "active",
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 15469211,
@@ -15663,7 +12615,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9542842679",
    "Status": "Inactive",
-   "Due Date": "24-May-20"
+   "Due Date": "07-Aug-20"
  },
  {
    "SMS ID": 15447783,
@@ -15674,8 +12626,8 @@ var cust_DB=[
    "Name": "UBBA SRINU",
    "Area": "Yarraboru",
    "Cel 1": "7893397128",
-   "Status": "active",
-   "Due Date": "20-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "20-Aug-20"
  },
  {
    "SMS ID": 16114001,
@@ -15687,7 +12639,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "9989964964",
    "Status": "active",
-   "Due Date": "6-Jun-20"
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 21098366,
@@ -15702,18 +12654,6 @@ var cust_DB=[
    "Due Date": "23-May-20"
  },
  {
-   "SMS ID": 13495993,
-   "VC No": 1769333772,
-   "LCO ID": 42095,
-   "Subscriber Name": "KSiva Rama Krishna",
-   "Card No": "63.A",
-   "Name": "DASAYAM RAJYALAXMI",
-   "Area": "Gogubaka",
-   "Cel 1": "9866611697",
-   "Status": "Inactive",
-   "Due Date": "8-Nov-19"
- },
- {
    "SMS ID": 20768558,
    "VC No": 2520442233,
    "LCO ID": 42095,
@@ -15723,7 +12663,7 @@ var cust_DB=[
    "Area": "Gowridevipeta",
    "Cel 1": "0",
    "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 15421748,
@@ -15734,8 +12674,8 @@ var cust_DB=[
    "Name": "DHANE RAJULU",
    "Area": "Kistaram",
    "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Status": "active",
+   "Due Date": "05-Sep-20"
  },
  {
    "SMS ID": 15901499,
@@ -15747,31 +12687,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "7337580761",
    "Status": "active",
-   "Due Date": "7-Jun-20"
- },
- {
-   "SMS ID": 12535382,
-   "VC No": 1768481767,
-   "LCO ID": 42095,
-   "Subscriber Name": "MULISETTI SUDHAKAR",
-   "Card No": "25",
-   "Name": "MULISETTI SUDHAKAR",
-   "Area": "Murumuru",
-   "Cel 1": "9505248980",
-   "Status": "active",
-   "Due Date": "29-Jun-20"
- },
- {
-   "SMS ID": 15459661,
-   "VC No": 1331068142,
-   "LCO ID": 42095,
-   "Subscriber Name": "Uma kilau",
-   "Card No": "953",
-   "Name": "TALLARI PRASAD",
-   "Area": "Palamadugu",
-   "Cel 1": "6281642782",
-   "Status": "Inactive",
-   "Due Date": "28-May-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 15521416,
@@ -15783,7 +12699,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "9492312250",
    "Status": "Inactive",
-   "Due Date": "5-Nov-19"
+   "Due Date": "05-Nov-19"
  },
  {
    "SMS ID": 15460314,
@@ -15795,7 +12711,7 @@ var cust_DB=[
    "Area": "Patimalagudem",
    "Cel 1": "8106769959",
    "Status": "Inactive",
-   "Due Date": "4-Nov-19"
+   "Due Date": "04-Nov-19"
  },
  {
    "SMS ID": 20548846,
@@ -15807,19 +12723,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "7382381186",
    "Status": "active",
-   "Due Date": "1-Jun-20"
- },
- {
-   "SMS ID": 22123966,
-   "VC No": 1760452942,
-   "LCO ID": 42095,
-   "Subscriber Name": "T Venkateswarulu",
-   "Card No": "930",
-   "Name": "TALLARI VENKATESH",
-   "Area": "Palamadugu",
-   "Cel 1": "9666318046 & 7989229796",
-   "Status": "Inactive",
-   "Due Date": "4-Nov-19"
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 15208234,
@@ -15831,7 +12735,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9908321663",
    "Status": "Inactive",
-   "Due Date": "3-Nov-19"
+   "Due Date": "03-Nov-19"
  },
  {
    "SMS ID": 13547706,
@@ -15855,19 +12759,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "8500323963",
    "Status": "Inactive",
-   "Due Date": "1-Nov-19"
- },
- {
-   "SMS ID": 13167949,
-   "VC No": 1769148561,
-   "LCO ID": 42095,
-   "Subscriber Name": "bhagavan",
-   "Card No": "175.A",
-   "Name": "KOVULURI PULLAIAH",
-   "Area": "Gommu Kothagudem",
-   "Cel 1": "8332870327",
-   "Status": "Inactive",
-   "Due Date": "31-Oct-19"
+   "Due Date": "01-Nov-19"
  },
  {
    "SMS ID": 15446664,
@@ -15878,8 +12770,8 @@ var cust_DB=[
    "Name": "RAYALA SAGAR",
    "Area": "Nellipaka",
    "Cel 1": "9010329602",
-   "Status": "active",
-   "Due Date": "10-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "18-Aug-20"
  },
  {
    "SMS ID": 13237639,
@@ -15891,7 +12783,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "8985930560",
    "Status": "Inactive",
-   "Due Date": "27-Oct-19"
+   "Due Date": "14-Jul-20"
  },
  {
    "SMS ID": 15900928,
@@ -15902,20 +12794,8 @@ var cust_DB=[
    "Name": "THATI SATYAM",
    "Area": "Regadigattu",
    "Cel 1": "8333808525",
-   "Status": "Inactive",
-   "Due Date": "1-Jun-20"
- },
- {
-   "SMS ID": 20986693,
-   "VC No": 2520442784,
-   "LCO ID": 42095,
-   "Subscriber Name": "MURALI",
-   "Card No": "1171",
-   "Name": "KANITI SRINU(VENKATA NARASAMMA)",
-   "Area": "Pandurangapuram",
-   "Cel 1": "9959317349",
    "Status": "active",
-   "Due Date": "11-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 15464569,
@@ -15939,7 +12819,7 @@ var cust_DB=[
    "Area": "Gannerukoyyapadu",
    "Cel 1": "9698000683",
    "Status": "Inactive",
-   "Due Date": "5-Feb-20"
+   "Due Date": "05-Feb-20"
  },
  {
    "SMS ID": 15447678,
@@ -15962,8 +12842,8 @@ var cust_DB=[
    "Name": "MANDA MAHESH",
    "Area": "Nellipaka",
    "Cel 1": "7674003092",
-   "Status": "Inactive",
-   "Due Date": "31-May-20"
+   "Status": "active",
+   "Due Date": "13-Sep-20"
  },
  {
    "SMS ID": 13496402,
@@ -15975,7 +12855,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9849927040",
    "Status": "Inactive",
-   "Due Date": "9-Jan-20"
+   "Due Date": "09-Jan-20"
  },
  {
    "SMS ID": 15207365,
@@ -16011,7 +12891,7 @@ var cust_DB=[
    "Area": "Kistaram",
    "Cel 1": "0",
    "Status": "active",
-   "Due Date": "21-Jun-20"
+   "Due Date": "12-Sep-20"
  },
  {
    "SMS ID": 13496173,
@@ -16034,8 +12914,8 @@ var cust_DB=[
    "Name": "Y.SHIVAJI",
    "Area": "Nellipaka",
    "Cel 1": "9603849683",
-   "Status": "active",
-   "Due Date": "21-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "25-Aug-20"
  },
  {
    "SMS ID": 15427719,
@@ -16047,7 +12927,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "8466932500",
    "Status": "active",
-   "Due Date": "18-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 15904782,
@@ -16062,18 +12942,6 @@ var cust_DB=[
    "Due Date": "16-Oct-19"
  },
  {
-   "SMS ID": 13033251,
-   "VC No": 1769148817,
-   "LCO ID": 42095,
-   "Subscriber Name": "bhagavan",
-   "Card No": "202.A",
-   "Name": "PUNNEM SEETHARAMAIAH",
-   "Area": "Gommu Kothagudem",
-   "Cel 1": "8008083524",
-   "Status": "Inactive",
-   "Due Date": "28-Mar-20"
- },
- {
    "SMS ID": 15440750,
    "VC No": 1331030297,
    "LCO ID": 42095,
@@ -16082,8 +12950,8 @@ var cust_DB=[
    "Name": "NALAJALA RAMBABU",
    "Area": "Thotapalli",
    "Cel 1": "8985714380",
-   "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Status": "active",
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 16561502,
@@ -16094,8 +12962,8 @@ var cust_DB=[
    "Name": "MARLAPATI VENKATESWARA RAO(SEETHA RATHNAM)",
    "Area": "Venkatareddypeta",
    "Cel 1": "9704987158",
-   "Status": "active",
-   "Due Date": "22-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "12-Aug-20"
  },
  {
    "SMS ID": 20303278,
@@ -16107,7 +12975,7 @@ var cust_DB=[
    "Area": "Gowridevipeta",
    "Cel 1": "7901060815",
    "Status": "active",
-   "Due Date": "2-Jun-20"
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 21889922,
@@ -16115,7 +12983,7 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "nalajala rambabu",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "nalajala rambabu",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -16131,7 +12999,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "9492220770",
    "Status": "active",
-   "Due Date": "27-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 20262309,
@@ -16144,18 +13012,6 @@ var cust_DB=[
    "Cel 1": "9010140048",
    "Status": "Inactive",
    "Due Date": "12-Oct-19"
- },
- {
-   "SMS ID": 21969983,
-   "VC No": 2520447790,
-   "LCO ID": 42095,
-   "Subscriber Name": "penuballi sathyanarayana",
-   "Card No": "706.I",
-   "Name": "PENUBALLI SATYANARAYANA",
-   "Area": "Bhemavaram",
-   "Cel 1": "8331007145",
-   "Status": "active",
-   "Due Date": "28-Jun-20"
  },
  {
    "SMS ID": 13496059,
@@ -16175,7 +13031,7 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "koti",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "koti",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -16191,7 +13047,7 @@ var cust_DB=[
    "Area": "Pandurangapuram",
    "Cel 1": "8179828240",
    "Status": "Inactive",
-   "Due Date": "9-Oct-19"
+   "Due Date": "09-Oct-19"
  },
  {
    "SMS ID": 15422925,
@@ -16203,7 +13059,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9951367887",
    "Status": "Inactive",
-   "Due Date": "8-Oct-19"
+   "Due Date": "08-Oct-19"
  },
  {
    "SMS ID": 15446928,
@@ -16215,7 +13071,7 @@ var cust_DB=[
    "Area": "Venkatareddypeta",
    "Cel 1": "9963315031",
    "Status": "Inactive",
-   "Due Date": "8-Oct-19"
+   "Due Date": "08-Oct-19"
  },
  {
    "SMS ID": 20026450,
@@ -16227,7 +13083,7 @@ var cust_DB=[
    "Area": "Kapugompalli",
    "Cel 1": "0",
    "Status": "Inactive",
-   "Due Date": "7-Oct-19"
+   "Due Date": "07-Oct-19"
  },
  {
    "SMS ID": 16769955,
@@ -16239,7 +13095,7 @@ var cust_DB=[
    "Area": "Pandurangapuram",
    "Cel 1": "7993680484 & 9949336334",
    "Status": "active",
-   "Due Date": "29-Jun-20"
+   "Due Date": "09-Sep-20"
  },
  {
    "SMS ID": 22178107,
@@ -16247,11 +13103,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "Byreddyramana",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "Byreddyramana",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "6-Oct-19"
+   "Due Date": "06-Oct-19"
  },
  {
    "SMS ID": 15421772,
@@ -16263,7 +13119,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "9177023883",
    "Status": "Inactive",
-   "Due Date": "5-Oct-19"
+   "Due Date": "05-Oct-19"
  },
  {
    "SMS ID": 15448490,
@@ -16274,8 +13130,8 @@ var cust_DB=[
    "Name": "VALAPARLA SOMULU",
    "Area": "Gannavaram",
    "Cel 1": "9492009726",
-   "Status": "Inactive",
-   "Due Date": "5-May-20"
+   "Status": "active",
+   "Due Date": "30-Sep-20"
  },
  {
    "SMS ID": 12582448,
@@ -16286,8 +13142,8 @@ var cust_DB=[
    "Name": "BOLLA VENKATESWARA RAO",
    "Area": "Nellipaka",
    "Cel 1": "9912637922",
-   "Status": "active",
-   "Due Date": "14-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "15-Jul-20"
  },
  {
    "SMS ID": 15207344,
@@ -16299,7 +13155,7 @@ var cust_DB=[
    "Area": "Yarraboru",
    "Cel 1": "9502935082 & 9502935181",
    "Status": "active",
-   "Due Date": "28-Jun-20"
+   "Due Date": "28-Sep-20"
  },
  {
    "SMS ID": 20641231,
@@ -16311,7 +13167,7 @@ var cust_DB=[
    "Area": "Ayyavaripeta",
    "Cel 1": "0",
    "Status": "Inactive",
-   "Due Date": "2-Oct-19"
+   "Due Date": "02-Oct-19"
  },
  {
    "SMS ID": 15521454,
@@ -16331,7 +13187,7 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "RAYAPATI PEDHA GANGADHAR RAO",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "RAYAPATI PEDHA GANGADHAR RAO",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -16346,20 +13202,8 @@ var cust_DB=[
    "Name": "DHAROGI KONDAIAH",
    "Area": "Gowridevipeta",
    "Cel 1": "",
-   "Status": "active",
-   "Due Date": "20-Jun-20"
- },
- {
-   "SMS ID": 21523118,
-   "VC No": 2520442754,
-   "LCO ID": 42095,
-   "Subscriber Name": "DARAVATH RAMESH",
-   "Card No": "787",
-   "Name": "DHARAVATH RAMESH",
-   "Area": "Buruguvai Tanda",
-   "Cel 1": "9573745393",
    "Status": "Inactive",
-   "Due Date": "28-Sep-19"
+   "Due Date": "21-Aug-20"
  },
  {
    "SMS ID": 13491043,
@@ -16371,7 +13215,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9000130575",
    "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "06-Sep-20"
  },
  {
    "SMS ID": 20026455,
@@ -16382,8 +13226,8 @@ var cust_DB=[
    "Name": "TUNGA NAGARAJU",
    "Area": "Gowridevipeta",
    "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "16-May-20"
+   "Status": "active",
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 19983924,
@@ -16396,18 +13240,6 @@ var cust_DB=[
    "Cel 1": "7036679018",
    "Status": "Inactive",
    "Due Date": "18-Sep-19"
- },
- {
-   "SMS ID": 20326295,
-   "VC No": 2516018186,
-   "LCO ID": 42095,
-   "Subscriber Name": "THRIVENI",
-   "Card No": "777.A",
-   "Name": "BUKYA BHASKER",
-   "Area": "Buruguvai Tanda",
-   "Cel 1": "8179161174",
-   "Status": "Inactive",
-   "Due Date": "27-May-20"
  },
  {
    "SMS ID": 12582002,
@@ -16427,35 +13259,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "charla",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "charla",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
    "Due Date": "11-Sep-19"
- },
- {
-   "SMS ID": 13485029,
-   "VC No": 1769095112,
-   "LCO ID": 42095,
-   "Subscriber Name": "koti",
-   "Card No": "870",
-   "Name": "BOPPANI ANIL",
-   "Area": "Laxmipuram",
-   "Cel 1": "9989027924",
-   "Status": "active",
-   "Due Date": "16-Jun-20"
- },
- {
-   "SMS ID": 15422917,
-   "VC No": 1330159508,
-   "LCO ID": 42095,
-   "Subscriber Name": "Satyaprasad",
-   "Card No": "839",
-   "Name": "THOTAMALLA NARSAIAH",
-   "Area": "Laxmipuram",
-   "Cel 1": "9676372465",
-   "Status": "Inactive",
-   "Due Date": "10-Sep-19"
  },
  {
    "SMS ID": 21525259,
@@ -16467,7 +13275,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "9963654868",
    "Status": "active",
-   "Due Date": "21-Jun-20"
+   "Due Date": "27-Sep-20"
  },
  {
    "SMS ID": 21155149,
@@ -16490,8 +13298,8 @@ var cust_DB=[
    "Name": "p nagaiah",
    "Area": "nellipaka",
    "Cel 1": "",
-   "Status": "active",
-   "Due Date": "25-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "25-Aug-20"
  },
  {
    "SMS ID": 13502068,
@@ -16503,7 +13311,7 @@ var cust_DB=[
    "Area": "Kapugompalli",
    "Cel 1": "9912798638",
    "Status": "active",
-   "Due Date": "11-Jun-20"
+   "Due Date": "11-Sep-20"
  },
  {
    "SMS ID": 15862415,
@@ -16515,7 +13323,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "2-Sep-19"
+   "Due Date": "02-Sep-19"
  },
  {
    "SMS ID": 20184157,
@@ -16527,7 +13335,7 @@ var cust_DB=[
    "Area": "Gowridevipeta",
    "Cel 1": "9010907068",
    "Status": "active",
-   "Due Date": "13-Jun-20"
+   "Due Date": "12-Sep-20"
  },
  {
    "SMS ID": 13195216,
@@ -16551,7 +13359,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9398314093",
    "Status": "active",
-   "Due Date": "27-Jun-20"
+   "Due Date": "05-Sep-20"
  },
  {
    "SMS ID": 15464884,
@@ -16590,18 +13398,6 @@ var cust_DB=[
    "Due Date": "22-Aug-19"
  },
  {
-   "SMS ID": 15439930,
-   "VC No": 1330692534,
-   "LCO ID": 42095,
-   "Subscriber Name": "KANITHI SRINU",
-   "Card No": "437",
-   "Name": "KANITHI SRINU",
-   "Area": "Murumuru",
-   "Cel 1": "9949179914",
-   "Status": "Inactive",
-   "Due Date": "22-Aug-19"
- },
- {
    "SMS ID": 20679351,
    "VC No": 2520450443,
    "LCO ID": 42095,
@@ -16610,8 +13406,8 @@ var cust_DB=[
    "Name": "APKA BHUSHAYAH",
    "Area": "Chodavaram",
    "Cel 1": "9573559760",
-   "Status": "active",
-   "Due Date": "18-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "28-Aug-20"
  },
  {
    "SMS ID": 20742832,
@@ -16634,20 +13430,8 @@ var cust_DB=[
    "Name": "SK NAGULAMERA",
    "Area": "Nellipaka",
    "Cel 1": "7036169097",
-   "Status": "Inactive",
-   "Due Date": "21-Aug-19"
- },
- {
-   "SMS ID": 13496044,
-   "VC No": 1769420101,
-   "LCO ID": 42095,
-   "Subscriber Name": "Siva Rama Krishna",
-   "Card No": "972.B",
-   "Name": "TALLARI CHITTAIAH",
-   "Area": "Palamadugu",
-   "Cel 1": "6304534157",
-   "Status": "Inactive",
-   "Due Date": "28-May-20"
+   "Status": "active",
+   "Due Date": "28-Sep-20"
  },
  {
    "SMS ID": 15521206,
@@ -16683,7 +13467,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "9493803457",
    "Status": "Inactive",
-   "Due Date": "24-Apr-20"
+   "Due Date": "19-Aug-20"
  },
  {
    "SMS ID": 13237659,
@@ -16719,7 +13503,7 @@ var cust_DB=[
    "Area": "Kistaram",
    "Cel 1": "0",
    "Status": "Inactive",
-   "Due Date": "27-May-20"
+   "Due Date": "30-Aug-20"
  },
  {
    "SMS ID": 15460315,
@@ -16730,8 +13514,8 @@ var cust_DB=[
    "Name": "BORRA RAMBABU",
    "Area": "Pandurangapuram",
    "Cel 1": "0",
-   "Status": "Inactive",
-   "Due Date": "15-Aug-19"
+   "Status": "active",
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 22093705,
@@ -16739,11 +13523,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "BCM OFFICE",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "BCM OFFICE",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "1-Mar-20"
+   "Due Date": "01-Mar-20"
  },
  {
    "SMS ID": 15521512,
@@ -16755,7 +13539,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "0",
    "Status": "active",
-   "Due Date": "26-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 15460644,
@@ -16791,7 +13575,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9494426149",
    "Status": "Inactive",
-   "Due Date": "9-Aug-19"
+   "Due Date": "09-Aug-19"
  },
  {
    "SMS ID": 22089759,
@@ -16803,7 +13587,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "8500569856",
    "Status": "active",
-   "Due Date": "21-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 13195616,
@@ -16815,7 +13599,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "0",
    "Status": "Inactive",
-   "Due Date": "8-Aug-19"
+   "Due Date": "08-Aug-19"
  },
  {
    "SMS ID": 16531199,
@@ -16827,19 +13611,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "7995228705",
    "Status": "Inactive",
-   "Due Date": "8-Aug-19"
- },
- {
-   "SMS ID": 16744863,
-   "VC No": 1331723227,
-   "LCO ID": 42095,
-   "Subscriber Name": "PUTTI JANAKI",
-   "Card No": "300",
-   "Name": "PUTTI JANAKI",
-   "Area": "Murumuru",
-   "Cel 1": "9553948709",
-   "Status": "Inactive",
-   "Due Date": "8-Aug-19"
+   "Due Date": "08-Aug-19"
  },
  {
    "SMS ID": 15460621,
@@ -16850,8 +13622,8 @@ var cust_DB=[
    "Name": "MARLAPATI RAMABABU",
    "Area": "Seethapuram",
    "Cel 1": "9652289935",
-   "Status": "Inactive",
-   "Due Date": "25-May-20"
+   "Status": "active",
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 21714603,
@@ -16866,18 +13638,6 @@ var cust_DB=[
    "Due Date": "22-Feb-20"
  },
  {
-   "SMS ID": 17039221,
-   "VC No": 1331699971,
-   "LCO ID": 42095,
-   "Subscriber Name": "M jayasudha",
-   "Card No": "195",
-   "Name": "APAKA ESWARAMMA",
-   "Area": "Gommu Kothagudem",
-   "Cel 1": "9618993968 & 9100640325",
-   "Status": "active",
-   "Due Date": "21-Jun-20"
- },
- {
    "SMS ID": 20729361,
    "VC No": 2520444700,
    "LCO ID": 42095,
@@ -16887,7 +13647,7 @@ var cust_DB=[
    "Area": "Awer Colony",
    "Cel 1": "0",
    "Status": "Inactive",
-   "Due Date": "6-Aug-19"
+   "Due Date": "06-Aug-19"
  },
  {
    "SMS ID": 20823478,
@@ -16899,7 +13659,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "0",
    "Status": "Inactive",
-   "Due Date": "2-Aug-19"
+   "Due Date": "02-Aug-19"
  },
  {
    "SMS ID": 15460278,
@@ -16922,8 +13682,8 @@ var cust_DB=[
    "Name": "GUDIMALLA VEERABADRAM",
    "Area": "Nellipaka",
    "Cel 1": "9948889434",
-   "Status": "Inactive",
-   "Due Date": "26-Apr-20"
+   "Status": "active",
+   "Due Date": "26-Sep-20"
  },
  {
    "SMS ID": 16502910,
@@ -16955,7 +13715,7 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "U LAXMAN",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "U LAXMAN",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -17015,23 +13775,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "M NAGARAJU",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "M NAGARAJU",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
    "Due Date": "15-Jul-19"
- },
- {
-   "SMS ID": 13246273,
-   "VC No": 1769130901,
-   "LCO ID": 42095,
-   "Subscriber Name": "nagababu",
-   "Card No": "457.A",
-   "Name": "UKA SATHYANARAYANA",
-   "Area": "Murumuru",
-   "Cel 1": "0",
-   "Status": "Inactive",
-   "Due Date": "13-Jul-19"
  },
  {
    "SMS ID": 13485520,
@@ -17090,8 +13838,8 @@ var cust_DB=[
    "Name": "DARA VENKATESWARLU",
    "Area": "Seethapuram",
    "Cel 1": "8309554086",
-   "Status": "active",
-   "Due Date": "12-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "22-Aug-20"
  },
  {
    "SMS ID": 12536060,
@@ -17103,7 +13851,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "8498837949",
    "Status": "Inactive",
-   "Due Date": "7-Jul-19"
+   "Due Date": "07-Jul-19"
  },
  {
    "SMS ID": 11907358,
@@ -17115,7 +13863,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "9494792210",
    "Status": "Inactive",
-   "Due Date": "6-Jul-19"
+   "Due Date": "06-Jul-19"
  },
  {
    "SMS ID": 15446677,
@@ -17127,19 +13875,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9618263536",
    "Status": "Inactive",
-   "Due Date": "6-Jul-19"
- },
- {
-   "SMS ID": 21168699,
-   "VC No": 2520438555,
-   "LCO ID": 42095,
-   "Subscriber Name": "Asu ramulamma",
-   "Card No": "78.B",
-   "Name": "ASU RAMULAMMA",
-   "Area": "Murumuru",
-   "Cel 1": "9652638023",
-   "Status": "Inactive",
-   "Due Date": "5-Jul-19"
+   "Due Date": "06-Jul-19"
  },
  {
    "SMS ID": 15447606,
@@ -17151,7 +13887,7 @@ var cust_DB=[
    "Area": "Kistaram",
    "Cel 1": "0",
    "Status": "Inactive",
-   "Due Date": "4-Jul-19"
+   "Due Date": "04-Jul-19"
  },
  {
    "SMS ID": 17146459,
@@ -17163,19 +13899,7 @@ var cust_DB=[
    "Area": "Gowridevipeta",
    "Cel 1": "9704810878",
    "Status": "Inactive",
-   "Due Date": "3-Jul-19"
- },
- {
-   "SMS ID": 20356828,
-   "VC No": 2516018170,
-   "LCO ID": 42095,
-   "Subscriber Name": "MALLELA RAMARAO",
-   "Card No": "423",
-   "Name": "MALLELA RAMARAO",
-   "Area": "Murumuru",
-   "Cel 1": "7993580036",
-   "Status": "Inactive",
-   "Due Date": "3-Jul-19"
+   "Due Date": "03-Jul-19"
  },
  {
    "SMS ID": 21494858,
@@ -17186,8 +13910,8 @@ var cust_DB=[
    "Name": "GADHALA NAGESWARA RAO",
    "Area": "Nellipaka",
    "Cel 1": "6302991065 & 6302971065",
-   "Status": "active",
-   "Due Date": "18-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "26-Aug-20"
  },
  {
    "SMS ID": 21647398,
@@ -17199,19 +13923,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9010430676",
    "Status": "active",
-   "Due Date": "27-Jun-20"
- },
- {
-   "SMS ID": 21917803,
-   "VC No": 2520427093,
-   "LCO ID": 42095,
-   "Subscriber Name": "banavath tulasamma",
-   "Card No": "780.A",
-   "Name": "BONOTHU THULASAMMA",
-   "Area": "Buruguvai Tanda",
-   "Cel 1": "9000026215",
-   "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Due Date": "06-Sep-20"
  },
  {
    "SMS ID": 15447154,
@@ -17222,8 +13934,8 @@ var cust_DB=[
    "Name": "GODLA RAMANAIAH",
    "Area": "Nellipaka",
    "Cel 1": "8008087071",
-   "Status": "active",
-   "Due Date": "24-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "25-Jun-20"
  },
  {
    "SMS ID": 21109387,
@@ -17258,18 +13970,6 @@ var cust_DB=[
    "Name": "DHANE RANGAIAH",
    "Area": "Kistaram",
    "Cel 1": "91773999530",
-   "Status": "Inactive",
-   "Due Date": "27-Jun-19"
- },
- {
-   "SMS ID": 21367833,
-   "VC No": 2520435985,
-   "LCO ID": 42095,
-   "Subscriber Name": "KOTI",
-   "Card No": "439",
-   "Name": "PENUBALLI NAGAMMA-RAVI",
-   "Area": "Murumuru",
-   "Cel 1": "9676283588",
    "Status": "Inactive",
    "Due Date": "27-Jun-19"
  },
@@ -17319,7 +14019,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "9491674106",
    "Status": "active",
-   "Due Date": "13-Jun-20"
+   "Due Date": "11-Sep-20"
  },
  {
    "SMS ID": 20471159,
@@ -17330,8 +14030,8 @@ var cust_DB=[
    "Name": "CHUNCHU RAMANA",
    "Area": "Nellipaka",
    "Cel 1": "9493217281",
-   "Status": "Inactive",
-   "Due Date": "16-Apr-20"
+   "Status": "active",
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 16483824,
@@ -17339,23 +14039,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "koti",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "koti",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
    "Due Date": "19-Jun-19"
- },
- {
-   "SMS ID": 15447831,
-   "VC No": 1330117770,
-   "LCO ID": 42095,
-   "Subscriber Name": "PARITALA MUNI",
-   "Card No": "31",
-   "Name": "PARITALA MUNI",
-   "Area": "Murumuru",
-   "Cel 1": "7286099774",
-   "Status": "Inactive",
-   "Due Date": "17-Jun-19"
  },
  {
    "SMS ID": 19983918,
@@ -17368,18 +14056,6 @@ var cust_DB=[
    "Cel 1": "9502652182",
    "Status": "Inactive",
    "Due Date": "17-Jun-19"
- },
- {
-   "SMS ID": 20486691,
-   "VC No": 2516010043,
-   "LCO ID": 42095,
-   "Subscriber Name": "thriveni",
-   "Card No": "215",
-   "Name": "MADAKAM VENKATESH",
-   "Area": "Gommu Kothagudem",
-   "Cel 1": "7330901742",
-   "Status": "active",
-   "Due Date": "21-Jun-20"
  },
  {
    "SMS ID": 13496193,
@@ -17402,8 +14078,8 @@ var cust_DB=[
    "Name": "VANKALA KOWSALYA",
    "Area": "Thotapalli",
    "Cel 1": "9963392551",
-   "Status": "Inactive",
-   "Due Date": "16-Jun-19"
+   "Status": "active",
+   "Due Date": "06-Sep-20"
  },
  {
    "SMS ID": 13484501,
@@ -17414,30 +14090,6 @@ var cust_DB=[
    "Name": "MANIKALA VEERASWAMY",
    "Area": "Nellipaka",
    "Cel 1": "9948772362",
-   "Status": "Inactive",
-   "Due Date": "14-Jun-19"
- },
- {
-   "SMS ID": 15447849,
-   "VC No": 1330117772,
-   "LCO ID": 42095,
-   "Subscriber Name": "PARITALA VENKANNA",
-   "Card No": "30",
-   "Name": "PARITALA VENKANNA",
-   "Area": "Murumuru",
-   "Cel 1": "8179288104",
-   "Status": "Inactive",
-   "Due Date": "14-Jun-19"
- },
- {
-   "SMS ID": 16745289,
-   "VC No": 1331699965,
-   "LCO ID": 42095,
-   "Subscriber Name": "K sambaiah",
-   "Card No": "27",
-   "Name": "CHINTHA THIRUPATHAMMA",
-   "Area": "Gogubaka",
-   "Cel 1": "9948370460",
    "Status": "Inactive",
    "Due Date": "14-Jun-19"
  },
@@ -17459,7 +14111,7 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "MURALI",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "MURALI",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -17475,7 +14127,7 @@ var cust_DB=[
    "Area": "Kistaram",
    "Cel 1": "0",
    "Status": "Inactive",
-   "Due Date": "9-Jun-19"
+   "Due Date": "09-Jun-19"
  },
  {
    "SMS ID": 15447636,
@@ -17487,43 +14139,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "9951799636",
    "Status": "Inactive",
-   "Due Date": "8-Jun-19"
- },
- {
-   "SMS ID": 15901479,
-   "VC No": 1331502138,
-   "LCO ID": 42095,
-   "Subscriber Name": "sathya prasad",
-   "Card No": "197",
-   "Name": "MIDIYAM CHUKKAMMA",
-   "Area": "Gommu Kothagudem",
-   "Cel 1": "8374815295",
-   "Status": "active",
-   "Due Date": "4-Jun-20"
- },
- {
-   "SMS ID": 17146492,
-   "VC No": 1331699106,
-   "LCO ID": 42095,
-   "Subscriber Name": "koti",
-   "Card No": "859",
-   "Name": "BHADEPUDI NARSAIAH",
-   "Area": "Laxmipuram",
-   "Cel 1": "9502869618",
-   "Status": "Inactive",
-   "Due Date": "8-Jun-19"
- },
- {
-   "SMS ID": 15850871,
-   "VC No": 1331503078,
-   "LCO ID": 42095,
-   "Subscriber Name": "sathya prasad",
-   "Card No": "181",
-   "Name": "KURASAM RAMABABU",
-   "Area": "Gommu Kothagudem",
-   "Cel 1": "DTH",
-   "Status": "Inactive",
-   "Due Date": "6-Jun-19"
+   "Due Date": "08-Jun-19"
  },
  {
    "SMS ID": 15901138,
@@ -17535,7 +14151,7 @@ var cust_DB=[
    "Area": "Pandurangapuram",
    "Cel 1": "9010202156",
    "Status": "Inactive",
-   "Due Date": "6-Jun-19"
+   "Due Date": "06-Jun-19"
  },
  {
    "SMS ID": 16484112,
@@ -17547,7 +14163,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9550723683",
    "Status": "Inactive",
-   "Due Date": "6-Jun-19"
+   "Due Date": "06-Jun-19"
  },
  {
    "SMS ID": 16435937,
@@ -17559,7 +14175,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "0",
    "Status": "Inactive",
-   "Due Date": "4-Jun-19"
+   "Due Date": "04-Jun-19"
  },
  {
    "SMS ID": 20986734,
@@ -17571,7 +14187,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "9603425548",
    "Status": "active",
-   "Due Date": "5-Jun-20"
+   "Due Date": "21-Sep-20"
  },
  {
    "SMS ID": 22140445,
@@ -17579,11 +14195,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "S Raghavamma",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "S Raghavamma",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "2-Jun-19"
+   "Due Date": "02-Jun-19"
  },
  {
    "SMS ID": 20395976,
@@ -17595,7 +14211,7 @@ var cust_DB=[
    "Area": "Pandurangapuram",
    "Cel 1": "7901379311",
    "Status": "Inactive",
-   "Due Date": "1-Jun-19"
+   "Due Date": "01-Jun-19"
  },
  {
    "SMS ID": 21685287,
@@ -17619,7 +14235,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "9573940169",
    "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "06-Sep-20"
  },
  {
    "SMS ID": 16436170,
@@ -17646,28 +14262,16 @@ var cust_DB=[
    "Due Date": "28-May-19"
  },
  {
-   "SMS ID": 16769790,
-   "VC No": 1331699415,
-   "LCO ID": 42095,
-   "Subscriber Name": "Sathya Prasad",
-   "Card No": "430.B",
-   "Name": "ITHAM RAJU-VEERABABU",
-   "Area": "Murumuru",
-   "Cel 1": "0",
-   "Status": "Inactive",
-   "Due Date": "25-May-19"
- },
- {
    "SMS ID": 16483820,
    "VC No": 1331699269,
    "LCO ID": 42095,
    "Subscriber Name": "koti",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "koti",
    "Area": "#N/A",
    "Cel 1": "",
-   "Status": "active",
-   "Due Date": "9-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "12-Aug-20"
  },
  {
    "SMS ID": 15440778,
@@ -17679,7 +14283,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "9573683209",
    "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 16503467,
@@ -17754,24 +14358,12 @@ var cust_DB=[
    "Due Date": "14-May-19"
  },
  {
-   "SMS ID": 17146527,
-   "VC No": 1331699105,
-   "LCO ID": 42095,
-   "Subscriber Name": "koti",
-   "Card No": "846",
-   "Name": "UNDETI NARSAIAH",
-   "Area": "Laxmipuram",
-   "Cel 1": "9704038903",
-   "Status": "Inactive",
-   "Due Date": "13-May-19"
- },
- {
    "SMS ID": 20471082,
    "VC No": 2516031160,
    "LCO ID": 42095,
    "Subscriber Name": "koti",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "koti",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -17795,7 +14387,7 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "Prasad",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "Prasad",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -17838,28 +14430,16 @@ var cust_DB=[
    "Due Date": "10-May-19"
  },
  {
-   "SMS ID": 15900831,
-   "VC No": 1331668723,
-   "LCO ID": 42095,
-   "Subscriber Name": "sathya prasad",
-   "Card No": "12",
-   "Name": "THELLURI VENKATAKRISHNA",
-   "Area": "Gogubaka",
-   "Cel 1": "DTH",
-   "Status": "Inactive",
-   "Due Date": "9-May-19"
- },
- {
    "SMS ID": 22188639,
    "VC No": 2520426746,
    "LCO ID": 42095,
    "Subscriber Name": "OFFICE",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "OFFICE",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "9-May-19"
+   "Due Date": "09-May-19"
  },
  {
    "SMS ID": 11910745,
@@ -17867,23 +14447,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "akhil",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "akhil",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "8-May-19"
- },
- {
-   "SMS ID": 13238619,
-   "VC No": 1769130697,
-   "LCO ID": 42095,
-   "Subscriber Name": "MEKALA NAGESHYSR",
-   "Card No": "73.A",
-   "Name": "MEKALA NAGESH(Y.S.R)",
-   "Area": "Murumuru",
-   "Cel 1": "7337074941",
-   "Status": "Inactive",
-   "Due Date": "8-May-19"
+   "Due Date": "08-May-19"
  },
  {
    "SMS ID": 15862886,
@@ -17895,7 +14463,7 @@ var cust_DB=[
    "Area": "Patimalagudem",
    "Cel 1": "7658903281",
    "Status": "Inactive",
-   "Due Date": "8-May-19"
+   "Due Date": "08-May-19"
  },
  {
    "SMS ID": 15464854,
@@ -17907,7 +14475,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "9494703782",
    "Status": "Inactive",
-   "Due Date": "7-May-19"
+   "Due Date": "07-May-19"
  },
  {
    "SMS ID": 20471116,
@@ -17915,11 +14483,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "koti",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "koti",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "7-May-19"
+   "Due Date": "07-May-19"
  },
  {
    "SMS ID": 21936624,
@@ -17930,8 +14498,8 @@ var cust_DB=[
    "Name": "Sudipaka Nageswara rao",
    "Area": "Gowridevipeta",
    "Cel 1": "7995762652",
-   "Status": "Inactive",
-   "Due Date": "7-May-19"
+   "Status": "active",
+   "Due Date": "06-Sep-20"
  },
  {
    "SMS ID": 13087191,
@@ -17943,7 +14511,7 @@ var cust_DB=[
    "Area": "Kapugompalli",
    "Cel 1": "9204849195",
    "Status": "Inactive",
-   "Due Date": "6-May-19"
+   "Due Date": "06-May-19"
  },
  {
    "SMS ID": 20640988,
@@ -17954,8 +14522,8 @@ var cust_DB=[
    "Name": "GADHALA NAGESH",
    "Area": "Gannavaram",
    "Cel 1": "0",
-   "Status": "Inactive",
-   "Due Date": "30-May-20"
+   "Status": "active",
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 15460642,
@@ -17967,19 +14535,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9701355210",
    "Status": "Inactive",
-   "Due Date": "5-May-19"
- },
- {
-   "SMS ID": 16112441,
-   "VC No": 1331430131,
-   "LCO ID": 42095,
-   "Subscriber Name": "ASU SATHYANARAYANA",
-   "Card No": "77",
-   "Name": "ASU SATHYANARAYANA",
-   "Area": "Murumuru",
-   "Cel 1": "9908350157",
-   "Status": "Inactive",
-   "Due Date": "5-May-19"
+   "Due Date": "05-May-19"
  },
  {
    "SMS ID": 20388702,
@@ -17987,11 +14543,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "charla",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "charla",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "5-May-19"
+   "Due Date": "05-May-19"
  },
  {
    "SMS ID": 15851039,
@@ -18003,7 +14559,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "DTH",
    "Status": "Inactive",
-   "Due Date": "4-May-19"
+   "Due Date": "04-May-19"
  },
  {
    "SMS ID": 21209272,
@@ -18015,7 +14571,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "9550847190",
    "Status": "Inactive",
-   "Due Date": "4-May-19"
+   "Due Date": "04-May-19"
  },
  {
    "SMS ID": 22180198,
@@ -18023,11 +14579,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "PANUGANTI",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "PANUGANTI",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "3-May-19"
+   "Due Date": "03-May-19"
  },
  {
    "SMS ID": 20969467,
@@ -18039,7 +14595,7 @@ var cust_DB=[
    "Area": "Kistaram",
    "Cel 1": "0",
    "Status": "Inactive",
-   "Due Date": "1-May-19"
+   "Due Date": "01-May-19"
  },
  {
    "SMS ID": 21560494,
@@ -18051,7 +14607,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "8790079638 & 9967543287",
    "Status": "Inactive",
-   "Due Date": "27-May-20"
+   "Due Date": "20-Jul-20"
  },
  {
    "SMS ID": 22179111,
@@ -18059,11 +14615,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "RAM MOHAN",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "RAM MOHAN",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "1-May-19"
+   "Due Date": "01-May-19"
  },
  {
    "SMS ID": 15448183,
@@ -18087,19 +14643,7 @@ var cust_DB=[
    "Area": "Thotapalli",
    "Cel 1": "8333962720",
    "Status": "Inactive",
-   "Due Date": "26-Apr-20"
- },
- {
-   "SMS ID": 11906829,
-   "VC No": 1767412705,
-   "LCO ID": 42095,
-   "Subscriber Name": "akhil",
-   "Card No": "#N/A",
-   "Name": "#N/A",
-   "Area": "#N/A",
-   "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "28-Apr-19"
+   "Due Date": "08-Aug-20"
  },
  {
    "SMS ID": 16273452,
@@ -18134,8 +14678,8 @@ var cust_DB=[
    "Name": "INTIGIRI PRASAD",
    "Area": "Nellipaka",
    "Cel 1": "9666881219",
-   "Status": "Inactive",
-   "Due Date": "24-Apr-19"
+   "Status": "active",
+   "Due Date": "24-Oct-20"
  },
  {
    "SMS ID": 15422980,
@@ -18210,18 +14754,6 @@ var cust_DB=[
    "Due Date": "17-Apr-19"
  },
  {
-   "SMS ID": 20297335,
-   "VC No": 2516029773,
-   "LCO ID": 42095,
-   "Subscriber Name": "thriveni",
-   "Card No": "756.A",
-   "Name": "PENUBALLI RAJAMMA",
-   "Area": "Bandaluru",
-   "Cel 1": "9908207697",
-   "Status": "Inactive",
-   "Due Date": "19-May-20"
- },
- {
    "SMS ID": 13484508,
    "VC No": 1769095399,
    "LCO ID": 42095,
@@ -18231,7 +14763,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9951343030",
    "Status": "Inactive",
-   "Due Date": "8-Apr-19"
+   "Due Date": "08-Apr-19"
  },
  {
    "SMS ID": 13485575,
@@ -18243,7 +14775,7 @@ var cust_DB=[
    "Area": "Patimalagudem",
    "Cel 1": "9603442496",
    "Status": "Inactive",
-   "Due Date": "8-Apr-19"
+   "Due Date": "08-Apr-19"
  },
  {
    "SMS ID": 17155056,
@@ -18255,7 +14787,7 @@ var cust_DB=[
    "Area": "Gowridevipeta",
    "Cel 1": "8465828701",
    "Status": "Inactive",
-   "Due Date": "8-Apr-19"
+   "Due Date": "08-Apr-19"
  },
  {
    "SMS ID": 16769863,
@@ -18267,31 +14799,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "9963118722",
    "Status": "Inactive",
-   "Due Date": "4-Apr-19"
- },
- {
-   "SMS ID": 20026427,
-   "VC No": 2516005799,
-   "LCO ID": 42095,
-   "Subscriber Name": "KOTI",
-   "Card No": "791",
-   "Name": "DHARAVATH RAMLAL",
-   "Area": "Buruguvai Tanda",
-   "Cel 1": "9494628803",
-   "Status": "Inactive",
-   "Due Date": "4-Apr-19"
- },
- {
-   "SMS ID": 20303232,
-   "VC No": 2516029787,
-   "LCO ID": 42095,
-   "Subscriber Name": "THRIVENI",
-   "Card No": "672.A",
-   "Name": "PENUBALLI RATHAMMA",
-   "Area": "Bhemavaram",
-   "Cel 1": "DTH",
-   "Status": "Inactive",
-   "Due Date": "4-Apr-19"
+   "Due Date": "04-Apr-19"
  },
  {
    "SMS ID": 22188560,
@@ -18299,11 +14807,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "OFFICE",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "OFFICE",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "4-Apr-19"
+   "Due Date": "04-Apr-19"
  },
  {
    "SMS ID": 22188644,
@@ -18311,11 +14819,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "OFFICE",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "OFFICE",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "4-Apr-19"
+   "Due Date": "04-Apr-19"
  },
  {
    "SMS ID": 11907377,
@@ -18323,21 +14831,9 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "akhil",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "akhil",
    "Area": "#N/A",
    "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "27-Mar-19"
- },
- {
-   "SMS ID": 16273406,
-   "VC No": 1331698264,
-   "LCO ID": 42095,
-   "Subscriber Name": "KOTI",
-   "Card No": "812",
-   "Name": "JATHOTH VENKANNA(venkatesh)",
-   "Area": "Buruguvai Tanda",
-   "Cel 1": "9000026171",
    "Status": "Inactive",
    "Due Date": "27-Mar-19"
  },
@@ -18347,7 +14843,7 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "KOTI",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "KOTI",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -18359,7 +14855,7 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "KOTI",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "KOTI",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -18371,7 +14867,7 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "thriveni",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "thriveni",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -18383,7 +14879,7 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "charla",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "charla",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -18395,7 +14891,7 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "charla",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "charla",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -18407,21 +14903,9 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "charla",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "charla",
    "Area": "#N/A",
    "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "27-Mar-19"
- },
- {
-   "SMS ID": 20486716,
-   "VC No": 2516010058,
-   "LCO ID": 42095,
-   "Subscriber Name": "thriveni",
-   "Card No": "824.F",
-   "Name": "BUKEYA NAGESWARAO",
-   "Area": "Buruguvai Tanda",
-   "Cel 1": "9502599548",
    "Status": "Inactive",
    "Due Date": "27-Mar-19"
  },
@@ -18431,7 +14915,7 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "S Raghavalu",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "S Raghavalu",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -18443,7 +14927,7 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "OFFICE",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "OFFICE",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -18482,8 +14966,8 @@ var cust_DB=[
    "Name": "UBBA RAMESH",
    "Area": "Yarraboru",
    "Cel 1": "9346848385",
-   "Status": "Inactive",
-   "Due Date": "20-Mar-19"
+   "Status": "active",
+   "Due Date": "13-Sep-20"
  },
  {
    "SMS ID": 15851290,
@@ -18563,7 +15047,7 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "RAGHU",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "RAGHU",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -18627,7 +15111,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9652135790",
    "Status": "active",
-   "Due Date": "4-Jun-20"
+   "Due Date": "07-Sep-20"
  },
  {
    "SMS ID": 13485109,
@@ -18638,8 +15122,8 @@ var cust_DB=[
    "Name": "GUNTUPALLY SRIKANTH",
    "Area": "Nellipaka",
    "Cel 1": "9618326517",
-   "Status": "active",
-   "Due Date": "11-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "31-Aug-20"
  },
  {
    "SMS ID": 13496169,
@@ -18651,7 +15135,7 @@ var cust_DB=[
    "Area": "Venkatareddypeta",
    "Cel 1": "9949969413",
    "Status": "active",
-   "Due Date": "22-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 13496326,
@@ -18663,43 +15147,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9502949118",
    "Status": "active",
-   "Due Date": "9-Jun-20"
- },
- {
-   "SMS ID": 15852795,
-   "VC No": 1331357957,
-   "LCO ID": 42095,
-   "Subscriber Name": "sathya prasad",
-   "Card No": "32",
-   "Name": "PITLA VENKATESH",
-   "Area": "Gogubaka",
-   "Cel 1": "PHONE LEDU",
-   "Status": "Inactive",
-   "Due Date": "14-Mar-19"
- },
- {
-   "SMS ID": 15901845,
-   "VC No": 1331358840,
-   "LCO ID": 42095,
-   "Subscriber Name": "sathya prasad",
-   "Card No": "31",
-   "Name": "PITLA PADMA RAJU",
-   "Area": "Gogubaka",
-   "Cel 1": "6005580646",
-   "Status": "Inactive",
-   "Due Date": "3-May-20"
- },
- {
-   "SMS ID": 17154955,
-   "VC No": 1331723810,
-   "LCO ID": 42095,
-   "Subscriber Name": "koti",
-   "Card No": "192",
-   "Name": "KARAM SRINU",
-   "Area": "Gommu Kothagudem",
-   "Cel 1": "8985848562 & 7893721188",
-   "Status": "Inactive",
-   "Due Date": "14-Mar-19"
+   "Due Date": "14-Sep-20"
  },
  {
    "SMS ID": 20260812,
@@ -18710,18 +15158,6 @@ var cust_DB=[
    "Name": "DHANE NARSIMHARAO",
    "Area": "Kistaram",
    "Cel 1": "9502176252 & 9603422446",
-   "Status": "Inactive",
-   "Due Date": "14-Mar-19"
- },
- {
-   "SMS ID": 20741681,
-   "VC No": 2520439564,
-   "LCO ID": 42095,
-   "Subscriber Name": "VINOD",
-   "Card No": "160.a",
-   "Name": "UKE MUDHRA RAJU",
-   "Area": "Gommu Kothagudem",
-   "Cel 1": "7989603455",
    "Status": "Inactive",
    "Due Date": "14-Mar-19"
  },
@@ -18743,11 +15179,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "koti",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "koti",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "9-Mar-19"
+   "Due Date": "09-Mar-19"
  },
  {
    "SMS ID": 15851494,
@@ -18759,7 +15195,7 @@ var cust_DB=[
    "Area": "Gannerukoyyapadu",
    "Cel 1": "9959575425",
    "Status": "Inactive",
-   "Due Date": "9-Mar-19"
+   "Due Date": "09-Mar-19"
  },
  {
    "SMS ID": 15851596,
@@ -18771,7 +15207,7 @@ var cust_DB=[
    "Area": "Gowridevipeta",
    "Cel 1": "0",
    "Status": "Inactive",
-   "Due Date": "9-Mar-19"
+   "Due Date": "09-Mar-19"
  },
  {
    "SMS ID": 16436097,
@@ -18783,7 +15219,7 @@ var cust_DB=[
    "Area": "Kistaram",
    "Cel 1": "7382006795",
    "Status": "Inactive",
-   "Due Date": "9-Mar-19"
+   "Due Date": "09-Mar-19"
  },
  {
    "SMS ID": 16769802,
@@ -18795,7 +15231,7 @@ var cust_DB=[
    "Area": "Gannerukoyyapadu",
    "Cel 1": "728799886",
    "Status": "Inactive",
-   "Due Date": "9-Mar-19"
+   "Due Date": "09-Mar-19"
  },
  {
    "SMS ID": 20019711,
@@ -18807,7 +15243,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9550429134",
    "Status": "Inactive",
-   "Due Date": "9-Mar-19"
+   "Due Date": "09-Mar-19"
  },
  {
    "SMS ID": 20326289,
@@ -18818,8 +15254,8 @@ var cust_DB=[
    "Name": "APURI RAMARAO",
    "Area": "Chodavaram",
    "Cel 1": "0",
-   "Status": "active",
-   "Due Date": "11-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "12-Jun-20"
  },
  {
    "SMS ID": 20395989,
@@ -18830,8 +15266,8 @@ var cust_DB=[
    "Name": "NERRABOINA MALLORU",
    "Area": "Rayanapeta",
    "Cel 1": "9676764692",
-   "Status": "active",
-   "Due Date": "20-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "22-Aug-20"
  },
  {
    "SMS ID": 20729354,
@@ -18843,7 +15279,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "8497923991",
    "Status": "Inactive",
-   "Due Date": "9-Mar-19"
+   "Due Date": "09-Mar-19"
  },
  {
    "SMS ID": 20754335,
@@ -18854,8 +15290,8 @@ var cust_DB=[
    "Name": "MUDHIGONDA SRINU",
    "Area": "Seethapuram",
    "Cel 1": "0",
-   "Status": "Inactive",
-   "Due Date": "27-May-20"
+   "Status": "active",
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 20969478,
@@ -18867,19 +15303,7 @@ var cust_DB=[
    "Area": "Kistaram",
    "Cel 1": "0",
    "Status": "Inactive",
-   "Due Date": "9-Mar-19"
- },
- {
-   "SMS ID": 21129446,
-   "VC No": 2520439451,
-   "LCO ID": 42095,
-   "Subscriber Name": "NERUDU VENKATESWARLU",
-   "Card No": "420",
-   "Name": "NEERUDU VENKATESWARAO",
-   "Area": "Murumuru",
-   "Cel 1": "9553612601",
-   "Status": "Inactive",
-   "Due Date": "9-Mar-19"
+   "Due Date": "09-Mar-19"
  },
  {
    "SMS ID": 21176579,
@@ -18891,7 +15315,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "7899988855",
    "Status": "Inactive",
-   "Due Date": "9-Mar-19"
+   "Due Date": "09-Mar-19"
  },
  {
    "SMS ID": 21194281,
@@ -18899,11 +15323,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "chilakala pullarao",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "chilakala pullarao",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "9-Mar-19"
+   "Due Date": "09-Mar-19"
  },
  {
    "SMS ID": 20392494,
@@ -18914,20 +15338,8 @@ var cust_DB=[
    "Name": "MORAMPALLI RANI",
    "Area": "Kapugompalli",
    "Cel 1": "9502887631",
-   "Status": "active",
-   "Due Date": "22-Jun-20"
- },
- {
-   "SMS ID": 20819247,
-   "VC No": 2520425950,
-   "LCO ID": 42095,
-   "Subscriber Name": "panuganti",
-   "Card No": "824.E",
-   "Name": "BONOTHU SKKULU",
-   "Area": "Buruguvai Tanda",
-   "Cel 1": "0",
    "Status": "Inactive",
-   "Due Date": "28-Feb-19"
+   "Due Date": "23-Aug-20"
  },
  {
    "SMS ID": 13247768,
@@ -18951,7 +15363,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "7680839867",
    "Status": "Inactive",
-   "Due Date": "3-May-20"
+   "Due Date": "24-Aug-20"
  },
  {
    "SMS ID": 15208098,
@@ -18962,8 +15374,8 @@ var cust_DB=[
    "Name": "NARESH SWEET SHOP",
    "Area": "Nellipaka",
    "Cel 1": "7382856864",
-   "Status": "active",
-   "Due Date": "5-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "22-Aug-20"
  },
  {
    "SMS ID": 15427713,
@@ -19011,7 +15423,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9100657936",
    "Status": "Inactive",
-   "Due Date": "25-Feb-19"
+   "Due Date": "12-Aug-20"
  },
  {
    "SMS ID": 22145396,
@@ -19034,30 +15446,6 @@ var cust_DB=[
    "Name": "BUDHA RAJU",
    "Area": "Thotapalli",
    "Cel 1": "8985574904",
-   "Status": "Inactive",
-   "Due Date": "19-Feb-19"
- },
- {
-   "SMS ID": 15862837,
-   "VC No": 1331356787,
-   "LCO ID": 42095,
-   "Subscriber Name": "VANAPARTHI RAMCHANDRARAO",
-   "Card No": "437.B",
-   "Name": "VANAPARTHI RAMCHANDRARAO",
-   "Area": "Murumuru",
-   "Cel 1": "9177557127",
-   "Status": "Inactive",
-   "Due Date": "19-Feb-19"
- },
- {
-   "SMS ID": 16112244,
-   "VC No": 1331430133,
-   "LCO ID": 42095,
-   "Subscriber Name": "JINNE RAMPRASAD",
-   "Card No": "430.A",
-   "Name": "JINNE RAMPRASAD",
-   "Area": "Murumuru",
-   "Cel 1": "8008596070",
    "Status": "Inactive",
    "Due Date": "19-Feb-19"
  },
@@ -19155,7 +15543,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "8978852245",
    "Status": "active",
-   "Due Date": "4-Jun-20"
+   "Due Date": "13-Sep-20"
  },
  {
    "SMS ID": 20026482,
@@ -19166,8 +15554,8 @@ var cust_DB=[
    "Name": "SK.BAJI",
    "Area": "Gannavaram",
    "Cel 1": "0",
-   "Status": "Inactive",
-   "Due Date": "16-Feb-19"
+   "Status": "active",
+   "Due Date": "05-Sep-20"
  },
  {
    "SMS ID": 21306023,
@@ -19194,18 +15582,6 @@ var cust_DB=[
    "Due Date": "16-Feb-19"
  },
  {
-   "SMS ID": 20542985,
-   "VC No": 2520426155,
-   "LCO ID": 42095,
-   "Subscriber Name": "thriveni",
-   "Card No": "72",
-   "Name": "ASU SRINU",
-   "Area": "Murumuru",
-   "Cel 1": "0",
-   "Status": "Inactive",
-   "Due Date": "9-Feb-19"
- },
- {
    "SMS ID": 13484210,
    "VC No": 1769419848,
    "LCO ID": 42095,
@@ -19226,8 +15602,8 @@ var cust_DB=[
    "Name": "MANIKALA SATYANNARAYANA",
    "Area": "Nellipaka",
    "Cel 1": "9346018725",
-   "Status": "active",
-   "Due Date": "27-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "30-Aug-20"
  },
  {
    "SMS ID": 15389634,
@@ -19235,7 +15611,7 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "Shanthi",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "Shanthi",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -19406,32 +15782,8 @@ var cust_DB=[
    "Name": "SREEDARA BAPANAMMA",
    "Area": "Ayyavaripeta",
    "Cel 1": "9705157258",
-   "Status": "Inactive",
-   "Due Date": "18-Jan-19"
- },
- {
-   "SMS ID": 15460109,
-   "VC No": 1330781627,
-   "LCO ID": 42095,
-   "Subscriber Name": "MALLELA SAMBAIAH",
-   "Card No": "422",
-   "Name": "MALLELA SAMBAIAH",
-   "Area": "Murumuru",
-   "Cel 1": "7674902850",
-   "Status": "Inactive",
-   "Due Date": "12-Jan-19"
- },
- {
-   "SMS ID": 20746165,
-   "VC No": 2520474149,
-   "LCO ID": 42095,
-   "Subscriber Name": "BUDUGULA KONDAIHA",
-   "Card No": "302.A",
-   "Name": "BUDUGULA KONDAIHA",
-   "Area": "Murumuru",
-   "Cel 1": "9701809154",
-   "Status": "Inactive",
-   "Due Date": "12-Jan-19"
+   "Status": "active",
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 13251618,
@@ -19443,7 +15795,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "0",
    "Status": "Inactive",
-   "Due Date": "9-Jan-19"
+   "Due Date": "09-Jan-19"
  },
  {
    "SMS ID": 13490992,
@@ -19455,7 +15807,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9908876931",
    "Status": "Inactive",
-   "Due Date": "9-Jan-19"
+   "Due Date": "09-Jan-19"
  },
  {
    "SMS ID": 13496394,
@@ -19467,7 +15819,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "9542252716",
    "Status": "Inactive",
-   "Due Date": "9-Jan-19"
+   "Due Date": "09-Jan-19"
  },
  {
    "SMS ID": 15460611,
@@ -19479,7 +15831,7 @@ var cust_DB=[
    "Area": "Yarraboru",
    "Cel 1": "8106857631",
    "Status": "Inactive",
-   "Due Date": "9-Jan-19"
+   "Due Date": "09-Jan-19"
  },
  {
    "SMS ID": 15862364,
@@ -19491,7 +15843,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9948425178",
    "Status": "Inactive",
-   "Due Date": "9-Jan-19"
+   "Due Date": "09-Jan-19"
  },
  {
    "SMS ID": 15901433,
@@ -19503,7 +15855,7 @@ var cust_DB=[
    "Area": "Rayanapeta",
    "Cel 1": "7337422711",
    "Status": "Inactive",
-   "Due Date": "9-Jan-19"
+   "Due Date": "09-Jan-19"
  },
  {
    "SMS ID": 15902146,
@@ -19514,8 +15866,8 @@ var cust_DB=[
    "Name": "PERALA GOPALAKRISHNA",
    "Area": "Chodavaram",
    "Cel 1": "9866274332",
-   "Status": "Inactive",
-   "Due Date": "31-May-20"
+   "Status": "active",
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 17158989,
@@ -19527,7 +15879,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "0",
    "Status": "Inactive",
-   "Due Date": "9-Jan-19"
+   "Due Date": "09-Jan-19"
  },
  {
    "SMS ID": 20481613,
@@ -19539,7 +15891,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "0",
    "Status": "Inactive",
-   "Due Date": "9-Jan-19"
+   "Due Date": "09-Jan-19"
  },
  {
    "SMS ID": 20486034,
@@ -19551,7 +15903,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "8367066701",
    "Status": "Inactive",
-   "Due Date": "9-Jan-19"
+   "Due Date": "09-Jan-19"
  },
  {
    "SMS ID": 20549066,
@@ -19563,7 +15915,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "7731854711",
    "Status": "Inactive",
-   "Due Date": "9-Jan-19"
+   "Due Date": "09-Jan-19"
  },
  {
    "SMS ID": 20554605,
@@ -19575,7 +15927,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9346305292",
    "Status": "Inactive",
-   "Due Date": "9-Jan-19"
+   "Due Date": "09-Jan-19"
  },
  {
    "SMS ID": 20679480,
@@ -19587,7 +15939,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "9908235664",
    "Status": "Inactive",
-   "Due Date": "9-Jan-19"
+   "Due Date": "09-Jan-19"
  },
  {
    "SMS ID": 20767697,
@@ -19598,8 +15950,8 @@ var cust_DB=[
    "Name": "KARAM VENKATESH",
    "Area": "Chodavaram",
    "Cel 1": "8790258267",
-   "Status": "Inactive",
-   "Due Date": "24-May-20"
+   "Status": "active",
+   "Due Date": "07-Sep-20"
  },
  {
    "SMS ID": 20823463,
@@ -19611,7 +15963,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "DTH",
    "Status": "Inactive",
-   "Due Date": "9-Jan-19"
+   "Due Date": "09-Jan-19"
  },
  {
    "SMS ID": 11918018,
@@ -19623,7 +15975,7 @@ var cust_DB=[
    "Area": "Kapugompalli",
    "Cel 1": "7674958370",
    "Status": "Inactive",
-   "Due Date": "8-Jan-19"
+   "Due Date": "08-Jan-19"
  },
  {
    "SMS ID": 15443425,
@@ -19635,7 +15987,7 @@ var cust_DB=[
    "Area": "Kistaram",
    "Cel 1": "8500858992",
    "Status": "Inactive",
-   "Due Date": "8-Jan-19"
+   "Due Date": "08-Jan-19"
  },
  {
    "SMS ID": 15448565,
@@ -19647,7 +15999,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "9959086675",
    "Status": "Inactive",
-   "Due Date": "8-Jan-19"
+   "Due Date": "08-Jan-19"
  },
  {
    "SMS ID": 15900966,
@@ -19659,7 +16011,7 @@ var cust_DB=[
    "Area": "Kapugompalli",
    "Cel 1": "0",
    "Status": "Inactive",
-   "Due Date": "8-Jan-19"
+   "Due Date": "08-Jan-19"
  },
  {
    "SMS ID": 17157632,
@@ -19671,7 +16023,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "0",
    "Status": "Inactive",
-   "Due Date": "8-Jan-19"
+   "Due Date": "08-Jan-19"
  },
  {
    "SMS ID": 20184150,
@@ -19683,7 +16035,7 @@ var cust_DB=[
    "Area": "Kapugompalli",
    "Cel 1": "0",
    "Status": "Inactive",
-   "Due Date": "8-Jan-19"
+   "Due Date": "08-Jan-19"
  },
  {
    "SMS ID": 20189397,
@@ -19695,7 +16047,7 @@ var cust_DB=[
    "Area": "Kapugompalli",
    "Cel 1": "0",
    "Status": "Inactive",
-   "Due Date": "8-Jan-19"
+   "Due Date": "08-Jan-19"
  },
  {
    "SMS ID": 20741926,
@@ -19707,7 +16059,7 @@ var cust_DB=[
    "Area": "Kapugompalli",
    "Cel 1": "0",
    "Status": "Inactive",
-   "Due Date": "8-Jan-19"
+   "Due Date": "08-Jan-19"
  },
  {
    "SMS ID": 21704468,
@@ -19715,11 +16067,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "malliha",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "malliha",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "4-Jan-19"
+   "Due Date": "04-Jan-19"
  },
  {
    "SMS ID": 21711971,
@@ -19727,23 +16079,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "mothukuri janaki",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "mothukuri janaki",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "4-Jan-19"
- },
- {
-   "SMS ID": 13167813,
-   "VC No": 1769251315,
-   "LCO ID": 42095,
-   "Subscriber Name": "bhagavan",
-   "Card No": "62",
-   "Name": "PITLA MUKYA RAO",
-   "Area": "Gogubaka",
-   "Cel 1": "DTH",
-   "Status": "Inactive",
-   "Due Date": "1-Jan-19"
+   "Due Date": "04-Jan-19"
  },
  {
    "SMS ID": 15423002,
@@ -19755,55 +16095,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "7036332135",
    "Status": "Inactive",
-   "Due Date": "1-Jan-19"
- },
- {
-   "SMS ID": 15460466,
-   "VC No": 1331056752,
-   "LCO ID": 42095,
-   "Subscriber Name": "Uma Kilaru",
-   "Card No": "821.A",
-   "Name": "GUGULOTH NAGENDRA",
-   "Area": "Buruguvai Tanda",
-   "Cel 1": "8897057308",
-   "Status": "Inactive",
-   "Due Date": "31-May-20"
- },
- {
-   "SMS ID": 15460479,
-   "VC No": 1331056750,
-   "LCO ID": 42095,
-   "Subscriber Name": "Uma Kilaru",
-   "Card No": "876",
-   "Name": "BURAM JAGADEESH",
-   "Area": "Laxmipuram",
-   "Cel 1": "9849785371",
-   "Status": "Inactive",
-   "Due Date": "1-Jan-19"
- },
- {
-   "SMS ID": 15460566,
-   "VC No": 1331056744,
-   "LCO ID": 42095,
-   "Subscriber Name": "Uma Kilaru",
-   "Card No": "777",
-   "Name": "GUGULOTH DASU",
-   "Area": "Buruguvai Tanda",
-   "Cel 1": "9701718702",
-   "Status": "active",
-   "Due Date": "13-Jun-20"
- },
- {
-   "SMS ID": 15862313,
-   "VC No": 1331668714,
-   "LCO ID": 42095,
-   "Subscriber Name": "sathya prasad",
-   "Card No": "144",
-   "Name": "PODIYAM GOURAMMA",
-   "Area": "Gogubaka",
-   "Cel 1": "8106296086",
-   "Status": "Inactive",
-   "Due Date": "1-Jan-19"
+   "Due Date": "01-Jan-19"
  },
  {
    "SMS ID": 15862661,
@@ -19815,91 +16107,7 @@ var cust_DB=[
    "Area": "Gogubaka",
    "Cel 1": "8985848566",
    "Status": "Inactive",
-   "Due Date": "1-Jan-19"
- },
- {
-   "SMS ID": 15900823,
-   "VC No": 1331668718,
-   "LCO ID": 42095,
-   "Subscriber Name": "sathya prasad",
-   "Card No": "88",
-   "Name": "KOVULURI VENKATESH",
-   "Area": "Gommukoyagudem",
-   "Cel 1": "DTH",
-   "Status": "Inactive",
-   "Due Date": "1-Jan-19"
- },
- {
-   "SMS ID": 16436014,
-   "VC No": 1331698931,
-   "LCO ID": 42095,
-   "Subscriber Name": "koti",
-   "Card No": "911.B",
-   "Name": "MUNIPARTHI VENKATA LAXMI",
-   "Area": "Laxmipuram",
-   "Cel 1": "8897515821",
-   "Status": "Inactive",
-   "Due Date": "1-Jan-19"
- },
- {
-   "SMS ID": 16436235,
-   "VC No": 1331698924,
-   "LCO ID": 42095,
-   "Subscriber Name": "koti",
-   "Card No": "808",
-   "Name": "JATHOD SHANKAR",
-   "Area": "Buruguvai Tanda",
-   "Cel 1": "9963194753",
-   "Status": "Inactive",
-   "Due Date": "1-Jan-19"
- },
- {
-   "SMS ID": 16483872,
-   "VC No": 1331699294,
-   "LCO ID": 42095,
-   "Subscriber Name": "koti",
-   "Card No": "85",
-   "Name": "PODIYAM SRINIVAS",
-   "Area": "Gommukoyagudem",
-   "Cel 1": "DTH",
-   "Status": "Inactive",
-   "Due Date": "1-Jan-19"
- },
- {
-   "SMS ID": 17146555,
-   "VC No": 1331699104,
-   "LCO ID": 42095,
-   "Subscriber Name": "koti",
-   "Card No": "857",
-   "Name": "ARIKATALA ASHOK",
-   "Area": "Laxmipuram",
-   "Cel 1": "9849721011",
-   "Status": "Inactive",
-   "Due Date": "1-Jan-19"
- },
- {
-   "SMS ID": 17155042,
-   "VC No": 1331723805,
-   "LCO ID": 42095,
-   "Subscriber Name": "koti",
-   "Card No": "221",
-   "Name": "UKE LAXMI",
-   "Area": "Gommu Kothagudem",
-   "Cel 1": "9100569687",
-   "Status": "Inactive",
-   "Due Date": "1-Jan-19"
- },
- {
-   "SMS ID": 17157652,
-   "VC No": 1331699970,
-   "LCO ID": 42095,
-   "Subscriber Name": "koti",
-   "Card No": "166",
-   "Name": "MOTTEM RAJU",
-   "Area": "Gommu Kothagudem",
-   "Cel 1": "DTH",
-   "Status": "Inactive",
-   "Due Date": "1-Jan-19"
+   "Due Date": "01-Jan-19"
  },
  {
    "SMS ID": 20153831,
@@ -19911,19 +16119,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "7997285682",
    "Status": "Inactive",
-   "Due Date": "1-Jan-19"
- },
- {
-   "SMS ID": 20297405,
-   "VC No": 2516029779,
-   "LCO ID": 42095,
-   "Subscriber Name": "thriveni",
-   "Card No": "700.A",
-   "Name": "NUPA MALLIKA",
-   "Area": "Bhemavaram",
-   "Cel 1": "0",
-   "Status": "active",
-   "Due Date": "29-Jun-20"
+   "Due Date": "01-Jan-19"
  },
  {
    "SMS ID": 20388687,
@@ -19931,11 +16127,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "charla",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "charla",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "1-Jan-19"
+   "Due Date": "01-Jan-19"
  },
  {
    "SMS ID": 20388705,
@@ -19943,11 +16139,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "charla",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "charla",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "1-Jan-19"
+   "Due Date": "01-Jan-19"
  },
  {
    "SMS ID": 20392503,
@@ -19959,7 +16155,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "8179340351",
    "Status": "Inactive",
-   "Due Date": "1-Jan-19"
+   "Due Date": "01-Jan-19"
  },
  {
    "SMS ID": 20543092,
@@ -19971,19 +16167,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9848116884",
    "Status": "Inactive",
-   "Due Date": "1-Jan-19"
- },
- {
-   "SMS ID": 21009712,
-   "VC No": 2520442950,
-   "LCO ID": 42095,
-   "Subscriber Name": "PANUGANTI",
-   "Card No": "50.A",
-   "Name": "YETAKANTI BUCHAMMA",
-   "Area": "Gogubaka",
-   "Cel 1": "8500198340",
-   "Status": "Inactive",
-   "Due Date": "1-Jan-19"
+   "Due Date": "01-Jan-19"
  },
  {
    "SMS ID": 21106107,
@@ -19995,7 +16179,7 @@ var cust_DB=[
    "Area": "Kapugompalli",
    "Cel 1": "9618482165",
    "Status": "Inactive",
-   "Due Date": "1-Jan-19"
+   "Due Date": "01-Jan-19"
  },
  {
    "SMS ID": 21194290,
@@ -20007,7 +16191,7 @@ var cust_DB=[
    "Area": "Kapugompalli",
    "Cel 1": "8465996981",
    "Status": "Inactive",
-   "Due Date": "1-Jan-19"
+   "Due Date": "01-Jan-19"
  },
  {
    "SMS ID": 21209117,
@@ -20019,7 +16203,7 @@ var cust_DB=[
    "Area": "Kistaram",
    "Cel 1": "8500542808",
    "Status": "Inactive",
-   "Due Date": "1-Jan-19"
+   "Due Date": "01-Jan-19"
  },
  {
    "SMS ID": 15851649,
@@ -20027,7 +16211,7 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "sathya prasad",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "sathya prasad",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -20039,7 +16223,7 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "sathya prasad",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "sathya prasad",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -20051,7 +16235,7 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "koti",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "koti",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -20063,7 +16247,7 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "koti",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "koti",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -20075,7 +16259,7 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "charla",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "charla",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -20087,7 +16271,7 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "charla",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "charla",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -20099,7 +16283,7 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "thriveni",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "thriveni",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -20111,7 +16295,7 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "panuganti",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "panuganti",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -20123,7 +16307,7 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "Prasad",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "Prasad",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -20135,7 +16319,7 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "prasad",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "prasad",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -20147,7 +16331,7 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "KORA JOGAIHA",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "KORA JOGAIHA",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -20159,7 +16343,7 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "RAMAKRISHNA",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "RAMAKRISHNA",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -20187,7 +16371,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "0",
    "Status": "active",
-   "Due Date": "18-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 13496443,
@@ -20223,7 +16407,7 @@ var cust_DB=[
    "Area": "chodavaram",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "22-Jun-20"
+   "Due Date": "28-Sep-20"
  },
  {
    "SMS ID": 20189391,
@@ -20231,7 +16415,7 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "KURINELLA PICHAIAH",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "KURINELLA PICHAIAH",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -20267,7 +16451,7 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "koti",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "koti",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -20343,7 +16527,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9502176372",
    "Status": "active",
-   "Due Date": "23-Jun-20"
+   "Due Date": "05-Sep-20"
  },
  {
    "SMS ID": 15901061,
@@ -20355,7 +16539,7 @@ var cust_DB=[
    "Area": "Kapugompalli",
    "Cel 1": "0",
    "Status": "Inactive",
-   "Due Date": "6-Dec-18"
+   "Due Date": "06-Dec-18"
  },
  {
    "SMS ID": 21026742,
@@ -20363,11 +16547,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "raghu",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "raghu",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "6-Dec-18"
+   "Due Date": "06-Dec-18"
  },
  {
    "SMS ID": 11907361,
@@ -20375,11 +16559,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "akhil",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "akhil",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "4-Dec-18"
+   "Due Date": "04-Dec-18"
  },
  {
    "SMS ID": 12581926,
@@ -20475,7 +16659,7 @@ var cust_DB=[
    "Area": "Yarraboru",
    "Cel 1": "0",
    "Status": "active",
-   "Due Date": "17-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 16483868,
@@ -20487,7 +16671,7 @@ var cust_DB=[
    "Area": "Kistaram",
    "Cel 1": "0",
    "Status": "active",
-   "Due Date": "13-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 15902336,
@@ -20547,7 +16731,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "0",
    "Status": "Inactive",
-   "Due Date": "5-Nov-18"
+   "Due Date": "05-Nov-18"
  },
  {
    "SMS ID": 20679442,
@@ -20559,7 +16743,7 @@ var cust_DB=[
    "Area": "Chodavaram",
    "Cel 1": "0",
    "Status": "Inactive",
-   "Due Date": "5-Nov-18"
+   "Due Date": "05-Nov-18"
  },
  {
    "SMS ID": 15421765,
@@ -20607,7 +16791,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "0",
    "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "07-Sep-20"
  },
  {
    "SMS ID": 21147418,
@@ -20632,18 +16816,6 @@ var cust_DB=[
    "Cel 1": "9701616803",
    "Status": "Inactive",
    "Due Date": "13-Oct-18"
- },
- {
-   "SMS ID": 15217268,
-   "VC No": 1330915280,
-   "LCO ID": 42095,
-   "Subscriber Name": "APKA VENKATESH",
-   "Card No": "351",
-   "Name": "APKA VENKATESH",
-   "Area": "Chodavaram",
-   "Cel 1": "9550216850",
-   "Status": "#N/A",
-   "Due Date": "#N/A"
  },
  {
    "SMS ID": 20679376,
@@ -20692,18 +16864,6 @@ var cust_DB=[
    "Cel 1": "0",
    "Status": "Inactive",
    "Due Date": "18-Sep-18"
- },
- {
-   "SMS ID": 15459972,
-   "VC No": 1330781630,
-   "LCO ID": 42095,
-   "Subscriber Name": "NK RATHNAM",
-   "Card No": "96.A",
-   "Name": "N.K RATHNAM",
-   "Area": "Murumuru",
-   "Cel 1": "8106269528",
-   "Status": "Inactive",
-   "Due Date": "14-Sep-18"
  },
  {
    "SMS ID": 15465224,
@@ -20847,7 +17007,7 @@ var cust_DB=[
    "Area": "Kapugompalli",
    "Cel 1": "9908225761",
    "Status": "Inactive",
-   "Due Date": "6-Sep-18"
+   "Due Date": "06-Sep-18"
  },
  {
    "SMS ID": 15843475,
@@ -20859,7 +17019,7 @@ var cust_DB=[
    "Area": "Kistaram",
    "Cel 1": "0",
    "Status": "Inactive",
-   "Due Date": "6-Sep-18"
+   "Due Date": "06-Sep-18"
  },
  {
    "SMS ID": 15851611,
@@ -20867,23 +17027,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "sathya prasad",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "sathya prasad",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "6-Sep-18"
- },
- {
-   "SMS ID": 15901069,
-   "VC No": 1331503104,
-   "LCO ID": 42095,
-   "Subscriber Name": "sathya prasad",
-   "Card No": "36/A",
-   "Name": "CHALLAKOTI MOHANRAO",
-   "Area": "Murumuru",
-   "Cel 1": "0",
-   "Status": "Inactive",
-   "Due Date": "3-Sep-18"
+   "Due Date": "06-Sep-18"
  },
  {
    "SMS ID": 15443417,
@@ -20896,18 +17044,6 @@ var cust_DB=[
    "Cel 1": "9866300438",
    "Status": "Inactive",
    "Due Date": "29-Aug-18"
- },
- {
-   "SMS ID": 20549263,
-   "VC No": 2520441640,
-   "LCO ID": 42095,
-   "Subscriber Name": "thriveni",
-   "Card No": "17",
-   "Name": "BUDUGULA KRISHNA",
-   "Area": "Murumuru",
-   "Cel 1": "0",
-   "Status": "Inactive",
-   "Due Date": "23-Aug-18"
  },
  {
    "SMS ID": 15445707,
@@ -20943,7 +17079,7 @@ var cust_DB=[
    "Area": "Nellipaka",
    "Cel 1": "9849785691",
    "Status": "active",
-   "Due Date": "25-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 15440756,
@@ -20963,7 +17099,7 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "thriveni",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "thriveni",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -21003,7 +17139,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "0",
    "Status": "Inactive",
-   "Due Date": "4-Aug-18"
+   "Due Date": "04-Aug-18"
  },
  {
    "SMS ID": 19984010,
@@ -21015,7 +17151,7 @@ var cust_DB=[
    "Area": "Gannavaram",
    "Cel 1": "0",
    "Status": "Inactive",
-   "Due Date": "4-Aug-18"
+   "Due Date": "04-Aug-18"
  },
  {
    "SMS ID": 20026466,
@@ -21027,7 +17163,7 @@ var cust_DB=[
    "Area": "Kapugompalli",
    "Cel 1": "9550380638",
    "Status": "Inactive",
-   "Due Date": "4-Aug-18"
+   "Due Date": "04-Aug-18"
  },
  {
    "SMS ID": 20326337,
@@ -21035,11 +17171,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "THRIVENI",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "THRIVENI",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "4-Aug-18"
+   "Due Date": "04-Aug-18"
  },
  {
    "SMS ID": 20806953,
@@ -21051,7 +17187,7 @@ var cust_DB=[
    "Area": "GOWRIDAVIPETA",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "18-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 21110470,
@@ -21063,7 +17199,7 @@ var cust_DB=[
    "Area": "Kapugompalli",
    "Cel 1": "8897820849",
    "Status": "Inactive",
-   "Due Date": "4-Aug-18"
+   "Due Date": "04-Aug-18"
  },
  {
    "SMS ID": 20262329,
@@ -21088,18 +17224,6 @@ var cust_DB=[
    "Cel 1": "0",
    "Status": "Inactive",
    "Due Date": "24-Jul-18"
- },
- {
-   "SMS ID": 20020835,
-   "VC No": 2516001374,
-   "LCO ID": 42095,
-   "Subscriber Name": "MUTHYAPU PRAMOSH",
-   "Card No": "424",
-   "Name": "MUTHYAPU PRAMOSH",
-   "Area": "Murumuru",
-   "Cel 1": "8978949735",
-   "Status": "Inactive",
-   "Due Date": "21-Jul-18"
  },
  {
    "SMS ID": 20969462,
@@ -21174,36 +17298,12 @@ var cust_DB=[
    "Due Date": "16-Jul-18"
  },
  {
-   "SMS ID": 20026433,
-   "VC No": 2516005802,
-   "LCO ID": 42095,
-   "Subscriber Name": "KOTI",
-   "Card No": "816",
-   "Name": "BHADAVATH RAMU",
-   "Area": "Buruguvai Tanda",
-   "Cel 1": "7893049886",
-   "Status": "Inactive",
-   "Due Date": "15-Jun-18"
- },
- {
-   "SMS ID": 20326283,
-   "VC No": 2516018178,
-   "LCO ID": 42095,
-   "Subscriber Name": "THRIVENI",
-   "Card No": "797",
-   "Name": "BUKYA VENKATESH",
-   "Area": "Buruguvai Tanda",
-   "Cel 1": "7093041096",
-   "Status": "Inactive",
-   "Due Date": "15-Jun-18"
- },
- {
    "SMS ID": 20388691,
    "VC No": 2516125073,
    "LCO ID": 42095,
    "Subscriber Name": "charla",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "charla",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -21227,35 +17327,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "charla",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "charla",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
    "Due Date": "23-May-18"
- },
- {
-   "SMS ID": 13327356,
-   "VC No": 1768910272,
-   "LCO ID": 42095,
-   "Subscriber Name": "PENUBALLI ANNAMMAVEERAMANI",
-   "Card No": "65.A",
-   "Name": "PENUBALLI ANNAMMA(VEERAMANI)",
-   "Area": "Murumuru",
-   "Cel 1": "0",
-   "Status": "Inactive",
-   "Due Date": "21-May-18"
- },
- {
-   "SMS ID": 15901749,
-   "VC No": 1331359123,
-   "LCO ID": 42095,
-   "Subscriber Name": "GANJI DURGAPRASAD",
-   "Card No": "414.A",
-   "Name": "GANJI DURGAPRASAD",
-   "Area": "Murumuru",
-   "Cel 1": "9441267884",
-   "Status": "Inactive",
-   "Due Date": "16-Mar-18"
  },
  {
    "SMS ID": 11917870,
@@ -21294,36 +17370,12 @@ var cust_DB=[
    "Due Date": "26-Jan-18"
  },
  {
-   "SMS ID": 12535902,
-   "VC No": 1768481779,
-   "LCO ID": 42095,
-   "Subscriber Name": "subbu",
-   "Card No": "54",
-   "Name": "CHALLAKOTI YEDUKONDALU",
-   "Area": "Murumuru",
-   "Cel 1": "7702086191",
-   "Status": "Inactive",
-   "Due Date": "8-Dec-17"
- },
- {
-   "SMS ID": 17146010,
-   "VC No": 1331699564,
-   "LCO ID": 42095,
-   "Subscriber Name": "MOYYA VENKATARATHNAM",
-   "Card No": "390",
-   "Name": "MOYYA VENKATARATHNAM",
-   "Area": "Murumuru",
-   "Cel 1": "8179583973",
-   "Status": "Inactive",
-   "Due Date": "8-Dec-17"
- },
- {
    "SMS ID": 12582300,
    "VC No": 1768480832,
    "LCO ID": 42095,
    "Subscriber Name": "subbu",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "subbu",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -21351,7 +17403,7 @@ var cust_DB=[
    "Area": "Seethapuram",
    "Cel 1": "9908191921",
    "Status": "Inactive",
-   "Due Date": "3-Apr-20"
+   "Due Date": "03-Apr-20"
  },
  {
    "SMS ID": 10722778,
@@ -21359,23 +17411,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "JYOSHNA",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "JYOSHNA",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
    "Due Date": "23-Oct-17"
- },
- {
-   "SMS ID": 16500685,
-   "VC No": 1331699983,
-   "LCO ID": 42095,
-   "Subscriber Name": "koti",
-   "Card No": "32",
-   "Name": "SIMHADHRI KISHORE",
-   "Area": "Murumuru",
-   "Cel 1": "0",
-   "Status": "Inactive",
-   "Due Date": "25-Sep-17"
  },
  {
    "SMS ID": 11910693,
@@ -21383,7 +17423,7 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "akhil",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "akhil",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -21395,7 +17435,7 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "koti",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "koti",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -21443,7 +17483,7 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "KOTI",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "KOTI",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
@@ -21467,11 +17507,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "Sataya prasad",
    "Card No": "#N/A",
-   "Name": "#N/A",
+   "Name": "Sataya prasad",
    "Area": "#N/A",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "2-Jun-17"
+   "Due Date": "02-Jun-17"
  },
  {
    "SMS ID": null,
@@ -21483,19 +17523,7 @@ var cust_DB=[
    "Area": "kapugompalli",
    "Cel 1": "9550175211",
    "Status": "active",
-   "Due Date": "4-Jun-20"
- },
- {
-   "SMS ID": 22790785,
-   "VC No": 2561175833,
-   "LCO ID": 42095,
-   "Subscriber Name": "Gurram Saibabu",
-   "Card No": "",
-   "Name": "Gurram Saibabu",
-   "Area": "",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "24-Jun-20"
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 22791654,
@@ -21506,8 +17534,8 @@ var cust_DB=[
    "Name": "chenne venkateswarlu",
    "Area": "",
    "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "20-May-20"
+   "Status": "active",
+   "Due Date": "05-Sep-20"
  },
  {
    "SMS ID": 22791827,
@@ -21518,8 +17546,8 @@ var cust_DB=[
    "Name": "PADALA SETHAIAH",
    "Area": "",
    "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "13-Mar-20"
+   "Status": "active",
+   "Due Date": "04-Sep-20"
  },
  {
    "SMS ID": 22794030,
@@ -21530,32 +17558,8 @@ var cust_DB=[
    "Name": "Gadhala babu",
    "Area": "",
    "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "14-May-20"
- },
- {
-   "SMS ID": 22797517,
-   "VC No": 2561175822,
-   "LCO ID": 42095,
-   "Subscriber Name": "Kannaiah",
-   "Card No": "",
-   "Name": "Kannaiah",
-   "Area": "",
-   "Cel 1": "",
    "Status": "active",
-   "Due Date": "15-Jun-20"
- },
- {
-   "SMS ID": 22799516,
-   "VC No": 2560043922,
-   "LCO ID": 42095,
-   "Subscriber Name": "NALAJALA SRIKANTH",
-   "Card No": "",
-   "Name": "NALAJALA SRIKANTH",
-   "Area": "",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "15-Jun-20"
+   "Due Date": "09-Sep-20"
  },
  {
    "SMS ID": 22801458,
@@ -21567,19 +17571,7 @@ var cust_DB=[
    "Area": "",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "26-Jun-20"
- },
- {
-   "SMS ID": 22802230,
-   "VC No": 2561175819,
-   "LCO ID": 42095,
-   "Subscriber Name": "Kanethi Kranthi",
-   "Card No": "",
-   "Name": "Kanethi Kranthi",
-   "Area": "",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Due Date": "27-Sep-20"
  },
  {
    "SMS ID": 22804427,
@@ -21591,7 +17583,7 @@ var cust_DB=[
    "Area": "",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "16-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 22808934,
@@ -21602,8 +17594,8 @@ var cust_DB=[
    "Name": "YARRAM MALLESWARAO",
    "Area": "",
    "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "25-May-20"
+   "Status": "active",
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 22810369,
@@ -21615,7 +17607,7 @@ var cust_DB=[
    "Area": "",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "6-Jun-20"
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 22815197,
@@ -21626,8 +17618,8 @@ var cust_DB=[
    "Name": "chinta sandhya",
    "Area": "",
    "Cel 1": "",
-   "Status": "Inactive",
-   "Due Date": "26-May-20"
+   "Status": "active",
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 22815213,
@@ -21639,7 +17631,7 @@ var cust_DB=[
    "Area": "",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "24-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 22820026,
@@ -21651,7 +17643,7 @@ var cust_DB=[
    "Area": "",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "2-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 22826000,
@@ -21663,7 +17655,7 @@ var cust_DB=[
    "Area": "",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "4-Jun-20"
+   "Due Date": "06-Sep-20"
  },
  {
    "SMS ID": 22776756,
@@ -21675,7 +17667,7 @@ var cust_DB=[
    "Area": "",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "1-Jun-20"
+   "Due Date": "31-Aug-20"
  },
  {
    "SMS ID": 22776762,
@@ -21687,7 +17679,7 @@ var cust_DB=[
    "Area": "",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "11-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 22826638,
@@ -21695,11 +17687,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "sureneni pullarao",
    "Card No": "",
-   "Name": "",
+   "Name": "sureneni pullarao",
    "Area": "",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "27-Sep-20"
  },
  {
    "SMS ID": 22830681,
@@ -21707,11 +17699,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "Thokala veraiah",
    "Card No": "",
-   "Name": "",
+   "Name": "Thokala veeraiah",
    "Area": "",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "4-Jun-20"
+   "Due Date": "05-Sep-20"
  },
  {
    "SMS ID": 22833210,
@@ -21719,11 +17711,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "Bojja duragaprasad",
    "Card No": "",
-   "Name": "",
+   "Name": "Bojja duragaprasad",
    "Area": "",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "9-Jun-20"
+   "Due Date": "07-Sep-20"
  },
  {
    "SMS ID": 22844699,
@@ -21743,23 +17735,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "MANDA TIRAPATHAMMA",
    "Card No": "",
-   "Name": "",
+   "Name": "MANDA TIRAPATHAMMA",
    "Area": "",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "11-Jun-20"
- },
- {
-   "SMS ID": 22846004,
-   "VC No": 2561186489,
-   "LCO ID": 42095,
-   "Subscriber Name": "DARUMULA SANTHA",
-   "Card No": "",
-   "Name": "DARUMULA SANTHA",
-   "Area": "MURUMURU",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "10-Jun-20"
+   "Due Date": "09-Sep-20"
  },
  {
    "SMS ID": 22850858,
@@ -21767,23 +17747,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "SK JAYABUN",
    "Card No": "",
-   "Name": "",
+   "Name": "SK JAYABUN",
    "Area": "",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "13-Jun-20"
- },
- {
-   "SMS ID": 22865684,
-   "VC No": 1333457110,
-   "LCO ID": 42095,
-   "Subscriber Name": "MANDHA SUDHAKAR",
-   "Card No": "",
-   "Name": "",
-   "Area": "",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "23-Jun-20"
+   "Due Date": "11-Sep-20"
  },
  {
    "SMS ID": 22866122,
@@ -21791,11 +17759,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "Gummadi Janeki",
    "Card No": "",
-   "Name": "",
+   "Name": "Gummadi Janeki",
    "Area": "",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "8-May-20"
+   "Due Date": "14-Aug-20"
  },
  {
    "SMS ID": 22866676,
@@ -21807,7 +17775,7 @@ var cust_DB=[
    "Area": "thotapalli",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "26-Jun-20"
+   "Due Date": "27-Sep-20"
  },
  {
    "SMS ID": 22873088,
@@ -21815,11 +17783,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "KAKILLA SURIBABU",
    "Card No": "",
-   "Name": "",
+   "Name": "KAKILLA SURIBABU",
    "Area": "",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "9-Jun-20"
+   "Due Date": "14-Sep-20"
  },
  {
    "SMS ID": 22843747,
@@ -21827,7 +17795,7 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "PUTTI ACHAIAH",
    "Card No": "",
-   "Name": "",
+   "Name": "PUTTI ACHAIAH",
    "Area": "",
    "Cel 1": "",
    "Status": "Inactive",
@@ -21839,11 +17807,11 @@ var cust_DB=[
    "LCO ID": 42095,
    "Subscriber Name": "Thokala veraiah",
    "Card No": "",
-   "Name": "",
+   "Name": "Thokala veraiah",
    "Area": "",
    "Cel 1": "",
    "Status": "Inactive",
-   "Due Date": "5-Feb-20"
+   "Due Date": "05-Feb-20"
  },
  {
    "SMS ID": 22881891,
@@ -21853,9 +17821,9 @@ var cust_DB=[
    "Card No": "",
    "Name": "y ramakrishna",
    "Area": "",
-   "Cel 1": "",
+   "Cel 1": "7981287733",
    "Status": "active",
-   "Due Date": "1-Jun-20"
+   "Due Date": "29-Sep-20"
  },
  {
    "SMS ID": 22888860,
@@ -21865,9 +17833,9 @@ var cust_DB=[
    "Card No": "",
    "Name": "BOLLA KRISHNARJUNARAO",
    "Area": "",
-   "Cel 1": "",
+   "Cel 1": "9963849709",
    "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 22888895,
@@ -21877,9 +17845,9 @@ var cust_DB=[
    "Card No": "",
    "Name": "gannerukoyyapadu",
    "Area": "",
-   "Cel 1": "",
+   "Cel 1": "8374048551",
    "Status": "active",
-   "Due Date": "4-Jun-20"
+   "Due Date": "19-Sep-20"
  },
  {
    "SMS ID": 22888982,
@@ -21889,21 +17857,9 @@ var cust_DB=[
    "Card No": "",
    "Name": "SEETAPURAM REDDY",
    "Area": "",
-   "Cel 1": "",
+   "Cel 1": "9849496413",
    "Status": "active",
-   "Due Date": "12-Jun-20"
- },
- {
-   "SMS ID": 22895118,
-   "VC No": 2561186603,
-   "LCO ID": 42095,
-   "Subscriber Name": "PUTTI VENKATESH",
-   "Card No": "",
-   "Name": "PUTTI VENKATESH",
-   "Area": "",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "15-Jun-20"
+   "Due Date": "05-Sep-20"
  },
  {
    "SMS ID": 22918458,
@@ -21913,9 +17869,9 @@ var cust_DB=[
    "Card No": "",
    "Name": "p saibaba",
    "Area": "",
-   "Cel 1": "",
+   "Cel 1": "9676209575",
    "Status": "active",
-   "Due Date": "24-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 22945364,
@@ -21927,7 +17883,7 @@ var cust_DB=[
    "Area": "SEETHAPURAM",
    "Cel 1": "9542859019",
    "Status": "active",
-   "Due Date": "21-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 22947969,
@@ -21939,19 +17895,7 @@ var cust_DB=[
    "Area": "GANNERUKOYYAPADU",
    "Cel 1": "9908759735",
    "Status": "active",
-   "Due Date": "20-Jun-20"
- },
- {
-   "SMS ID": 22947974,
-   "VC No": 1333411435,
-   "LCO ID": 42095,
-   "Subscriber Name": "BUDUGULA SATHAYAM",
-   "Card No": "",
-   "Name": "BUDUGULA SATYAM",
-   "Area": "MURUMURU",
-   "Cel 1": "9666536084",
-   "Status": "active",
-   "Due Date": "19-Jun-20"
+   "Due Date": "25-Sep-20"
  },
  {
    "SMS ID": 22951604,
@@ -21962,8 +17906,8 @@ var cust_DB=[
    "Name": "DASARI NAGARAJU",
    "Area": "RAYANAPETA",
    "Cel 1": "6301541355",
-   "Status": "Inactive",
-   "Due Date": "24-May-20"
+   "Status": "active",
+   "Due Date": "02-Sep-20"
  },
  {
    "SMS ID": 22951666,
@@ -21975,19 +17919,7 @@ var cust_DB=[
    "Area": "THOTAPALLI",
    "Cel 1": "7995803461",
    "Status": "active",
-   "Due Date": "22-Jun-20"
- },
- {
-   "SMS ID": 22952176,
-   "VC No": 1769407987,
-   "LCO ID": 42095,
-   "Subscriber Name": "Barapati Srinu",
-   "Card No": "",
-   "Name": "BARAPATI SRINU",
-   "Area": "POLIPAKA",
-   "Cel 1": "9989318432",
-   "Status": "active",
-   "Due Date": "28-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 22954644,
@@ -21998,8 +17930,8 @@ var cust_DB=[
    "Name": "pasupuleti venkatesh",
    "Area": "kapugompalli",
    "Cel 1": "8179036651",
-   "Status": "active",
-   "Due Date": "26-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "30-Aug-20"
  },
  {
    "SMS ID": 22955624,
@@ -22010,8 +17942,8 @@ var cust_DB=[
    "Name": "MODUGU SRINIVASH",
    "Area": "POLIPAKA",
    "Cel 1": "8106307393",
-   "Status": "Inactive",
-   "Due Date": "29-May-20"
+   "Status": "active",
+   "Due Date": "03-Sep-20"
  },
  {
    "SMS ID": 22955802,
@@ -22023,7 +17955,7 @@ var cust_DB=[
    "Area": "chodavaram",
    "Cel 1": "8790258267",
    "Status": "active",
-   "Due Date": "27-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 22963371,
@@ -22035,19 +17967,7 @@ var cust_DB=[
    "Area": "RAYANAPETA",
    "Cel 1": "8897379514",
    "Status": "active",
-   "Due Date": "2-Jun-20"
- },
- {
-   "SMS ID": 22929182,
-   "VC No": 1333457116,
-   "LCO ID": 42095,
-   "Subscriber Name": "ch vinod",
-   "Card No": "",
-   "Name": "ch vinod",
-   "Area": "",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "3-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 22930830,
@@ -22058,20 +17978,8 @@ var cust_DB=[
    "Name": "GOLI BALAKRISHNA",
    "Area": "RAYANAPETA",
    "Cel 1": "9346229904",
-   "Status": "active",
-   "Due Date": "4-Jun-20"
- },
- {
-   "SMS ID": 22965640,
-   "VC No": 1333413038,
-   "LCO ID": 42095,
-   "Subscriber Name": "SODE SINGAIAH",
-   "Card No": "",
-   "Name": "sode singaiah",
-   "Area": "polipaka",
-   "Cel 1": "9502557413",
-   "Status": "active",
-   "Due Date": "4-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "19-Aug-20"
  },
  {
    "SMS ID": 22934561,
@@ -22081,9 +17989,9 @@ var cust_DB=[
    "Card No": "",
    "Name": "PIDEYALA BABU",
    "Area": "GANNAVARAM",
-   "Cel 1": "",
+   "Cel 1": "9949472388",
    "Status": "active",
-   "Due Date": "7-Jun-20"
+   "Due Date": "08-Sep-20"
  },
  {
    "SMS ID": 22969546,
@@ -22093,9 +18001,9 @@ var cust_DB=[
    "Card No": "",
    "Name": "sode venkanna",
    "Area": "chodavaram",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "7-Jun-20"
+   "Cel 1": "8374207664",
+   "Status": "Inactive",
+   "Due Date": "10-Jul-20"
  },
  {
    "SMS ID": 22969605,
@@ -22106,8 +18014,8 @@ var cust_DB=[
    "Name": "mideyam gangaraju",
    "Area": "chodavaram",
    "Cel 1": "8465901823",
-   "Status": "active",
-   "Due Date": "7-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "18-Aug-20"
  },
  {
    "SMS ID": 22970863,
@@ -22118,8 +18026,8 @@ var cust_DB=[
    "Name": "Gollapalli susila",
    "Area": "",
    "Cel 1": "",
-   "Status": "active",
-   "Due Date": "8-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "09-Jun-20"
  },
  {
    "SMS ID": 22940212,
@@ -22131,7 +18039,7 @@ var cust_DB=[
    "Area": "seethapuram",
    "Cel 1": "9963761938",
    "Status": "active",
-   "Due Date": "11-Jun-20"
+   "Due Date": "11-Sep-20"
  },
  {
    "SMS ID": 22940252,
@@ -22143,7 +18051,7 @@ var cust_DB=[
    "Area": "seethapuram",
    "Cel 1": "8106291485",
    "Status": "active",
-   "Due Date": "11-Jun-20"
+   "Due Date": "23-Sep-20"
  },
  {
    "SMS ID": 22973351,
@@ -22153,21 +18061,9 @@ var cust_DB=[
    "Card No": "",
    "Name": "p laxman rao",
    "Area": "seethapuram",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "11-Jun-20"
- },
- {
-   "SMS ID": 22940660,
-   "VC No": 1333404634,
-   "LCO ID": 42095,
-   "Subscriber Name": "Vade Venkatesh",
-   "Card No": "",
-   "Name": "vade venkatesh",
-   "Area": "murumuru",
-   "Cel 1": "8790026010",
-   "Status": "active",
-   "Due Date": "12-Jun-20"
+   "Cel 1": "7989550979",
+   "Status": "Inactive",
+   "Due Date": "11-Aug-20"
  },
  {
    "SMS ID": 22942594,
@@ -22177,9 +18073,9 @@ var cust_DB=[
    "Card No": "",
    "Name": "k venteswarlu",
    "Area": "ra",
-   "Cel 1": "",
+   "Cel 1": "7997678863",
    "Status": "active",
-   "Due Date": "13-Jun-20"
+   "Due Date": "14-Sep-20"
  },
  {
    "SMS ID": 22976810,
@@ -22189,9 +18085,9 @@ var cust_DB=[
    "Card No": "",
    "Name": "p krishna",
    "Area": "seethapuram",
-   "Cel 1": "",
+   "Cel 1": "9951581840",
    "Status": "active",
-   "Due Date": "14-Jun-20"
+   "Due Date": "14-Sep-20"
  },
  {
    "SMS ID": 22977490,
@@ -22201,9 +18097,9 @@ var cust_DB=[
    "Card No": "",
    "Name": "Nalajala puranchendarrao",
    "Area": "thotapali",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "14-Jun-20"
+   "Cel 1": "9866189456",
+   "Status": "Inactive",
+   "Due Date": "14-Aug-20"
  },
  {
    "SMS ID": 15217268,
@@ -22215,7 +18111,7 @@ var cust_DB=[
    "Area": "venkataredy peta",
    "Cel 1": "",
    "Status": "active",
-   "Due Date": "24-Jun-20"
+   "Due Date": "24-Sep-20"
  },
  {
    "SMS ID": 15459684,
@@ -22226,8 +18122,8 @@ var cust_DB=[
    "Name": "gaddam savitri",
    "Area": "gannavaram",
    "Cel 1": "8978464195",
-   "Status": "active",
-   "Due Date": "28-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "29-Jun-20"
  },
  {
    "SMS ID": 22944269,
@@ -22237,9 +18133,9 @@ var cust_DB=[
    "Card No": "",
    "Name": "Apaka daramaiah",
    "Area": "chodavaram",
-   "Cel 1": "",
+   "Cel 1": "9440083234",
    "Status": "active",
-   "Due Date": "18-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
    "SMS ID": 22944274,
@@ -22251,7 +18147,7 @@ var cust_DB=[
    "Area": "chodavaram",
    "Cel 1": "9391064687",
    "Status": "Inactive",
-   "Due Date": "17-May-20"
+   "Due Date": "14-Jul-20"
  },
  {
    "SMS ID": 22944795,
@@ -22262,8 +18158,8 @@ var cust_DB=[
    "Name": "apaka venkatesh",
    "Area": "chodavaram",
    "Cel 1": "9391845459",
-   "Status": "active",
-   "Due Date": "15-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "15-Aug-20"
  },
  {
    "SMS ID": 22944870,
@@ -22274,8 +18170,8 @@ var cust_DB=[
    "Name": "MORAMPALLI SRINU",
    "Area": "SEETHAPURAM",
    "Cel 1": "9912794927",
-   "Status": "active",
-   "Due Date": "23-Jun-20"
+   "Status": "Inactive",
+   "Due Date": "29-Aug-20"
  },
  {
    "SMS ID": 22981611,
@@ -22285,21 +18181,9 @@ var cust_DB=[
    "Card No": "",
    "Name": "uk nagaraju",
    "Area": "",
-   "Cel 1": "",
+   "Cel 1": "7675970985",
    "Status": "active",
-   "Due Date": "19-Jun-20"
- },
- {
-   "SMS ID": 22981964,
-   "VC No": 2560072277,
-   "LCO ID": 42095,
-   "Subscriber Name": "MARKANDEYULU",
-   "Card No": "",
-   "Name": "MARKANDEYULU",
-   "Area": "",
-   "Cel 1": "",
-   "Status": "active",
-   "Due Date": "19-Jun-20"
+   "Due Date": "22-Sep-20"
  },
  {
    "SMS ID": 22982465,
@@ -22309,33 +18193,393 @@ var cust_DB=[
    "Card No": "",
    "Name": "k adarash",
    "Area": "",
-   "Cel 1": "",
+   "Cel 1": "8106202109",
    "Status": "active",
-   "Due Date": "20-Jun-20"
+   "Due Date": "04-Sep-20"
  },
  {
-   "SMS ID": 22993924,
-   "VC No": 2561186606,
+   "SMS ID": 23054103,
+   "VC No": 2561186208,
    "LCO ID": 42095,
-   "Subscriber Name": "KURAM RAJULU",
+   "Subscriber Name": "Nageswararao Khammampati",
    "Card No": "",
-   "Name": "KURAM RAJULU",
+   "Name": "Nageswararao Khammampati",
    "Area": "",
-   "Cel 1": "",
+   "Cel 1": "7815802640",
    "Status": "active",
-   "Due Date": "28-Jun-20"
+   "Due Date": "01-Sep-20"
  },
  {
-   "SMS ID": 22994951,
-   "VC No": 1769407996,
+   "SMS ID": 23054760,
+   "VC No": 2561186234,
    "LCO ID": 42095,
-   "Subscriber Name": "CHINAKANE PEDHA VENKATESWARLU",
+   "Subscriber Name": "M Sharabath",
    "Card No": "",
-   "Name": "CHINAKANE PEDHA VENKATESWARLU",
+   "Name": "M Sharabath",
+   "Area": "",
+   "Cel 1": "7093362130",
+   "Status": "Inactive",
+   "Due Date": "01-Sep-20"
+ },
+ {
+   "SMS ID": 23005785,
+   "VC No": 1333458546,
+   "LCO ID": 42095,
+   "Subscriber Name": "Surineni bhadramm",
+   "Card No": "",
+   "Name": "Surineni bhadramm",
+   "Area": "",
+   "Cel 1": "9999999999",
+   "Status": "active",
+   "Due Date": "03-Sep-20"
+ },
+ {
+   "SMS ID": 23007778,
+   "VC No": 1333457111,
+   "LCO ID": 42095,
+   "Subscriber Name": "Paga Chakravarthi",
+   "Card No": "",
+   "Name": "Paga Chakravarthi",
+   "Area": "",
+   "Cel 1": "7093454764",
+   "Status": "active",
+   "Due Date": "03-Sep-20"
+ },
+ {
+   "SMS ID": 23061280,
+   "VC No": 2561186272,
+   "LCO ID": 42095,
+   "Subscriber Name": "chintakayala raja rao",
+   "Card No": "",
+   "Name": "chintakayala raja rao",
+   "Area": "",
+   "Cel 1": "9542829861",
+   "Status": "active",
+   "Due Date": "04-Sep-20"
+ },
+ {
+   "SMS ID": 23008477,
+   "VC No": 1333369579,
+   "LCO ID": 42095,
+   "Subscriber Name": "Paddam Seshamma",
+   "Card No": "",
+   "Name": "Paddam Seshamma",
+   "Area": "",
+   "Cel 1": "8688372544",
+   "Status": "active",
+   "Due Date": "05-Sep-20"
+ },
+ {
+   "SMS ID": 23063044,
+   "VC No": 2561186280,
+   "LCO ID": 42095,
+   "Subscriber Name": "S tirapataya",
+   "Card No": "",
+   "Name": "S tirapataya",
+   "Area": "",
+   "Cel 1": "8965994171",
+   "Status": "active",
+   "Due Date": "06-Sep-20"
+ },
+ {
+   "SMS ID": 23063080,
+   "VC No": 2561186300,
+   "LCO ID": 42095,
+   "Subscriber Name": "Podiyam Ramarao",
+   "Card No": "",
+   "Name": "Podiyam Ramarao",
+   "Area": "",
+   "Cel 1": "8965994171",
+   "Status": "active",
+   "Due Date": "09-Sep-20"
+ },
+ {
+   "SMS ID": 23005035,
+   "VC No": 1333457885,
+   "LCO ID": 42095,
+   "Subscriber Name": "CH TRIVENI",
+   "Card No": "",
+   "Name": "CH TRIVENI",
+   "Area": "",
+   "Cel 1": "9999999999",
+   "Status": "Inactive",
+   "Due Date": "08-Aug-20"
+ },
+ {
+   "SMS ID": 23065142,
+   "VC No": 2561186187,
+   "LCO ID": 42095,
+   "Subscriber Name": "nellipaka control room",
+   "Card No": "",
+   "Name": "nellipaka control room",
+   "Area": "",
+   "Cel 1": "6303392225",
+   "Status": "Inactive",
+   "Due Date": "08-Aug-20"
+ },
+ {
+   "SMS ID": 23018244,
+   "VC No": 2560080963,
+   "LCO ID": 42095,
+   "Subscriber Name": "Narendra ramanaya",
+   "Card No": "",
+   "Name": "Narendra ramanaya",
+   "Area": "",
+   "Cel 1": "7989882006",
+   "Status": "active",
+   "Due Date": "10-Sep-20"
+ },
+ {
+   "SMS ID": 23015571,
+   "VC No": 1766488573,
+   "LCO ID": 42095,
+   "Subscriber Name": "mothukuri narasimharao",
+   "Card No": "",
+   "Name": "mothukuri narasimharao",
+   "Area": "",
+   "Cel 1": "7095775516",
+   "Status": "active",
+   "Due Date": "26-Sep-20"
+ },
+ {
+   "SMS ID": 23074003,
+   "VC No": 2561186279,
+   "LCO ID": 42095,
+   "Subscriber Name": "Ramprasad",
+   "Card No": "",
+   "Name": "Ramprasad",
+   "Area": "",
+   "Cel 1": "9550771571",
+   "Status": "active",
+   "Due Date": "12-Sep-20"
+ },
+ {
+   "SMS ID": 23080976,
+   "VC No": 2561186251,
+   "LCO ID": 42095,
+   "Subscriber Name": "sama",
+   "Card No": "",
+   "Name": "sama",
+   "Area": "",
+   "Cel 1": "9989215976",
+   "Status": "active",
+   "Due Date": "24-Sep-20"
+ },
+ {
+   "SMS ID": 23080986,
+   "VC No": 2561186244,
+   "LCO ID": 42095,
+   "Subscriber Name": "g abheshel",
+   "Card No": "",
+   "Name": "g abheshel",
+   "Area": "",
+   "Cel 1": "6281646957",
+   "Status": "active",
+   "Due Date": "24-Sep-20"
+ },
+ {
+   "SMS ID": 23084642,
+   "VC No": 2561185981,
+   "LCO ID": 42095,
+   "Subscriber Name": "Naredla sathyanaryana",
+   "Card No": "",
+   "Name": "Naredla sathyanaryana",
+   "Area": "",
+   "Cel 1": "8186964904",
+   "Status": "active",
+   "Due Date": "23-Sep-20"
+ },
+ {
+   "SMS ID": 23093238,
+   "VC No": 2561185998,
+   "LCO ID": 42095,
+   "Subscriber Name": "K janikamma",
+   "Card No": "",
+   "Name": "K janikamma",
+   "Area": "",
+   "Cel 1": "9999999999",
+   "Status": "Inactive",
+   "Due Date": "24-Aug-20"
+ },
+ {
+   "SMS ID": 23015060,
+   "VC No": 2560079794,
+   "LCO ID": 42095,
+   "Subscriber Name": "JEHINGURU HUSEN",
+   "Card No": "",
+   "Name": "JEHINGURU HUSEN",
+   "Area": "",
+   "Cel 1": "9963948252",
+   "Status": "Inactive",
+   "Due Date": "26-Aug-20"
+ },
+ {
+   "SMS ID": 23032990,
+   "VC No": 2560080930,
+   "LCO ID": 42095,
+   "Subscriber Name": "Gundi Venkateswarlu",
+   "Card No": "",
+   "Name": "Gundi Venkateswarlu",
+   "Area": "",
+   "Cel 1": "9949241015",
+   "Status": "Inactive",
+   "Due Date": "26-Aug-20"
+ },
+ {
+   "SMS ID": 23097637,
+   "VC No": 2561185888,
+   "LCO ID": 42095,
+   "Subscriber Name": "Thirumalagiri krishnarjunarao",
+   "Card No": "",
+   "Name": "Thirumalagiri krishnarjunarao",
+   "Area": "",
+   "Cel 1": "8008530636",
+   "Status": "active",
+   "Due Date": "29-Sep-20"
+ },
+ {
+   "SMS ID": 23100364,
+   "VC No": 2561185935,
+   "LCO ID": 42095,
+   "Subscriber Name": "Uma Sankar",
+   "Card No": "",
+   "Name": "Uma Sankar",
+   "Area": "",
+   "Cel 1": "9398928617",
+   "Status": "active",
+   "Due Date": "26-Sep-20"
+ },
+ {
+   "SMS ID": 23014622,
+   "VC No": 1333411473,
+   "LCO ID": 42095,
+   "Subscriber Name": "penuballi laxmi",
+   "Card No": "",
+   "Name": "penuballi laxmi",
+   "Area": "",
+   "Cel 1": "7658912437",
+   "Status": "active",
+   "Due Date": "04-Sep-20"
+ },
+ {
+   "SMS ID": 23008490,
+   "VC No": 1333369571,
+   "LCO ID": 42095,
+   "Subscriber Name": "Paddam Laxmi",
+   "Card No": "",
+   "Name": "Paddam Laxmi",
+   "Area": "",
+   "Cel 1": "9573239571",
+   "Status": "active",
+   "Due Date": "04-Sep-20"
+ },
+ {
+   "SMS ID": 23005960,
+   "VC No": 1333468393,
+   "LCO ID": 42095,
+   "Subscriber Name": "Madakam Ramesh",
+   "Card No": "",
+   "Name": "Madakam Ramesh",
+   "Area": "",
+   "Cel 1": "9618351518",
+   "Status": "Inactive",
+   "Due Date": "06-Jul-20"
+ },
+ {
+   "SMS ID": 23017544,
+   "VC No": 1766626981,
+   "LCO ID": 42095,
+   "Subscriber Name": "kanethi babu",
+   "Card No": "",
+   "Name": "kanethi babu",
+   "Area": "",
+   "Cel 1": "9704252222",
+   "Status": "Inactive",
+   "Due Date": "16-Jun-20"
+ },
+ {
+   "SMS ID": 21549743,
+   "VC No": 2516304007,
+   "LCO ID": 42095,
+   "Subscriber Name": "N PURANACHANDHAR RAO",
+   "Card No": "",
+   "Name": "N PURANACHANDHAR RAO",
    "Area": "",
    "Cel 1": "",
+   "Status": "Inactive",
+   "Due Date": "16-May-20"
+ },
+ {
+   "SMS ID": 23113682,
+   "VC No": 2561185989,
+   "LCO ID": 42095,
+   "Subscriber Name": "ak",
+   "Card No": "",
+   "Name": "ak",
+   "Area": "",
+   "Cel 1": "9705133201",
    "Status": "active",
-   "Due Date": "29-Jun-20"
+   "Due Date": "04-Sep-20"
+ },
+ {
+   "SMS ID": 23113687,
+   "VC No": 2561185995,
+   "LCO ID": 42095,
+   "Subscriber Name": "I thirupathiraju",
+   "Card No": "",
+   "Name": "I thirupathiraju",
+   "Area": "",
+   "Cel 1": "9912672347",
+   "Status": "active",
+   "Due Date": "04-Sep-20"
+ },
+ {
+   "SMS ID": 23115869,
+   "VC No": 2561186241,
+   "LCO ID": 42095,
+   "Subscriber Name": "S Narasimharao",
+   "Card No": "",
+   "Name": "S Narasimharao",
+   "Area": "",
+   "Cel 1": "9963246701",
+   "Status": "active",
+   "Due Date": "05-Sep-20"
+ },
+ {
+   "SMS ID": 23117105,
+   "VC No": 2561185994,
+   "LCO ID": 42095,
+   "Subscriber Name": "Palaka Ramesh",
+   "Card No": "",
+   "Name": "Palaka Ramesh",
+   "Area": "",
+   "Cel 1": "8333962720",
+   "Status": "active",
+   "Due Date": "06-Sep-20"
+ },
+ {
+   "SMS ID": 23122071,
+   "VC No": 2561184960,
+   "LCO ID": 42095,
+   "Subscriber Name": "M Narasimharao",
+   "Card No": "",
+   "Name": "M Narasimharao",
+   "Area": "",
+   "Cel 1": "7032371511",
+   "Status": "active",
+   "Due Date": "09-Sep-20"
+ },
+ {
+   "SMS ID": 23107777,
+   "VC No": 2561185952,
+   "LCO ID": 42095,
+   "Subscriber Name": "i dharamayah",
+   "Card No": "",
+   "Name": "i dharamayah",
+   "Area": "",
+   "Cel 1": "9618558016",
+   "Status": "Inactive",
+   "Due Date": "01-Sep-20"
  }
 ]
 
